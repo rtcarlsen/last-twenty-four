@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>The Last Twenty-Four</title>
+<meta name="description" content="Aggregated snapshot. Unclassified compilation. Not official reporting." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Serif:wght@400;600&display=swap" rel="stylesheet" />
+<style>
+:root {
+  --bg: #0b0d0c; --surface: #151816; --fg: #f3f1ea; --muted: #c9c7be;
+  --faint: #9b9d94; --line: #2a2f2b; --accent: #c9a66b;
+  --dip: #7aa8a0; --eco: #9aaa6e; --mil: #c07a68; --pol: #8a97b3;
+}
+* { box-sizing: border-box; border-color: var(--line); }
+html, body { margin: 0; background: var(--bg); color: var(--fg); font-family: "IBM Plex Sans", sans-serif; }
+a { color: var(--accent); overflow-wrap: anywhere; }
+.wrap { max-width: 1400px; margin: 0 auto; padding: 16px 16px 32px; }
+header { border-bottom: 1px solid var(--line); background: var(--surface); }
+.brow { font-family: "IBM Plex Mono", monospace; font-size: 10px; letter-spacing: .16em; text-transform: uppercase; color: var(--accent); }
+h1 { font-family: "IBM Plex Serif", serif; font-size: 1.5rem; font-weight: 600; margin: 8px 0 0; }
+.meta { font-family: "IBM Plex Mono", monospace; font-size: 12px; color: var(--accent); margin: 10px 0 0; }
+.tabctl { position: absolute; width: 1px; height: 1px; opacity: 0; overflow: hidden; }
+.tabs { display: flex; flex-wrap: nowrap; overflow-x: auto; position: sticky; top: 0; z-index: 20; background: var(--bg); border-bottom: 1px solid var(--line); -webkit-overflow-scrolling: touch; }
+.tabs label { font-family: "IBM Plex Serif", serif; font-size: 15px; color: var(--muted); padding: 12px 16px; min-height: 48px; display: flex; align-items: center; white-space: nowrap; cursor: pointer; }
+.tabs label:hover { color: var(--fg); }
+.panels { padding-top: 18px; }
+.panel { display: none; }
+#tab-ru:checked ~ .tabs label[for="tab-ru"],
+#tab-eu:checked ~ .tabs label[for="tab-eu"],
+#tab-bt:checked ~ .tabs label[for="tab-bt"],
+#tab-ba:checked ~ .tabs label[for="tab-ba"],
+#tab-de:checked ~ .tabs label[for="tab-de"],
+#tab-st:checked ~ .tabs label[for="tab-st"] {
+  background: var(--surface); color: var(--fg); border: 1px solid var(--line); border-bottom-color: var(--surface); margin-bottom: -1px;
+}
+#tab-ru:checked ~ .panels #panel-ru,
+#tab-eu:checked ~ .panels #panel-eu,
+#tab-bt:checked ~ .panels #panel-bt,
+#tab-ba:checked ~ .panels #panel-ba,
+#tab-de:checked ~ .panels #panel-de,
+#tab-st:checked ~ .panels #panel-st { display: block; }
+h2 { font-family: "IBM Plex Serif", serif; font-size: 1.25rem; font-weight: 600; margin: 0 0 12px; padding-bottom: 8px; border-bottom: 1px solid rgba(201,166,107,.4); }
+article { border: 1px solid var(--line); background: var(--surface); margin: 0 0 12px; }
+details { border: 1px solid var(--line); background: var(--surface); margin: 0 0 12px; }
+summary { list-style: none; cursor: pointer; padding: 12px; }
+summary::-webkit-details-marker { display: none; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.pip { width: 8px; height: 8px; display: inline-block; }
+.pill { font-family: "IBM Plex Mono", monospace; font-size: 10px; text-transform: uppercase; letter-spacing: .04em; border: 1px solid; padding: 2px 6px; }
+.Diplomatic { color: var(--dip); border-color: rgba(122,168,160,.4); }
+.Economic { color: var(--eco); border-color: rgba(154,170,110,.4); }
+.Military { color: var(--mil); border-color: rgba(192,122,104,.4); }
+.Political { color: var(--pol); border-color: rgba(138,151,179,.4); }
+.bg-Diplomatic { background: var(--dip); }
+.bg-Economic { background: var(--eco); }
+.bg-Military { background: var(--mil); }
+.bg-Political { background: var(--pol); }
+.time { font-family: "IBM Plex Mono", monospace; font-size: 10px; color: var(--faint); }
+h3 { font-family: "IBM Plex Serif", serif; font-size: 15px; font-weight: 600; color: var(--accent); margin: 8px 0 0; }
+.body { padding: 0 12px 12px; font-size: 15px; line-height: 1.55; color: var(--muted); border-top: 1px solid var(--line); }
+.body p { margin: 10px 0 0; }
+.judg { color: var(--fg); }
+.conf { font-family: "IBM Plex Mono", monospace; font-size: 11px; color: var(--faint); }
+.sources { font-size: 12px; color: var(--muted); }
+.sources ol { padding-left: 20px; }
+footer { border-top: 1px solid var(--line); background: var(--surface); }
+footer .wrap { font-size: 12px; line-height: 1.6; color: var(--muted); }
+@media print { .tabs { position: static; } .panel { display: block !important; page-break-after: always; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <p class="brow">Aggregated snapshot · unclassified compilation · not official reporting</p>
+    <h1>The Last Twenty-Four</h1>
+    <p class="meta">As of <strong>Saturday, 5 September 2026, 08:00 CEST</strong></p>
+    <p class="meta">Coverage window: 4 Sep 2026 08:00 CEST → 5 Sep 2026 08:00 CEST</p>
+  </div>
+</header>
+
+<div class="wrap">
+  <input class="tabctl" type="radio" name="theaters" id="tab-ru" checked />
+  <input class="tabctl" type="radio" name="theaters" id="tab-eu" />
+  <input class="tabctl" type="radio" name="theaters" id="tab-bt" />
+  <input class="tabctl" type="radio" name="theaters" id="tab-ba" />
+  <input class="tabctl" type="radio" name="theaters" id="tab-de" />
+  <input class="tabctl" type="radio" name="theaters" id="tab-st" />
+  <nav class="tabs" aria-label="Theaters">
+    <label for="tab-ru">Russia & Ukraine</label>
+    <label for="tab-eu">Europe</label>
+    <label for="tab-bt">Baltics</label>
+    <label for="tab-ba">Balkans</label>
+    <label for="tab-de">Germany</label>
+    <label for="tab-st">Stuttgart/BW</label>
+  </nav>
+  <div class="panels">
+
+    <section class="panel" id="panel-ru">
+      <h2>War and diplomacy</h2>
+      <details open>
+        <summary>
+          <div class="row"><span class="pip bg-Diplomatic"></span><span class="pill Diplomatic">Diplomatic</span><span class="time">4 Sep 2026, 19:13 CEST</span></div>
+          <h3>Zelenskyy: Witkoff and Kushner to Moscow then Kyiv on Sunday</h3>
+        </summary>
+        <div class="body">
+          <p>President Volodymyr Zelenskyy’s official X account said at 17:13 UTC on 4 September that “it has been clearly established that U.S. envoys will be in Ukraine and Russia in the coming days,” naming Steve Witkoff and Jared Kushner, and that they “will visit Moscow and then Kyiv on Sunday.”[1] He said Ukraine would “ensure the normal functioning of Russian airspace so that the negotiators can arrive safely” and would not conduct air strikes “for the time needed to hold these talks,” asking Russia to do the same. Earlier the same afternoon he said he had spoken with NATO Secretary General Mark Rutte about the strikes, defense needs, and the U.S. visits, and that Rutte had discussed PURL financing and Patriot missiles.[2] Associated Press, carried by PBS NewsHour, reported the same itinerary and that this would be the envoys’ first visit to Kyiv; it cited Kremlin aide Yury Ushakov that a long-term settlement “can't be expected without solving the territorial issue.”[3] Stake: Zelenskyy’s X is a tier-1 Ukrainian presidential channel. Ushakov is a Russian presidential aide. AP is tier 2.</p>
+          <p class="judg">Judgment: a Sunday shuttle is likely to occur; a ceasefire text from it is unlikely. Confidence in the visit claim is high on Zelenskyy’s on-the-record itinerary and moderate on Russian reciprocity for the air pause.</p>
+          <p class="conf">Confidence: Moderate · Zelenskyy official X; AP/PBS</p>
+        </div>
+      </details>
+      <details open>
+        <summary>
+          <div class="row"><span class="pip bg-Military"></span><span class="pill Military">Military</span><span class="time">4 Sep 2026 (AP/PBS, Friday)</span></div>
+          <h3>AP: Russian drone hits SBU headquarters in Kyiv; 12 wounded</h3>
+        </summary>
+        <div class="body">
+          <p>Associated Press, on PBS NewsHour, reported that a Russian drone struck the headquarters of Ukraine’s Security Service (SBU) in central Kyiv, near St. Sophia Cathedral.[3] Zelenskyy said the drone “was deliberately targeted at the head of the SBU's office in that building.” AP said 12 people were wounded. Independent casualty confirmation is not available.</p>
+          <p class="judg">Judgment: the strike is likely intended to raise the cost of the weekend diplomacy, not to stop the envoys’ travel. Confidence in that reading is moderate.</p>
+          <p class="conf">Confidence: Moderate · AP via PBS NewsHour</p>
+        </div>
+      </details>
+      <details open>
+        <summary>
+          <div class="row"><span class="pip bg-Military"></span><span class="pill Military">Military</span><span class="time">4 Sep 2026, 21:03 CEST</span></div>
+          <h3>Ukrainian General Staff: 207 combat clashes by 22:00 on 4 September</h3>
+        </summary>
+        <div class="body">
+          <p>Ukraine’s General Staff official X (@GeneralStaffUA) posted at 19:03 UTC on 4 September an evening update “as of 22:00 04.09.2026,” saying that from the start of that day there had been 207 combat clashes.[4] Those figures are a Ukrainian military claim, not an independently counted battle tally.</p>
+          <p class="judg">Judgment: the number describes Ukrainian staff accounting for one day, not a verified change in the front. Confidence in that limit is high.</p>
+          <p class="conf">Confidence: High · GeneralStaffUA official X</p>
+        </div>
+      </details>
+      <details open>
+        <summary>
+          <div class="row"><span class="pip bg-Military"></span><span class="pill Military">Military</span><span class="time">5 Sep 2026, 07:06 CEST</span></div>
+          <h3>Ukrainian General Staff: 236 clashes in the previous day</h3>
+        </summary>
+        <div class="body">
+          <p>Ukraine’s General Staff official X posted at 05:06 UTC on 5 September an 08:00 update: 236 combat clashes were recorded over the previous day, with the largest share on the Pokrovsk axis, where it said the enemy made 40 attacks.[5] Those figures are a Ukrainian military claim.</p>
+          <p class="judg">Judgment: the overnight count is consistent with a high-tempo eastern fight and does not, by itself, show a new operational phase.</p>
+          <p class="conf">Confidence: High · GeneralStaffUA official X</p>
+        </div>
+      </details>
+      <div class="sources">
+        <p><strong>Sources used in this tab</strong></p>
+        <ol>
+          <li><a href="https://x.com/ZelenskyyUa/status/2095923193290834050">Volodymyr Zelenskyy (@ZelenskyyUa), official X, 4 September 2026, 17:13 UTC</a></li>
+          <li><a href="https://x.com/ZelenskyyUa/status/2095912342001242252">Volodymyr Zelenskyy (@ZelenskyyUa), official X, 4 September 2026, 16:30 UTC</a></li>
+          <li><a href="https://www.pbs.org/newshour/world/russian-drone-strikes-ukraine-security-service-headquarters-as-u-s-talks-on-the-war-are-expected">Associated Press via PBS NewsHour, SBU headquarters strike, 4 September 2026</a></li>
+          <li><a href="https://x.com/GeneralStaffUA/status/2095950803492020358">General Staff UA official X, 4 September 2026, 19:03 UTC</a></li>
+          <li><a href="https://x.com/GeneralStaffUA/status/2096102626936954903">General Staff UA official X, 5 September 2026, 05:06 UTC</a></li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-eu">
+      <h2>EU institutions, NATO Europe, and major states other than Germany.</h2>
+      <details open>
+        <summary>
+          <div class="row"><span class="pip bg-Diplomatic"></span><span class="pill Diplomatic">Diplomatic</span><span class="time">4 Sep 2026, 18:30 CEST</span></div>
+          <h3>Zelenskyy and Rutte align on weekend U.S. shuttle and Patriot/PURL gap</h3>
+        </summary>
+        <div class="body">
+          <p>President Zelenskyy said at 16:30 UTC on 4 September that he had spoken with NATO Secretary General Mark Rutte about Russian strikes, Ukrainian defense needs, and meetings with envoys of the U.S. president.[2] Stake: this is Zelenskyy’s account of a call, not a NATO readout.</p>
+          <p class="judg">Judgment: NATO’s secretary-general is likely treating the Sunday shuttle as worth protecting, not as a substitute for air-defense resupply. Confidence is moderate.</p>
+        </div>
+      </details>
+      <details open>
+        <summary>
+          <div class="row"><span class="pip bg-Diplomatic"></span><span class="pill Diplomatic">Diplomatic</span><span class="time">5 Sep 2026 (DW on Friday remarks)</span></div>
+          <h3>President Trump: envoys carry “a proposal to end the war”</h3>
+        </summary>
+        <div class="body">
+          <p>Deutsche Welle, dated 5 September and drawing on AFP, AP, Reuters, and dpa, reported that President Donald Trump told reporters on Friday he was sending Jared Kushner and Steve Witkoff to Moscow and Kyiv. DW quoted him: “They're bringing with them a proposal to end the war.”[4] Reuters on 4 September, 09:42 UTC, said TASS reported Saturday–Sunday stops in both capitals; the Kremlin declined to comment to Reuters.[5] TASS is used only as the agency Reuters attributed.</p>
+          <p class="judg">Judgment: a proposal exists as a talking point; its terms are not public in this window. Confidence in travel intent is moderate-to-high. Confidence that the unseen paper ends the war is low.</p>
+        </div>
+      </details>
+      <details open>
+        <summary>
+          <div class="row"><span class="pip bg-Political"></span><span class="pill Political">Political</span><span class="time">4 Sep 2026, 09:18 CEST</span></div>
+          <h3>Rutte congratulates Meloni on longest post-war government</h3>
+        </summary>
+        <div class="body">
+          <p>NATO Secretary General Mark Rutte’s official X account posted at 07:18 UTC on 4 September congratulating Giorgia Meloni on the longest-lasting postwar Italian government.[1] On 3 September 2026 her cabinet reached 1,413 days, one past Berlusconi’s 1,412.[3] Since the post-war Republic's founding in 1946, there have been 68 governments. Coincidentally, the Cleveland Browns, also founded in 1946, have had 69 different players start at least one game at quarterback since joining the NFL in 1950.</p>
+          <p class="judg">Judgment: the post is almost certainly alliance courtesy, not a NATO policy change. Confidence in that reading is high.</p>
+        </div>
+      </details>
+      <div class="sources">
+        <p><strong>Sources used in this tab</strong></p>
+        <ol>
+          <li><a href="https://x.com/SecGenNATO/status/2095773378619617758">Mark Rutte (@SecGenNATO), official X, 4 September 2026, 07:18 UTC</a></li>
+          <li><a href="https://x.com/ZelenskyyUa/status/2095912342001242252">Volodymyr Zelenskyy (@ZelenskyyUa), official X, 4 September 2026, 16:30 UTC</a></li>
+          <li><a href="https://www.usnews.com/news/world/articles/2026-09-03/italy-weighs-the-results-as-giorgia-melonis-government-sets-a-longevity-record">U.S. News / AP, Meloni longevity record, 3 September 2026</a></li>
+          <li><a href="https://www.dw.com/en/us-envoys-to-visit-russia-ukraine-with-plan-to-end-war/a-79040773">Deutsche Welle, U.S. envoys, 5 September 2026</a></li>
+          <li><a href="https://www.reuters.com/world/europe/trump-envoys-visit-russia-ukraine-weekend-tass-reports-2026-09-04/">Reuters, Trump envoys weekend visit, 4 September 2026, 09:42 UTC</a></li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-bt">
+      <h2>Estonia, Latvia, and Lithuania. Defense, Russian interference, and hostilities toward the three states.</h2>
+      <details open>
+        <summary>
+          <div class="row"><span class="pip bg-Diplomatic"></span><span class="pill Diplomatic">Diplomatic</span><span class="time">5 Sep 2026 (LMC closing day)</span></div>
+          <h3>Lennart Meri Conference ends today in Tallinn</h3>
+        </summary>
+        <div class="body">
+          <p>ERR lists the Lennart Meri Defense and Security Conference in Tallinn on 3–5 September 2026.[2] 5 September is the closing day. No Reuters/AP transcript of a Saturday plenary decision was opened before 08:00 CEST.</p>
+          <p class="judg">Judgment: presence of the conference is confirmed; a new Baltic force-posture announcement from this day is not established.</p>
+        </div>
+      </details>
+      <details open>
+        <summary>
+          <div class="row"><span class="pip bg-Political"></span><span class="pill Political">Political</span><span class="time">Collection note · cutoff 5 Sep 08:00 CEST</span></div>
+          <h3>No new in-window Baltic kinetic incident located</h3>
+        </summary>
+        <div class="body">
+          <p>Latvia’s MFA marked a 4 September conference on Belarus (10:00–13:30).[1] The 1 September Estonian airspace drone and the Pevkur resignation sit outside this window. No Reuters/AP item inside 4 Sep 08:00–5 Sep 08:00 on a new Baltic air or sea incident was opened.</p>
+          <p class="judg">Judgment: absence of a new incident report is not evidence that the threat picture changed. That sentence is the finding.</p>
+        </div>
+      </details>
+      <div class="sources">
+        <p><strong>Sources used in this tab</strong></p>
+        <ol>
+          <li>Latvian MFA notice of Belarus conference, 4 September 2026</li>
+          <li><a href="https://news.err.ee/1610024485/watch-live-lennart-meri-defense-and-security-conference-2026">ERR, Lennart Meri Conference 2026, 3–5 September</a></li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-ba">
+      <h2>Serbia, Kosovo, Bosnia and Herzegovina, Montenegro, North Macedonia, Albania, and Croatia.</h2>
+      <details open>
+        <summary>
+          <div class="row"><span class="pip bg-Political"></span><span class="pill Political">Political</span><span class="time">5 Sep 2026, ceremony 12:00 (not begun at cutoff)</span></div>
+          <h3>Mladić army-hall commemoration is scheduled this morning in Belgrade</h3>
+        </summary>
+        <div class="body">
+          <p>The U.S. Embassy in Serbia’s 4 September security alert listed a commemoration at 12:00 on 5 September at the House of the Serbian Army in Belgrade, and a 7 September funeral path to Topčider.[1] As of the 08:00 CEST cutoff the ceremony had not yet begun. Deutsche Welle and AP recorded President Aleksandar Vučić leaving honors to the family and warning that tens of thousands could attend.[2][3]</p>
+          <p class="judg">Judgment: Belgrade is likely to permit a large public farewell while keeping formal state-honor language ambiguous through Monday. Confidence is moderate.</p>
+        </div>
+      </details>
+      <div class="sources">
+        <p><strong>Sources used in this tab</strong></p>
+        <ol>
+          <li><a href="https://rs.usembassy.gov/security-alert-events-on-september-5-and-september-7-ratko-mladic-funeral/">U.S. Embassy in Serbia, security alert, 4 September 2026</a></li>
+          <li><a href="https://www.dw.com/en/serbia-how-the-funeral-of-ratko-mladic-is-dividing-a-nation/a-78948890">Deutsche Welle, 4 September 2026</a></li>
+          <li><a href="https://apnews.com/article/serbia-mladic-body-funeral-4ea91c7519dccd18d56e2532e01eb535">Associated Press, 4 September 2026</a></li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-de">
+      <h2>Federal government, Bundestag politics, Bundeswehr, and the German economy</h2>
+      <details open>
+        <summary>
+          <div class="row"><span class="pip bg-Diplomatic"></span><span class="pill Diplomatic">Diplomatic</span><span class="time">Collection note</span></div>
+          <h3>No fresh in-window German federal lead located</h3>
+        </summary>
+        <div class="body">
+          <p>The Weimar Triangle foreign ministers’ joint declaration is dated 3 September and sits before this window (4 Sep 08:00 start).[1][2] No 4–5 September federal cabinet or Bundestag Russia item was opened before 08:00 CEST.</p>
+          <p class="judg">Judgment: evidence is insufficient to write a fresh German diplomatic lead inside this window. That limit is the finding.</p>
+        </div>
+      </details>
+      <div class="sources">
+        <p><strong>Sources used in this tab</strong></p>
+        <ol>
+          <li><a href="https://www.auswaertiges-amt.de/en/newsroom/news/2800918-2800918">Federal Foreign Office, Weimar Triangle declaration, 3 September 2026</a></li>
+          <li><a href="https://www.tagesschau.de/thema/ukraine">tagesschau, Weimar Triangle analysis, 3 September 2026</a></li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-st">
+      <h2>Stuttgart metro and Baden-Württemberg.</h2>
+      <details open>
+        <summary>
+          <div class="row"><span class="pip bg-Political"></span><span class="pill Political">Political</span><span class="time">Collection note</span></div>
+          <h3>No in-window Land or city decision located</h3>
+        </summary>
+        <div class="body">
+          <p>Stuttgarter Zeitung and SWR Aktuell Stuttgart were canvassed.[1][2] Hits were festival calendars and the 5–6 September Red Bull Cerro Abajo preview. No dated Landtag, Staatsministerium, or S21 act was opened inside this window.</p>
+          <p class="judg">Judgment: evidence is insufficient to write a Land or city-region lead for this window.</p>
+        </div>
+      </details>
+      <div class="sources">
+        <p><strong>Sources used in this tab</strong></p>
+        <ol>
+          <li><a href="https://www.stuttgarter-zeitung.de/">Stuttgarter Zeitung homepage canvas</a></li>
+          <li><a href="https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/">SWR Aktuell Stuttgart homepage canvas</a></li>
+        </ol>
+      </div>
+    </section>
+  </div>
+</div>
+
+<footer>
+  <div class="wrap">
+    <h2>Methodology, hierarchy, caveats</h2>
+    <p><strong>Window:</strong> 4 Sep 2026 08:00 CEST → 5 Sep 2026 08:00 CEST. Unclassified compilation. Not official reporting.</p>
+    <p><strong>Hierarchy:</strong> (1) Primary documents and statements of parties. (2) Wires and major outlets with independent verification. (3) Trade and industry press. (4) Blogs and unofficial social posts. Tier-4 will not carry a lead judgment alone.</p>
+    <p>USD equivalents use the ECB euro reference rate for 4 September 2026 (EUR 1 = USD 1.1622). Fuel: 1 U.S. gallon = 3.785 litres.</p>
+  </div>
+</footer>
+</body>
+</html>
