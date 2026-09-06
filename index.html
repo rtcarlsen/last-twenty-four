@@ -4,8 +4,81 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <title>The Last Twenty-Four</title>
+<meta name="description" content="Aggregated snapshot. Unclassified compilation. Not official reporting." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Serif:wght@400;600&display=swap" rel="stylesheet" />
+<style>
+:root {
+  --bg: #0b0d0c; --surface: #151816; --fg: #f3f1ea; --muted: #c9c7be;
+  --faint: #9b9d94; --line: #2a2f2b; --accent: #c9a66b;
+  --dip: #7aa8a0; --eco: #9aaa6e; --mil: #c07a68; --pol: #8a97b3;
+}
+* { box-sizing: border-box; border-color: var(--line); }
+html, body { margin: 0; background: var(--bg); color: var(--fg); font-family: "IBM Plex Sans", sans-serif; }
+a { color: var(--accent); overflow-wrap: anywhere; }
+.wrap { max-width: 1400px; margin: 0 auto; padding: 16px 16px 32px; }
+header { border-bottom: 1px solid var(--line); background: var(--surface); }
+.brow { font-family: "IBM Plex Mono", monospace; font-size: 10px; letter-spacing: .16em; text-transform: uppercase; color: var(--accent); }
+h1 { font-family: "IBM Plex Serif", serif; font-size: 1.5rem; font-weight: 600; margin: 8px 0 0; }
+.meta { font-family: "IBM Plex Mono", monospace; font-size: 12px; color: var(--accent); margin: 10px 0 0; }
+.tabctl { position: absolute; width: 1px; height: 1px; opacity: 0; overflow: hidden; }
+.tabs { display: flex; flex-wrap: nowrap; overflow-x: auto; position: sticky; top: 0; z-index: 20; background: var(--bg); border-bottom: 1px solid var(--line); -webkit-overflow-scrolling: touch; }
+.tabs label { font-family: "IBM Plex Serif", serif; font-size: 15px; color: var(--muted); padding: 12px 16px; min-height: 48px; display: flex; align-items: center; white-space: nowrap; cursor: pointer; }
+.tabs label:hover { color: var(--fg); }
+.panels { padding-top: 18px; }
+.panel { display: none; }
+#tab-ru:checked ~ .tabs label[for="tab-ru"],
+#tab-eu:checked ~ .tabs label[for="tab-eu"],
+#tab-bt:checked ~ .tabs label[for="tab-bt"],
+#tab-ba:checked ~ .tabs label[for="tab-ba"],
+#tab-de:checked ~ .tabs label[for="tab-de"],
+#tab-st:checked ~ .tabs label[for="tab-st"] {
+  background: var(--surface); color: var(--fg); border: 1px solid var(--line); border-bottom-color: var(--surface); margin-bottom: -1px;
+}
+#tab-ru:checked ~ .panels #panel-ru,
+#tab-eu:checked ~ .panels #panel-eu,
+#tab-bt:checked ~ .panels #panel-bt,
+#tab-ba:checked ~ .panels #panel-ba,
+#tab-de:checked ~ .panels #panel-de,
+#tab-st:checked ~ .panels #panel-st { display: block; }
+h2 { font-family: "IBM Plex Serif", serif; font-size: 1.25rem; font-weight: 600; margin: 0 0 12px; padding-bottom: 8px; border-bottom: 1px solid rgba(201,166,107,.4); }
+article { border: 1px solid var(--line); background: var(--surface); margin: 0 0 12px; }
+details { border: 1px solid var(--line); background: var(--surface); margin: 0 0 12px; }
+summary { list-style: none; cursor: pointer; padding: 12px; }
+summary::-webkit-details-marker { display: none; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.pip { width: 8px; height: 8px; display: inline-block; }
+.pill { font-family: "IBM Plex Mono", monospace; font-size: 10px; text-transform: uppercase; letter-spacing: .04em; border: 1px solid; padding: 2px 6px; }
+.Diplomatic { color: var(--dip); border-color: rgba(122,168,160,.4); }
+.Economic { color: var(--eco); border-color: rgba(154,170,110,.4); }
+.Military { color: var(--mil); border-color: rgba(192,122,104,.4); }
+.Political { color: var(--pol); border-color: rgba(138,151,179,.4); }
+.bg-Diplomatic { background: var(--dip); }
+.bg-Economic { background: var(--eco); }
+.bg-Military { background: var(--mil); }
+.bg-Political { background: var(--pol); }
+.time { font-family: "IBM Plex Mono", monospace; font-size: 10px; color: var(--faint); }
+h3 { font-family: "IBM Plex Serif", serif; font-size: 15px; font-weight: 600; color: var(--accent); margin: 8px 0 0; }
+.body { padding: 0 12px 12px; font-size: 15px; line-height: 1.55; color: var(--muted); border-top: 1px solid var(--line); }
+.body p { margin: 10px 0 0; }
+.judg { color: var(--fg); }
+.conf { font-family: "IBM Plex Mono", monospace; font-size: 11px; color: var(--faint); }
+.sources { font-size: 12px; color: var(--muted); }
+.sources ol { padding-left: 20px; }
+footer { border-top: 1px solid var(--line); background: var(--surface); }
+footer .wrap { font-size: 12px; line-height: 1.6; color: var(--muted); }
+@media print { .tabs { position: static; } .panel { display: block !important; page-break-after: always; } }
+</style>
 </head>
 <body>
-<p>placeholder-will-replace</p>
+<header>
+  <div class="wrap">
+    <p class="brow">Aggregated snapshot · unclassified compilation · not official reporting</p>
+    <h1>The Last Twenty-Four</h1>
+    <p class="meta">As of <strong>Sunday, 6 September 2026, 16:01 CEST</strong></p>
+    <p class="meta">Coverage window: 5 Sep 2026 16:01 CEST → 6 Sep 2026 16:01 CEST</p>
+  </div>
+</header>
 </body>
 </html>
