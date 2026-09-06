@@ -1,2 +1,184 @@
 <!DOCTYPE html>
-DIRECT_TO_MAIN_PLACEHOLDER
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>The Last Twenty-Four</title>
+<meta name="description" content="Aggregated snapshot. Unclassified compilation. Not official reporting." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Serif:wght@400;600&display=swap" rel="stylesheet" />
+<style>
+:root {
+  --bg: #0b0d0c; --surface: #151816; --fg: #f3f1ea; --muted: #c9c7be;
+  --faint: #9b9d94; --line: #2a2f2b; --accent: #c9a66b;
+  --dip: #7aa8a0; --eco: #9aaa6e; --mil: #c07a68; --pol: #8a97b3;
+}
+* { box-sizing: border-box; border-color: var(--line); }
+html, body { margin: 0; background: var(--bg); color: var(--fg); font-family: "IBM Plex Sans", sans-serif; }
+a { color: var(--accent); overflow-wrap: anywhere; }
+.wrap { max-width: 1400px; margin: 0 auto; padding: 16px 16px 32px; }
+header { border-bottom: 1px solid var(--line); background: var(--surface); }
+.brow { font-family: "IBM Plex Mono", monospace; font-size: 10px; letter-spacing: .16em; text-transform: uppercase; color: var(--accent); }
+h1 { font-family: "IBM Plex Serif", serif; font-size: 1.5rem; font-weight: 600; margin: 8px 0 0; }
+.meta { font-family: "IBM Plex Mono", monospace; font-size: 12px; color: var(--accent); margin: 10px 0 0; }
+.tabctl { position: absolute; width: 1px; height: 1px; opacity: 0; overflow: hidden; }
+.tabs { display: flex; flex-wrap: nowrap; overflow-x: auto; position: sticky; top: 0; z-index: 20; background: var(--bg); border-bottom: 1px solid var(--line); -webkit-overflow-scrolling: touch; }
+.tabs label { font-family: "IBM Plex Serif", serif; font-size: 15px; color: var(--muted); padding: 12px 16px; min-height: 48px; display: flex; align-items: center; white-space: nowrap; cursor: pointer; }
+.tabs label:hover { color: var(--fg); }
+.panels { padding-top: 18px; }
+.panel { display: none; }
+#tab-ru:checked ~ .tabs label[for="tab-ru"],
+#tab-eu:checked ~ .tabs label[for="tab-eu"],
+#tab-bt:checked ~ .tabs label[for="tab-bt"],
+#tab-ba:checked ~ .tabs label[for="tab-ba"],
+#tab-de:checked ~ .tabs label[for="tab-de"],
+#tab-st:checked ~ .tabs label[for="tab-st"] {
+  background: var(--surface); color: var(--fg); border: 1px solid var(--line); border-bottom-color: var(--surface); margin-bottom: -1px;
+}
+#tab-ru:checked ~ .panels #panel-ru,
+#tab-eu:checked ~ .panels #panel-eu,
+#tab-bt:checked ~ .panels #panel-bt,
+#tab-ba:checked ~ .panels #panel-ba,
+#tab-de:checked ~ .panels #panel-de,
+#tab-st:checked ~ .panels #panel-st { display: block; }
+h2 { font-family: "IBM Plex Serif", serif; font-size: 1.25rem; font-weight: 600; margin: 0 0 12px; padding-bottom: 8px; border-bottom: 1px solid rgba(201,166,107,.4); }
+article { border: 1px solid var(--line); background: var(--surface); margin: 0 0 12px; }
+details { border: 1px solid var(--line); background: var(--surface); margin: 0 0 12px; }
+summary { list-style: none; cursor: pointer; padding: 12px; }
+summary::-webkit-details-marker { display: none; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.pip { width: 8px; height: 8px; display: inline-block; }
+.pill { font-family: "IBM Plex Mono", monospace; font-size: 10px; text-transform: uppercase; letter-spacing: .04em; border: 1px solid; padding: 2px 6px; }
+.Diplomatic { color: var(--dip); border-color: rgba(122,168,160,.4); }
+.Economic { color: var(--eco); border-color: rgba(154,170,110,.4); }
+.Military { color: var(--mil); border-color: rgba(192,122,104,.4); }
+.Political { color: var(--pol); border-color: rgba(138,151,179,.4); }
+.bg-Diplomatic { background: var(--dip); }
+.bg-Economic { background: var(--eco); }
+.bg-Military { background: var(--mil); }
+.bg-Political { background: var(--pol); }
+.time { font-family: "IBM Plex Mono", monospace; font-size: 10px; color: var(--faint); }
+h3 { font-family: "IBM Plex Serif", serif; font-size: 15px; font-weight: 600; color: var(--accent); margin: 8px 0 0; }
+.body { padding: 0 12px 12px; font-size: 15px; line-height: 1.55; color: var(--muted); border-top: 1px solid var(--line); }
+.body p { margin: 10px 0 0; }
+.judg { color: var(--fg); }
+.conf { font-family: "IBM Plex Mono", monospace; font-size: 11px; color: var(--faint); }
+.sources { font-size: 12px; color: var(--muted); }
+.sources ol { padding-left: 20px; }
+footer { border-top: 1px solid var(--line); background: var(--surface); }
+footer .wrap { font-size: 12px; line-height: 1.6; color: var(--muted); }
+@media print { .tabs { position: static; } .panel { display: block !important; page-break-after: always; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <p class="brow">Aggregated snapshot · unclassified compilation · not official reporting</p>
+    <h1>The Last Twenty-Four</h1>
+    <p class="meta">As of <strong>Sunday, 6 September 2026, 16:27 CEST</strong></p>
+    <p class="meta">Coverage window: 5 Sep 2026 16:27 CEST → 6 Sep 2026 16:27 CEST</p>
+  </div>
+</header>
+<div class="wrap">
+  <input class="tabctl" type="radio" name="theaters" id="tab-ru" checked />
+  <input class="tabctl" type="radio" name="theaters" id="tab-eu" />
+  <input class="tabctl" type="radio" name="theaters" id="tab-bt" />
+  <input class="tabctl" type="radio" name="theaters" id="tab-ba" />
+  <input class="tabctl" type="radio" name="theaters" id="tab-de" />
+  <input class="tabctl" type="radio" name="theaters" id="tab-st" />
+  <nav class="tabs" aria-label="Theaters">
+    <label for="tab-ru">Russia & Ukraine</label>
+    <label for="tab-eu">Europe</label>
+    <label for="tab-bt">Baltics</label>
+    <label for="tab-ba">Balkans</label>
+    <label for="tab-de">Germany</label>
+    <label for="tab-st">Stuttgart/BW</label>
+  </nav>
+  <div class="panels">
+    <section class="panel" id="panel-ru">
+      <h2>War and diplomacy</h2>
+      <details open><summary><div class="row"><span class="pip bg-Diplomatic"></span><span class="pill Diplomatic">Diplomatic</span><span class="time">5 Sep evening Kremlin</span></div><h3>Putin–Witkoff–Kushner Kremlin session ends without an announced deal; next steps deferred to coming weeks</h3></summary><div class="body"><p>U.S. Special Envoy Steve Witkoff and Jared Kushner met President Vladimir Putin at the Kremlin on Saturday evening, 5 September. Kremlin aide Yuri Ushakov said the talks lasted three hours and 10 minutes and were constructive and frank.[1][2] A White House official said the two sides discussed substantive plans for next steps, to be announced in the coming weeks.[3] Putin said he ordered a halt to strikes on Kyiv from midnight 5 September and that Moscow never agreed to Ukraine’s broader three-day ceasefire.[4] Stake: Ushakov speaks for the Kremlin; the White House official speaks for the U.S. administration.</p><p class="judg">Judgment: public product is process language plus a capitals-only pause, not a ceasefire or a published plan.</p><p class="conf">Confidence: High on the meeting and duration; moderate on substance because no document was released.</p></div></details>
+      <details open><summary><div class="row"><span class="pip bg-Diplomatic"></span><span class="pill Diplomatic">Diplomatic</span><span class="time">6 Sep Kyiv; no readout by 16:27 CEST</span></div><h3>Envoys open talks in Kyiv; cathedral tour reported; still no joint communiqué</h3></summary><div class="body"><p>The envoys arrived in Kyiv by train via Rzeszów and met Zelensky at St. Sophia Square.[5][6] CNN reported a tour of St. Sophia Cathedral, described as damaged in Russian attacks.[7] Reuters, citing a source familiar with the matter, said British, French and German national security advisers were also in Kyiv — a second independent outlet after an earlier British report; both remain anonymous.[8][9] No joint readout by 16:27 CEST.</p><p class="judg">Judgment: the Kyiv stop is underway. Absence of a communiqué is not evidence of failure; it is evidence it had not been briefed by cutoff.</p><p class="conf">Confidence: High on arrival and opening of talks. Moderate on European NSA presence (two outlets, both anonymous).</p></div></details>
+      <details open><summary><div class="row"><span class="pip bg-Military"></span><span class="pill Military">Military</span><span class="time">Overnight 5–6 Sep</span></div><h3>Capitals pause does not cover the rest of Ukraine: 108 drones overnight; at least eight killed and 69 injured outside Kyiv city</h3></summary><div class="body"><p>Ukrainian Air Force: 108 drones and six S8000 Banderols overnight; 82 drones and all six Banderols intercepted; impacts at 11 locations.[10] Kyiv Independent compilation: at least eight killed and 69 injured.[10] Named local tallies include an 11-year-old among three dead in Chuhuiv.[10][11] Kyiv city was not listed among overnight impact sites in tallies reviewed.</p><p class="judg">Judgment: the pause is geographically narrow. Combat deaths continued off the two capitals while envoys shuttled.</p><p class="conf">Confidence: Moderate-to-high on named-oblast deaths; the 8/69 roll-up is a floor.</p></div></details>
+      <details open><summary><div class="row"><span class="pip bg-Military"></span><span class="pill Military">Military</span><span class="time">ISW 5 Sep</span></div><h3>ISW: no territorial change on 5 September; Putin rejected Ukraine’s front-line pause</h3></summary><div class="body"><p>ISW’s 5 September assessment records a capitals-only long-range halt, Putin’s rejection of a broader front-line ceasefire, and no confirmed territorial change that day.[12]</p><p class="judg">Judgment: consistent with official pause/rejection split. Do not stretch “no advance” into a front-wide stalemate.</p><p class="conf">Confidence: Moderate. Single-shop battlefield assessment.</p></div></details>
+      <div class="sources"><p><strong>Sources used in this tab</strong></p><ol>
+        <li><a href="https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html">New York Times, 5 September 2026</a></li>
+        <li><a href="https://www.kyivpost.com/post/83859">Kyiv Post, 6 September 2026</a></li>
+        <li><a href="https://www.irishtimes.com/world/europe/2026/09/05/trump-peace-envoys-kushner-and-witkoff-head-for-kyiv-via-moscow/">Irish Times, 6 September 2026</a></li>
+        <li><a href="https://www.pravda.com.ua/eng/news/2026/09/05/8052085/">Ukrainska Pravda, 5 September 2026</a></li>
+        <li><a href="https://www.kyivpost.com/post/83886">Kyiv Post Kyiv talks, 6 September 2026</a></li>
+        <li><a href="https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html">New York Times Kyiv visit, 6 September 2026</a></li>
+        <li><a href="https://www.cnn.com/2026/09/06/europe/witkoff-kushner-visit-kyiv-intl">CNN, 6 September 2026</a></li>
+        <li><a href="https://www.reuters.com/business/aerospace-defense/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push-2026-09-06/">Reuters, 6 September 2026</a></li>
+        <li><a href="https://inews.co.uk/news/world/team-trump-kyiv-after-putin-meeting-peace-plan-what-to-know-4752593">i, 6 September 2026</a></li>
+        <li><a href="https://kyivindependent.com/russian-attacks-kill-8-injure-69-over-past-day/">Kyiv Independent, 6 September 2026</a></li>
+        <li><a href="https://www.kyivpost.com/post/83858">Kyiv Post strikes, 6 September 2026</a></li>
+        <li><a href="https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-5-2026/">ISW, 5 September 2026</a></li>
+      </ol></div>
+    </section>
+    <section class="panel" id="panel-eu">
+      <h2>EU institutions, NATO Europe, and major states other than Germany.</h2>
+      <details open><summary><div class="row"><span class="pip bg-Diplomatic"></span><span class="pill Diplomatic">Diplomatic</span><span class="time">6 Sep</span></div><h3>European security advisers reported in Kyiv by two independent outlets — still no named official confirmation</h3></summary><div class="body"><p>Reuters and the British i both report British, French and German national security advisers in Kyiv on Sunday; both accounts are anonymous.[1][2] No named government confirmed attendance by cutoff.</p><p class="judg">Judgment: probable presence, not a confirmed official list. If accurate, European capitals are sitting next to a U.S. shuttle, not opening an EU-mediated track.</p><p class="conf">Confidence: Moderate on attendance; high that no EU communiqué on the talks exists in-window.</p></div></details>
+      <details open><summary><div class="row"><span class="pip bg-Political"></span><span class="pill Political">Political</span><span class="time">Reported 5 Sep</span></div><h3>Five-state return-hubs track still names 2027; no host country announced</h3></summary><div class="body"><p>Denmark, Germany, Austria, the Netherlands and Greece restated a 2027 target for extra-EU return hubs after the Copenhagen meeting. No host was named.[3]</p><p class="judg">Judgment: agenda-setting, not an operational hub.</p><p class="conf">Confidence: High on the 2027 language; none that a host exists.</p></div></details>
+      <details open><summary><div class="row"><span class="pip bg-Military"></span><span class="pill Military">Military</span><span class="time">5 Sep</span></div><h3>Two Greek Air Force pilots killed in an air-show crash</h3></summary><div class="body"><p>ERT, relayed in 6 September wire briefs, reported two Hellenic Air Force pilots killed on 5 September at Athens Flying Week, Tanagra Air Base.[4]</p><p class="judg">Judgment: a domestic aviation fatality, not a NATO operational event.</p><p class="conf">Confidence: Moderate on deaths; airframe and cause unconfirmed here.</p></div></details>
+      <div class="sources"><p><strong>Sources used in this tab</strong></p><ol>
+        <li><a href="https://www.reuters.com/business/aerospace-defense/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push-2026-09-06/">Reuters, 6 September 2026</a></li>
+        <li><a href="https://inews.co.uk/news/world/team-trump-kyiv-after-putin-meeting-peace-plan-what-to-know-4752593">i, 6 September 2026</a></li>
+        <li><a href="https://www.euronews.com/2026/09/04/five-eu-countries-aim-to-send-migrants-to-return-hubs-by-2027">Euronews, 4 September 2026</a></li>
+        <li><a href="https://en.nhandan.vn/world-news-in-brief-september-6-post166292.html">World News in Brief citing ERT, 6 September 2026</a></li>
+      </ol></div>
+    </section>
+    <section class="panel" id="panel-bt">
+      <h2>Estonia, Latvia, and Lithuania. Defense, Russian interference, and hostilities toward the three states.</h2>
+      <details open><summary><div class="row"><span class="pip bg-Military"></span><span class="pill Military">Military</span><span class="time">4–6 Sep</span></div><h3>Latvia’s Namejs 2026 shifts its intense phase into Latgale</h3></summary><div class="body"><p>Namejs 2026 (2 Sep–8 Oct, about 12,000 troops plus allies) moved its most intensive activity into Latgale on 4–6 September.[1]</p><p class="judg">Judgment: standing deterrence calendar, not evidence of an imminent incident.</p><p class="conf">Confidence: Moderate. Specialist compilation.</p></div></details>
+      <details open><summary><div class="row"><span class="pip bg-Political"></span><span class="pill Political">Political</span><span class="time">Standing 6 Sep</span></div><h3>Estonia still has no confirmed defence-minister successor; Pevkur remains acting</h3></summary><div class="body"><p>No successor named after Pevkur’s resignation; he remains acting until the Riigikogu autumn session opens 14 September.[1]</p><p class="judg">Judgment: a continuity gap, not yet an operational failure.</p><p class="conf">Confidence: Moderate through 5 September.</p></div></details>
+      <div class="sources"><p><strong>Sources used in this tab</strong></p><ol><li><a href="https://baltic-monitor.com/en/issues/2026-09-05/">Baltic Monitor, 5 September 2026</a></li></ol></div>
+    </section>
+    <section class="panel" id="panel-ba">
+      <h2>Serbia, Kosovo, Bosnia and Herzegovina, Montenegro, North Macedonia, Albania, and Croatia.</h2>
+      <details open><summary><div class="row"><span class="pip bg-Political"></span><span class="pill Political">Political</span><span class="time">5 Sep</span></div><h3>SNS nominates Vučić as lead candidate and prime-minister candidate</h3></summary><div class="body"><p>The SNS Main Board on 5 September unanimously nominated President Aleksandar Vučić as lead candidate and prime-minister candidate.[1] Election date still unfixed in accounts reviewed.</p><p class="judg">Judgment: positioning for a personal mandate. Treat as such until a date is gazetted.</p><p class="conf">Confidence: Moderate.</p></div></details>
+      <details open><summary><div class="row"><span class="pip bg-Political"></span><span class="pill Political">Political</span><span class="time">Reported 5 Sep</span></div><h3>Kosovo Assembly constitutive session slips to 9 September</h3></summary><div class="body"><p>KoSSev: session continues 9 September at 11:00; Kurti–Abdixhiku arrangement still under negotiation.[2]</p><p class="judg">Judgment: domestic legitimacy drag, not a security incident.</p><p class="conf">Confidence: Low-to-moderate. Single regional outlet.</p></div></details>
+      <details open><summary><div class="row"><span class="pip bg-Diplomatic"></span><span class="pill Diplomatic">Diplomatic</span><span class="time">6 Sep</span></div><h3>Rama again floats gradual EU integration short of full membership first</h3></summary><div class="body"><p>Edi Rama said gradual integration would be the better path into the EU, per KoSSev.[3]</p><p class="judg">Judgment: recycled enlargement concept, not a new EU decision.</p><p class="conf">Confidence: Low.</p></div></details>
+      <div class="sources"><p><strong>Sources used in this tab</strong></p><ol>
+        <li><a href="https://en.nhandan.vn/world-news-in-brief-september-6-post166292.html">World News in Brief, 6 September 2026</a></li>
+        <li><a href="https://kossev.info/tematske-vesti/">KoSSev, 5–6 September 2026</a></li>
+        <li><a href="https://kossev.info/it/tematske-vesti/">KoSSev, Rama remarks, 6 September 2026</a></li>
+      </ol></div>
+    </section>
+    <section class="panel" id="panel-de">
+      <h2>Federal government, Bundestag politics, Bundeswehr, and the German economy</h2>
+      <details open><summary><div class="row"><span class="pip bg-Political"></span><span class="pill Political">Political</span><span class="time">6 Sep, polls close 18:00 CEST</span></div><h3>Saxony-Anhalt votes; noon turnout 34.72 percent; no result at cutoff</h3></summary><div class="body"><p>About 1.7 million eligible voters. Polls close 18:00 CEST.[1] Landeswahlleiterin: turnout by 12:00 CEST was 34.72 percent, against 22.4 percent at the same hour in 2021.[2] Pre-election polls put AfD around 40–41 percent and CDU around 23–24.[3] Merz has ruled out CDU cooperation with AfD and Die Linke.[4] No ballot counted in this brief.</p><p class="judg">Judgment: do not pre-call the Landtag. Structural fact: AfD leads every widely cited poll and Merz has closed the two coalition doors that would otherwise form a majority if AfD falls short of 50 percent.</p><p class="conf">Confidence: High on voting underway, close time, and official noon turnout. None on the result.</p></div></details>
+      <details open><summary><div class="row"><span class="pip bg-Political"></span><span class="pill Political">Political</span><span class="time">Standing; blame was 1 Sep</span></div><h3>Leipzig airport drone attribution remains federal backdrop, not a new in-window event</h3></summary><div class="body"><p>Germany’s 1 September attribution of the August Leipzig/Halle explosive-drone incidents to Russia, threat level raised to high, Bonn consulate and Berlin Russian House closures unchanged.[5] No in-window sequel located.</p><p class="judg">Judgment: standing context for election-day security politics, not a fresh lead.</p><p class="conf">Confidence: High that the 1 September package was announced and that this window added no confirmed sequel.</p></div></details>
+      <div class="sources"><p><strong>Sources used in this tab</strong></p><ol>
+        <li><a href="https://www.sueddeutsche.de/projekte/artikel/politik/landtagswahl-sachsen-anhalt-2026-wahlergebnisse-live-e787510/">Süddeutsche Zeitung live desk, 6 September 2026</a></li>
+        <li><a href="https://www.merkur.de/politik/ergebnis-prognose-letzte-umfrage-sachsen-anhalt-wahl-2026-afd-siegmund-cdu-bsw-aktuell-news-94476971.html">Merkur citing Landeswahlleiterin, 6 September 2026</a></li>
+        <li><a href="https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/news-ergebnisse-landtagswahl-afd-cdu-wahlumfrage-schulze-siegmund-,wahl-umfrage-100.html">MDR / Infratest dimap</a></li>
+        <li><a href="https://www.zeit.de/thema/friedrich-merz">Die Zeit, Merz theme page</a></li>
+        <li><a href="https://www.reuters.com/world/europe/germany-says-russia-responsible-drone-attack-leipzig-airport-2026-09-01/">Reuters Leipzig, 1 September 2026</a></li>
+      </ol></div>
+    </section>
+    <section class="panel" id="panel-st">
+      <h2>Stuttgart metro and Baden-Württemberg.</h2>
+      <details open><summary><div class="row"><span class="pip bg-Political"></span><span class="pill Political">Political</span><span class="time">5–6 Sep; overcrowding call 15:08 CEST</span></div><h3>Cerro Abajo finale fills central Stuttgart; emergency services close further access</h3></summary><div class="body"><p>Red Bull Cerro Abajo season finale and Germany debut on a course from Weißenburgpark to Wilhelmsplatz.[1][2] SWR at 15:08 CEST: police and fire said the course area was overcrowded and asked people not to travel there.[3]</p><p class="judg">Judgment: dated public-order fact, not a Land political decision.</p><p class="conf">Confidence: High.</p></div></details>
+      <details open><summary><div class="row"><span class="pip bg-Political"></span><span class="pill Political">Political</span><span class="time">Local roundup 5–6 Sep</span></div><h3>Autobahn webcams reported dark, citing general security situation</h3></summary><div class="body"><p>Stuttgarter Zeitung roundup: autobahn webcams including Engelberg/Leonberg not showing live pictures, rationale given as allgemeine Sicherheitslage.[4] No agency primary reached.</p><p class="judg">Judgment: too thinly sourced to treat as a Land security measure.</p><p class="conf">Confidence: Low.</p></div></details>
+      <div class="sources"><p><strong>Sources used in this tab</strong></p><ol>
+        <li><a href="https://www.redbull.com/us-en/events/red-bull-stuttgart-cerro-abajo">Red Bull event page</a></li>
+        <li><a href="https://www.stuttgarter-nachrichten.de/lokales/stuttgart/red-bull-event-in-stuttgart-die-schoensten-bilder-vom-cerro-abajo-am-sonntag-79439353.html">Stuttgarter Nachrichten, 6 September 2026</a></li>
+        <li><a href="https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/cerro-abajo-downhill-stadt-ueberfuellt-sicherheit-100.html">SWR Aktuell, 6 September 2026, 15:08</a></li>
+        <li><a href="https://www.stuttgarter-zeitung.de/">Stuttgarter Zeitung homepage roundup</a></li>
+      </ol></div>
+    </section>
+  </div>
+</div>
+<footer>
+  <div class="wrap">
+    <h2>Methodology, hierarchy, caveats</h2>
+    <p><strong>Window:</strong> 5 Sep 2026 16:27 CEST → 6 Sep 2026 16:27 CEST. Unclassified compilation. Not official reporting. Direct-to-main publish test.</p>
+    <p><strong>Hierarchy:</strong> (1) Primary statements of the party speaking for itself. (2) Wires and quality outlets. (3) Specialist press. (4) Unofficial social/Telegram/tabloids. Tier-4 does not carry a lead judgment alone.</p>
+    <p><strong>Change from 16:01 CEST brief:</strong> Reuters independently reports European NSAs in Kyiv (still anonymous). CNN adds the St. Sophia cathedral tour. Saxony-Anhalt noon turnout is now an official figure. Still no Kyiv communiqué and no Landtag result.</p>
+    <p><strong>Information gaps:</strong> No joint U.S.–Ukrainian communiqué. No Russian MoD statement on the 5–6 night. Baltic items lean on one compilation. Kosovo Assembly time is single-outlet.</p>
+  </div>
+</footer>
+</body>
+</html>
