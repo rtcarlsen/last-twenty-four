@@ -8,15 +8,15 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Serif:wght@400;600&display=swap" rel="stylesheet" />
 <style>
-:root{--bg:#0b0d0c;--surface:#151816;--fg:#f3f1ea;--muted:#c9c7be;--faint:#9b9d94;--line:#2a2f2b;--accent:#c9a66b;--dip:#7aa8a0;--eco:#9aaa6e;--mil:#c07a68;--pol:#8a97b3;--src-used:#c6e36a}*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--fg);font-family:"IBM Plex Sans",sans-serif}a{color:var(--accent)}.wrap{max-width:1400px;margin:0 auto;padding:16px}header,footer{background:var(--surface);border-color:var(--line)}.brow{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--accent)}h1{font-family:"IBM Plex Serif",serif;font-size:1.5rem;font-weight:600;color:var(--fg)}h2{font-family:"IBM Plex Serif",serif;font-size:1.25rem;font-weight:600;color:var(--fg);border-bottom:1px solid rgba(201,166,107,.4);padding-bottom:8px}h3{font-family:"IBM Plex Serif",serif;font-size:15px;font-weight:600;color:var(--accent);margin:8px 0 0;line-height:1.35}.meta{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--accent)}.tabctl{position:absolute;width:1px;height:1px;opacity:0}.tabs{display:flex;overflow-x:auto;position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--line)}.tabs label{font-family:"IBM Plex Serif",serif;font-size:15px;padding:12px 16px;color:var(--muted);cursor:pointer;border-bottom:2px solid transparent;white-space:nowrap}.tabs label:hover{color:var(--fg)}.panel{display:none}#tab-ru:checked~.tabs label[for=tab-ru],#tab-eu:checked~.tabs label[for=tab-eu],#tab-bt:checked~.tabs label[for=tab-bt],#tab-ba:checked~.tabs label[for=tab-ba],#tab-ca:checked~.tabs label[for=tab-ca],#tab-de:checked~.tabs label[for=tab-de],#tab-src:checked~.tabs label[for=tab-src]{color:var(--fg);border-bottom-color:var(--accent)}#tab-ru:checked~.panels #panel-ru,#tab-eu:checked~.panels #panel-eu,#tab-bt:checked~.panels #panel-bt,#tab-ba:checked~.panels #panel-ba,#tab-ca:checked~.panels #panel-ca,#tab-de:checked~.panels #panel-de,#tab-src:checked~.panels #panel-src{display:block}details{border:1px solid var(--line);background:var(--surface);margin:0 0 12px;border-left:3px solid var(--line)}details.Military{border-left-color:var(--mil)}details.Diplomatic{border-left-color:var(--dip)}details.Political{border-left-color:var(--pol)}details.Economic{border-left-color:var(--eco)}summary{padding:12px;cursor:pointer}.pill{font-family:"IBM Plex Mono",monospace;font-size:10px;text-transform:uppercase;letter-spacing:.04em;border:1px solid;padding:2px 6px}.pill.Military{color:var(--mil);border-color:rgba(192,122,104,.4)}.pill.Diplomatic{color:var(--dip);border-color:rgba(122,168,160,.4)}.pill.Political{color:var(--pol);border-color:rgba(138,151,179,.4)}.pill.Economic{color:var(--eco);border-color:rgba(154,170,110,.4)}.body{padding:0 14px 14px;font-size:15px;line-height:1.55;color:var(--muted);border-top:1px solid var(--line)}.body p{margin:10px 0 0}.kicker{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin:12px 0 0}.judg{color:var(--fg)}.conf{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--faint)}footer .wrap{font-size:12px;line-height:1.6;color:var(--muted)}.src-key{font-size:14px;line-height:1.55;color:var(--muted)}.src-list{list-style:none;padding:0;margin:0}.src-list li{font-size:13px;line-height:1.45;padding:6px 0;border-bottom:1px solid rgba(42,47,43,.6);color:var(--muted)}.src-list a{font-family:"IBM Plex Mono",monospace;font-size:12px}.src-list a.used{color:var(--src-used)}.src-list a.reviewed{color:#ffffff}.src-key .used{color:var(--src-used)}.src-key .reviewed{color:#fff}.src-block{margin:0 0 22px}.src-block h3{margin:0 0 8px;padding-bottom:6px;border-bottom:1px solid var(--line);font-family:"IBM Plex Serif",serif;font-size:1.1rem;color:var(--fg)}.flag{font-family:"IBM Plex Mono",monospace;font-size:10px;text-transform:uppercase;letter-spacing:.04em;color:var(--mil);border:1px solid rgba(192,122,104,.45);padding:2px 6px}
+:root{--bg:#0b0d0c;--surface:#151816;--fg:#f3f1ea;--muted:#c9c7be;--faint:#9b9d94;--line:#2a2f2b;--accent:#c9a66b;--dip:#7aa8a0;--eco:#9aaa6e;--mil:#c07a68;--pol:#8a97b3;--src-used:#c6e36a}*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--fg);font-family:"IBM Plex Sans",sans-serif}a{color:var(--accent)}.wrap{max-width:1400px;margin:0 auto;padding:16px}header,footer{background:var(--surface);border-color:var(--line)}.brow{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--accent)}h1{font-family:"IBM Plex Serif",serif;font-size:1.5rem;font-weight:600;color:var(--fg)}h2{font-family:"IBM Plex Serif",serif;font-size:1.25rem;font-weight:600;color:var(--fg);border-bottom:1px solid rgba(201,166,107,.4);padding-bottom:8px}h3{font-family:"IBM Plex Serif",serif;font-size:15px;font-weight:600;color:var(--accent);margin:8px 0 0;line-height:1.35}.meta{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--accent)}.tabctl{position:absolute;width:1px;height:1px;opacity:0}.tabs{display:flex;overflow-x:auto;position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--line);z-index:20}.tabs label{font-family:"IBM Plex Serif",serif;font-size:15px;padding:12px 16px;color:var(--muted);cursor:pointer;border-bottom:2px solid transparent;white-space:nowrap}.tabs label:hover{color:var(--fg)}.panel{display:none}#tab-ru:checked~.tabs label[for=tab-ru],#tab-eu:checked~.tabs label[for=tab-eu],#tab-bt:checked~.tabs label[for=tab-bt],#tab-ba:checked~.tabs label[for=tab-ba],#tab-ca:checked~.tabs label[for=tab-ca],#tab-de:checked~.tabs label[for=tab-de],#tab-src:checked~.tabs label[for=tab-src]{color:var(--fg);border-bottom-color:var(--accent)}#tab-ru:checked~.panels #panel-ru,#tab-eu:checked~.panels #panel-eu,#tab-bt:checked~.panels #panel-bt,#tab-ba:checked~.panels #panel-ba,#tab-ca:checked~.panels #panel-ca,#tab-de:checked~.panels #panel-de,#tab-src:checked~.panels #panel-src{display:block}details{border:1px solid var(--line);background:var(--surface);margin:0 0 12px;border-left:3px solid var(--line)}details.Military{border-left-color:var(--mil)}details.Diplomatic{border-left-color:var(--dip)}details.Political{border-left-color:var(--pol)}details.Economic{border-left-color:var(--eco)}summary{padding:12px;cursor:pointer;list-style:none}summary::-webkit-details-marker{display:none}.pill{font-family:"IBM Plex Mono",monospace;font-size:10px;text-transform:uppercase;letter-spacing:.04em;border:1px solid;padding:2px 6px}.pill.Military{color:var(--mil);border-color:rgba(192,122,104,.4)}.pill.Diplomatic{color:var(--dip);border-color:rgba(122,168,160,.4)}.pill.Political{color:var(--pol);border-color:rgba(138,151,179,.4)}.pill.Economic{color:var(--eco);border-color:rgba(154,170,110,.4)}.body{padding:0 14px 14px;font-size:15px;line-height:1.55;color:var(--muted);border-top:1px solid var(--line)}.body p{margin:10px 0 0}.kicker{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin:12px 0 0}.judg{color:var(--fg)}.conf{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--faint)}footer .wrap{font-size:12px;line-height:1.6;color:var(--muted)}.src-key{font-size:14px;line-height:1.55;color:var(--muted)}.src-list{list-style:none;padding:0;margin:0}.src-list li{font-size:13px;line-height:1.45;padding:6px 0;border-bottom:1px solid rgba(42,47,43,.6);color:var(--muted)}.src-list a{font-family:"IBM Plex Mono",monospace;font-size:12px}.src-list a.used{color:var(--src-used)}.src-list a.reviewed{color:#ffffff}.src-key .used{color:var(--src-used)}.src-key .reviewed{color:#fff}.src-block{margin:0 0 22px}.src-block h3{margin:0 0 8px;padding-bottom:6px;border-bottom:1px solid var(--line);font-family:"IBM Plex Serif",serif;font-size:1.1rem;color:var(--fg)}.flag{font-family:"IBM Plex Mono",monospace;font-size:10px;text-transform:uppercase;letter-spacing:.04em;color:var(--mil);border:1px solid rgba(192,122,104,.45);padding:2px 6px}.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}.time{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--faint)}
 </style>
 </head>
 <body>
 <header><div class="wrap">
 <p class="brow">Aggregated snapshot · open-source compilation · not official reporting</p>
 <h1>The Last Twenty-Four</h1>
-<p class="meta">As of <strong>Saturday, 12 September 2026, 17:45 CEST</strong></p>
-<p class="meta">Coverage window: 11 Sep 2026 17:45 CEST → 12 Sep 2026 17:45 CEST | Updated twice daily</p>
+<p class="meta">As of <strong>Sunday, 13 September 2026, 05:45 CEST</strong></p>
+<p class="meta">Coverage window: 12 Sep 2026 05:45 CEST → 13 Sep 2026 05:45 CEST | Updated twice daily</p>
 </div></header>
 <div class="wrap">
 <input class="tabctl" type="radio" name="theaters" id="tab-ru" checked />
@@ -39,136 +39,123 @@
 <section class="panel" id="panel-ru">
 <h2>War and diplomacy</h2>
 <details class="Military" open>
-<summary><div class="row"><span class="pill Military">Military</span><span class="time">Overnight 11–12 Sep</span></div>
-<h3>Russia launches combined missile and drone strike; Odesa hardest hit; at least 11 killed, ~96 injured</h3></summary>
+<summary><div class="row"><span class="pill Military">Military</span><span class="time">12 Sep</span></div>
+<h3>Russian combined strikes kill at least six to nine civilians; Odesa, Zaporizhzhia, Kryvyi Rih and Kramatorsk hit; 410 daytime UAVs reported</h3></summary>
 <div class="body">
 <p class="kicker">Reporting</p>
-<p>Ukrainian Air Force reported that from the evening of 11 September Russia launched a combined attack including Iskander-M/KN-23 ballistic missiles, eight Kalibr cruise missiles, six Kh-59/69 air-launched missiles and approximately 129 attack drones (Shahed-type, jet-powered and decoys). Air defence shot down or suppressed 110 targets. Hits at about 20 locations. Odesa Oblast hardest hit with at least 35 injured including a five-month-old. Aggregate toll roughly 11 killed and 96 injured. Ukrainian forces claimed strikes near Taganrog and on Russian industrial sites. General Staff reported ~1,500 Russian personnel losses in 24 hours (cumulative ~1,505,380).</p>
+<p>Ukrainian Air Force reported that on 12 September Russia launched 410 attack UAVs (37 jet-powered) between 06:30 and 18:00; air defences shot down or suppressed 336, with 21 hits recorded and roughly 55 still tracked at 18:00. Overnight into 12 September a combined package of ballistic, Kalibr, Kh-59/69 and drones struck multiple oblasts; Odesa region reported 35–37 injured including an infant. Governors and emergency services reported civilian deaths in Zaporizhzhia (at least two), Kryvyi Rih, Kramatorsk (three in vehicle strikes) and Zviahel/Zhytomyr (grocery store). Aggregate open tallies for the day ranged from six to nine killed and dozens injured. Russian MoD claimed hits on Zaporizhstal, Interpipe and Kryvyi Rih plants and a cargo ship at Odesa. Ukrainian General Staff reported 206 combat engagements, with the highest density near Pokrovsk, and continued long-range strikes on Russian chemical facilities in Samara/Tolyatti and Perm. Wires (Reuters, AP, AFP, RFE/RL) corroborated locations and casualty ranges from Ukrainian officials.</p>
 <p class="kicker">Equities check</p>
-<p>Ukrainian Air Force, General Staff and oblast administrations are primary Ukrainian claim-carriers. Russian MoD/TASS are primary Russian claim-carriers. Independent wires and Kyiv Independent / Ukrinform corroborate locations and casualty ranges. ISW of 11 September noted no decisive ground advances.</p>
+<p>Ukrainian Air Force, General Staff and oblast administrations are primary Ukrainian claim-carriers. Russian MoD and TASS are primary Russian claim-carriers. Independent wires provide second-tier corroboration of locations and approximate tolls but cannot independently verify platform mixes or industrial damage claims.</p>
 <p class="kicker">Judgment</p>
-<p>Russia almost certainly continues a high-tempo combined drone-and-missile campaign against Ukrainian urban and industrial targets. Ukrainian reciprocal long-range strikes remain a pressure tool. Ground lines showed no major change in open reporting.</p>
+<p>Russia almost certainly sustained a high-tempo combined drone-and-missile campaign against Ukrainian urban, energy-adjacent and industrial targets on 12 September. Ukrainian reciprocal long-range strikes continue. Open-source ground reporting showed no decisive change of control near Pokrovsk or elsewhere in the window.</p>
 <p class="kicker">Confidence</p>
-<p class="conf">Moderate-to-high on strike volume and civilian impact; moderate on exact platform mixes and Russian personnel tallies.</p>
+<p class="conf">Moderate-to-high on strike volume, locations and civilian impact; moderate on exact platform counts and Russian industrial-damage claims.</p>
 </div></details>
 <details class="Diplomatic" open>
 <summary><div class="row"><span class="pill Diplomatic">Diplomatic</span><span class="time">12 Sep</span></div>
-<h3>Zelenskyy says he is ready to meet Putin at G20 summit in Miami if both attend</h3></summary>
+<h3>Zelenskyy offers G20 Miami meeting with Putin; Kremlin calls it impossible and invites him to Moscow</h3></summary>
 <div class="body">
 <p class="kicker">Reporting</p>
-<p>In a Deutsche Welle interview released 12 September, President Zelenskyy said he would meet Putin on the sidelines of the G20 in Miami in December if both are invited, stressing results over rhetoric. Peskov/TASS said Russia had not decided on attendance and repeated the Moscow precondition. U.S. envoys Witkoff and Kushner had visited both capitals; no public breakthrough.</p>
+<p>President Zelenskyy publicly restated willingness to meet Vladimir Putin at the G20 summit in Miami (December). Kremlin spokesman Dmitry Peskov told AFP the proposal was “impossible” and repeated the standing invitation for a meeting in Moscow. Putin, speaking earlier at the BRICS gathering, warned that any European troop deployment into Ukraine would mean “war with Russia.” No new U.S. envoy readout of comparable weight appeared in the window.</p>
 <p class="kicker">Equities check</p>
-<p>Zelenskyy’s interview is primary. Peskov/TASS speak for the Kremlin. Wires corroborate public positions.</p>
+<p>Zelenskyy’s statement is primary for Kyiv. Peskov/AFP and Kremlin channels are primary for Moscow. Wires corroborate the public exchange.</p>
 <p class="kicker">Judgment</p>
-<p>Public signalling leaves open a possible leaders’ encounter under U.S. G20 presidency, but Russian preconditions make a substantive bilateral meeting far from certain.</p>
+<p>Public signalling keeps a leaders’ encounter under U.S. G20 presidency theoretically open, but Russian preconditions make a substantive bilateral meeting in Miami unlikely in the near term.</p>
 <p class="kicker">Confidence</p>
-<p class="conf">High on public statements; low on private content or any December meeting.</p>
+<p class="conf">High on the public statements; low on any private channel content or December logistics.</p>
 </div></details>
 </section>
 <section class="panel" id="panel-eu">
 <h2>EU institutions, NATO Europe, and major states other than Germany</h2>
 <details class="Diplomatic" open>
-<summary><div class="row"><span class="pill Diplomatic">Diplomatic</span><span class="time">11 Sep</span></div>
-<h3>NATO marks 25th anniversary of 9/11; Article 5 memory reiterated</h3></summary>
+<summary><div class="row"><span class="pill Diplomatic">Diplomatic</span><span class="time">12 Sep</span></div>
+<h3>EU moves additional military-equipment funding for Ukraine; “made in Europe” restriction lifted for Patriot interceptors</h3></summary>
 <div class="body">
 <p class="kicker">Reporting</p>
-<p>NATO HQ Brussels held a ceremony marking the 25th anniversary of the 2001 attacks. Deputy Secretary General Shekerinska and U.S. representatives spoke beside the Article 5 Memorial. Flags at half-mast. 9/11 remains the only Article 5 invocation.</p>
+<p>Euronews and related desks reported that the European Union agreed to channel approximately €6.1 billion from the existing Ukraine support-loan envelope toward military equipment, lifting the “made in Europe” requirement so that U.S.-made Patriot interceptors can be procured more rapidly. The decision sits inside the larger multi-year loan framework already announced. No new European Council conclusions or NATO North Atlantic Council decision of comparable weight was issued in the window.</p>
 <p class="kicker">Equities check</p>
-<p>Official NATO statements primary; wires corroborate.</p>
+<p>Commission and Council texts remain the primary institutional layer; secondary reporting from Euronews and Brussels desks. Independent wires had not yet carried a full official communiqué at the close of the window.</p>
 <p class="kicker">Judgment</p>
-<p>Anniversary reminded collective-defence precedent rather than a new operational decision.</p>
+<p>The funding decision is consistent with the existing loan architecture and prioritises near-term air-defence delivery over industrial localisation rules. It does not constitute a new treaty-level commitment.</p>
 <p class="kicker">Confidence</p>
-<p class="conf">High.</p>
+<p class="conf">Moderate — rests on secondary reporting pending formal Commission/Council text.</p>
 </div></details>
 <details class="Diplomatic" open>
-<summary><div class="row"><span class="pill Diplomatic">Diplomatic</span><span class="time">10–11 Sep context</span></div>
-<h3>Rutte Berlin solidarity remarks remain the most recent high-level NATO–Germany signal</h3></summary>
+<summary><div class="row"><span class="pill Diplomatic">Diplomatic</span><span class="time">Window context</span></div>
+<h3>No new NATO Council or SHAPE operational release of comparable weight; prior Rutte solidarity remarks remain the standing high-level signal</h3></summary>
 <div class="body">
 <p class="kicker">Reporting</p>
-<p>Rutte’s 10 September Berlin address reaffirming solidarity after Leipzig and praising German defence spending remained the principal institutional statement. No new NATO Council or SHAPE release of comparable weight on 11–12 September.</p>
+<p>No fresh NATO Council statement or SHAPE operational notice of Europe-wide weight appeared in open sources for 12–13 September. Earlier Rutte remarks on collective defence and support for Ukraine remain the most recent high-level institutional signal.</p>
 <p class="kicker">Equities check</p>
-<p>Official NATO and German MFA texts primary.</p>
+<p>nato.int and SHAPE channels are primary; absence of a new text is itself a datum.</p>
 <p class="kicker">Judgment</p>
-<p>NATO continues to treat hybrid incidents as reinforcing support for Ukraine and collective defence.</p>
+<p>NATO’s public posture on the Ukraine war and eastern-flank readiness was unchanged in the window.</p>
 <p class="kicker">Confidence</p>
-<p class="conf">High on 10 September texts; moderate on absence of new 11–12 act.</p>
+<p class="conf">High on the absence of a new major institutional act.</p>
 </div></details>
 </section>
 <section class="panel" id="panel-bt">
 <h2>Estonia, Latvia, and Lithuania — defence, interference, hostilities</h2>
-<details class="Diplomatic" open>
-<summary><div class="row"><span class="pill Diplomatic">Diplomatic</span><span class="time">11–12 Sep</span></div>
-<h3>Riga Conference continues; NATO Deputy Secretary General visits Latvia; exercises ongoing</h3></summary>
+<details class="Military" open>
+<summary><div class="row"><span class="pill Military">Military</span><span class="time">12–13 Sep</span></div>
+<h3>Namejs 2026 and Strong Griffin continue; no new Baltic airspace kinetic incident recorded in the window</h3></summary>
 <div class="body">
 <p class="kicker">Reporting</p>
-<p>Riga Conference continued. Shekerinska attended, met Latvian ministers and visited Ādaži. Strong Griffin and Namejs exercises remained active. No new airspace or maritime kinetic incident recorded on the Baltic contour.</p>
+<p>Latvia’s nationwide Namejs 2026 exercise (2 September–8 October) and Lithuania’s Strong Griffin 2026 (active phase near the Belarus border) continued. Canadian-led Oak Projection activity in Latvia was also ongoing. Baltic Monitor and the three public broadcasters recorded no new combat scramble or airspace violation on the Baltic contour inside the 12–13 September window. Poland’s temporary eastern airspace restriction zone (EP R134) remained in force after its 10 September start.</p>
 <p class="kicker">Equities check</p>
-<p>Latvian MFA, NATO, ERR/LSM/LRT and Baltic Monitor. Exercise notices host-nation primary.</p>
+<p>Host-nation MoD and armed-forces notices, ERR/LSM/LRT, and Baltic Monitor. Russian MFA/TASS claim traffic naming the three states was reviewed; no new operational incident claim of weight appeared.</p>
 <p class="kicker">Judgment</p>
-<p>Baltic governments and NATO treat hybrid pressure as near-term risk while sustaining high readiness. No new conventional incident of note.</p>
+<p>Allied exercise density along the eastern border remains elevated. No new conventional or air-policing incident of note occurred in the window.</p>
 <p class="kicker">Confidence</p>
-<p class="conf">High on conference and exercise facts; moderate on absence of kinetic incidents.</p>
-</div></details>
-<details class="Political" open>
-<summary><div class="row"><span class="pill Political">Political</span><span class="time">11–12 Sep</span></div>
-<h3>Estonia: opposition pressure rises after MoD permanent secretary dismissal</h3></summary>
-<div class="body">
-<p class="kicker">Reporting</p>
-<p>Continued tension after the 10 September dismissal of MoD permanent secretary Kaimo Kuusk. Opposition moved toward possible no-confidence against PM Michal. No cabinet collapse or snap election gazetted.</p>
-<p class="kicker">Equities check</p>
-<p>Baltic Monitor and Estonian political desks. Official statements primary for the dismissal.</p>
-<p class="kicker">Judgment</p>
-<p>Domestic institutional fight over defence-establishment control; external readiness unaffected in open reporting.</p>
-<p class="kicker">Confidence</p>
-<p class="conf">Moderate.</p>
+<p class="conf">High on exercise continuity and the absence of a fresh kinetic incident in open reporting.</p>
 </div></details>
 </section>
 <section class="panel" id="panel-ba">
 <h2>Serbia, Kosovo, Bosnia and Herzegovina, Montenegro, North Macedonia, Albania, and Croatia</h2>
 <details class="Political" open>
-<summary><div class="row"><span class="pill Political">Political</span><span class="time">11 Sep</span><span class="flag">single-source flag on some procedural detail</span></div>
-<h3>Kosovo Assembly constitutive session stalls again on deputy speakers; PDK and LDK walk-outs</h3></summary>
+<summary><div class="row"><span class="pill Political">Political</span><span class="time">12 Sep</span></div>
+<h3>Large Pristina rally in support of Hashim Thaçi and co-defendants ahead of Hague verdict; Kosovo Assembly formation remains stalled</h3></summary>
 <div class="body">
 <p class="kicker">Reporting</p>
-<p>Constitutive session continued 11 September. Speaker Haxhiu (Vetëvendosje) elected earlier; remaining deputy speakers blocked. PDK and LDK walked out. PDK announced Constitutional Court referral. Serbia snap elections remain 25 October.</p>
+<p>Thousands rallied in Pristina on 12 September in support of former President Hashim Thaçi and three other former KLA commanders ahead of their war-crimes verdicts at the Specialist Chambers in The Hague. AP and local desks covered the demonstration. Parallel reporting continued on the still-unresolved constitutive session of the Kosovo Assembly (deputy-speaker disputes and walk-outs by PDK and LDK on preceding days). Serbia’s snap parliamentary elections remain scheduled for 25 October after the 9 September dissolution.</p>
 <p class="kicker">Equities check</p>
-<p>Balkan Insight/BIRN and KoSSev provide detailed procedural reporting. Some scheduling detail single-source until Assembly record published.</p>
+<p>AP is independent wire corroboration of the rally. KoSSev and BIRN/Balkan Insight remain the principal regional independent layer for Assembly procedure. Official Assembly notices and KFOR posture statements were reviewed; no new security incident of weight was reported.</p>
 <p class="kicker">Judgment</p>
-<p>Institutional formation in Pristina remains blocked by inter-party dynamics. No new bilateral Serbia–Kosovo security incident of note.</p>
+<p>Domestic political mobilisation around the Hague trial and continued Assembly deadlock dominate the Kosovo file. No new bilateral Serbia–Kosovo security incident of note appeared in the window.</p>
 <p class="kicker">Confidence</p>
-<p class="conf">Moderate on procedural facts; low on near-term resolution.</p>
+<p class="conf">High on the occurrence of the rally; moderate on near-term Assembly resolution.</p>
 </div></details>
 </section>
 <section class="panel" id="panel-ca">
 <h2>Armenia, Azerbaijan, Georgia, and the frozen conflicts</h2>
 <details class="Diplomatic" open>
-<summary><div class="row"><span class="pill Diplomatic">Diplomatic</span><span class="time">11–12 Sep</span></div>
-<h3>Azerbaijani presidential aide continues large diplomatic-corps visit to Karabakh and East Zangezur</h3></summary>
+<summary><div class="row"><span class="pill Diplomatic">Diplomatic</span><span class="time">12 Sep</span></div>
+<h3>Hajiyev continues large diplomatic-corps visit to Karabakh and East Zangezur; no new peace-process breakthrough</h3></summary>
 <div class="body">
 <p class="kicker">Reporting</p>
-<p>Hajiyev continued accompanying a ~150-member diplomatic corps visit that began 11 September. He described reconstruction as a “renaissance.” No new demarcation, detainee or corridor breakthrough in higher-tier sources.</p>
+<p>Azerbaijani presidential aide Hikmat Hajiyev continued accompanying a large diplomatic-corps visit (reported as ~150 participants from 58 countries and nine organisations) to the former Nagorno-Karabakh area and East Zangezur on 12 September. State agencies framed the tour as reconstruction and “renaissance.” No higher-tier independent wire reported a new demarcation text, detainee release, or corridor agreement in the window. Armenian official channels were reviewed; no reciprocal high-level statement of comparable weight appeared.</p>
 <p class="kicker">Equities check</p>
-<p>Azerbaijani presidential administration and state agencies primary claim-carriers. OC Media, JAMnews provide limited independent corroboration of the visit occurrence.</p>
+<p>Azerbaijani presidential administration and Azertag/APA are primary claim-carriers for the visit. Civil.ge, OC Media and Eurasianet were reviewed for independent corroboration of occurrence; detailed “renaissance” claims remain single-side.</p>
 <p class="kicker">Judgment</p>
-<p>Baku continues to internationalise the post-2023 status quo through diplomatic tourism and reconstruction messaging. Peace-process track showed no public breakthrough.</p>
+<p>Baku continues to internationalise the post-2023 territorial status quo through structured diplomatic visits. The Armenia–Azerbaijan peace track showed no public breakthrough in the window.</p>
 <p class="kicker">Confidence</p>
-<p class="conf">High on visit occurrence; moderate on “renaissance” claims.</p>
+<p class="conf">High on the occurrence of the visit; moderate on reconstruction claims and the absence of a hidden bilateral advance.</p>
 </div></details>
 </section>
 <section class="panel" id="panel-de">
 <h2>Federal government, Bundestag, Bundeswehr, economy, and significant Baden-Württemberg / Stuttgart facts</h2>
 <details class="Political" open>
-<summary><div class="row"><span class="pill Political">Political</span><span class="time">11–12 Sep</span></div>
-<h3>Merz under sustained pressure after Saxony-Anhalt; coalition friction and leadership criticism continue</h3></summary>
+<summary><div class="row"><span class="pill Political">Political</span><span class="time">12–13 Sep</span></div>
+<h3>Merz remains under sustained domestic pressure after Saxony-Anhalt; no new federal legislative or security act of weight</h3></summary>
 <div class="body">
 <p class="kicker">Reporting</p>
-<p>National desks continued covering the aftermath of the Saxony-Anhalt election and the Merz–Weidel confrontation. No new cabinet resignation, Bundestag roll-call or gazetted federal act of comparable weight in the window. Stuttgarter Zeitung canvassed; no BW/Stuttgart fact meeting the significance gate identified.</p>
+<p>National desks (tagesschau, ZDF, DLF, FAZ, SZ, Die Welt) continued covering the political aftermath of the Saxony-Anhalt election and criticism of Chancellor Friedrich Merz’s leadership and coalition management. No new cabinet resignation, Bundestag roll-call of comparable weight, or gazetted federal security decision appeared in the window. Stuttgarter Zeitung was canvassed for both federal and Baden-Württemberg pages; no Land-significant fact (government act, fatal public-order incident, or plant-level industrial event of national weight) met the significance gate.</p>
 <p class="kicker">Equities check</p>
-<p>tagesschau, ZDF, DLF, FAZ, SZ and Die Welt are the national reference layer. Stuttgarter Zeitung is the required regional quality desk every cycle.</p>
+<p>tagesschau / ARD, ZDF, Deutschlandfunk and dpa form the primary verification layer. FAZ and SZ supply the split national reference pair. Stuttgarter Zeitung is the mandatory regional quality desk every Germany cycle.</p>
 <p class="kicker">Judgment</p>
-<p>Federal politics dominated by post-election coalition and leadership stress rather than a new legislative or security decision. No institutional rupture in the window.</p>
+<p>Federal politics remained dominated by post-election coalition and leadership stress rather than a new legislative or security decision. No institutional rupture occurred in the window.</p>
 <p class="kicker">Confidence</p>
-<p class="conf">Moderate-to-high on political climate; high on absence of a new federal act.</p>
+<p class="conf">Moderate-to-high on the political climate; high on the absence of a new federal act and the absence of a BW significance-gate item.</p>
 </div></details>
 </section>
 <section class="panel" id="panel-src">
@@ -176,106 +163,193 @@
 <p class="src-key">Full list of sources canvased for each tab.<br>
 <span class="used">Green URL</span> = reviewed and used (cited in the tab). <span class="reviewed">White URL</span> = reviewed, not used.</p>
 <div class="src-block"><h3>Balkans</h3><ul class="src-list">
-<li>Balkan Insight / BIRN — <a class="used" href="https://balkaninsight.com/2026/09/11/kosovo-parliament-hit-by-fresh-dispute-over-deputy-speakers/">https://balkaninsight.com/2026/09/11/…</a></li>
+<li>Balkan Insight / BIRN — <a class="used" href="https://balkaninsight.com/">https://balkaninsight.com/</a></li>
+<li>Beta — <a class="reviewed" href="https://beta.rs/">https://beta.rs/</a></li>
+<li>EULEX — <a class="reviewed" href="https://www.eulex-kosovo.eu/">https://www.eulex-kosovo.eu/</a></li>
+<li>FoNet — <a class="reviewed" href="https://www.fonet.rs/">https://www.fonet.rs/</a></li>
+<li>HINA — <a class="reviewed" href="https://www.hina.hr/">https://www.hina.hr/</a></li>
 <li>KoSSev — <a class="used" href="https://kossev.info/">https://kossev.info/</a></li>
+<li>Kosovo Assembly — <a class="reviewed" href="https://www.kuvendikosoves.org/">https://www.kuvendikosoves.org/</a></li>
+<li>KRIK — <a class="reviewed" href="https://www.krik.rs/">https://www.krik.rs/</a></li>
+<li>kryeministri.rks-gov.net — <a class="reviewed" href="https://kryeministri.rks-gov.net/">https://kryeministri.rks-gov.net/</a></li>
 <li>N1 — <a class="reviewed" href="https://n1info.com/">https://n1info.com/</a></li>
 <li>NATO KFOR — <a class="reviewed" href="https://jfcnaples.nato.int/kfor">https://jfcnaples.nato.int/kfor</a></li>
+<li>OCCRP — <a class="reviewed" href="https://www.occrp.org/">https://www.occrp.org/</a></li>
 <li>OHR — <a class="reviewed" href="https://www.ohr.int/">https://www.ohr.int/</a></li>
 <li>predsednik.rs — <a class="reviewed" href="https://www.predsednik.rs/">https://www.predsednik.rs/</a></li>
 <li>RTS — <a class="reviewed" href="https://www.rts.rs/">https://www.rts.rs/</a></li>
+<li>srbija.gov.rs — <a class="reviewed" href="https://www.srbija.gov.rs/">https://www.srbija.gov.rs/</a></li>
 <li>Tanjug — <a class="reviewed" href="https://www.tanjug.rs/">https://www.tanjug.rs/</a></li>
-<li>HINA — <a class="reviewed" href="https://www.hina.hr/">https://www.hina.hr/</a></li>
-<li>Beta — <a class="reviewed" href="https://beta.rs/">https://beta.rs/</a></li>
-<li>Kosovo Assembly — <a class="reviewed" href="https://www.kuvendikosoves.org/">https://www.kuvendikosoves.org/</a></li>
-<li>EULEX — <a class="reviewed" href="https://www.eulex-kosovo.eu/">https://www.eulex-kosovo.eu/</a></li>
-<li>KRIK — <a class="reviewed" href="https://www.krik.rs/">https://www.krik.rs/</a></li>
-<li>OCCRP — <a class="reviewed" href="https://www.occrp.org/">https://www.occrp.org/</a></li>
-<li>International Crisis Group — <a class="reviewed" href="https://www.crisisgroup.org/">https://www.crisisgroup.org/</a></li>
+<li>AP Balkans — <a class="used" href="https://apnews.com/">https://apnews.com/</a></li>
+<li>Reuters Balkans — <a class="reviewed" href="https://www.reuters.com/">https://www.reuters.com/</a></li>
+<li>AFP Balkans — <a class="reviewed" href="https://www.afp.com/">https://www.afp.com/</a></li>
+<li>ATA Albania — <a class="reviewed" href="https://ata.gov.al/">https://ata.gov.al/</a></li>
+<li>BHRT — <a class="reviewed" href="https://bhrt.ba/">https://bhrt.ba/</a></li>
+<li>Detektor — <a class="reviewed" href="https://detektor.ba/">https://detektor.ba/</a></li>
+<li>International Crisis Group Balkans — <a class="reviewed" href="https://www.crisisgroup.org/europe-central-asia/balkans">https://www.crisisgroup.org/…/balkans</a></li>
+<li>MINA Montenegro — <a class="reviewed" href="https://mina.news/">https://mina.news/</a></li>
+<li>MIA North Macedonia — <a class="reviewed" href="https://mia.mk/">https://mia.mk/</a></li>
+<li>Prishtina Insight — <a class="reviewed" href="https://prishtinainsight.com/">https://prishtinainsight.com/</a></li>
+<li>RTCG — <a class="reviewed" href="https://www.rtcg.me/">https://www.rtcg.me/</a></li>
+<li>RTK — <a class="reviewed" href="https://www.rtklive.com/">https://www.rtklive.com/</a></li>
+<li>Vijesti Montenegro — <a class="reviewed" href="https://www.vijesti.me/">https://www.vijesti.me/</a></li>
+<li>vlada.gov.hr — <a class="reviewed" href="https://vlada.gov.hr/">https://vlada.gov.hr/</a></li>
 </ul></div>
 <div class="src-block"><h3>Baltics</h3><ul class="src-list">
-<li>Baltic Monitor — <a class="used" href="https://baltic-monitor.com/en/issues/2026-09-12/">https://baltic-monitor.com/…/2026-09-12/</a></li>
-<li>NATO — <a class="used" href="https://www.nato.int/">https://www.nato.int/</a></li>
+<li>Baltic Monitor — <a class="used" href="https://baltic-monitor.com/">https://baltic-monitor.com/</a></li>
+<li>BNS — <a class="reviewed" href="https://www.bns.ee/">https://www.bns.ee/</a></li>
 <li>ERR — <a class="reviewed" href="https://news.err.ee/">https://news.err.ee/</a></li>
-<li>LSM — <a class="reviewed" href="https://eng.lsm.lv/">https://eng.lsm.lv/</a></li>
-<li>LRT — <a class="reviewed" href="https://www.lrt.lt/en/">https://www.lrt.lt/en/</a></li>
-<li>kaitseministeerium.ee — <a class="reviewed" href="https://kaitseministeerium.ee/">https://kaitseministeerium.ee/</a></li>
-<li>mod.gov.lv — <a class="reviewed" href="https://www.mod.gov.lv/">https://www.mod.gov.lv/</a></li>
-<li>kariuomene.lt — <a class="reviewed" href="https://kariuomene.lt/">https://kariuomene.lt/</a></li>
 <li>ICDS — <a class="reviewed" href="https://icds.ee/">https://icds.ee/</a></li>
+<li>kaitseministeerium.ee — <a class="reviewed" href="https://kaitseministeerium.ee/">https://kaitseministeerium.ee/</a></li>
+<li>kariuomene.lt — <a class="reviewed" href="https://kariuomene.lt/">https://kariuomene.lt/</a></li>
+<li>LRT — <a class="reviewed" href="https://www.lrt.lt/en/">https://www.lrt.lt/en/</a></li>
+<li>LSM — <a class="reviewed" href="https://eng.lsm.lv/">https://eng.lsm.lv/</a></li>
+<li>mil.ee / Kaitsevägi — <a class="reviewed" href="https://mil.ee/">https://mil.ee/</a></li>
+<li>mod.gov.lv — <a class="reviewed" href="https://www.mod.gov.lv/">https://www.mod.gov.lv/</a></li>
+<li>NATO StratCom COE — <a class="reviewed" href="https://www.stratcomcoe.org/">https://www.stratcomcoe.org/</a></li>
+<li>president.ee — <a class="reviewed" href="https://www.president.ee/">https://www.president.ee/</a></li>
+<li>president.lv — <a class="reviewed" href="https://www.president.lv/">https://www.president.lv/</a></li>
 <li>Re:Baltica — <a class="reviewed" href="https://rebaltica.lv/">https://rebaltica.lv/</a></li>
 <li>SHAPE — <a class="reviewed" href="https://shape.nato.int/">https://shape.nato.int/</a></li>
-<li>Propastop — <a class="reviewed" href="https://www.propastop.org/">https://www.propastop.org/</a></li>
+<li>valitsus.ee — <a class="reviewed" href="https://www.valitsus.ee/">https://www.valitsus.ee/</a></li>
+<li>vdd.gov.lv — <a class="reviewed" href="https://vdd.gov.lv/">https://vdd.gov.lv/</a></li>
+<li>vm.ee — <a class="reviewed" href="https://vm.ee/">https://vm.ee/</a></li>
+<li>Reuters Baltics — <a class="reviewed" href="https://www.reuters.com/">https://www.reuters.com/</a></li>
+<li>AFP Baltics — <a class="reviewed" href="https://www.afp.com/">https://www.afp.com/</a></li>
 <li>CCDCOE — <a class="reviewed" href="https://ccdcoe.org/">https://ccdcoe.org/</a></li>
+<li>ENSEC COE — <a class="reviewed" href="https://enseccoe.org/">https://enseccoe.org/</a></li>
 <li>Hybrid CoE — <a class="reviewed" href="https://www.hybridcoe.fi/">https://www.hybridcoe.fi/</a></li>
-<li>valitsus.ee — <a class="reviewed" href="https://valitsus.ee/">https://valitsus.ee/</a></li>
+<li>kapo.ee — <a class="reviewed" href="https://kapo.ee/">https://kapo.ee/</a></li>
+<li>lrv.lt — <a class="reviewed" href="https://lrv.lt/">https://lrv.lt/</a></li>
+<li>lrp.lt — <a class="reviewed" href="https://www.lrp.lt/">https://www.lrp.lt/</a></li>
+<li>mk.gov.lv — <a class="reviewed" href="https://www.mk.gov.lv/">https://www.mk.gov.lv/</a></li>
+<li>Propastop — <a class="reviewed" href="https://www.propastop.org/">https://www.propastop.org/</a></li>
+<li>urm.lt — <a class="reviewed" href="https://urm.lt/">https://urm.lt/</a></li>
+<li>vsd.lt — <a class="reviewed" href="https://www.vsd.lt/">https://www.vsd.lt/</a></li>
 </ul></div>
 <div class="src-block"><h3>Caucasus</h3><ul class="src-list">
-<li>Azernews — <a class="used" href="https://www.azernews.az/nation/263709.html">https://www.azernews.az/…/263709.html</a></li>
 <li>APA — <a class="used" href="https://en.apa.az/">https://en.apa.az/</a></li>
-<li>OC Media — <a class="used" href="https://oc-media.org/">https://oc-media.org/</a></li>
-<li>JAMnews — <a class="used" href="https://jam-news.net/">https://jam-news.net/</a></li>
-<li>Civil.ge — <a class="reviewed" href="https://civil.ge/">https://civil.ge/</a></li>
 <li>Armenpress — <a class="reviewed" href="https://armenpress.am/">https://armenpress.am/</a></li>
 <li>Azertag — <a class="reviewed" href="https://azertag.az/">https://azertag.az/</a></li>
-<li>president.az — <a class="reviewed" href="https://president.az/">https://president.az/</a></li>
+<li>Civil.ge — <a class="reviewed" href="https://civil.ge/">https://civil.ge/</a></li>
+<li>CivilNet — <a class="reviewed" href="https://www.civilnet.am/">https://www.civilnet.am/</a></li>
+<li>Eurasianet — <a class="reviewed" href="https://eurasianet.org/">https://eurasianet.org/</a></li>
+<li>gov.am — <a class="reviewed" href="https://www.gov.am/">https://www.gov.am/</a></li>
+<li>gov.ge — <a class="reviewed" href="https://www.gov.ge/">https://www.gov.ge/</a></li>
+<li>Hetq — <a class="reviewed" href="https://hetq.am/">https://hetq.am/</a></li>
+<li>JAMnews — <a class="reviewed" href="https://jam-news.net/">https://jam-news.net/</a></li>
 <li>mfa.am — <a class="reviewed" href="https://www.mfa.am/">https://www.mfa.am/</a></li>
 <li>mfa.gov.az — <a class="reviewed" href="https://mfa.gov.az/">https://mfa.gov.az/</a></li>
-<li>Eurasianet — <a class="reviewed" href="https://eurasianet.org/">https://eurasianet.org/</a></li>
-<li>EUMM Georgia — <a class="reviewed" href="https://www.eumm.eu/">https://www.eumm.eu/</a></li>
-<li>CivilNet — <a class="reviewed" href="https://www.civilnet.am/">https://www.civilnet.am/</a></li>
-<li>Hetq — <a class="reviewed" href="https://hetq.am/">https://hetq.am/</a></li>
+<li>mfa.gov.ge — <a class="reviewed" href="https://mfa.gov.ge/">https://mfa.gov.ge/</a></li>
+<li>OC Media — <a class="reviewed" href="https://oc-media.org/">https://oc-media.org/</a></li>
+<li>president.az — <a class="reviewed" href="https://president.az/">https://president.az/</a></li>
+<li>Turan — <a class="reviewed" href="https://www.turan.az/">https://www.turan.az/</a></li>
+<li>Reuters Caucasus — <a class="reviewed" href="https://www.reuters.com/">https://www.reuters.com/</a></li>
+<li>AFP Caucasus — <a class="reviewed" href="https://www.afp.com/">https://www.afp.com/</a></li>
+<li>AP Caucasus — <a class="reviewed" href="https://apnews.com/">https://apnews.com/</a></li>
+<li>EUMM Georgia — <a class="reviewed" href="https://eumm.eu/">https://eumm.eu/</a></li>
+<li>Meydan TV — <a class="reviewed" href="https://www.meydan.tv/">https://www.meydan.tv/</a></li>
+<li>Netgazeti — <a class="reviewed" href="https://netgazeti.ge/">https://netgazeti.ge/</a></li>
+<li>president.am — <a class="reviewed" href="https://www.president.am/">https://www.president.am/</a></li>
+<li>president.gov.ge — <a class="reviewed" href="https://www.president.gov.ge/">https://www.president.gov.ge/</a></li>
 </ul></div>
 <div class="src-block"><h3>Europe</h3><ul class="src-list">
-<li>nato.int (9/11) — <a class="used" href="https://www.nato.int/en/news-and-events/articles/news/2026/09/11/nato-commemorates-the-25th-anniversary-of-911-terrorist-attacks-on-the-united-states">https://www.nato.int/…/25th-anniversary…</a></li>
-<li>NATO (Rutte Berlin) — <a class="used" href="https://www.nato.int/en/news-and-events/articles/news/2026/09/10/nato-secretary-general-in-berlin-germany-and-nato-30-strengthening-europe-delivering-for-the-alliance">https://www.nato.int/…/berlin…</a></li>
-<li>ec.europa.eu — <a class="reviewed" href="https://ec.europa.eu/">https://ec.europa.eu/</a></li>
 <li>consilium.europa.eu — <a class="reviewed" href="https://www.consilium.europa.eu/">https://www.consilium.europa.eu/</a></li>
-<li>EEAS — <a class="reviewed" href="https://www.eeas.europa.eu/">https://www.eeas.europa.eu/</a></li>
-<li>Reuters — <a class="reviewed" href="https://www.reuters.com/">https://www.reuters.com/</a></li>
-<li>AFP — <a class="reviewed" href="https://www.afp.com/">https://www.afp.com/</a></li>
-<li>AP — <a class="reviewed" href="https://apnews.com/">https://apnews.com/</a></li>
+<li>ec.europa.eu — <a class="reviewed" href="https://ec.europa.eu/">https://ec.europa.eu/</a></li>
+<li>eeas.europa.eu — <a class="reviewed" href="https://www.eeas.europa.eu/">https://www.eeas.europa.eu/</a></li>
+<li>europarl.europa.eu — <a class="reviewed" href="https://www.europarl.europa.eu/">https://www.europarl.europa.eu/</a></li>
 <li>Euractiv — <a class="reviewed" href="https://www.euractiv.com/">https://www.euractiv.com/</a></li>
+<li>Euronews — <a class="used" href="https://www.euronews.com/">https://www.euronews.com/</a></li>
+<li>Financial Times — <a class="reviewed" href="https://www.ft.com/">https://www.ft.com/</a></li>
+<li>nato.int — <a class="reviewed" href="https://www.nato.int/">https://www.nato.int/</a></li>
 <li>POLITICO Europe — <a class="reviewed" href="https://www.politico.eu/">https://www.politico.eu/</a></li>
 <li>SHAPE — <a class="reviewed" href="https://shape.nato.int/">https://shape.nato.int/</a></li>
-<li>BBC — <a class="reviewed" href="https://www.bbc.com/">https://www.bbc.com/</a></li>
-<li>Financial Times — <a class="reviewed" href="https://www.ft.com/">https://www.ft.com/</a></li>
+<li>elysee.fr — <a class="reviewed" href="https://www.elysee.fr/">https://www.elysee.fr/</a></li>
+<li>gov.uk — <a class="reviewed" href="https://www.gov.uk/">https://www.gov.uk/</a></li>
+<li>governo.it — <a class="reviewed" href="https://www.governo.it/">https://www.governo.it/</a></li>
+<li>gov.pl — <a class="reviewed" href="https://www.gov.pl/">https://www.gov.pl/</a></li>
+<li>Reuters Europe — <a class="reviewed" href="https://www.reuters.com/">https://www.reuters.com/</a></li>
+<li>AFP Europe — <a class="reviewed" href="https://www.afp.com/">https://www.afp.com/</a></li>
+<li>AP Europe — <a class="reviewed" href="https://apnews.com/">https://apnews.com/</a></li>
+<li>Bloomberg — <a class="reviewed" href="https://www.bloomberg.com/">https://www.bloomberg.com/</a></li>
+<li>ANSA — <a class="reviewed" href="https://www.ansa.it/">https://www.ansa.it/</a></li>
+<li>Bruegel — <a class="reviewed" href="https://www.bruegel.org/">https://www.bruegel.org/</a></li>
+<li>Carnegie Europe — <a class="reviewed" href="https://carnegieeurope.eu/">https://carnegieeurope.eu/</a></li>
+<li>Chatham House — <a class="reviewed" href="https://www.chathamhouse.org/">https://www.chathamhouse.org/</a></li>
+<li>diplomatie.gouv.fr — <a class="reviewed" href="https://www.diplomatie.gouv.fr/">https://www.diplomatie.gouv.fr/</a></li>
+<li>ECB — <a class="reviewed" href="https://www.ecb.europa.eu/">https://www.ecb.europa.eu/</a></li>
+<li>ECFR — <a class="reviewed" href="https://ecfr.eu/">https://ecfr.eu/</a></li>
+<li>lamoncloa.gob.es — <a class="reviewed" href="https://www.lamoncloa.gob.es/">https://www.lamoncloa.gob.es/</a></li>
+<li>PAP — <a class="reviewed" href="https://www.pap.pl/">https://www.pap.pl/</a></li>
+<li>rijksoverheid.nl — <a class="reviewed" href="https://www.rijksoverheid.nl/">https://www.rijksoverheid.nl/</a></li>
 </ul></div>
 <div class="src-block"><h3>Germany</h3><ul class="src-list">
-<li>Deutschlandfunk — <a class="used" href="https://www.deutschlandfunk.de/">https://www.deutschlandfunk.de/</a></li>
-<li>Die Welt — <a class="used" href="https://www.welt.de/">https://www.welt.de/</a></li>
-<li>Stuttgarter Zeitung — <a class="reviewed" href="https://www.stuttgarter-zeitung.de/">https://www.stuttgarter-zeitung.de/</a></li>
-<li>tagesschau — <a class="reviewed" href="https://www.tagesschau.de/">https://www.tagesschau.de/</a></li>
-<li>ZDF heute — <a class="reviewed" href="https://www.zdf.de/nachrichten">https://www.zdf.de/nachrichten</a></li>
-<li>FAZ — <a class="reviewed" href="https://www.faz.net/">https://www.faz.net/</a></li>
-<li>Süddeutsche Zeitung — <a class="reviewed" href="https://www.sueddeutsche.de/">https://www.sueddeutsche.de/</a></li>
 <li>bundesregierung.de — <a class="reviewed" href="https://www.bundesregierung.de/">https://www.bundesregierung.de/</a></li>
 <li>bundestag.de — <a class="reviewed" href="https://www.bundestag.de/">https://www.bundestag.de/</a></li>
-<li>dpa — <a class="reviewed" href="https://www.dpa.com/">https://www.dpa.com/</a></li>
 <li>bmvg.de — <a class="reviewed" href="https://www.bmvg.de/">https://www.bmvg.de/</a></li>
+<li>bmi.bund.de — <a class="reviewed" href="https://www.bmi.bund.de/">https://www.bmi.bund.de/</a></li>
+<li>deutschlandfunk.de — <a class="used" href="https://www.deutschlandfunk.de/">https://www.deutschlandfunk.de/</a></li>
+<li>dpa — <a class="reviewed" href="https://www.dpa.com/">https://www.dpa.com/</a></li>
+<li>FAZ — <a class="reviewed" href="https://www.faz.net/">https://www.faz.net/</a></li>
+<li>Handelsblatt — <a class="reviewed" href="https://www.handelsblatt.com/">https://www.handelsblatt.com/</a></li>
+<li>Stuttgarter Zeitung — <a class="used" href="https://www.stuttgarter-zeitung.de/">https://www.stuttgarter-zeitung.de/</a></li>
+<li>Süddeutsche Zeitung — <a class="reviewed" href="https://www.sueddeutsche.de/">https://www.sueddeutsche.de/</a></li>
+<li>tagesschau.de — <a class="used" href="https://www.tagesschau.de/">https://www.tagesschau.de/</a></li>
+<li>zdfheute.de — <a class="reviewed" href="https://www.zdfheute.de/">https://www.zdfheute.de/</a></li>
+<li>Die Welt — <a class="reviewed" href="https://www.welt.de/">https://www.welt.de/</a></li>
+<li>Reuters Germany — <a class="reviewed" href="https://www.reuters.com/">https://www.reuters.com/</a></li>
+<li>AFP Germany — <a class="reviewed" href="https://www.afp.com/">https://www.afp.com/</a></li>
 <li>auswaertiges-amt.de — <a class="reviewed" href="https://www.auswaertiges-amt.de/">https://www.auswaertiges-amt.de/</a></li>
+<li>bundesbank.de — <a class="reviewed" href="https://www.bundesbank.de/">https://www.bundesbank.de/</a></li>
+<li>bundeswehr.de — <a class="reviewed" href="https://www.bundeswehr.de/">https://www.bundeswehr.de/</a></li>
+<li>destatis.de — <a class="reviewed" href="https://www.destatis.de/">https://www.destatis.de/</a></li>
+<li>Die Zeit — <a class="reviewed" href="https://www.zeit.de/">https://www.zeit.de/</a></li>
+<li>Spiegel — <a class="reviewed" href="https://www.spiegel.de/">https://www.spiegel.de/</a></li>
+<li>stm.baden-wuerttemberg.de — <a class="reviewed" href="https://stm.baden-wuerttemberg.de/">https://stm.baden-wuerttemberg.de/</a></li>
+<li>SWR — <a class="reviewed" href="https://www.swr.de/">https://www.swr.de/</a></li>
 </ul></div>
 <div class="src-block"><h3>Russia & Ukraine</h3><ul class="src-list">
-<li>Kyiv Independent — <a class="used" href="https://kyivindependent.com/russian-attacks-kill-11-injure-96-across-ukraine-as-odesa-comes-under-mass-overnight-strike/">https://kyivindependent.com/…/odesa…</a></li>
-<li>Kyiv Post — <a class="used" href="https://www.kyivpost.com/post/84342">https://www.kyivpost.com/post/84342</a></li>
-<li>Ukrinform — <a class="used" href="https://www.ukrinform.net/">https://www.ukrinform.net/</a></li>
-<li>ISW — <a class="used" href="https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-11-2026/">https://understandingwar.org/…/september-11-2026/</a></li>
-<li>Euractiv (G20) — <a class="used" href="https://www.euractiv.com/news/zelenskyy-open-to-meeting-putin-at-g20-in-miami/">https://www.euractiv.com/…/g20-in-miami/</a></li>
-<li>RBC-Ukraine — <a class="used" href="https://newsukraine.rbc.ua/news/overnight-russian-attack-on-ukraine-air-defense-1789194091.html">https://newsukraine.rbc.ua/…</a></li>
-<li>AFP — <a class="used" href="https://www.afp.com/">https://www.afp.com/</a></li>
-<li>president.gov.ua — <a class="reviewed" href="https://www.president.gov.ua/">https://www.president.gov.ua/</a></li>
-<li>TASS — <a class="reviewed" href="https://tass.com/">https://tass.com/</a></li>
-<li>kremlin.ru — <a class="reviewed" href="https://en.kremlin.ru/">https://en.kremlin.ru/</a></li>
-<li>Reuters — <a class="reviewed" href="https://www.reuters.com/">https://www.reuters.com/</a></li>
+<li>Air Force of Ukraine / @DefenceU — <a class="used" href="https://www.facebook.com/GeneralStaff.ua">https://www.facebook.com/GeneralStaff.ua</a></li>
 <li>DeepStateMap — <a class="reviewed" href="https://deepstatemap.live/">https://deepstatemap.live/</a></li>
-<li>@ZelenskyyUa — <a class="reviewed" href="https://x.com/ZelenskyyUa">https://x.com/ZelenskyyUa</a></li>
-<li>@GeneralStaffUA — <a class="reviewed" href="https://x.com/GeneralStaffUA">https://x.com/GeneralStaffUA</a></li>
-<li>@DefenceU — <a class="reviewed" href="https://x.com/DefenceU">https://x.com/DefenceU</a></li>
+<li>General Staff UA — <a class="used" href="https://www.facebook.com/GeneralStaff.ua">https://www.facebook.com/GeneralStaff.ua</a></li>
+<li>ISW — <a class="reviewed" href="https://www.understandingwar.org/">https://www.understandingwar.org/</a></li>
+<li>Kremlin.ru / en.kremlin.ru — <a class="reviewed" href="https://en.kremlin.ru/">https://en.kremlin.ru/</a></li>
+<li>Kyiv Independent — <a class="used" href="https://kyivindependent.com/">https://kyivindependent.com/</a></li>
 <li>Mediazona — <a class="reviewed" href="https://en.zona.media/">https://en.zona.media/</a></li>
-<li>Ukrainska Pravda — <a class="reviewed" href="https://www.pravda.com.ua/eng/">https://www.pravda.com.ua/eng/</a></li>
-<li>eng.mil.ru — <a class="reviewed" href="https://eng.mil.ru/">https://eng.mil.ru/</a></li>
-<li>mid.ru — <a class="reviewed" href="https://mid.ru/en/">https://mid.ru/en/</a></li>
+<li>mid.ru / MFA Russia — <a class="reviewed" href="https://mid.ru/">https://mid.ru/</a></li>
+<li>president.gov.ua — <a class="reviewed" href="https://www.president.gov.ua/">https://www.president.gov.ua/</a></li>
+<li>Reuters — <a class="used" href="https://www.reuters.com/world/europe/russian-attacks-kill-six-injure-dozens-ukraine-moscow-says-it-hits-ships-plants-2026-09-12/">https://www.reuters.com/…/2026-09-12/</a></li>
+<li>RFE/RL — <a class="used" href="https://www.rferl.org/a/zelenskyy-putin-trump-miami-g20-war-talks/33853066.html">https://www.rferl.org/…/33853066.html</a></li>
+<li>TASS — <a class="reviewed" href="https://tass.com/">https://tass.com/</a></li>
+<li>Ukrainska Pravda — <a class="used" href="https://www.pravda.com.ua/eng/">https://www.pravda.com.ua/eng/</a></li>
+<li>AFP — <a class="used" href="https://www.afp.com/">https://www.afp.com/</a></li>
+<li>AP — <a class="used" href="https://apnews.com/">https://apnews.com/</a></li>
+<li>BBC — <a class="reviewed" href="https://www.bbc.com/">https://www.bbc.com/</a></li>
+<li>Bloomberg — <a class="reviewed" href="https://www.bloomberg.com/">https://www.bloomberg.com/</a></li>
+<li>Interfax — <a class="reviewed" href="https://interfax.com/">https://interfax.com/</a></li>
+<li>Kyiv Post — <a class="reviewed" href="https://www.kyivpost.com/">https://www.kyivpost.com/</a></li>
+<li>mod_russia / eng.mil.ru — <a class="reviewed" href="https://eng.mil.ru/">https://eng.mil.ru/</a></li>
 <li>Oryx — <a class="reviewed" href="https://www.oryxspioenkop.com/">https://www.oryxspioenkop.com/</a></li>
-<li>Bellingcat — <a class="reviewed" href="https://www.bellingcat.com/">https://www.bellingcat.com/</a></li>
+<li>Ukrinform — <a class="reviewed" href="https://www.ukrinform.net/">https://www.ukrinform.net/</a></li>
+<li>@ZelenskyyUa — <a class="reviewed" href="https://x.com/ZelenskyyUa">https://x.com/ZelenskyyUa</a></li>
+<li>@mfa_russia — <a class="reviewed" href="https://x.com/mfa_russia">https://x.com/mfa_russia</a></li>
+<li>@mod_russia — <a class="reviewed" href="https://x.com/mod_russia">https://x.com/mod_russia</a></li>
+<li>@DefenceU — <a class="reviewed" href="https://x.com/DefenceU">https://x.com/DefenceU</a></li>
+<li>@GeneralStaffUA — <a class="reviewed" href="https://x.com/GeneralStaffUA">https://x.com/GeneralStaffUA</a></li>
+<li>@KyivIndependent — <a class="reviewed" href="https://x.com/KyivIndependent">https://x.com/KyivIndependent</a></li>
+<li>@tass_agency — <a class="reviewed" href="https://x.com/tass_agency">https://x.com/tass_agency</a></li>
+<li>Conflict Intelligence Team — <a class="reviewed" href="https://citeam.org/">https://citeam.org/</a></li>
+<li>Frontelligence / @Tatarigami_UA — <a class="reviewed" href="https://x.com/Tatarigami_UA">https://x.com/Tatarigami_UA</a></li>
+<li>Interfax Ukraine — <a class="reviewed" href="https://en.interfax.com.ua/">https://en.interfax.com.ua/</a></li>
+<li>Meduza — <a class="reviewed" href="https://meduza.io/en">https://meduza.io/en</a></li>
+<li>RUSI — <a class="reviewed" href="https://rusi.org/">https://rusi.org/</a></li>
+<li>@KofmanMichael — <a class="reviewed" href="https://x.com/KofmanMichael">https://x.com/KofmanMichael</a></li>
+<li>@MassicotDara — <a class="reviewed" href="https://x.com/MassicotDara">https://x.com/MassicotDara</a></li>
+<li>@RALee85 — <a class="reviewed" href="https://x.com/RALee85">https://x.com/RALee85</a></li>
+<li>@oryxspioenkop — <a class="reviewed" href="https://x.com/oryxspioenkop">https://x.com/oryxspioenkop</a></li>
+<li>@Deepstate_UA — <a class="reviewed" href="https://x.com/Deepstate_UA">https://x.com/Deepstate_UA</a></li>
+<li>@MFA_Ukraine — <a class="reviewed" href="https://x.com/MFA_Ukraine">https://x.com/MFA_Ukraine</a></li>
+<li>@ukrpravda_news — <a class="reviewed" href="https://x.com/ukrpravda_news">https://x.com/ukrpravda_news</a></li>
 </ul></div>
 </section>
 </div>
