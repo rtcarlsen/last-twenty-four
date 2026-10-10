@@ -1,0 +1,1523 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-08T15:45:00+02:00",
+  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
+  "asOf": "Thursday, 8 October 2026, 17:45 CEST",
+  "windowLabel": "7 Oct 2026 17:45 CEST → 8 Oct 2026 17:45 CEST",
+  "cadenceLabel": "Updated twice daily",
+  "banner": null,
+  "editionNote": "Carried from the 8 October 17:45 CEST edition. The next automated run replaces this file.",
+  "theaters": [
+    {
+      "id": "ru",
+      "nav": "Russia & Ukraine",
+      "heading": "War and diplomacy",
+      "note": null,
+      "items": [
+        {
+          "kind": "Military",
+          "time": "8 Oct",
+          "title": "A new drone night hit Kyiv; the Air Force count and the capital’s toll do not yet match",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "The Kyiv Independent, citing the Air Force, said Russia attacked with 142 Shahed-type drones overnight on 8 October, 82 of them jet-powered, and that defenders shot down or suppressed 126. The same desk, citing the Kyiv city military administration, said four people were killed and 21 injured in the capital, including four children: a UAV on a five-storey residential roof in Solomianskyi and debris fire in a 12-storey building in Desnianskyi. Governor Tymur Tkachenko said three people were injured in Kyiv Oblast, in Bucha and Brovary districts. Kyiv Post, citing Mayor Vitali Klitschko, reported three killed and 14 injured in Thursday drone attacks, including a UAV on a four-storey store in Solomianskyi and a later residential hit in Desnianskyi where rescuers found two bodies. A Kyiv Independent live line said a glide-bomb strike on a Kramatorsk bus stop killed at least 33; that figure was not restated in the opened wire copy. The same desk’s main 8 October item put the past-day national toll at least 10 dead and 45 injured. kremlin.ru, eng.mil.ru, TASS and Interfax were reviewed; no Russian ministry text on the 7–8 October night was opened. president.gov.ua and the General Staff account were reviewed; the Air Force wording used here is the Kyiv Independent rendering. ISW, DeepState, Oryx, Mediazona, CIT and Bellingcat were reviewed; no in-window map move was opened. This corrects the 05:45 brief, which found no new overnight package before that cutoff."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "The Air Force, KMDA and Klitschko speak for Kyiv and have an interest in documenting civilian harm and intercept performance. The Kyiv Independent and Kyiv Post are Ukrainian English desks with a national interest; they restate those officials and are not an adverse-party check. No Reuters or AFP file on the 8 October night was opened. A milblogger echo layer (Rybar, Two Majors, Fighterbomber, Readovka) was reviewed and did not independently support the toll."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "A Russian drone attack on Kyiv overnight into 8 October is likely. The capital’s death toll is not settled — four via KMDA on the Kyiv Independent, three via Klitschko on Kyiv Post — and should be treated as moving. The Kramatorsk figure of at least 33 is single-source, unconfirmed on the desks opened. The 6–7 October combined package remains the standing event; its Pryluky count was not re-opened and is still unsettled."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "Moderate on a drone night against Kyiv; low on any single fatality figure; low on the Kramatorsk 33."
+            }
+          ]
+        },
+        {
+          "kind": "Diplomatic",
+          "time": "8 Oct",
+          "title": "Zelenskyy briefed Costa on strikes and said a team is traveling for U.S. meetings",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "In a first-person post, President Zelenskyy said he spoke with European Council President António Costa, thanked him for condemning strikes and for condolences, and said that in recent days alone strikes on Pryluky, Kramatorsk, Kyiv and other cities had killed 78 and injured 215. He said a €1.2 billion tranche received the day before would go to defence, including drones, and that they agreed a three-way meeting with Ursula von der Leyen. He also said he briefed Costa on contacts with the American side in the coming days and that the Ukrainian team was already traveling. Consilium, the Commission and the White House were reviewed; no counterpart readout of the Costa call and no U.S. confirmation of the meetings were opened. @mfa_russia and @KremlinRussia_E were reviewed; no civilian-toll comment was opened."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Zelenskyy speaks for Kyiv and has an interest in pairing the casualty line with a funding and Washington-meetings claim. Costa’s office was not opened. Absence of a Kremlin toll comment on the accounts reviewed is a negative finding, not a denial."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "The Costa call and the €1.2 billion line are single-source, unconfirmed pending a Council text. The 78/215 aggregate is Zelenskyy’s figure for “recent days,” not a new verified count for this window. The October technical-talks claim remains single-source, unconfirmed, consistent with the 05:45 brief. No new diplomatic arrangement was established."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "Low on the call details until a second party confirms them; moderate that no Russian civilian-toll comment was opened."
+            }
+          ],
+          "flag": "Single-source"
+        }
+      ]
+    },
+    {
+      "id": "hy",
+      "nav": "Hybrid warfare",
+      "heading": "European hybrid warfare",
+      "note": "This theater was not in the 8 October edition. The next automated run fills it from the pre-bound desks, or leaves it empty if nothing in the window qualifies.",
+      "items": []
+    },
+    {
+      "id": "eu",
+      "nav": "Europe",
+      "heading": "EU institutions, NATO Europe, and major states other than Germany",
+      "note": null,
+      "items": [
+        {
+          "kind": "Diplomatic",
+          "time": "7–8 Oct",
+          "title": "Ambassadors cleared about 1,650 Russia listings; ministers have not adopted them",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "EUalive reported on 8 October that EU ambassadors approved on 7 October the largest single expansion of Russia sanctions listings since the full-scale invasion, clearing 1,646 names — 743 individuals and 826 entities, plus 77 people who stood in September’s State Duma vote in occupied Ukrainian territory — for formal adoption on 12 October in Luxembourg, with Ukrainian Foreign Minister Andrii Sybiha expected by video. Euronews, timestamped 7 October 14:23, reported the same ambassador agreement and said the blacklist would then cover almost 4,650 names; that timestamp sits just before this window and is used as the prior wire, not as an in-window act. bne IntelliNews, citing Reuters, put the batch at some 1,650 people and companies and said it adds no new trade restrictions. Consilium and the Official Journal were reviewed; no adopted legal act was located. nato.int was reviewed; no new North Atlantic Council communiqué was opened. The German coalition message is on the Germany tab."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "EUalive and Euronews are Brussels specialist desks, not the Council. Ambassadors speak for member states at Coreper; a listing is not law until ministers adopt it and it is published. Kallas has an institutional interest in showing a sanctions front after the September Duma vote in occupied territory."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "An ambassador-level deal on a large listings package is likely. Formal adoption on 12 October is a schedule, not a completed act. No new trade restriction was established on the desks opened. This is a new institutional fact relative to the 05:45 brief, which did not open the listings file."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "Moderate on the ambassador agreement; low on the final published list until the Official Journal text appears."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bt",
+      "nav": "Baltics",
+      "heading": "Estonia, Latvia, and Lithuania",
+      "note": null,
+      "items": [
+        {
+          "kind": "Political",
+          "time": "8 Oct",
+          "title": "No new Baltic kinetic incident; the Saeima page still shows 41 seats for the United List",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "ERR, LSM, LRT, Delfi, LETA, the three defence ministries and nato.int were reviewed. No airspace violation, escort or shoot-down dated inside 7 October 17:45 to 8 October 17:45 was opened. The Central Election Commission results page still showed a last update of 5 October 12:23 and 41 seats for the United List (Apvienotais saraksts) on 35.288 percent, with Latvia First 17, Sovereign Power/Young Latvians 15, National Alliance 10, Progressives 10 and New Unity 7. A 8 October Foundation for European Progressive Studies commentary used the same 41-seat figure. Aggregator tables that still say 42 are not the certifying authority. @MoD_Estonia, @Latvijas_armija, @kaitsemin and @AizsardzibasMin were reviewed; no in-window kinetic post was established."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Baltic defence ministries speak for their governments and have an interest in both deterrence signalling and not over-claiming incidents. CVK is the primary for the count. FEPS is a party-adjacent progressive institute commenting on the result, not the electoral authority."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "A new kinetic incident in this window is unlikely on the desks reviewed. A United List plurality is likely. The seat split on the official page is 41, not the 42 in some aggregator copy; it is still not a certified protocol. Consistent with the 05:45 brief that the count was uncertified; the 41 figure is the page that was opened."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "Moderate that no new kinetic event was reported; moderate on the plurality; low on certification."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba",
+      "nav": "Balkans",
+      "heading": "Serbia, Kosovo, Bosnia and Herzegovina, Montenegro, North Macedonia, Albania, Croatia",
+      "note": null,
+      "items": [
+        {
+          "kind": "Political",
+          "time": "7–8 Oct",
+          "title": "Shiroka Pula’s 81-vote election stands; BIRN adds the last-minute character of the deal",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "Reuters reported from Pristina that parliament elected economist Justina Shiroka Pula president with 81 votes in the early minutes of Wednesday, one more than the threshold, avoiding a snap election. It said the vote followed a deal between Prime Minister Albin Kurti’s Vetevendosje and the Democratic Party of Kosovo to limit the powers of the Kosovo Specialist Chambers. Balkan Insight on 8 October reported that she was told of the pick less than two hours before the deadline; the analysis itself is paywalled beyond that scene. KFOR, EULEX and OHR homepages were reviewed; no new posture note was opened. Belgrade desks were reviewed; no in-window Serbian government recognition of the election was located."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Reuters is a wire with no institutional interest in the presidency. BIRN is a regional investigative desk; the opened portion is scene-setting, not the legal text of the court deal. Kurti’s party and PDK have an interest in presenting the package as a constitutional save."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "The election with 81 votes is likely, consistent with the 05:45 brief. The linked limit on the Specialist Chambers remains a described deal, not a verified adopted text. No new Balkan kinetic incident was located."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "High on the vote count as carried by Reuters; moderate on the court-deal description; low on its legal effect."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca",
+      "nav": "Caucasus",
+      "heading": "Caucasus",
+      "note": null,
+      "items": [
+        {
+          "kind": "Diplomatic",
+          "time": "8 Oct",
+          "title": "A Georgia opposition-ban resolution was set for a vote; the passage count is not independently verified",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "Georgia Today reported on 8 October that the European Parliament was set to vote that day on a joint draft condemning Georgian Dream’s attempt to ban opposition parties and demanding withdrawal of the constitutional lawsuit against United National Movement, Coalition for Change, Strong Georgia–Lelo, the Federalists and For Georgia. JAMnews’s 8 October roundup carried the same draft-resolution line, plus an Azerbaijani Media Council response to a Der Spiegel report on August Hanning, and a Pashinyan line that the case of an Azerbaijani serviceman in Armenia is criminal and that the opposition is turning it into sabotage and terrorism. Azg reported Pashinyan saying Azerbaijan had not filed an extradition request for the serviceman detained in Shaki. europarl.europa.eu was reviewed; the adopted text and the roll-call were not opened. A Georgian state-adjacent outlet claimed a 445–37–97 vote; that outlet is not used as a verifier. Civil.ge, OC Media and EUMM were reviewed; no new administrative-boundary incident was opened."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Georgia Today is a Tbilisi English desk; the draft’s sponsors have an interest in framing the lawsuit as a one-party move. Georgian Dream has the opposite interest. Pashinyan speaks for Yerevan and has an interest in keeping the Syunik shooting inside a criminal file. The Azerbaijani Media Council speaks for Baku’s media line on the Hanning report."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "A draft critical of the party-ban lawsuit was before the Parliament on 8 October. Passage, and any 445–37–97 split, is single-source, unconfirmed until the Parliament record is opened. No new kinetic incident on the Armenian–Azerbaijani line was located. The Syunik case remains a criminal file on both sides’ public lines, consistent with the 2 October brief."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "Moderate that a draft was scheduled; low on adoption; moderate that no new kinetic incident was opened."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de",
+      "nav": "Germany",
+      "heading": "Germany",
+      "note": null,
+      "items": [
+        {
+          "kind": "Political",
+          "time": "8 Oct",
+          "title": "Coalition leaders told MPs the talks were constructive and called democracy’s position a historic test",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "Reuters reported that senior members of the governing coalition vowed to implement reforms quickly, in a message to lawmakers seen by the wire on Thursday, after Chancellor Friedrich Merz and Finance Minister Lars Klingbeil discussed policy at the chancellery late on Wednesday. The message, signed by the leaders of the conservative and Social Democrat parliamentary groups, said growth, jobs and social cohesion would be at the heart of the agenda and that democracy was facing a historic test. AFP, carried by BSS, named the lawmakers at the talks as Matthias Miersch, Thorsten Frei and Alexander Hoffmann and quoted a line that they were determined not to abandon the country to extremists. tagesschau, ZDF, the Bundesregierung site and @bundeskanzler were reviewed; a chancellery transcript of the message was not opened. Stuttgarter Zeitung was reviewed for Baden-Württemberg; the security item is below."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "The message is an internal coalition text as seen by Reuters and AFP, not a published government communiqué. Merz’s bloc and the SPD have an interest in showing unity while AfD polling and state-election results pressure the coalition. Reuters and AFP are wires; they did not publish the full text."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "A late-Wednesday coalition meeting and a Thursday message to MPs are likely. The “historic test” line is the coalition’s framing, not an independent assessment of institutional failure. No new federal legislative act was located. This continues the post-state-election pressure line from the 05:45 brief and adds the message."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "Moderate on the meeting and the message as carried by two wires; low on any specific reform that was agreed."
+            }
+          ]
+        },
+        {
+          "kind": "Political",
+          "time": "8 Oct",
+          "title": "Police shot and killed a 27-year-old at the Tuttlingen town hall; the Land criminal office has the file",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "Stuttgarter Zeitung reported that police shot a 27-year-old man near the Tuttlingen town hall around noon on 8 October and that he died. Spokesman Daniel Brill told the paper there had been a use of firearms by police, that the man had fired at officers first, and that the officers were not injured. The paper said the Landeskriminalamt had taken the investigation. dpa was credited on the photograph. A separate Stuttgart street assault on an officer, also in the paper, is omitted as a local order item."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Stuttgarter Zeitung is the required Baden-Württemberg regional desk. The police spokesman speaks for the force that used the firearm and has an interest in the sequence of fire. The Land criminal office is the investigating authority; its own notice was not opened."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "A fatal police shooting in Tuttlingen on 8 October is likely. The claim that the man fired first is single-source, unconfirmed pending the Landeskriminalamt account. No federal political link was established."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "Moderate on the death and the police use of a firearm; low on the sequence of shots."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceIntro": [
+    "Full list of sources canvased for each tab.",
+    "Green URL = reviewed and used (cited in the tab). White URL = reviewed, not used."
+  ],
+  "sourceGroups": [
+    {
+      "theater": "Balkans",
+      "sources": [
+        {
+          "name": "BIRN",
+          "href": "https://balkaninsight.com/2026/10/08/justina-shiroka-pula-another-woman-at-kosovos-helm/bi/",
+          "status": "used",
+          "note": "Shiroka Pula"
+        },
+        {
+          "name": "Reuters",
+          "href": "https://www.reuters.com/world/kosovo-parliament-elects-new-president-avoiding-snap-election-2026-10-07/",
+          "status": "used",
+          "note": "Shiroka Pula"
+        },
+        {
+          "name": "@NATO_KFOR",
+          "href": "https://x.com/NATO_KFOR",
+          "status": "reviewed"
+        },
+        {
+          "name": "Al Jazeera Balkans",
+          "href": "https://balkans.aljazeera.net/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Albania government",
+          "href": "https://www.kryeministria.al/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Beta",
+          "href": "https://beta.rs/",
+          "status": "reviewed"
+        },
+        {
+          "name": "BiH Presidency",
+          "href": "https://www.predsjednistvobih.ba/",
+          "status": "reviewed"
+        },
+        {
+          "name": "BIRN homepage",
+          "href": "https://balkaninsight.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Croatia government",
+          "href": "https://vlada.gov.hr/",
+          "status": "reviewed"
+        },
+        {
+          "name": "EULEX",
+          "href": "https://www.eulex-kosovo.eu/",
+          "status": "reviewed"
+        },
+        {
+          "name": "European Western Balkans",
+          "href": "https://europeanwesternbalkans.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Exit.al",
+          "href": "https://exit.al/",
+          "status": "reviewed"
+        },
+        {
+          "name": "HRT",
+          "href": "https://www.hrt.hr/",
+          "status": "reviewed"
+        },
+        {
+          "name": "KFOR",
+          "href": "https://jfcnaples.nato.int/kfor",
+          "status": "reviewed"
+        },
+        {
+          "name": "Kosovo Assembly",
+          "href": "https://www.kuvendikosoves.org/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Kosovo Presidency",
+          "href": "https://president-ksgov.net/",
+          "status": "reviewed"
+        },
+        {
+          "name": "KoSSev",
+          "href": "https://kossev.info/",
+          "status": "reviewed"
+        },
+        {
+          "name": "KRIK",
+          "href": "https://www.krik.rs/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Montenegro government",
+          "href": "https://www.gov.me/",
+          "status": "reviewed"
+        },
+        {
+          "name": "N1",
+          "href": "https://n1info.rs/",
+          "status": "reviewed"
+        },
+        {
+          "name": "North Macedonia government",
+          "href": "https://vlada.mk/",
+          "status": "reviewed"
+        },
+        {
+          "name": "OCCRP",
+          "href": "https://www.occrp.org/",
+          "status": "reviewed"
+        },
+        {
+          "name": "OHR",
+          "href": "https://www.ohr.int/",
+          "status": "reviewed"
+        },
+        {
+          "name": "RFE/RL Balkan",
+          "href": "https://www.rferl.org/",
+          "status": "reviewed"
+        },
+        {
+          "name": "RTCG",
+          "href": "https://www.rtcg.me/",
+          "status": "reviewed"
+        },
+        {
+          "name": "RTS",
+          "href": "https://www.rts.rs/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Serbia government",
+          "href": "https://www.srbija.gov.rs/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Tanjug",
+          "href": "https://www.tanjug.rs/",
+          "status": "reviewed"
+        }
+      ]
+    },
+    {
+      "theater": "Baltics",
+      "sources": [
+        {
+          "name": "CVK SV2026 results",
+          "href": "https://dati.cvk.lv/SV2026/en/velesanu-rezultati/",
+          "status": "used"
+        },
+        {
+          "name": "FEPS",
+          "href": "https://feps-europe.eu/a-strong-mandate-amid-falling-participation/",
+          "status": "used",
+          "note": "Saeima commentary"
+        },
+        {
+          "name": "15min",
+          "href": "https://www.15min.lt/",
+          "status": "reviewed"
+        },
+        {
+          "name": "@AizsardzibasMin",
+          "href": "https://x.com/AizsardzibasMin",
+          "status": "reviewed"
+        },
+        {
+          "name": "@kaitsemin",
+          "href": "https://x.com/kaitsemin",
+          "status": "reviewed"
+        },
+        {
+          "name": "@Latvijas_armija",
+          "href": "https://x.com/Latvijas_armija",
+          "status": "reviewed"
+        },
+        {
+          "name": "@Lithuanian_MoD",
+          "href": "https://x.com/Lithuanian_MoD",
+          "status": "reviewed"
+        },
+        {
+          "name": "@MoD_Estonia",
+          "href": "https://x.com/MoD_Estonia",
+          "status": "reviewed"
+        },
+        {
+          "name": "Baltic Monitor",
+          "href": "https://balticmonitor.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Baltic Times",
+          "href": "https://www.baltictimes.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "BNS",
+          "href": "https://www.bns.lt/",
+          "status": "reviewed"
+        },
+        {
+          "name": "CVK Latvia",
+          "href": "https://www.cvk.lv/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Delfi",
+          "href": "https://www.delfi.lv/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Delfi EE",
+          "href": "https://www.delfi.ee/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Delfi LT",
+          "href": "https://www.delfi.lt/",
+          "status": "reviewed"
+        },
+        {
+          "name": "ERR",
+          "href": "https://news.err.ee/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Estonian government",
+          "href": "https://valitsus.ee/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Estonian MoD",
+          "href": "https://kaitseministeerium.ee/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Estonian Police and Border Guard",
+          "href": "https://www.politsei.ee/",
+          "status": "reviewed"
+        },
+        {
+          "name": "ICDS",
+          "href": "https://icds.ee/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Latvian government",
+          "href": "https://www.mk.gov.lv/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Latvian MoD",
+          "href": "https://www.mod.gov.lv/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Latvian Public Media",
+          "href": "https://www.lsm.lv/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Latvian State Border Guard",
+          "href": "https://www.rs.gov.lv/",
+          "status": "reviewed"
+        },
+        {
+          "name": "LETA",
+          "href": "https://www.leta.lv/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Lithuanian government",
+          "href": "https://lrv.lt/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Lithuanian MoD",
+          "href": "https://kam.lt/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Lithuanian State Border Guard",
+          "href": "https://vsat.lrv.lt/",
+          "status": "reviewed"
+        },
+        {
+          "name": "LRT",
+          "href": "https://www.lrt.lt/en",
+          "status": "reviewed"
+        },
+        {
+          "name": "LSM",
+          "href": "https://eng.lsm.lv/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Postimees",
+          "href": "https://news.postimees.ee/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Riigikogu",
+          "href": "https://www.riigikogu.ee/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Saeima",
+          "href": "https://www.saeima.lv/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Seimas",
+          "href": "https://www.lrs.lt/",
+          "status": "reviewed"
+        }
+      ]
+    },
+    {
+      "theater": "Caucasus",
+      "sources": [
+        {
+          "name": "Georgia Today",
+          "href": "https://georgiatoday.ge/european-parliament-to-vote-on-georgia-resolution-today/",
+          "status": "used",
+          "note": "EP resolution"
+        },
+        {
+          "name": "JAMnews",
+          "href": "https://jam-news.net/news-in-azerbaijan-armenia-georgia-5-9-october-2026/",
+          "status": "used",
+          "note": "8 Oct roundup"
+        },
+        {
+          "name": "@CivilGE",
+          "href": "https://x.com/CivilGE",
+          "status": "reviewed"
+        },
+        {
+          "name": "Agenda.ge",
+          "href": "https://agenda.ge/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Armenian government",
+          "href": "https://www.gov.am/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Armenpress",
+          "href": "https://armenpress.am/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Azerbaijani presidency",
+          "href": "https://president.az/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Azertac",
+          "href": "https://azertag.az/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Azg",
+          "href": "https://azg.am/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Civil.ge",
+          "href": "https://civil.ge/",
+          "status": "reviewed"
+        },
+        {
+          "name": "CivilNet",
+          "href": "https://www.civilnet.am/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Commonspace",
+          "href": "https://www.commonspace.eu/",
+          "status": "reviewed"
+        },
+        {
+          "name": "EUMM",
+          "href": "https://www.eumm.eu/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Eurasianet",
+          "href": "https://eurasianet.org/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Georgian government",
+          "href": "https://www.gov.ge/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Hetq",
+          "href": "https://hetq.am/",
+          "status": "reviewed"
+        },
+        {
+          "name": "IPN Georgia",
+          "href": "https://www.interpressnews.ge/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Jam-news homepage",
+          "href": "https://jam-news.net/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Meydan",
+          "href": "https://www.meydan.tv/",
+          "status": "reviewed"
+        },
+        {
+          "name": "MFA Armenia",
+          "href": "https://www.mfa.am/",
+          "status": "reviewed"
+        },
+        {
+          "name": "MFA Azerbaijan",
+          "href": "https://mfa.gov.az/",
+          "status": "reviewed"
+        },
+        {
+          "name": "MFA Georgia",
+          "href": "https://mfa.gov.ge/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Netgazeti",
+          "href": "https://netgazeti.ge/",
+          "status": "reviewed"
+        },
+        {
+          "name": "OC Media",
+          "href": "https://oc-media.org/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Report.az",
+          "href": "https://report.az/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Trend",
+          "href": "https://en.trend.az/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Turan",
+          "href": "https://www.turan.az/",
+          "status": "reviewed"
+        }
+      ]
+    },
+    {
+      "theater": "Europe",
+      "sources": [
+        {
+          "name": "EUalive",
+          "href": "https://eualive.net/eu-clears-its-largest-russia-sanctions-list-since-the-invasion/",
+          "status": "used",
+          "note": "22nd listings"
+        },
+        {
+          "name": "Euronews",
+          "href": "https://www.euronews.com/2026/10/07/eu-agrees-to-sanction-over-1600-people-and-entities-linked-to-russias-war",
+          "status": "used",
+          "note": "1,646 names"
+        },
+        {
+          "name": "@EU_Commission",
+          "href": "https://x.com/EU_Commission",
+          "status": "reviewed"
+        },
+        {
+          "name": "@eucopresident",
+          "href": "https://x.com/eucopresident",
+          "status": "reviewed"
+        },
+        {
+          "name": "@Europarl_EN",
+          "href": "https://x.com/Europarl_EN",
+          "status": "reviewed"
+        },
+        {
+          "name": "@kajakallas",
+          "href": "https://x.com/kajakallas",
+          "status": "reviewed"
+        },
+        {
+          "name": "@NATO",
+          "href": "https://x.com/NATO",
+          "status": "reviewed"
+        },
+        {
+          "name": "@NATOpress",
+          "href": "https://x.com/NATOpress",
+          "status": "reviewed"
+        },
+        {
+          "name": "@SecGenNATO",
+          "href": "https://x.com/SecGenNATO",
+          "status": "reviewed"
+        },
+        {
+          "name": "@SHAPE_NATO",
+          "href": "https://x.com/SHAPE_NATO",
+          "status": "reviewed"
+        },
+        {
+          "name": "@vonderleyen",
+          "href": "https://x.com/vonderleyen",
+          "status": "reviewed"
+        },
+        {
+          "name": "ABC Spain",
+          "href": "https://www.abc.es/",
+          "status": "reviewed"
+        },
+        {
+          "name": "ANP",
+          "href": "https://www.anp.nl/",
+          "status": "reviewed"
+        },
+        {
+          "name": "ANSA",
+          "href": "https://www.ansa.it/",
+          "status": "reviewed"
+        },
+        {
+          "name": "bne IntelliNews",
+          "href": "https://www.intellinews.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Bruegel",
+          "href": "https://www.bruegel.org/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Corriere della Sera",
+          "href": "https://www.corriere.it/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Council of the EU news",
+          "href": "https://www.consilium.europa.eu/en/press/press-releases/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Court of Justice",
+          "href": "https://curia.europa.eu/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Der Standard (Austria)",
+          "href": "https://www.derstandard.at/",
+          "status": "reviewed"
+        },
+        {
+          "name": "ECB",
+          "href": "https://www.ecb.europa.eu/",
+          "status": "reviewed"
+        },
+        {
+          "name": "ECFR",
+          "href": "https://ecfr.eu/",
+          "status": "reviewed"
+        },
+        {
+          "name": "EEAS",
+          "href": "https://www.eeas.europa.eu/",
+          "status": "reviewed"
+        },
+        {
+          "name": "EFE",
+          "href": "https://www.efe.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "El País",
+          "href": "https://elpais.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Elysee",
+          "href": "https://www.elysee.fr/",
+          "status": "reviewed"
+        },
+        {
+          "name": "EUobserver",
+          "href": "https://euobserver.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Euractiv",
+          "href": "https://www.euractiv.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "European Commission",
+          "href": "https://commission.europa.eu/",
+          "status": "reviewed"
+        },
+        {
+          "name": "European Council / Consilium",
+          "href": "https://www.consilium.europa.eu/",
+          "status": "reviewed"
+        },
+        {
+          "name": "European Council president",
+          "href": "https://www.consilium.europa.eu/en/european-council/president/",
+          "status": "reviewed"
+        },
+        {
+          "name": "European Parliament",
+          "href": "https://www.europarl.europa.eu/",
+          "status": "reviewed"
+        },
+        {
+          "name": "France 24",
+          "href": "https://www.france24.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "gov.uk",
+          "href": "https://www.gov.uk/",
+          "status": "reviewed"
+        },
+        {
+          "name": "governo.it",
+          "href": "https://www.governo.it/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Irish Times",
+          "href": "https://www.irishtimes.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "La Repubblica",
+          "href": "https://www.repubblica.it/",
+          "status": "reviewed"
+        },
+        {
+          "name": "la-moncloa",
+          "href": "https://www.lamoncloa.gob.es/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Le Monde",
+          "href": "https://www.lemonde.fr/",
+          "status": "reviewed"
+        },
+        {
+          "name": "NATO",
+          "href": "https://www.nato.int/",
+          "status": "reviewed"
+        },
+        {
+          "name": "NOS",
+          "href": "https://nos.nl/",
+          "status": "reviewed"
+        },
+        {
+          "name": "NRC",
+          "href": "https://www.nrc.nl/",
+          "status": "reviewed"
+        },
+        {
+          "name": "PAP",
+          "href": "https://www.pap.pl/",
+          "status": "reviewed"
+        },
+        {
+          "name": "POLITICO Europe",
+          "href": "https://www.politico.eu/",
+          "status": "reviewed"
+        },
+        {
+          "name": "premier.gov.pl",
+          "href": "https://www.gov.pl/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Rzeczpospolita",
+          "href": "https://www.rp.pl/",
+          "status": "reviewed"
+        },
+        {
+          "name": "SHAPE",
+          "href": "https://shape.nato.int/",
+          "status": "reviewed"
+        },
+        {
+          "name": "SVT",
+          "href": "https://www.svt.se/",
+          "status": "reviewed"
+        },
+        {
+          "name": "The Guardian",
+          "href": "https://www.theguardian.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Yle",
+          "href": "https://yle.fi/",
+          "status": "reviewed"
+        }
+      ]
+    },
+    {
+      "theater": "Germany",
+      "sources": [
+        {
+          "name": "Reuters",
+          "href": "https://www.reuters.com/business/finance/german-coalition-affirms-reform-agenda-amid-historic-test-democracy-2026-10-08/",
+          "status": "used",
+          "note": "coalition message"
+        },
+        {
+          "name": "Stuttgarter Zeitung",
+          "href": "https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/toedlicher-einsatz-in-tuttlingen-27-jaehriger-nach-schusswechsel-mit-der-polizei-am-rathaus-gestorben-79547551.html",
+          "status": "used",
+          "note": "Tuttlingen"
+        },
+        {
+          "name": "@bundeskanzler",
+          "href": "https://x.com/bundeskanzler",
+          "status": "reviewed"
+        },
+        {
+          "name": "AFP Germany via BSS",
+          "href": "https://www.bssnews.net/international/432614",
+          "status": "reviewed"
+        },
+        {
+          "name": "Bayerischer Rundfunk",
+          "href": "https://www.br.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "BMI",
+          "href": "https://www.bmi.bund.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "BMVg",
+          "href": "https://www.bmvg.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Bundesrat",
+          "href": "https://www.bundesrat.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Bundesregierung",
+          "href": "https://www.bundesregierung.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Bundestag",
+          "href": "https://www.bundestag.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Bundeswehr",
+          "href": "https://www.bundeswehr.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "BW interior ministry",
+          "href": "https://im.baden-wuerttemberg.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Destatis",
+          "href": "https://www.destatis.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "href": "https://www.deutschlandfunk.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "dpa",
+          "href": "https://www.dpa.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "FAZ",
+          "href": "https://www.faz.net/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Focus",
+          "href": "https://www.focus.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Handelsblatt",
+          "href": "https://www.handelsblatt.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "MDR",
+          "href": "https://www.mdr.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "ntv",
+          "href": "https://www.n-tv.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Polizei BW",
+          "href": "https://polizei.baden-wuerttemberg.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Spiegel",
+          "href": "https://www.spiegel.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Stuttgarter Zeitung homepage reviewed",
+          "href": "https://www.stuttgarter-zeitung.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "SWR",
+          "href": "https://www.swr.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Süddeutsche Zeitung",
+          "href": "https://www.sueddeutsche.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "tagesschau",
+          "href": "https://www.tagesschau.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Welt",
+          "href": "https://www.welt.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "ZDFheute",
+          "href": "https://www.zdfheute.de/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Zeit",
+          "href": "https://www.zeit.de/",
+          "status": "reviewed"
+        }
+      ]
+    },
+    {
+      "theater": "Russia & Ukraine",
+      "sources": [
+        {
+          "name": "Kyiv Independent",
+          "href": "https://kyivindependent.com/russian-strikes-kill-at-least-10-injure-45-across-ukraine-over-past-day/",
+          "status": "used",
+          "note": "8 Oct strikes"
+        },
+        {
+          "name": "Kyiv Post",
+          "href": "https://www.kyivpost.com/post/86452",
+          "status": "used",
+          "note": "8 Oct Kyiv drones"
+        },
+        {
+          "name": "Zelenskyy",
+          "href": "https://x.com/ZelenskyyUa/status/2108211795974340991",
+          "status": "used",
+          "note": "Costa call"
+        },
+        {
+          "name": "@Deepstate_UA",
+          "href": "https://x.com/Deepstate_UA",
+          "status": "reviewed"
+        },
+        {
+          "name": "@DefenceU",
+          "href": "https://x.com/DefenceU",
+          "status": "reviewed"
+        },
+        {
+          "name": "@GeneralStaffUA",
+          "href": "https://x.com/GeneralStaffUA",
+          "status": "reviewed"
+        },
+        {
+          "name": "@GeoConfirmed",
+          "href": "https://x.com/GeoConfirmed",
+          "status": "reviewed"
+        },
+        {
+          "name": "@IAPonomarenko",
+          "href": "https://x.com/IAPonomarenko",
+          "status": "reviewed"
+        },
+        {
+          "name": "@KofmanMichael",
+          "href": "https://x.com/KofmanMichael",
+          "status": "reviewed"
+        },
+        {
+          "name": "@KremlinRussia_E",
+          "href": "https://x.com/KremlinRussia_E",
+          "status": "reviewed"
+        },
+        {
+          "name": "@KyivIndependent",
+          "href": "https://x.com/KyivIndependent",
+          "status": "reviewed"
+        },
+        {
+          "name": "@LawDavF",
+          "href": "https://x.com/LawDavF",
+          "status": "reviewed"
+        },
+        {
+          "name": "@MassicotDara",
+          "href": "https://x.com/MassicotDara",
+          "status": "reviewed"
+        },
+        {
+          "name": "@mediazonanews",
+          "href": "https://x.com/mediazonanews",
+          "status": "reviewed"
+        },
+        {
+          "name": "@MeduzaEng",
+          "href": "https://x.com/MeduzaEng",
+          "status": "reviewed"
+        },
+        {
+          "name": "@mfa_russia",
+          "href": "https://x.com/mfa_russia",
+          "status": "reviewed"
+        },
+        {
+          "name": "@MFA_Ukraine",
+          "href": "https://x.com/MFA_Ukraine",
+          "status": "reviewed"
+        },
+        {
+          "name": "@mod_russia",
+          "href": "https://x.com/mod_russia",
+          "status": "reviewed"
+        },
+        {
+          "name": "@oryxspioenkop",
+          "href": "https://x.com/oryxspioenkop",
+          "status": "reviewed"
+        },
+        {
+          "name": "@RALee85",
+          "href": "https://x.com/RALee85",
+          "status": "reviewed"
+        },
+        {
+          "name": "@RuslanLeviev",
+          "href": "https://x.com/RuslanLeviev",
+          "status": "reviewed"
+        },
+        {
+          "name": "@tass_agency",
+          "href": "https://x.com/tass_agency",
+          "status": "reviewed"
+        },
+        {
+          "name": "@Tatarigami_UA",
+          "href": "https://x.com/Tatarigami_UA",
+          "status": "reviewed"
+        },
+        {
+          "name": "@TheStudyofWar",
+          "href": "https://x.com/TheStudyofWar",
+          "status": "reviewed"
+        },
+        {
+          "name": "@UAWeapons",
+          "href": "https://x.com/UAWeapons",
+          "status": "reviewed"
+        },
+        {
+          "name": "@ukrpravda_news",
+          "href": "https://x.com/ukrpravda_news",
+          "status": "reviewed"
+        },
+        {
+          "name": "@ZelenskyyUa profile",
+          "href": "https://x.com/ZelenskyyUa",
+          "status": "reviewed"
+        },
+        {
+          "name": "AFP",
+          "href": "https://www.afp.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Air Force of Ukraine",
+          "href": "https://www.facebook.com/kpsZSU",
+          "status": "reviewed"
+        },
+        {
+          "name": "AP",
+          "href": "https://apnews.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "BBC",
+          "href": "https://www.bbc.com/news",
+          "status": "reviewed"
+        },
+        {
+          "name": "BBC Russian",
+          "href": "https://www.bbc.com/russian",
+          "status": "reviewed"
+        },
+        {
+          "name": "Bellingcat",
+          "href": "https://www.bellingcat.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Bloomberg",
+          "href": "https://www.bloomberg.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "CNA",
+          "href": "https://www.cna.org/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Conflict Intelligence Team",
+          "href": "https://notes.citeam.org/",
+          "status": "reviewed"
+        },
+        {
+          "name": "DeepStateMap",
+          "href": "https://deepstatemap.live/",
+          "status": "reviewed"
+        },
+        {
+          "name": "en.kremlin.ru",
+          "href": "http://en.kremlin.ru/",
+          "status": "reviewed"
+        },
+        {
+          "name": "eng.mil.ru",
+          "href": "https://eng.mil.ru/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Fighterbomber (echo)",
+          "href": "https://t.me/fighter_bomber",
+          "status": "reviewed"
+        },
+        {
+          "name": "Financial Times",
+          "href": "https://www.ft.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Frontelligence",
+          "href": "https://frontelligence.substack.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "General Staff of Ukraine",
+          "href": "https://www.zsu.gov.ua/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Hromadske",
+          "href": "https://hromadske.ua/",
+          "status": "reviewed"
+        },
+        {
+          "name": "IISS",
+          "href": "https://www.iiss.org/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Interfax",
+          "href": "https://www.interfax.ru/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Interfax-Ukraine",
+          "href": "https://en.interfax.com.ua/",
+          "status": "reviewed"
+        },
+        {
+          "name": "ISW",
+          "href": "https://www.understandingwar.org/",
+          "status": "reviewed"
+        },
+        {
+          "name": "kremlin.ru",
+          "href": "http://kremlin.ru/",
+          "status": "reviewed"
+        },
+        {
+          "name": "KSE Institute",
+          "href": "https://kse.ua/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Kyiv Post homepage",
+          "href": "https://www.kyivpost.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Liveuamap (tier 4, not a lead)",
+          "href": "https://liveuamap.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Mediazona",
+          "href": "https://en.zona.media/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Meduza",
+          "href": "https://meduza.io/en",
+          "status": "reviewed"
+        },
+        {
+          "name": "mid.ru",
+          "href": "https://mid.ru/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Oryx",
+          "href": "https://www.oryxspioenkop.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "president.gov.ua",
+          "href": "https://www.president.gov.ua/",
+          "status": "reviewed"
+        },
+        {
+          "name": "RBC-Ukraine",
+          "href": "https://www.rbc.ua/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Readovka (echo)",
+          "href": "https://t.me/readovkanews",
+          "status": "reviewed"
+        },
+        {
+          "name": "Reuters",
+          "href": "https://www.reuters.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "RIA Novosti (claim pipe, not corroboration)",
+          "href": "https://ria.ru/",
+          "status": "reviewed"
+        },
+        {
+          "name": "RUSI",
+          "href": "https://www.rusi.org/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Russia Matters",
+          "href": "https://www.russiamatters.org/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Rybar (echo)",
+          "href": "https://t.me/rybar",
+          "status": "reviewed"
+        },
+        {
+          "name": "SES Ukraine",
+          "href": "https://dsns.gov.ua/",
+          "status": "reviewed"
+        },
+        {
+          "name": "State Department",
+          "href": "https://www.state.gov/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Suspilne",
+          "href": "https://suspilne.media/",
+          "status": "reviewed"
+        },
+        {
+          "name": "TASS",
+          "href": "https://tass.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "The Kyiv Independent homepage",
+          "href": "https://kyivindependent.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Two Majors (echo)",
+          "href": "https://t.me/dva_majors",
+          "status": "reviewed"
+        },
+        {
+          "name": "Ukrainian Pravda English",
+          "href": "https://www.pravda.com.ua/eng/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Ukrainska Pravda",
+          "href": "https://www.pravda.com.ua/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Ukrinform",
+          "href": "https://www.ukrinform.net/",
+          "status": "reviewed"
+        },
+        {
+          "name": "UNIAN",
+          "href": "https://www.unian.ua/",
+          "status": "reviewed"
+        },
+        {
+          "name": "Wall Street Journal",
+          "href": "https://www.wsj.com/",
+          "status": "reviewed"
+        },
+        {
+          "name": "White House",
+          "href": "https://www.whitehouse.gov/",
+          "status": "reviewed"
+        }
+      ]
+    }
+  ],
+  "sourceKey": "",
+  "operationalAssessment": "This file is the 8 October 2026, 17:45 CEST compilation carried forward so the page is not blank. It is not a new collection. European Hybrid Warfare was not a theater in that edition. Required desks for a fresh window have not been re-opened. The scheduled run replaces this assessment.",
+  "footer": "Fully automated, open-source compilation for situational awareness only. Not an official U.S., Allied, or German government product. Source hierarchy, single-source labels, and estimative language follow ICD 203 analytic standards as implemented in this project."
+}
