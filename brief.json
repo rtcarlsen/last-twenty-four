@@ -1,1 +1,237 @@
-$(cat /tmp/brief.json)
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-11T17:45:00+02:00",
+  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
+  "asOf": "Sunday, 11 October 2026, 17:45 CEST",
+  "windowLabel": "11 Oct 2026 05:45 CEST → 11 Oct 2026 17:45 CEST",
+  "cadenceLabel": "Updated twice daily",
+  "banner": null,
+  "editionNote": null,
+  "theaters": [
+    {
+      "id": "ru",
+      "nav": "Russia & Ukraine",
+      "heading": "War and diplomacy",
+      "note": null,
+      "items": [
+        {
+          "kind": "Military",
+          "time": "11 Oct",
+          "title": "Overnight drone package: 116 launched, 94 downed; Zaporizhzhia toll reaches at least 20–23 after rescue ends",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "Ukrainian Air Force reported via secondary outlets (Ukrinform, RBC-Ukraine) that from 18:00 on 10 October Russia launched 116 strike UAVs (95 jet-powered Shaheds, plus Gerbera and decoys) from Oryol, Kursk, Primorsko-Akhtarsk, occupied Donetsk and Crimea. As of 08:30 on 11 October, 94 were shot down or suppressed (74 jet-powered); 10 hits at seven locations, debris at nine; attack ongoing with ~10 still airborne. Injuries reported in Dnipro (including children). On Zaporizhzhia, SES and regional sources via Ukrainska Pravda and Kyiv Post reported rescue operations completed; toll at least 20 including four children, with some cuts citing 23 after Zelenskyy statement and SES spokesperson confirmation. Day of mourning observed 11 October. kremlin.ru and eng.mil.ru reviewed; no primary Russian text on either package opened."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Air Force and SES speak for Kyiv and have an interest in documenting intercepts and civilian harm. Ukrinform, RBC-Ukraine, Ukrainska Pravda are Ukrainian outlets restating official figures; not an adverse-party check. Reuters/AP not opened on the overnight tally. Absence of Russian ministry text is a negative finding."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "A Russian drone attack overnight into 11 October is likely. The intercept ratio is high but the package is smaller than the prior night’s 160. Zaporizhzhia death toll has risen and is treated as at least 20 (moving toward 23 in some cuts); rescue completion reduces further large increases. No new high-casualty glide-bomb package established in this window."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "High on the occurrence of the overnight drone attack; moderate on the exact intercept and hit counts until a consolidated Air Force text; moderate on the final Zaporizhzhia fatality figure (single-source variation between 20 and 23)."
+            }
+          ]
+        },
+        {
+          "kind": "Diplomatic",
+          "time": "11 Oct",
+          "title": "Zelenskyy responds to Trump: elections possible under 60-day ceasefire; reciprocal energy halt offered",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "ABC News (This Week transcript) and Reuters reported on 11 October that Zelenskyy, in an exclusive interview, said it is “up to our society, up to our people” to choose the leader and that Ukraine will organize elections if Putin agrees to a 60-day total ceasefire. He offered to halt strikes on Russian refineries if Moscow stops attacks on Ukrainian energy infrastructure, calling it a “fair deal.” He noted the difficulty of the week due to attacks and rejected blame for fuel prices, pointing to the Middle East conflict. No primary White House or Kremlin response to the specific proposal opened by cutoff. president.gov.ua reviewed; no separate text beyond the interview."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Zelenskyy speaks for Kyiv and has an interest in countering regime-change framing while offering reciprocity. ABC and Reuters are independent U.S./wire outlets with no stake in either principal. Absence of a counterpart confirmation is a negative finding."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "Zelenskyy publicly rejected Trump’s call for a new president as a Ukrainian decision and conditioned elections on a 60-day total ceasefire. The reciprocal energy-strike halt is a stated offer, not an established agreement. No operational change in Ukrainian strike policy or U.S. support was established in the window."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "High on the substance of the ABC interview as reported by the network and Reuters; low on any concrete follow-through until a formal text or reciprocal Russian statement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hy",
+      "nav": "Hybrid Warfare",
+      "heading": "European hybrid warfare",
+      "note": "No qualifying in-window incident or official statement located in the assigned sources.",
+      "items": []
+    },
+    {
+      "id": "eu",
+      "nav": "Europe",
+      "heading": "EU institutions, NATO Europe, and major states other than Germany",
+      "note": null,
+      "items": [
+        {
+          "kind": "Diplomatic",
+          "time": "11 Oct",
+          "title": "European reaffirmations of support and sanctions continuity; listings package still scheduled for 12 October",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "RFE/RL and secondary reporting on 11 October cited European leaders reaffirming support for Zelenskyy after the diesel waiver and Trump remarks. Kallas (via secondary) criticized the waiver as increasing Russian revenue. Consilium reviewed; no new Council act adopting the ~1,646 listings package (cleared by ambassadors 7 October, expected 12 October) was located. nato.int reviewed; no new NAC text. Prior Council prolongation of hybrid-measures regime to October 2027 remains standing."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "EU High Representative and member-state leaders have an institutional interest in sanctions continuity and support for Kyiv. RFE/RL is a U.S.-funded outlet with independent editorial standards. Absence of an adopted listings text is a negative finding."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "Stated European intention to maintain sanctions and support for Ukraine is likely. Formal adoption of the large listings package remains outside the window. No new sectoral restriction was established."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "Moderate on the continuity statements; low on any change in listings status until the Official Journal text."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bt",
+      "nav": "Baltics",
+      "heading": "Estonia, Latvia, and Lithuania",
+      "note": null,
+      "items": [
+        {
+          "kind": "Political",
+          "time": "standing",
+          "title": "No new Baltic kinetic incident; prior border reinforcements remain the standing fact",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "ERR, LSM, LRT, Delfi, LETA, defence-ministry sites and nato.int were reviewed for the window. No airspace violation, escort, shoot-down or new official statement dated inside 11 October 05:45–17:45 was opened. Prior Lithuanian company-sized deployment to the Kaliningrad border and Latvian border incident with Belarus remain standing."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Absence of a kinetic event in the assigned sources is a negative finding. National outlets and ministries have an interest in documenting any incident."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "No new kinetic incident in the three states is established for this window. Consistent with prior editions."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "Moderate that no new kinetic event occurred in the sources reviewed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba",
+      "nav": "Balkans",
+      "heading": "Serbia, Kosovo, Bosnia and Herzegovina, Montenegro, North Macedonia, Albania, Croatia",
+      "note": null,
+      "items": [
+        {
+          "kind": "Political",
+          "time": "standing",
+          "title": "Serbia campaign continues; Kosovo presidency election remains the standing fact",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "Balkan Insight, government sites, KFOR, EULEX, OHR and OSCE/ODIHR were reviewed. No new in-window institutional agreement, recognition, or kinetic incident was opened. The 25 October Serbian early parliamentary elections remain the standing campaign fact (ODIHR interim 9 October). The 7 October Kosovo presidency election with 81 votes for Shiroka-Pula stands."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Absence of a new note on KFOR/EULEX is a negative finding. Outlets covering the campaign have an interest in continuity framing."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "No new Balkan institutional breakthrough or kinetic event is established in the window. Consistent with the prior edition."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "Moderate that no new agreement was reached."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca",
+      "nav": "Caucasus",
+      "heading": "Caucasus",
+      "note": null,
+      "items": [
+        {
+          "kind": "Diplomatic",
+          "time": "standing",
+          "title": "No new kinetic incident; Armenia trade preferences and prior peace statements remain standing",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "Civil.ge, OC Media, JAMnews, CivilNet, Caucasian Knot and government sites were reviewed. No new administrative-boundary incident or detention dated inside the window was opened. EU temporary trade preferences for Armenia (entered into force 10 October) and prior Pashinyan statements on established peace with Azerbaijan remain standing facts."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Regional outlets have no direct stake in a new kinetic claim. Absence of a kinetic event is a negative finding."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "No new frozen-conflict kinetic incident was located. Consistent with prior editions."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "Moderate that no new kinetic event occurred."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de",
+      "nav": "Germany",
+      "heading": "Germany",
+      "note": null,
+      "items": [
+        {
+          "kind": "Political",
+          "time": "standing",
+          "title": "No new German fact; sanctions continuity after diesel announcement remains the standing statement",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "bundesregierung.de, bundestag.de, bundeswehr.de, dpa, tagesschau.de and stuttgarter-zeitung.de were reviewed. No new in-window mandate, deployment or Stuttgart-specific kinetic/economic fact qualifying under the rules was opened. The 10 October government statements (Kornelius, Reiche spokeswoman) affirming sanctions continuity and unchanged Ukraine support remain the standing fact."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "The government has an interest in demonstrating continuity. Absence of a new text is a negative finding."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "No new German fact of operational significance was established in the window. Consistent with the prior edition."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "Moderate that no additional measure was announced."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceIntro": [
+    "Used — Ukrainian Air Force (via Ukrinform, RBC-Ukraine); SES / regional administration (via Ukrainska Pravda, Kyiv Post); ABC News / Reuters (Zelenskyy interview); RFE/RL (European reaffirmations).",
+    "Reviewed — kremlin.ru, eng.mil.ru, TASS, Interfax (RU); president.gov.ua, General Staff / Air Force accounts (via secondary); consilium.europa.eu, commission.europa.eu, nato.int; ERR, LSM, LRT, Delfi, LETA, Baltic defence ministries; KFOR, EULEX, OHR, Balkan government sites, Balkan Insight, OSCE/ODIHR; Civil.ge, OC Media, JAMnews, Caucasian Knot, Armenian/Azerbaijani/Georgian government sites; bundesregierung.de, bundestag.de, bundeswehr.de, dpa, tagesschau.de, stuttgarter-zeitung.de; Europol / NATO hybrid centers (no primary texts located); X accounts of principals (Pass 4: Zelenskyy remarks via ABC/Reuters; no new primary texts beyond the interview).",
+    "This run named the sources it opened and did not attach URLs. Green means used. The reviewed line is sources opened and not cited."
+  ],
+  "sourceGroups": [],
+  "sourceKey": "Standing sources were reviewed inside each theater even when unused. A source is used only if an item cites it.",
+  "operationalAssessment": "Desks opened. Russia & Ukraine: kremlin.ru, eng.mil.ru, president.gov.ua (secondary), Reuters, ABC, Ukrainian Air Force (via secondary), SES (via secondary). Hybrid Warfare: national police/interior statements (none located), Reuters, AP, dpa; no qualifying incident. Europe: consilium.europa.eu, commission.europa.eu, nato.int, RFE/RL. Baltics: Estonian/Latvian/Lithuanian defence and government sites, ERR, LSM, LRT, Delfi, LETA. Balkans: government sites, KFOR, EULEX, OHR, Balkan Insight, OSCE/ODIHR. Caucasus: Armenian/Azerbaijani/Georgian government sites, CivilNet/OC Media/JAMnews. Germany: bundesregierung.de, bundestag.de, bundeswehr.de, dpa, stuttgarter-zeitung.de (opened). Theaters that terminated empty: Hybrid Warfare. Edge of the window: EU listings formal adoption scheduled 12 October (outside window). Zaporizhzhia toll treated as moving (20–23). Execution: Sequential tracks (parallel workers not executed in this environment)",
+  "footer": "Fully automated, open-source compilation for situational awareness only. Not an official U.S., Allied, or German government product. Source hierarchy, single-source labels, and estimative language follow ICD 203 analytic standards as implemented in this project."
+}
