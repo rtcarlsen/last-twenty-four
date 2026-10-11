@@ -25,7 +25,7 @@
             },
             {
               "kicker": "Equities check",
-              "text": "Ukrainian officials and SES have an interest in documenting civilian harm and linking it to the diesel deal. BBC and Reuters are independent wires. Absence of a Russian primary text on the desks is a negative finding."
+              "text": "Ukrainian officials and SES have an interest in documenting civilian harm and linking it to the diesel deal. BBC and Reuters are independent wires. Absence of a Russian primary text in the assigned sources is a negative finding."
             },
             {
               "kicker": "Judgment",
@@ -66,7 +66,7 @@
       "id": "hy",
       "nav": "Hybrid Warfare",
       "heading": "European hybrid warfare",
-      "note": "No qualifying in-window incident or official statement located on the pre-bound desks.",
+      "note": "No qualifying in-window incident or official statement located in the assigned sources.",
       "items": []
     },
     {
@@ -117,7 +117,7 @@
             },
             {
               "kicker": "Equities check",
-              "text": "Absence of a kinetic event on the mandatory desks is a negative finding. National desks have an interest in documenting any incident."
+              "text": "Absence of a kinetic event in the assigned sources is a negative finding. National outlets have an interest in documenting any incident."
             },
             {
               "kicker": "Judgment",
@@ -125,7 +125,7 @@
             },
             {
               "kicker": "Confidence",
-              "text": "Moderate that no new kinetic event occurred on the desks reviewed."
+              "text": "Moderate that no new kinetic event occurred in the sources reviewed."
             }
           ]
         }
@@ -148,7 +148,7 @@
             },
             {
               "kicker": "Equities check",
-              "text": "Absence of a new note on KFOR/EULEX is a negative finding. Campaign desks have an interest in continuity framing."
+              "text": "Absence of a new note on KFOR/EULEX is a negative finding. Outlets covering the campaign have an interest in continuity framing."
             },
             {
               "kicker": "Judgment",
@@ -179,7 +179,7 @@
             },
             {
               "kicker": "Equities check",
-              "text": "The preference is a Commission/Council act. Regional desks have no direct stake in the Georgian ruling party. Absence of a kinetic event is a negative finding."
+              "text": "The preference is a Commission/Council act. Regional outlets have no direct stake in the Georgian ruling party. Absence of a kinetic event is a negative finding."
             },
             {
               "kicker": "Judgment",
@@ -228,10 +228,10 @@
   "sourceIntro": [
     "Used — BBC News (Zaporizhzhia toll update); Reuters (Zaporizhzhia, Trump remarks, Germany sanctions); AP (Trump remarks); dpa (Trump remarks, Germany); Ukrainian Air Force (drone package via secondary); Agence Europe / CivilNet (Armenia preferences).",
     "Reviewed — kremlin.ru, eng.mil.ru, TASS, Interfax (RU); president.gov.ua, General Staff / Air Force accounts (via secondary); consilium.europa.eu, commission.europa.eu, nato.int; ERR, LSM, LRT, Delfi, LETA, Baltic defence ministries; KFOR, EULEX, OHR, Balkan government sites, Balkan Insight; Civil.ge, OC Media, JAMnews, Caucasian Knot, Armenian/Azerbaijani/Georgian government sites; bundesregierung.de, bundestag.de, bundeswehr.de, dpa, tagesschau.de, stuttgarter-zeitung.de; Europol / NATO hybrid centers (no primary texts located); X accounts of principals (Pass 4: Trump remarks via wires; no new primary texts beyond the reported quotes).",
-    "This run named the desks it opened and did not attach URLs. Green means used. The reviewed line is desks opened and not cited."
+    "This run named the sources it opened and did not attach URLs. Green means used. The reviewed line is sources opened and not cited."
   ],
   "sourceGroups": [],
-  "sourceKey": "Standing desks were reviewed inside each theater even when unused. A source is used only if an item cites it.",
+  "sourceKey": "Standing sources were reviewed inside each theater even when unused. A source is used only if an item cites it.",
   "operationalAssessment": "Desks opened. Russia & Ukraine: kremlin.ru, eng.mil.ru, president.gov.ua (secondary), Reuters, AP, dpa, BBC, Ukrainian Air Force (via secondary). Hybrid Warfare: national police/interior statements (none located), Reuters, AP, dpa; no qualifying incident. Europe: consilium.europa.eu, commission.europa.eu, nato.int, Reuters, dpa. Baltics: Estonian/Latvian/Lithuanian defence and government sites, ERR, LSM, LRT, Delfi, LETA. Balkans: government sites, KFOR, EULEX, OHR, Balkan Insight. Caucasus: Armenian/Azerbaijani/Georgian government sites, CivilNet/OC Media/JAMnews, Agence Europe. Germany: bundesregierung.de, bundestag.de, bundeswehr.de, Reuters, dpa, stuttgarter-zeitung.de (opened). Theaters that terminated empty: Hybrid Warfare. Edge of the window: EU listings formal adoption scheduled 12 October (outside window). Zaporizhzhia rescue continues; toll treated as moving. Armenia preferences entry into force on 10 October is within or on the edge of the prior window. Execution: Sequential tracks (parallel workers not executed in this environment)",
   "footer": "Fully automated, open-source compilation for situational awareness only. Not an official U.S., Allied, or German government product. Source hierarchy, single-source labels, and estimative language follow ICD 203 analytic standards as implemented in this project."
 }
