@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "generatedAt": "2026-10-11T05:45:00+02:00",
-  "brow": "Aggregated snapshot · open-source compilation · not official reporting. Canvas unavailable — pre-bound desks and prompt rules only. Theater-specific additions not applied.",
+  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
   "asOf": "Sunday, 11 October 2026, 05:45 CEST",
   "windowLabel": "10 Oct 2026 17:45 CEST → 11 Oct 2026 05:45 CEST",
   "cadenceLabel": "Updated twice daily",
-  "banner": "Canvas unavailable — pre-bound desks and prompt rules only. Theater-specific additions not applied.",
-  "editionNote": "Morning edition for the window ending 11 October 05:45 CEST. Sequential tracks used; parallel workers not executed.",
+  "banner": null,
+  "editionNote": null,
   "theaters": [
     {
       "id": "ru",
@@ -232,6 +232,6 @@
   ],
   "sourceGroups": [],
   "sourceKey": "Standing desks were reviewed inside each theater even when unused. A source is used only if an item cites it.",
-  "operationalAssessment": "Desks opened. Russia & Ukraine: kremlin.ru, eng.mil.ru, president.gov.ua (secondary), Reuters, AP, dpa, BBC, Ukrainian Air Force (via secondary). Hybrid warfare: national police/interior statements (none located), Reuters, AP, dpa; no qualifying incident. Europe: consilium.europa.eu, commission.europa.eu, nato.int, Reuters, dpa. Baltics: Estonian/Latvian/Lithuanian defence and government sites, ERR, LSM, LRT, Delfi, LETA. Balkans: government sites, KFOR, EULEX, OHR, Balkan Insight. Caucasus: Armenian/Azerbaijani/Georgian government sites, CivilNet/OC Media/JAMnews, Agence Europe. Germany: bundesregierung.de, bundestag.de, bundeswehr.de, Reuters, dpa, stuttgarter-zeitung.de (opened). Theaters that terminated empty: Hybrid warfare. Edge of the window: EU listings formal adoption scheduled 12 October (outside window). Zaporizhzhia rescue continues; toll treated as moving. Armenia preferences entry into force on 10 October is within or on the edge of the prior window. Execution: Sequential tracks (parallel workers not executed in this environment) Canvas: Canvas unavailable — pre-bound desks and prompt rules only. Theater-specific additions not applied.",
+  "operationalAssessment": "Desks opened. Russia & Ukraine: kremlin.ru, eng.mil.ru, president.gov.ua (secondary), Reuters, AP, dpa, BBC, Ukrainian Air Force (via secondary). Hybrid warfare: national police/interior statements (none located), Reuters, AP, dpa; no qualifying incident. Europe: consilium.europa.eu, commission.europa.eu, nato.int, Reuters, dpa. Baltics: Estonian/Latvian/Lithuanian defence and government sites, ERR, LSM, LRT, Delfi, LETA. Balkans: government sites, KFOR, EULEX, OHR, Balkan Insight. Caucasus: Armenian/Azerbaijani/Georgian government sites, CivilNet/OC Media/JAMnews, Agence Europe. Germany: bundesregierung.de, bundestag.de, bundeswehr.de, Reuters, dpa, stuttgarter-zeitung.de (opened). Theaters that terminated empty: Hybrid warfare. Edge of the window: EU listings formal adoption scheduled 12 October (outside window). Zaporizhzhia rescue continues; toll treated as moving. Armenia preferences entry into force on 10 October is within or on the edge of the prior window. Execution: Sequential tracks (parallel workers not executed in this environment)",
   "footer": "Fully automated, open-source compilation for situational awareness only. Not an official U.S., Allied, or German government product. Source hierarchy, single-source labels, and estimative language follow ICD 203 analytic standards as implemented in this project."
 }
