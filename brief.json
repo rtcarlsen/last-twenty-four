@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T05:35:00+02:00",
+  "generatedAt": "2026-10-12T17:45:00+02:00",
   "brow": "Aggregated snapshot · open-source compilation · not official reporting",
-  "asOf": "Monday, 12 October 2026, 05:35 CEST",
-  "windowLabel": "11 Oct 2026 17:45 CEST → 12 Oct 2026 05:35 CEST",
+  "asOf": "Monday, 12 October 2026, 17:45 CEST",
+  "windowLabel": "12 Oct 2026 05:35 CEST → 12 Oct 2026 17:45 CEST",
   "cadenceLabel": "Updated twice daily",
   "banner": "Canvas prompt unavailable (src/content/automation-prompt.md and research-prompt.md not located in repository). Collection performed from standing theater instructions, prior editions, and open-source review. Sources not invented.",
   "editionNote": null,
@@ -17,46 +17,46 @@
         {
           "kind": "Military",
           "time": "12 Oct",
-          "title": "Overnight into 12 October: drone activity ongoing across multiple regions; no consolidated Air Force tally by cutoff",
+          "title": "Air Force: 121 drones and Kh-59 overnight; 89 neutralized by 09:00; strikes at 15 locations; daytime Kyiv drone activity",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "NV.ua live coverage and secondary outlets reported continued Russian jet-powered Shahed activity overnight into 12 October, with air-raid alerts in Kyiv, Dnipro, Zaporizhzhia, Kherson, Vinnytsia and other regions; Air Force direction-of-movement updates noted UAVs heading toward Kyiv from the north, Dnipro, and south of Zaporizhzhia toward Kherson Oblast. No consolidated morning Air Force tally of launches, intercepts or hits was opened by 05:35 CEST. Prior night’s package (116 launched / 94 downed or suppressed as of 08:30 on 11 October) remains the last full count. Zaporizhzhia SES via Ukrainska Pravda confirmed toll at 23 (including four children) after rescue completion. kremlin.ru and eng.mil.ru reviewed; no primary Russian text on the current night opened."
+              "text": "Ukrainian Air Force (via Interfax, UNN, Korrespondent, RBC-Ukraine) reported that from 18:00 on 11 October Russia launched one Kh-59 guided missile from Black Sea airspace and 121 strike UAVs (Shahed including 76 jet-powered, Gerbera, Banderol/Dan-T, Parodiya decoys) from Oryol, Kursk, Primorsko-Akhtarsk, occupied Donetsk and Hvardiiske (Crimea). As of 09:00 on 12 October, air defense shot down or suppressed 89 drones (including 55 jet-powered). Impacts recorded at 15 locations; debris at four. Attack described as ongoing with several UAVs still airborne. Daytime drone activity in Kyiv (Solomyanskyi, Darnytskyi, Pecherskyi districts) injured at least three, per city authorities and Kyiv Independent. Energy infrastructure strikes reported in Kharkiv and elsewhere after Trump announcement. kremlin.ru and eng.mil.ru reviewed; no primary Russian text opened on the night's package."
             },
             {
               "kicker": "Equities check",
-              "text": "Air Force and SES speak for Kyiv and have an interest in documenting ongoing threat and civilian harm. NV.ua and Ukrainian outlets restate alerts and prior figures; not an adverse-party check. Absence of a full Air Force bulletin and of Russian ministry text is a negative finding."
+              "text": "Air Force speaks for Kyiv and has an interest in documenting the threat and intercept performance. Secondary Ukrainian outlets restate the figures. No adverse-party (Russian MoD) primary confirmation of the package size or results. Absence of full end-of-attack tally is a negative finding relative to a completed overnight summary."
             },
             {
               "kicker": "Judgment",
-              "text": "Russian drone activity continued overnight into 12 October and is likely. No new high-casualty package or consolidated intercept ratio is established by cutoff. Zaporizhzhia death toll is treated as 23 after rescue completion. Consistent with the pattern of nightly packages."
+              "text": "A substantial overnight drone-and-missile package occurred and is likely. Intercept ratio of roughly 73% (89/121) by mid-morning is consistent with recent nights. Continued energy targeting after the Trump announcement is reported by Ukrainian sources and not contradicted by available open sources. Daytime capital strikes are consistent with the pattern of residual or follow-on activity."
             },
             {
               "kicker": "Confidence",
-              "text": "Moderate on continued overnight drone activity; low on any precise launch/intercept counts until the Air Force morning bulletin; high on the Zaporizhzhia fatality figure of 23 as confirmed by SES spokesperson."
+              "text": "High on the Air Force launch and preliminary intercept figures as of 09:00 (multiple independent secondary outlets citing the same statement); moderate on the precise final count of hits pending a complete bulletin; low on Russian intent regarding any energy pause until primary Russian confirmation or operational halt is observed."
             }
           ]
         },
         {
-          "kind": "Diplomatic",
-          "time": "11 Oct evening",
-          "title": "Trump announces ‘energy ceasefire’ effective immediately; Zelenskyy calls it news to him but says Ukraine will accept if Russia does",
+          "kind": "Diplomacy",
+          "time": "12 Oct",
+          "title": "Zelenskyy at Warsaw Security Forum: ready for energy ceasefire if Russia agrees; will respond if not; Kremlin silent / rejects 60-day election pause",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "Trump posted on Truth Social at approximately 16:16 CEST on 11 October: ‘Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!’ Reuters, BBC, Axios, CNN and others reported the claim. Zelenskyy, via Axios and subsequent posts, said the announcement was ‘news for me’ but that if Russians agree, Ukraine will agree, and that he was awaiting details from the American side after speaking with Carney, Stubb and Rutte. He noted Russian strikes on energy sites continued after the post. No Kremlin primary confirmation was opened. Prior Zelenskyy ABC interview (elections under 60-day total ceasefire; reciprocal energy halt) stands. White House and kremlin.ru reviewed; no further official text located."
+              "text": "Zelenskyy addressed the Warsaw Security Forum by video on 12 October (Euronews, AFP, Ukrinform, Bloomberg). He stated he learned of Trump’s 11 October Truth Social “ENERGY CEASEFIRE” announcement from media, that Ukraine is ready to respect it if Russia does the same, and that “if Russia does not agree… we will respond.” He noted continued Russian strikes on energy facilities after the post and remarked that “Putin does not read Truth Social.” Separately, Kremlin spokesman Peskov (Reuters) rejected Zelenskyy’s earlier 60-day total ceasefire idea for elections, stating Russia wants an overall peace deal rather than a temporary ceasefire. On the energy claim, Peskov said “contacts are ongoing” and declined to confirm agreement. Trump’s prior call for a new Ukrainian president (10–11 October) remains in the background. No primary Russian confirmation of an energy pause opened."
             },
             {
               "kicker": "Equities check",
-              "text": "Trump speaks for the administration and has an interest in framing a deal that supports the diesel waiver and lowers fuel-price pressure ahead of midterms. Zelenskyy has an interest in conditioning acceptance on reciprocity and not appearing to reject de-escalation. Reuters, BBC and Axios are independent wires/outlets with no stake in either principal. Absence of Russian confirmation is a negative finding."
+              "text": "Zelenskyy and Ukrainian outlets have an interest in documenting non-compliance and pressing for reciprocal restraint. Peskov speaks for the Kremlin and has an interest in avoiding any binding temporary pause while emphasizing long-term terms. Trump’s announcement is a primary U.S. statement but lacks corroborating primary texts from either combatant party. Absence of Russian confirmation is a negative finding."
             },
             {
               "kicker": "Judgment",
-              "text": "Trump publicly claimed an immediate bilateral energy ceasefire on 11 October. Zelenskyy publicly stated willingness to accept if Moscow does, while noting the claim was previously unknown to Kyiv and that Russian energy strikes continued. No reciprocal Russian confirmation or operational halt was established by cutoff. This is a new diplomatic fact relative to the prior edition’s focus on the ABC interview."
+              "text": "No operational energy ceasefire is established. Ukrainian willingness is conditional and public; Russian position remains unconfirmed and is accompanied by continued reported strikes. The 60-day election-related pause is rejected by Moscow. Diplomatic friction between Washington and Kyiv is ongoing. Single-source elements (exact content of any Trump–Putin discussion) remain unconfirmed."
             },
             {
               "kicker": "Confidence",
-              "text": "High on the substance of Trump’s Truth Social post and Zelenskyy’s subsequent public response as carried by multiple wires; low on any concrete bilateral agreement until Russian primary confirmation or a cessation of strikes is observed."
+              "text": "High on Zelenskyy’s public statements at the forum and Peskov’s rejection of the 60-day idea (multiple wires); moderate-to-low on the existence of any bilateral energy understanding until Russian primary confirmation or a sustained halt in energy strikes is observed."
             }
           ]
         }
@@ -70,24 +70,24 @@
       "items": [
         {
           "kind": "Military",
-          "time": "11 Oct",
-          "title": "Drone explodes in Moldova forest; national systems did not detect unauthorized crossing",
+          "time": "11–12 Oct",
+          "title": "No new confirmed Moldovan or other European spillover incidents identified in the window beyond the 11 October forest drone explosion",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "RBC-Ukraine and Ukrinform, citing Moldovan police/NewsMaker, reported that a drone fell and exploded in a forest outside Jămăna (Anenii Noi district) overnight into 11 October. Police received the report around 22:20 local; military and bomb-disposal teams responded. National air surveillance systems did not detect an unauthorized border crossing. No injuries reported. This sits in the context of repeated Russian strikes on Ukraine and prior Moldovan airspace incidents. Moldovan defence ministry and police sites reviewed via secondary; no new primary text opened beyond the incident report."
+              "text": "The 11 October drone explosion in a forest near Jămăna (Anenii Noi) remains the most recent open-source Moldovan incident (RBC-Ukraine, Ukrinform citing local police/NewsMaker). National systems reportedly did not detect an unauthorized crossing. No additional confirmed explosions, airspace violations, or sabotage events on 12 October were identified in the sources reviewed for this edition. Standing hybrid activity (prior German airport, Estonian arson, Baltic border incidents) remains in the background but is outside the current window."
             },
             {
               "kicker": "Equities check",
-              "text": "Moldovan police and secondary Ukrainian outlets have an interest in documenting spillover from Russian attacks on Ukraine. Absence of a detected crossing is a negative finding relative to an overt violation claim."
+              "text": "Moldovan authorities have an interest in documenting spillover. Absence of new reports is a negative finding relative to an ongoing pattern of frequent incidents."
             },
             {
               "kicker": "Judgment",
-              "text": "A drone explosion on Moldovan territory is likely. Attribution to a Russian launch directed at Ukraine is the standing framing; the non-detection by national systems is noted. Qualifies as a hybrid/spillover incident relative to prior editions that found none."
+              "text": "No new hybrid/spillover event is established for 12 October. The 11 October Moldova incident stands as the latest confirmed case. Pattern of occasional spillover remains plausible but not reinforced by new evidence in this window."
             },
             {
               "kicker": "Confidence",
-              "text": "Moderate on the explosion and location; low on precise origin or intent until further investigation."
+              "text": "Moderate that no major new incident was publicly reported by cutoff; low on the completeness of detection given prior non-detection cases."
             }
           ]
         }
@@ -100,25 +100,48 @@
       "note": null,
       "items": [
         {
-          "kind": "Diplomatic",
-          "time": "standing / 12 Oct",
-          "title": "Listings package still scheduled for formal adoption 12 October in Luxembourg; no new Council act located",
+          "kind": "Sanctions",
+          "time": "12 Oct",
+          "title": "EU Foreign Affairs Council formally adopts largest-ever sanctions listings package: 1,569 individuals and entities targeting Russian military-industrial complex",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "Consilium and secondary reporting (EUalive, Reuters prior) confirm EU foreign ministers are expected to adopt the ~1,646 Russia listings package (ambassadors cleared 7 October) at the Luxembourg FAC on 12 October, with Sybiha expected. No adopted legal act or Official Journal text was located by cutoff. European reaffirmations of support for Ukraine and criticism of the diesel waiver remain standing. nato.int reviewed; no new NAC text."
+              "text": "EEAS and Consilium press releases (12 October) confirm formal adoption of sanctions on 1,569 individuals and entities (826 Russian companies and 743 CEOs) linked to the military-industrial complex, focusing on mid-level suppliers of components for missiles, UAVs and aircraft. More than half address the ballistic-missile production chain. Combined turnover estimated at least €20 billion; >250,000 employees. Total listings under the relevant regime now approach 4,600. Additional listings: 77 individuals for involvement in illegal State Duma elections in occupied Ukrainian territories, plus measures related to DPRK programs. Kaja Kallas described it as the single largest expansion since the war began. Package is listings-only (asset freezes, travel bans); no new sectoral trade measures noted in the releases. Formal step after prior Coreper agreement."
             },
             {
               "kicker": "Equities check",
-              "text": "Council and member states have an institutional interest in completing the listings. Absence of an adopted text is a negative finding until the meeting concludes."
+              "text": "EU institutions and HRVP have an interest in demonstrating sustained pressure and unity. Russian government sources not opened with a primary response in this window. Figures are primary EU statements."
             },
             {
               "kicker": "Judgment",
-              "text": "Formal adoption remains scheduled for 12 October and is outside or at the edge of this window. No new sectoral measure or completed act is established. Consistent with the prior edition."
+              "text": "The largest single EU listings package to date was formally adopted on 12 October. It deepens targeting of the Russian defense supply chain, particularly missiles. Implementation and evasion response remain to be observed. Consistent with the pattern of successive packages focused on listings rather than new sectoral measures."
             },
             {
               "kicker": "Confidence",
-              "text": "Moderate that the schedule holds; low on the final published list until the Official Journal text."
+              "text": "High on the adoption, numbers, and scope (primary EEAS/Consilium texts)."
+            }
+          ]
+        },
+        {
+          "kind": "Military",
+          "time": "12 Oct",
+          "title": "NATO SACEUR Grynkewich at Warsaw Security Forum: alliance “ready to fight tonight”; outlines block-blunt-break theory of victory",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "U.S. Air Force Gen. Alexus Grynkewich, Supreme Allied Commander Europe, spoke at the Warsaw Security Forum on 12 October (AP, France24, WSJ). He stated NATO is “ready to fight tonight” if attacked and outlined a “theory of victory”: block the initial attack, blunt any persistence, and break the enemy’s forces and operational system if required. Context is elevated concern over hybrid activity and potential limited tests of the eastern flank. No change to standing NATO assessments of no imminent large-scale conventional threat was noted in the coverage."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "SACEUR speaks for the alliance and has an interest in deterrence messaging. Coverage is secondary but consistent across major outlets."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "Public deterrence messaging was reinforced. No new operational deployment or change in force posture is established by the speech alone. Consistent with prior SACEUR and SecGen statements on readiness."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "High on the substance of the public remarks (multiple wires)."
             }
           ]
         }
@@ -132,24 +155,24 @@
       "items": [
         {
           "kind": "Political",
-          "time": "standing",
-          "title": "No new Baltic kinetic incident in the window",
+          "time": "12 Oct",
+          "title": "No major new security incidents or policy announcements identified; background includes prior grain-transit call and defensive exercises",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "ERR, LSM, LRT, Delfi, LETA, defence-ministry sites and nato.int were reviewed for 11 October 17:45–12 October 05:35. No airspace violation, escort, shoot-down or new official statement dated inside the window was opened. Prior reinforcements and border posture remain standing."
+              "text": "Open-source review of ERR, LSM, LRT, Delfi, LETA and government sites for 12 October yielded no new major border incidents, airspace violations, or defense announcements beyond standing activity. Prior joint Baltic call (9 October) for an EU ban on Russian grain transit remains in the background. Lithuanian President Nausėda was scheduled to observe the ongoing Perkūno griausmas exercise in Kaunas; no detailed readout opened. CSTO exercises in Belarus (Indestructible Brotherhood-2026) continue but are not on the NATO border."
             },
             {
               "kicker": "Equities check",
-              "text": "Absence of a kinetic event in the assigned sources is a negative finding. National outlets and ministries have an interest in documenting any incident."
+              "text": "Baltic governments have an interest in highlighting hybrid and conventional risks. Absence of new incident reports is a negative finding relative to elevated baseline concern."
             },
             {
               "kicker": "Judgment",
-              "text": "No new kinetic incident in the three states is established for this window. Consistent with prior editions."
+              "text": "No new significant Baltic-specific development is established for the window. Standing defensive posture and prior policy advocacy continue."
             },
             {
               "kicker": "Confidence",
-              "text": "Moderate that no new kinetic event occurred in the sources reviewed."
+              "text": "Moderate that no major public incident occurred by cutoff."
             }
           ]
         }
@@ -163,24 +186,24 @@
       "items": [
         {
           "kind": "Political",
-          "time": "standing",
-          "title": "No new Balkan institutional or kinetic fact; Serbia campaign and Kosovo election remain standing",
+          "time": "12 Oct",
+          "title": "Vučić meets Kosovo Serb representatives in Raška; additional socio-economic funding announced; ongoing northern Kosovo tensions in background",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "Balkan Insight, government sites, KFOR, EULEX, OHR and OSCE/ODIHR were reviewed. No new in-window institutional agreement, recognition, or kinetic incident was opened. The 25 October Serbian early parliamentary elections remain the standing campaign fact. The 7 October Kosovo presidency election with 81 votes for Shiroka-Pula stands."
+              "text": "Serbian President Aleksandar Vučić met political representatives of Kosovo Serbs in Raška on 12 October (Politika, Beta). Government officials including PM Ana Brnabić and Defense Minister attended. Vučić announced additional ~€28 million in socio-economic measures beyond existing allocations. Background remains the prior Kosovo police actions in northern municipalities and Serbian expressions of concern. Kosovo Defense Minister comments comparing Serbian border deployments to pre-2022 Russian posture circulated but were not opened as primary. No new KFOR incident report identified for the day."
             },
             {
               "kicker": "Equities check",
-              "text": "Absence of a new note on KFOR/EULEX is a negative finding."
+              "text": "Serbian leadership has an interest in demonstrating support for Kosovo Serbs and managing domestic narrative. Kosovo institutions have an interest in sovereignty enforcement. No independent verification of funding figures opened beyond Serbian reporting."
             },
             {
               "kicker": "Judgment",
-              "text": "No new Balkan institutional breakthrough or kinetic event is established in the window. Consistent with the prior edition."
+              "text": "Serbian political engagement with Kosovo Serb representatives continued, accompanied by funding announcements. No major escalation or de-escalation breakthrough is established. Tensions remain managed but unresolved."
             },
             {
               "kicker": "Confidence",
-              "text": "Moderate that no new agreement was reached."
+              "text": "Moderate on the meeting and funding announcement (Serbian primary/secondary); low on operational implications until further observation."
             }
           ]
         }
@@ -193,25 +216,25 @@
       "note": null,
       "items": [
         {
-          "kind": "Diplomatic",
-          "time": "standing",
-          "title": "No new kinetic incident; prior trade preferences and peace statements remain standing",
+          "kind": "Political",
+          "time": "12 Oct",
+          "title": "EU export liberalisation for Armenia enters into force; Russia temporary import ban on some Georgian firms; no major security incidents",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "Civil.ge, OC Media, JAMnews, CivilNet, Caucasian Knot and government sites were reviewed. No new administrative-boundary incident or detention dated inside the window was opened. EU temporary trade preferences for Armenia (entered into force 10 October) and prior Pashinyan statements remain standing."
+              "text": "JAMnews and regional outlets reported that an EU regulation liberalising approximately 80% of Armenian goods exports entered into force on 12 October. Russia temporarily banned imports from several Georgian companies (context of prior trade friction). Azerbaijan parliamentary and NGO calls for full repeal of U.S. Section 907 continued. No new border incidents, ceasefire violations, or major diplomatic breakthroughs between Armenia and Azerbaijan were identified in the window. Standing post-2025 Washington process remains in the background."
             },
             {
               "kicker": "Equities check",
-              "text": "Regional outlets have no direct stake in a new kinetic claim. Absence of a kinetic event is a negative finding."
+              "text": "Armenian and Georgian governments have an interest in economic diversification and documenting external pressure. Russian trade measures are primary Russian actions. Absence of conflict reports is a negative finding relative to residual risk."
             },
             {
               "kicker": "Judgment",
-              "text": "No new frozen-conflict kinetic incident was located. Consistent with prior editions."
+              "text": "Economic and political activity continued without a new security crisis. The EU–Armenia trade step is a modest positive for Yerevan. No material change to the Armenia–Azerbaijan security balance is established."
             },
             {
               "kicker": "Confidence",
-              "text": "Moderate that no new kinetic event occurred."
+              "text": "Moderate on the trade measures (regional secondary citing official steps); low on any unreported security developments."
             }
           ]
         }
@@ -225,24 +248,24 @@
       "items": [
         {
           "kind": "Political",
-          "time": "standing",
-          "title": "No new German fact of operational significance",
+          "time": "12 Oct",
+          "title": "SPD co-chair and Labor Minister Bärbel Bas resigns; CDU leadership continues post-election crisis management; Merz signals electricity-tax cut",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "bundesregierung.de, bundestag.de, bundeswehr.de, dpa, tagesschau.de and stuttgarter-zeitung.de were reviewed. No new in-window mandate, deployment or Stuttgart-specific kinetic/economic fact qualifying under the rules was opened. Prior government statements affirming sanctions continuity and unchanged Ukraine support remain standing."
+              "text": "German media (dpa, Reuters, Focus, Politico) reported that Bärbel Bas resigned on 12 October as SPD co-chair and federal Labor Minister. SPD co-leader Lars Klingbeil indicated the full leadership will be re-elected at a party congress around the turn of the year; Alexander Schweitzer named as successor labor minister. Context is the CDU/CSU’s poor September state-election results (including worst-ever in Mecklenburg-Vorpommern) and low national polling. Chancellor Friedrich Merz, after a CDU leadership retreat, signaled intent to cut the electricity tax for all consumers to the EU minimum as a cost-of-living measure. No new defense or foreign-policy announcements of note opened."
             },
             {
               "kicker": "Equities check",
-              "text": "The government has an interest in demonstrating continuity. Absence of a new text is a negative finding."
+              "text": "SPD and CDU leaderships have interests in managing internal cohesion and public narrative after electoral setbacks. Coverage is mainstream German and international wires."
             },
             {
               "kicker": "Judgment",
-              "text": "No new German fact of operational significance was established in the window. Consistent with the prior edition."
+              "text": "Coalition friction increased with the Bas resignation. CDU continues efforts to regain voter trust via cost-of-living measures. No immediate threat to government stability is established, but the political center remains under pressure from AfD and Left gains in recent state votes."
             },
             {
               "kicker": "Confidence",
-              "text": "Moderate that no additional measure was announced."
+              "text": "High on the resignation and succession steps (multiple wires); moderate on the political implications pending further polling and coalition behavior."
             }
           ]
         }
@@ -250,12 +273,12 @@
     }
   ],
   "sourceIntro": [
-    "Used — Ukrainian Air Force / alerts (via NV.ua, secondary); SES / Ukrainska Pravda (Zaporizhzhia 23); Trump Truth Social (via Reuters, BBC, Axios, CNN); Zelenskyy responses (Axios, X); Moldovan police (via RBC-Ukraine, Ukrinform).",
-    "Reviewed — kremlin.ru, eng.mil.ru, TASS, Interfax (RU); president.gov.ua; consilium.europa.eu, commission.europa.eu, nato.int; ERR, LSM, LRT, Delfi, LETA, Baltic defence ministries; KFOR, EULEX, OHR, Balkan government sites, Balkan Insight, OSCE/ODIHR; Civil.ge, OC Media, JAMnews, Caucasian Knot, Armenian/Azerbaijani/Georgian government sites; bundesregierung.de, bundestag.de, bundeswehr.de, dpa, tagesschau.de, stuttgarter-zeitung.de; Moldovan defence ministry (secondary); X accounts of principals (Pass 4: Trump post and Zelenskyy replies; no new primary Russian texts).",
+    "Used — Ukrainian Air Force (via Interfax, UNN, Korrespondent, RBC-Ukraine); Zelenskyy statements (Euronews, AFP, Ukrinform, Bloomberg); Peskov (Reuters); EEAS/Consilium primary press releases; Grynkewich remarks (AP, France24); Serbian reporting (Politika); German wires (dpa, Reuters).",
+    "Reviewed — kremlin.ru, eng.mil.ru, president.gov.ua; consilium.europa.eu, nato.int; Baltic government and media sites (ERR, LSM, LRT, Delfi, LETA); Balkan government sites, KFOR; Caucasus regional outlets (JAMnews, OC Media); bundesregierung.de, bundestag.de, bundeswehr.de, tagesschau.de; Moldovan secondary reporting.",
     "This run named the sources it opened and did not attach URLs. Green means used. The reviewed line is sources opened and not cited. Canvas files missing — banner applied."
   ],
   "sourceGroups": [],
   "sourceKey": "Standing sources were reviewed inside each theater even when unused. A source is used only if an item cites it.",
-  "operationalAssessment": "Desks opened. Russia & Ukraine: kremlin.ru, eng.mil.ru, president.gov.ua (secondary), Reuters, BBC, Axios, CNN, NV.ua, Ukrainian Air Force (via secondary), SES (via Ukrainska Pravda). Hybrid Warfare: Moldovan police/NewsMaker (via secondary), RBC-Ukraine, Ukrinform. Europe: consilium.europa.eu, EUalive (prior), nato.int. Baltics: Estonian/Latvian/Lithuanian defence and government sites, ERR, LSM, LRT, Delfi, LETA. Balkans: government sites, KFOR, EULEX, OHR, Balkan Insight, OSCE/ODIHR. Caucasus: Armenian/Azerbaijani/Georgian government sites, CivilNet/OC Media/JAMnews. Germany: bundesregierung.de, bundestag.de, bundeswehr.de, dpa, stuttgarter-zeitung.de (opened). Theaters that terminated empty: none (Hybrid now has the Moldova incident). Edge of the window: EU listings formal adoption scheduled 12 October; overnight drone tally not yet consolidated. Canvas prompt unavailable — banner applied. Execution: Sequential open-source review (parallel workers not executed in this environment).",
+  "operationalAssessment": "Desks opened. Russia & Ukraine: Air Force statements (secondary), Zelenskyy Warsaw remarks (wires), Peskov (Reuters), kremlin.ru/eng.mil.ru (no new primary on package). Hybrid: prior Moldova reporting; no new incidents. Europe: EEAS/Consilium primary on sanctions; Grynkewich public remarks. Baltics: government/media sites, no new major events. Balkans: Serbian reporting on Vučić meeting. Caucasus: regional outlets on trade measures. Germany: dpa/Reuters on Bas resignation and Merz signals. Theaters that terminated empty of new material: Hybrid (beyond prior), Baltics. Edge of window: full end-of-attack Air Force tally and any Russian confirmation of energy pause not yet available. Canvas prompt unavailable — banner applied. Execution: Sequential open-source review.",
   "footer": "Fully automated, open-source compilation for situational awareness only. Not an official U.S., Allied, or German government product. Source hierarchy, single-source labels, and estimative language follow ICD 203 analytic standards as implemented in this project."
 }
