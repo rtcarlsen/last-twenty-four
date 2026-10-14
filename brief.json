@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T17:45:00+02:00",
+  "generatedAt": "2026-10-14T05:35:00+02:00",
   "brow": "Aggregated snapshot · open-source compilation · not official reporting",
-  "asOf": "Tuesday, 13 October 2026, 17:45 CEST",
-  "windowLabel": "13 Oct 2026 05:35 CEST → 13 Oct 2026 17:45 CEST",
+  "asOf": "Wednesday, 14 October 2026, 05:35 CEST",
+  "windowLabel": "13 Oct 2026 17:45 CEST → 14 Oct 2026 05:35 CEST",
   "cadenceLabel": "Updated twice daily",
   "banner": "Canvas prompt unavailable (src/content/automation-prompt.md and research-prompt.md not located in repository). Collection performed from standing theater instructions, prior editions, and open-source review. Sources not invented.",
   "editionNote": null,
@@ -16,47 +16,47 @@
       "items": [
         {
           "kind": "Military",
-          "time": "12–13 Oct",
-          "title": "Overnight package: five ballistic missiles, nine Banderol/Dan-T, 108 drones (74 jet); Air Force reports 88 drones suppressed, hits at 17 locations; Kyiv ballistic strikes before alerts continue to draw attention; civilian toll rises",
+          "time": "13 Oct evening",
+          "title": "Second consecutive night of ballistic strikes on Kyiv without advance partner warning: CHP-4 energy plant and residential building hit; at least one killed, multiple injured; Zelenskyy confirms energy targeting",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "Ukrainian Air Force (Telegram, cited by RBC-Ukraine, Kyiv Independent, Interfax, Kyiv Post) reported that from 18:00 12 October Russian forces launched five Iskander-M/S-400 ballistic missiles from Bryansk, nine Banderol/Dan-T loitering munitions, and 108 Shahed-type/Gerbera/Parodiya drones (74 jet-powered) from Orel, Kursk, Primorsko-Akhtarsk, occupied Donetsk and Crimea. As of 08:00 13 October, air defenses shot down or suppressed 88 drones (58 jet); strikes recorded at 17 locations and debris at seven. Late 12 October ballistic strikes on Kyiv (preliminary six missiles) occurred before air-raid alerts; Air Force stated no advance launch information received and was investigating. Kyiv Independent and Reuters-cited authorities reported at least 10 killed and 74 injured nationwide over the past day, including residential hits in Kyiv (Darnytskyi high-rise) and Kharkiv (four deaths in residential buildings). Russian Defense Ministry claimed (via secondary) it had not hit energy-related targets overnight, while Ukrainian reports of continued activity and prior energy strikes persist. No primary Russian confirmation of the Kyiv ballistic package opened."
+              "text": "Ukrainian President Volodymyr Zelenskyy (Telegram, cited by Reuters, Kyiv Independent, Kyiv Post) stated late on 13 October that Russian forces attacked Kyiv with ballistic missiles, with the main target being energy infrastructure, specifically thermal plant No. 4 (CHP-4). Mayor Vitali Klitschko reported a strike on a nine-story residential building in Desnyanskyi district that killed at least one person (some reports two) and injured 13–21 others; apartments ablaze and residents evacuated. Air Force and presidential advisers (Dmytro Lytvyn) confirmed no advance launch information was received from partners for the second consecutive night; missiles were detected only in terminal phase. Explosions occurred before or as alerts sounded. Zelenskyy noted intelligence indicated Russia was preparing further ballistic launches and stated Russia did not consider itself bound by the U.S. energy-ceasefire announcement. No full overnight Air Force package tally for the night of 13–14 October had been published by cutoff. Prior overnight package of 12–13 October remains in the background."
             },
             {
               "kicker": "Equities check",
-              "text": "Air Force and regional governors speak for Ukraine and have an interest in documenting civilian harm, warning gaps, and continued pressure. Secondary Ukrainian outlets restate official tallies. Russian MoD statements have an interest in characterizing targets as military. Absence of independent multi-source confirmation of specific energy hits in the overnight package is a negative finding relative to prior claims."
+              "text": "Zelenskyy, Klitschko, and Air Force speak for Ukraine and have an interest in documenting energy targeting, civilian harm, and warning gaps relative to the claimed ceasefire. Secondary outlets restate official accounts. No primary Russian confirmation of the specific package or target set was opened in the window."
             },
             {
               "kicker": "Judgment",
-              "text": "A sustained Russian strike package against Ukrainian targets, including ballistic missiles on Kyiv with delayed or absent advance warning, is established. Drone and loitering-munition activity continued. No operational energy ceasefire is established; civilian and infrastructure impacts continued. Warning-system performance relative to prior nights remains a point of operational concern but is not independently verified as a systemic change."
+              "text": "A second night of ballistic missile strikes on Kyiv, including confirmed hits on an energy facility (CHP-4) and a residential building, is established. Absence of advance partner warning for a second consecutive night is reported by Ukrainian authorities. No operational energy ceasefire is established; strikes on energy infrastructure continued. Warning-system performance remains an operational concern but the cause (weapon type, partner sharing, or other) is not independently verified."
             },
             {
               "kicker": "Confidence",
-              "text": "High on the Air Force overnight tally and delayed-alert ballistic strikes (multiple secondary outlets citing primary AF and mayors); moderate on nationwide civilian casualty figures (regional authorities); low on any causal link to a reduction in partner intelligence sharing until primary or multi-source confirmation appears."
+              "text": "High on the occurrence of the Kyiv ballistic strikes, residential hit, and Zelenskyy’s energy-targeting statement (multiple secondary outlets citing primary Telegram/mayor); moderate on exact casualty figures (developing reports); low on the systemic cause of the warning gap until multi-source or primary partner confirmation appears."
             }
           ]
         },
         {
           "kind": "Diplomacy",
           "time": "13 Oct",
-          "title": "Peskov: contacts on energy pause ongoing, nothing new to report; Russia seeks lasting peace not temporary pause; Russian MoD claims no energy hits overnight",
+          "title": "Peskov: contacts on energy pause continuing with no new progress; Russia prefers lasting peace over temporary pause; MoD earlier claimed no energy hits in prior package",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "Kremlin spokesman Dmitry Peskov (Reuters, TASS, Xinhua, secondary) stated on 13 October that contacts regarding Trump’s energy-ceasefire announcement were continuing but that there had been no change or new progress to report. He reiterated Russia’s preference for a lasting peace settlement over temporary pauses and separated the issue from a recent U.S.–Russia diesel supply arrangement. Russia’s Defense Ministry stated its forces had not hit Ukrainian energy-related targets in the overnight attacks. Zelenskyy’s prior conditional readiness if Russia reciprocates remained the public Ukrainian line; no bilateral confirmation of an energy pause was opened. Trump’s 11 October Truth Social post remains the sole primary U.S. statement of an agreement."
+              "text": "Kremlin spokesman Dmitry Peskov (Reuters, Xinhua, TASS secondary) stated on 13 October that contacts regarding Trump’s energy-ceasefire announcement were continuing but that there had been no change or new progress to report. He reiterated Russia’s preference for a lasting peace settlement over temporary pauses and separated the issue from the recent U.S.–Russia diesel supply arrangement. Russian Defense Ministry earlier stated (via secondary) that forces had not hit energy-related targets in the prior overnight package. Zelenskyy’s conditional readiness if Russia reciprocates, and his later statement that Russia was not abiding, remained the public Ukrainian line. Trump’s 11 October Truth Social post remains the sole primary U.S. statement of an agreement. No bilateral confirmation opened."
             },
             {
               "kicker": "Equities check",
-              "text": "Peskov and the Russian MoD speak for the Kremlin and have an interest in avoiding binding temporary constraints while emphasizing long-term terms and characterizing strikes as non-energy. Ukrainian authorities have an interest in documenting non-reciprocity. Absence of Russian primary confirmation of a pause is a negative finding relative to a claimed bilateral agreement."
+              "text": "Peskov and the Russian MoD speak for the Kremlin and have an interest in avoiding binding temporary constraints while emphasizing long-term terms. Ukrainian authorities have an interest in documenting non-reciprocity and energy hits. Absence of Russian primary confirmation of a pause is a negative finding relative to a claimed bilateral agreement."
             },
             {
               "kicker": "Judgment",
-              "text": "No operational energy ceasefire is established. Russian public position remains unconfirmed and is accompanied by continued reported strikes. Temporary election-related pauses remain rejected. Diplomatic friction and conditional Ukrainian readiness continue. Single-source elements of any direct Trump–Putin understanding remain unconfirmed."
+              "text": "No operational energy ceasefire is established. Russian public position remains unconfirmed and is accompanied by continued reported strikes, including on energy infrastructure. Temporary pauses remain rejected. Diplomatic friction continues. Single-source elements of any direct Trump–Putin understanding remain unconfirmed."
             },
             {
               "kicker": "Confidence",
-              "text": "High on Peskov’s public statements (wires and state media); moderate on the MoD claim of no energy hits (single official statement, unconfirmed by independent observation of the full package); low on the existence of any bilateral energy understanding until Russian primary confirmation or a sustained operational halt is observed."
+              "text": "High on Peskov’s public statements (wires); moderate on the prior MoD claim of no energy hits (single official statement); low on the existence of any bilateral energy understanding until Russian primary confirmation or a sustained operational halt is observed."
             }
           ]
         }
@@ -70,12 +70,12 @@
       "items": [
         {
           "kind": "Military",
-          "time": "13 Oct",
-          "title": "No new confirmed Moldovan or other European spillover incidents identified in the window; 11 October forest drone explosion remains the latest open-source case",
+          "time": "13–14 Oct",
+          "title": "No new confirmed Moldovan or other European spillover incidents identified in the window; prior October cases remain the latest open-source record",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "Open-source review for 13 October yielded no additional confirmed explosions, airspace violations, or sabotage events in Moldova or other European states beyond the 11 October drone explosion in a forest near Jămăna (Anenii Noi). National systems reportedly did not detect an unauthorized crossing in that earlier incident. Standing hybrid activity remains in the background but is outside the current window."
+              "text": "Open-source review for the window yielded no additional confirmed explosions, airspace violations, or sabotage events in Moldova or other European states beyond previously reported October incidents (including the 11 October forest drone explosion near Jămăna and earlier Banderol-related cases). National systems had not detected some earlier crossings. Standing hybrid activity remains in the background but is outside the current window."
             },
             {
               "kicker": "Equities check",
@@ -83,7 +83,7 @@
             },
             {
               "kicker": "Judgment",
-              "text": "No new hybrid/spillover event is established for the window. The 11 October Moldova incident stands as the latest confirmed case. Pattern of occasional spillover remains plausible but not reinforced by new evidence."
+              "text": "No new hybrid/spillover event is established for the window. Prior October Moldova incidents stand as the latest confirmed cases. Pattern of occasional spillover remains plausible but not reinforced by new evidence in this window."
             },
             {
               "kicker": "Confidence",
@@ -101,12 +101,12 @@
       "items": [
         {
           "kind": "Sanctions",
-          "time": "12–13 Oct",
+          "time": "12–14 Oct",
           "title": "EU Foreign Affairs Council formal adoption of largest-ever sanctions listings package (1,569 individuals and entities) remains the standing development; no new package announced",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "EEAS and Consilium press releases (12 October) confirm formal adoption of sanctions on 1,569 individuals and entities (826 Russian companies and 743 CEOs) linked to the military-industrial complex, focusing on mid-level suppliers of components for missiles, UAVs and aircraft. More than half address the ballistic-missile production chain. Combined turnover estimated at least €20 billion; >250,000 employees. Total listings under the relevant regime now approach 4,600. Additional listings: 77 individuals for involvement in illegal State Duma elections in occupied Ukrainian territories. Kaja Kallas described it as the single largest expansion since the war began. Package is listings-only (asset freezes, travel bans); no new sectoral trade measures noted. Formal step after prior Coreper agreement. No additional package or formal step identified for 13 October."
+              "text": "EEAS and Consilium materials (12 October) confirm formal adoption of sanctions on 1,569 individuals and entities (826 Russian companies and 743 CEOs) linked to the military-industrial complex, focusing on mid-level suppliers of components for missiles, UAVs and aircraft. More than half address the ballistic-missile production chain. Combined turnover estimated at least €20 billion; >250,000 employees. Total listings under the relevant regime now approach 4,600. Additional listings: 77 individuals for involvement in illegal State Duma elections in occupied Ukrainian territories. Kaja Kallas described it as the single largest expansion since the war began. Package is listings-only (asset freezes, travel bans); no new sectoral trade measures noted. No additional package or formal step identified for 13–14 October."
             },
             {
               "kicker": "Equities check",
@@ -132,12 +132,12 @@
       "items": [
         {
           "kind": "Political",
-          "time": "13 Oct",
+          "time": "13–14 Oct",
           "title": "No major new security incidents or policy announcements identified; standing defensive posture and prior policy advocacy continue",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "Open-source review of ERR, LSM, LRT, Delfi, LETA and government sites for the window yielded no new major border incidents, airspace violations, or defense announcements beyond standing activity. Prior joint Baltic call for an EU ban on Russian grain transit remains in the background. Ongoing defensive exercises and NATO air-policing activity continue without reported new incidents."
+              "text": "Open-source review of ERR, LSM, LRT, Delfi, LETA, Baltic Monitor and government sites for the window yielded no new major border incidents, airspace violations, or defense announcements beyond standing activity. Polish RCB alerts related to Ukrainian strikes were issued and cancelled without confirmed violations. Ongoing defensive exercises and NATO air-policing activity continue without reported new incidents. Prior joint Baltic call for an EU ban on Russian grain transit remains in the background."
             },
             {
               "kicker": "Equities check",
@@ -163,12 +163,12 @@
       "items": [
         {
           "kind": "Political",
-          "time": "13 Oct",
-          "title": "Vučić reiterates non-recognition of independent Kosovo and support for Kosovo Serbs; prior Raška meeting and funding announcements remain in background; no new KFOR incident",
+          "time": "13–14 Oct",
+          "title": "Vučić continues rhetorical support for Kosovo Serbs and non-recognition of independent Kosovo; prior Raška meeting and funding remain in background; no new KFOR incident",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "Serbian President Aleksandar Vučić stated on 13 October (Politika, Tanjug) that Serbia will never accept independent Kosovo as a completed fact and will use political means to oppose violence against the Kosovo Serb population. Background remains the 12 October meeting with Kosovo Serb representatives in Raška and announced socio-economic funding. No new KFOR incident report or major escalation identified for the day."
+              "text": "Serbian President Aleksandar Vučić stated on 13 October (Politika, Tanjug) that he had urged Kosovo Serbs to persist in peaceful struggle for rights and that Serbia would never accept independent Kosovo as a completed fact. He indicated efforts to de-escalate and meetings with European leaders. Background remains the recent meeting with Kosovo Serb representatives in Raška and announced socio-economic funding. No new KFOR incident report or major escalation identified for the window. Kosovo Prime Minister Kurti comments on Serbian statements appeared in secondary reporting."
             },
             {
               "kicker": "Equities check",
@@ -194,20 +194,20 @@
       "items": [
         {
           "kind": "Political",
-          "time": "13 Oct",
-          "title": "Pashinyan: Armenia to maintain good relations with Russia while moving closer to EU; Kallas on Georgian democratic backsliding; no major security incidents",
+          "time": "13–14 Oct",
+          "title": "Pashinyan emphasizes focus on signing and ratifying Armenia–Azerbaijan peace agreement as cornerstone of statehood; continued balancing of Russia and EU ties; no major security incidents",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "Armenian Prime Minister Nikol Pashinyan stated (regional outlets, JAMnews) that Armenia will continue to maintain good relations with Russia while moving closer to the EU. EU High Representative Kaja Kallas commented on deepening democratic backsliding in Georgia, including threats to ban opposition parties and restrict civil society. Prior EU export liberalisation for Armenia (around 10–12 October) remains in the background. No new border incidents, ceasefire violations, or major diplomatic breakthroughs between Armenia and Azerbaijan were identified in the window."
+              "text": "Armenian Prime Minister Nikol Pashinyan stated (regional outlets, Armenpress, Türkiye Today) that Armenia should focus in the near future on having the peace agreement with Azerbaijan initialed, signed and ratified, describing it as a cornerstone for the long-term sustainability of Armenian statehood. He previously noted no border deaths or injuries for over two years and that relations with Russia can no longer be the same while Armenia moves closer to the EU. Swiss Foreign Minister Ignazio Cassis scheduled to visit Armenia and Georgia 14–16 October to discuss the peace process (OSCE chair). Kallas comments on Georgian democratic backsliding remain in the background. No new border incidents, ceasefire violations, or major diplomatic breakthroughs identified in the window."
             },
             {
               "kicker": "Equities check",
-              "text": "Armenian leadership has an interest in balancing external relationships. EU institutions have an interest in documenting governance trends in Georgia. Absence of conflict reports is a negative finding relative to residual risk."
+              "text": "Armenian leadership has an interest in balancing external relationships and advancing the peace process. EU and OSCE actors have an interest in documenting governance trends and supporting the process. Absence of conflict reports is a negative finding relative to residual risk."
             },
             {
               "kicker": "Judgment",
-              "text": "Political and diplomatic activity continued without a new security crisis. No material change to the Armenia–Azerbaijan security balance is established."
+              "text": "Political and diplomatic activity continued without a new security crisis. Pashinyan continues to frame the peace process as foundational. No material change to the Armenia–Azerbaijan security balance is established."
             },
             {
               "kicker": "Confidence",
@@ -225,24 +225,24 @@
       "items": [
         {
           "kind": "Political",
-          "time": "12–13 Oct",
-          "title": "Follow-up to Bärbel Bas resignation: coalition continuity emphasized; Schweitzer named successor; Merz electricity-tax signals remain",
+          "time": "13–14 Oct",
+          "title": "Schweitzer formally appointed labor minister following Bas resignation; Merz presses for rapid progress on pending legislation; coalition continuity managed",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "German media (dpa, Reuters, Tagesschau, Bloomberg) continued coverage of Bärbel Bas’s 12 October resignation as SPD co-chair and federal Labor Minister, citing personal circumstances and public attacks. Alexander Schweitzer named as successor labor minister. Chancellor Friedrich Merz emphasized prior cooperation and expressed confidence in rapid advancement of pending legislation. Electricity-tax cut signals from the CDU leadership retreat remain in the background. No new defense or foreign-policy announcements of note opened on 13 October."
+              "text": "German media (dpa, Süddeutsche Zeitung, Tagesschau, Reuters, Bloomberg) reported that Federal President Frank-Walter Steinmeier appointed Alexander Schweitzer as the new Federal Minister of Labor and Social Affairs on 13 October, one day after Bärbel Bas’s resignation as SPD co-chair and labor minister (citing personal circumstances and public attacks). Chancellor Friedrich Merz urged rapid advancement of pending legislation and emphasized continuity. Bas’s resignation added to existing coalition pressures after state election setbacks, but no immediate threat to government stability was reported. No new defense or foreign-policy announcements of note opened in the window."
             },
             {
               "kicker": "Equities check",
-              "text": "SPD and CDU leaderships have interests in managing internal cohesion and public narrative after electoral setbacks. Coverage is mainstream German and international wires."
+              "text": "SPD and CDU leaderships have interests in managing internal cohesion and public narrative after electoral setbacks and the resignation. Coverage is mainstream German and international wires."
             },
             {
               "kicker": "Judgment",
-              "text": "Coalition friction increased with the Bas resignation but continuity is being managed. CDU continues efforts to regain voter trust via cost-of-living measures. No immediate threat to government stability is established."
+              "text": "Coalition friction increased with the Bas resignation but continuity is being managed through rapid succession. Merz continues to press for legislative progress. No immediate threat to government stability is established."
             },
             {
               "kicker": "Confidence",
-              "text": "High on the resignation and successor naming (multiple mainstream outlets); moderate on longer-term coalition dynamics."
+              "text": "High on the appointment and resignation details (multiple mainstream outlets); moderate on longer-term coalition dynamics."
             }
           ]
         }
@@ -252,6 +252,6 @@
   "sourceGroups": [],
   "sourceIntro": null,
   "sourceKey": "Standing sources were reviewed inside each theater even when unused. A source is used only if an item cites it.",
-  "operationalAssessment": "Desks opened. Russia & Ukraine: Air Force overnight tally and delayed-alert ballistic package (secondary citing AF Telegram), Klitschko and regional governors (city/regional authorities), Peskov (Reuters/TASS/wires), Russian MoD claim of no energy hits (secondary). Hybrid: no new incidents. Europe: EEAS/Consilium primary on sanctions (carried forward). Baltics: government/media sites, no new major events. Balkans: Serbian reporting on Vučić statements. Caucasus: regional outlets on Pashinyan and Kallas remarks. Germany: dpa/Reuters/Tagesschau on Bas resignation follow-up. Theaters that terminated empty of new material: Hybrid, Baltics. Edge of window: full end-of-day casualty tallies and any Russian primary confirmation of energy pause not yet available. Canvas prompt unavailable — banner applied. Execution: Sequential open-source review.",
+  "operationalAssessment": "Desks opened. Russia & Ukraine: Zelenskyy Telegram and Klitschko (city authority) on evening 13 Oct Kyiv ballistic strikes targeting CHP-4 and residential building with no advance warning (Reuters, Kyiv Independent, Kyiv Post secondary); Peskov (Reuters/Xinhua) on continuing contacts with no new progress. Hybrid: no new incidents. Europe: EEAS/Consilium primary on sanctions (carried forward). Baltics: government/media sites and Baltic Monitor, no new major events. Balkans: Serbian reporting (Politika/Tanjug) on Vučić statements. Caucasus: regional outlets on Pashinyan peace-process remarks. Germany: dpa/SZ/Tagesschau on Schweitzer appointment. Theaters that terminated empty of new material: Hybrid, Baltics. Edge of window: full overnight Air Force tally for 13–14 Oct and any Russian primary confirmation of energy pause not yet available. Canvas prompt unavailable — banner applied. Execution: Sequential open-source review.",
   "footer": "Fully automated, open-source compilation for situational awareness only. Not an official U.S., Allied, or German government product. Source hierarchy, single-source labels, and estimative language follow ICD 203 analytic standards as implemented in this project."
 }
