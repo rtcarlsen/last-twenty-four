@@ -1,1 +1,256 @@
-$(cat /workspace/artifacts/brief.json)
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-16T17:45:00+02:00",
+  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
+  "asOf": "Friday, 16 October 2026, 17:45 CEST",
+  "windowLabel": "16 Oct 2026 05:35 CEST → 16 Oct 2026 17:45 CEST",
+  "cadenceLabel": "Updated twice daily",
+  "banner": null,
+  "editionNote": null,
+  "theaters": [
+    {
+      "id": "ru",
+      "nav": "Russia & Ukraine",
+      "heading": "War and diplomacy",
+      "note": null,
+      "items": [
+        {
+          "kind": "Military",
+          "time": "16 Oct",
+          "title": "Russian overnight drone package of 149 UAVs; 114 neutralized; civilian casualties in Kharkiv and Odesa; Ukraine resumes refinery strikes; Starshield remains restored",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "Ukrainian Air Force reported a Russian attack overnight into 16 October with 149 attack UAVs, of which 114 were neutralized (77 jet-powered). Hits and debris affected multiple regions, including three killed and 13 injured in Kharkiv, injuries in Odesa, and damage to energy and residential infrastructure (Air Force, Babel, regional sources). Russia conducted strikes across nine regions, causing emergency power outages for hundreds of thousands (AP, ABC). Ukraine resumed strikes on Russian oil refineries, including Ryazan, after declaring the Trump-announced energy ceasefire over because Russia continued hitting Ukrainian energy sites (FT, Zelensky statements, Reuters). Starshield/Starlink military service for mobile operations remains restored per Ukrainian MoD sources and Streeting/Hegseth confirmation from 15 Oct; some residual speed-limit questions persist but no new disruption reported. Zelensky, at the EU summit in Brussels (16 Oct), criticized Putin's efforts as a “parody” and not a real desire to end the war, and requested additional European support including for air defense and 2027 funding."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Ukrainian officials have interest in documenting continued Russian energy targeting and the failure of the unilateral energy ceasefire. US administration has interest in framing Ukrainian refinery strikes as the driver of diesel prices. Russian sources have interest in minimizing damage from Ukrainian strikes. Multiple independent wires (AP, Reuters, Guardian) corroborate the pattern of continued Russian strikes and Ukrainian resumption."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "The Trump-announced energy ceasefire has collapsed. Russian drone and energy strikes continued overnight into 16 October, producing civilian casualties and infrastructure effects. Ukraine has resumed strikes on Russian refining capacity. Starshield connectivity for military mobile operations remains available. No larger-scale overnight package beyond the reported 149-UAV wave is established."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "High on the Air Force tally and civilian effects (primary Ukrainian reporting + wire corroboration); high on Starshield restoration continuity (prior multi-source confirmation, no contradictory reporting); moderate on the precise scale of Ukrainian refinery effects (Russian claims of limited damage)."
+            }
+          ]
+        },
+        {
+          "kind": "Diplomatic",
+          "time": "16 Oct",
+          "title": "Zelensky addresses European Council; requests ~€70 bn additional 2027 support; praises European unity amid US friction; Lavrov ceasefire rejection remains standing",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "Zelensky addressed the European Council in Brussels on 16 October, thanking EU leaders for support, criticizing Putin’s negotiating posture as a “parody,” and requesting additional financial and military support of roughly €70 billion for 2027 on top of estimated war costs of €155 billion (president.gov.ua, Euronews, Guardian live). He met separately with EU leaders including Costa, von der Leyen, Frederiksen and Magyar. Macron’s prior pledges of aviation aid and FREYJA acceleration remain standing from the 15 Oct bilateral. Lavrov’s 15 Oct rejection of any ceasefire that would allow rearmament remains the Russian position; no new Russian negotiating text appeared."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Zelensky has interest in securing European funding and air-defense commitments as US friction rises. EU institutions have interest in projecting unity. Russian MFA has interest in rejecting pauses that strengthen Ukrainian forces."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "European political and material support messaging continues. The request for substantial additional 2027 funding is a new discrete ask inside the window. No new US–Russia–Ukraine negotiating track or energy-ceasefire revival is established."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "High on the substance of the address and meetings (primary Ukrainian presidential site + multiple wire live coverage)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hy",
+      "nav": "Hybrid Warfare",
+      "heading": "Spillover and attribution",
+      "note": null,
+      "items": [
+        {
+          "kind": "Assessment",
+          "time": "16 Oct",
+          "title": "No new attributed spillover incident inside the daytime window; standing hybrid campaign continues",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "No new airspace violation, sabotage, cable incident or attributed drone incursion into Baltic, Polish, German or other NATO territory was reported by national defence ministries or major wires between 05:35 CEST and 17:45 CEST on 16 October. Contextual reporting (CBC, Atlantic Council) continues to describe the broader pattern of ambiguous drones over NATO infrastructure but documents no discrete new event inside this short window."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "National authorities have interest in rapid public clarification of any incident. Absence of reporting is a negative finding across monitored primary and wire channels."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "No new hybrid spillover incident is established inside the collection window. The standing campaign continues at prior intensity."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "High on the absence of a new discrete incident (negative finding)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eu",
+      "nav": "Europe",
+      "heading": "Sanctions and policy",
+      "note": null,
+      "items": [
+        {
+          "kind": "Policy",
+          "time": "12 Oct (standing); 16 Oct",
+          "title": "12 October largest-ever EU listings package remains standing; Putin orders seizure of additional European firm assets",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "The Council of the EU’s 12 October adoption of 1,569 military-industrial listings (826 companies + 743 CEOs) plus 77 individuals linked to occupied-territory elections remains the standing sanctions action. No new package was adopted or announced on 16 October. Separately, Putin signed a decree ordering the compulsory seizure of Russian assets of five European companies (Tarkett and others) with combined revenue exceeding €500 million (Euronews, 16 Oct). The measure is framed by Russian authorities as a response to Western asset freezes."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "EU institutions have interest in demonstrating continued pressure. Russian leadership has interest in reciprocal asset measures. Coverage of the 12 Oct package is primary; the seizure decree is reported by independent European wire."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "The 12 October listings package remains the most significant recent EU sanctions action. The Russian asset-seizure decree is a discrete counter-measure inside the window but does not alter the standing EU listings posture."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "High on the 12 Oct package (primary Council acts); moderate-high on the seizure decree (Euronews reporting of the presidential decree)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bt",
+      "nav": "Baltics",
+      "heading": "Air policing and posture",
+      "note": null,
+      "items": [
+        {
+          "kind": "Diplomacy",
+          "time": "14 Oct (standing)",
+          "title": "Rutte Tallinn visit messaging (no imminent threat, +€10 m PURL) remains standing; no new air-policing event",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "NATO Secretary General Mark Rutte’s 14 October visit to Tallinn produced the statements that no imminent threat to NATO territory is seen and that any build-up would be met, plus Estonia’s additional €10 million to PURL. No new airspace violation, intercept or air-policing scramble was reported by Baltic or NATO channels on 16 October. Primary NATO and Estonian restatements remain current."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "NATO and Estonian leadership have interest in projecting readiness and continued Ukraine support. Statements are primary."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "Alliance posture messaging remains steady. No change in Baltic air-policing tempo or new violation is established inside the window."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "High on the 14 Oct visit content (primary NATO/Estonian sources); high on absence of a new incident."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba",
+      "nav": "Balkans",
+      "heading": "Kosovo and elections",
+      "note": null,
+      "items": [
+        {
+          "kind": "Diplomacy",
+          "time": "25 Oct (standing)",
+          "title": "25 October Serbian parliamentary elections remain the standing marker; Vučić non-recognition of Kosovo continues; voter-roll concerns noted",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "Parliamentary elections remain scheduled for 25 October. Vučić (having resigned the presidency to lead the SNS list) continues to restate non-recognition of Kosovo and warn that a change of government would mean recognition. RFE/RL reported an increase of more than 20,000 Kosovo-addressed voters on the Serbian electoral roll, raising accuracy questions (ODIHR has flagged voter-register concerns). No new kinetic incident or institutional withdrawal was reported on 16 October."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Serbian leadership has interest in maintaining non-recognition and domestic mobilization. Election monitors have independent process-integrity interest. Pristina has interest in consolidating control."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "Non-recognition remains standing Serbian policy. The 25 October election remains the next discrete marker. No new kinetic or institutional breakthrough is established inside the window."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "High on the election schedule and non-recognition stance (multiple outlets); moderate on the precise voter-roll discrepancy (RFE/RL investigation)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca",
+      "nav": "Caucasus",
+      "heading": "Peace process",
+      "note": null,
+      "items": [
+        {
+          "kind": "Diplomacy",
+          "time": "15 Oct (standing)",
+          "title": "Pashinyan 2031 peace-treaty target and no-enclaves/equal-area exchange framing remain standing; no new agreement or breakdown",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "Armenian Prime Minister Nikol Pashinyan (cabinet meeting 15 Oct) set a personal target to sign and ratify a peace agreement with Azerbaijan before 2031 and reiterated that there should be no enclaves or exclaves, with territories of precisely corresponding size exchanged, Armenia remaining 29,743 km² on the Alma-Ata basis. No contradictory Baku statement or new negotiating session was reported on 16 October."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Pashinyan has interest in framing a concrete timeline and domestic acceptability of border settlement. Azerbaijani side has not publicly contradicted the exchange framing in the window."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "The peace-process framing continues. The 2031 target and territorial-exchange formula are restated positions, not a new signed agreement. No breakthrough or breakdown is established inside the window."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "High on Pashinyan’s statements (government meeting, multiple outlets); high on absence of a new development."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de",
+      "nav": "Germany",
+      "heading": "Coalition and reforms",
+      "note": null,
+      "items": [
+        {
+          "kind": "Political",
+          "time": "15 Oct (standing)",
+          "title": "Merz FT interview (will not resign, reforms, AfD firewall) remains the standing marker; no new coalition crisis event",
+          "sections": [
+            {
+              "kicker": "Reporting",
+              "text": "Financial Times interview (published 15 Oct) quoted Chancellor Friedrich Merz ruling out resignation amid CDU unrest after state losses: “I will not.” He stated determination to deliver fundamental social-security reforms and declared “If there is a firewall, we are the firewall” against AfD cooperation. No new coalition crisis, resignation or reform-package announcement was reported on 16 October."
+            },
+            {
+              "kicker": "Equities check",
+              "text": "Merz and CDU leadership have interest in projecting stability and reform resolve. Mainstream outlets restated the interview without contradiction."
+            },
+            {
+              "kicker": "Judgment",
+              "text": "Coalition continuity continues to be managed through public defiance and reform messaging. No immediate threat to government stability is established inside the window."
+            },
+            {
+              "kicker": "Confidence",
+              "text": "High on the FT interview content (primary/mainstream restatement); high on absence of a new crisis marker."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceGroups": [],
+  "sourceIntro": null,
+  "sourceKey": "Standing sources were reviewed inside each theater even when unused. A source is used only if an item cites it.",
+  "operationalAssessment": "Desks opened. Russia & Ukraine: Russian 149-UAV overnight package with civilian casualties; Ukraine resumes refinery strikes after energy-ceasefire collapse; Starshield remains restored; Zelensky at European Council requests additional 2027 support and criticizes Putin’s posture. Hybrid: no new spillover incident. Europe: 12 Oct listings package standing; Putin seizes additional European firm assets. Baltics: Rutte Tallinn messaging standing; no new air-policing event. Balkans: 25 Oct elections and non-recognition standing. Caucasus: Pashinyan 2031 target and exchange framing standing. Germany: Merz FT interview standing. Open-source collection applied; no sources invented."
+}
