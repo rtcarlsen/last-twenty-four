@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-16T19:42:19+02:00",
+ "generatedAt": "2026-10-16T19:56:26+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Friday, 16 October 2026, 19:30 CEST",
  "windowLabel": "16 Oct 2026 05:35 CEST → 16 Oct 2026 19:30 CEST",
@@ -2001,5 +2001,5 @@
  ],
  "sourceKey": "A source is used only if an item cites it. Numbers in brackets match the tab's 'Sources used in this tab' list.",
  "operationalAssessment": "Window 16 Oct 2026 05:35 CEST to 19:30 CEST. This edition replaces the 18:30 CEST edition and keeps its items where they still checked out. Official sites were read where reachable (ABW, Moldova's Defence Ministry, Poland's RCB, the Bundestag, the Élysée, the Vatican, kremlin.ru), and X was read through the API for the main official accounts. A second pass covered CNN, Reuters, AP, BBC, DW, Fox News, the New York Times, the Washington Post and the Wall Street Journal: BBC, DW and CNN were read directly; Reuters and AP were read through syndicated copies because their own sites refused access; the New York Times, Washington Post, Wall Street Journal and Fox News yielded no in-window text report that could be read. Consilium, president.gov.ua, ISW, LSM, Lithuanian ministries and several Caucasus government sites were not reached. The ERR item on €32m of EU drone-surveillance funding was dropped because it was first published before the window. The ledger lists only sources read or checked. Hybrid Warfare uses a draft canvas pending approval.",
- "footer": "Fully automated, open-source compilation for situational awareness only. Not an official U.S., Allied, or German government product. Source hierarchy, single-source labels, and estimative language follow ICD 203 analytic standards as implemented in this project."
+ "footer": "Fully automated, open-source compilation for situational awareness only. Not an official U.S., Allied, or German government product."
 }
