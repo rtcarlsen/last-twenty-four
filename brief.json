@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-17T11:40:17+02:00",
+ "generatedAt": "2026-10-17T11:44:11+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Saturday, 17 October 2026, 05:35 CEST",
  "windowLabel": "16 Oct 2026 19:30 CEST → 17 Oct 2026 05:35 CEST",
@@ -3268,5 +3268,5 @@
  ],
  "sourceKey": "A source is used only if an item cites it. Numbers in brackets match the tab's 'Sources used in this tab' list.",
  "operationalAssessment": "Window 16 Oct 2026 19:30 CEST to 17 Oct 2026 05:35 CEST, an overnight window of about ten hours that opens where the re-run evening edition of 16 October ended. The night's main development is the US waiver of most Graham Act sanctions and tariffs on Russia, published at 02:34 CEST; no Kyiv or Kremlin reaction had been located by the cutoff. Ukraine's Air Force had not posted its overnight tally by the cutoff, so overnight strike figures come from regional officials and broadcasters. Official sites and X accounts were read where reachable, and a second pass covered CNN, Reuters, AP, BBC, DW, Fox News, the New York Times, the Washington Post and the Wall Street Journal: BBC, DW and CNN were read directly; Reuters and AP were read through syndicated copies because their own sites refused access; the New York Times, Washington Post and Wall Street Journal yielded search snippets or ledes only. Baltics and Caucasus are below the usual four to six items because the window was thin there, not because sources were skipped. Moscow's claim to have taken Dobropillia is contradicted by Kyiv's evening report, DeepState map data and ISW. The ledger lists only sources read or checked. Hybrid Warfare uses a draft canvas pending approval.",
- "footer": "Fully automated, open-source compilation for situational awareness only. Suitable for general interest only. Not for use in financial planning, medical treatment, or the initiation of global thermonuclear war."
+ "footer": "Fully automated, open-source compilation for situational awareness. Suitable for general interest only. Not for use in financial planning, medical treatment, or the initiation of global thermonuclear war."
 }
