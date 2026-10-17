@@ -1,12 +1,12 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-17T15:24:20+02:00",
+ "generatedAt": "2026-10-17T17:15:22+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
- "asOf": "Saturday, 17 October 2026, 15:24 CEST (off-cycle edition)",
- "windowLabel": "16 Oct 2026 15:24 CEST → 17 Oct 2026 15:24 CEST",
+ "asOf": "Saturday, 17 October 2026, 17:15 CEST",
+ "windowLabel": "16 Oct 2026 17:15 CEST → 17 Oct 2026 17:15 CEST",
  "cadenceLabel": "Rolling 24 hours · updated twice daily",
  "banner": null,
- "editionNote": "Off-cycle edition. It covers the 24 hours to 15:24 CEST on 17 October; new research covers 05:35 to 15:24 CEST, and items from earlier editions still inside the 24 hours were re-checked and carried.",
+ "editionNote": "Evening edition. It covers the 24 hours to 17:15 CEST on 17 October; new research covers 15:24 to 17:15 CEST, items from earlier editions still inside the 24 hours were carried, and stories with new developments are marked as follow-ups.",
  "theaters": [
   {
    "id": "ru",
@@ -15,13 +15,13 @@
    "items": [
     {
      "kind": "Military",
-     "time": "16 Oct 21:22–17 Oct 12:21",
+     "time": "16 Oct 21:22–17 Oct 16:30",
      "title": "Russia hits energy sites in ten regions in what Zelensky calls one of the largest grid strikes yet; seven killed, and Zaporizhstal is hit for a fifth time",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Kharkiv regional head Oleh Syniehubov said Russian strikes on the Slobidskyi and Nemyshlianskyi districts left 10 people affected, among them two 13-year-olds [1]. Mayor Ihor Terekhov said Banderol munitions hit Nemyshlianskyi several times, damaging residential buildings and breaking more than 100 windows [2]. Early on 17 October the Air Force warned of ballistic missiles toward Kryvyi Rih, Zaporizhzhia, Kamianske, and Dnipro, and Kyiv declared a red-level missile alert [3]. Zaporizhzhia's Ivan Fedorov reported several missile strikes on the city, damaged buildings and two people injured, according to preliminary information [4]. In a later update Fedorov said three residential buildings were damaged and cars had caught fire [5]. Suspilne correspondents reported explosions in Zaporizhzhia and repeated explosions in Kryvyi Rih; citing Kherson's city military administration, Suspilne reported that a Russian airstrike on Kherson injured an 11-year-old girl, that a paramedic was wounded in a repeat strike, that two more men were hospitalised after the overnight airstrike on the Korabelnyi district, and that a family with a one-month-old baby was injured in their flat by a morning airstrike [6]. The Dnipropetrovsk regional administration said Russian forces struck an industrial enterprise in Kryvyi Rih and that it was still establishing whether anyone was hurt [7]. Ukrenergo said restrictions for industry and business apply in all regions on 17 October, with hourly household outages in some regions, after Russian attacks on the grid [8]. Ukraine's Air Force said Russia launched 332 attack drones and decoys, four sea-launched Kalibr cruise missiles, Kh-22/32 cruise missiles, and Iskander-M/KN-23 ballistic missiles overnight; 289 drones and the four Kalibrs were downed or jammed, and hits were recorded at 22 locations [9]. The Energy Ministry said energy facilities in ten regions, including Vinnytsia, Volyn, Zhytomyr, Rivne, Ternopil, Khmelnytskyi, and Kharkiv, were hit; power had been restored to more than half a million consumers, and hourly outage schedules were in force even in western regions [10]. RBC-Ukraine noted that on 16 October Putin ordered the strikes to continue after Chief of the General Staff Valery Gerasimov reported that massive strikes on Ukraine's energy facilities had begun [10]. Zelensky called it one of the largest strikes on the energy system, with more than 15 key generation and transmission facilities targeted, and regional authorities put the toll over the past day at seven killed and about 90 injured [11]. Al Jazeera, citing Ukrainian officials, reported that Friday's attacks killed at least eight people in nine regions and that more than a million people lost power [12]. Metinvest said six ballistic missiles hit Zaporizhstal's internal energy and logistics infrastructure and blast-furnace areas at dawn, the plant's fifth such attack and 23 ballistic missiles in all, with no casualties this time [13]. Sloviansk city council said FAB-250 bombs hit two high-rise buildings at 03:40, killing one person and injuring ten [14]."
+       "text": "Kharkiv regional head Oleh Syniehubov said Russian strikes on the Slobidskyi and Nemyshlianskyi districts left 10 people affected, among them two 13-year-olds [1]. Mayor Ihor Terekhov said Banderol munitions hit Nemyshlianskyi several times, damaging residential buildings and breaking more than 100 windows [2]. Early on 17 October the Air Force warned of ballistic missiles toward Kryvyi Rih, Zaporizhzhia, Kamianske, and Dnipro, and Kyiv declared a red-level missile alert [3]. Zaporizhzhia's Ivan Fedorov reported several missile strikes on the city, damaged buildings and two people injured, according to preliminary information [4]. In a later update Fedorov said three residential buildings were damaged and cars had caught fire [5]. Suspilne correspondents reported explosions in Zaporizhzhia and repeated explosions in Kryvyi Rih; citing Kherson's city military administration, Suspilne reported that a Russian airstrike on Kherson injured an 11-year-old girl, that a paramedic was wounded in a repeat strike, that two more men were hospitalised after the overnight airstrike on the Korabelnyi district, and that a family with a one-month-old baby was injured in their flat by a morning airstrike [6]. The Dnipropetrovsk regional administration said Russian forces struck an industrial enterprise in Kryvyi Rih and that it was still establishing whether anyone was hurt [7]. Ukrenergo said restrictions for industry and business apply in all regions on 17 October, with hourly household outages in some regions, after Russian attacks on the grid [8]. Ukraine's Air Force said Russia launched 332 attack drones and decoys, four sea-launched Kalibr cruise missiles, Kh-22/32 cruise missiles, and Iskander-M/KN-23 ballistic missiles overnight; 289 drones and the four Kalibrs were downed or jammed, and hits were recorded at 22 locations [9]. The Energy Ministry said energy facilities in ten regions, including Vinnytsia, Volyn, Zhytomyr, Rivne, Ternopil, Khmelnytskyi, and Kharkiv, were hit; power had been restored to more than half a million consumers, and hourly outage schedules were in force even in western regions [10]. RBC-Ukraine noted that on 16 October Putin ordered the strikes to continue after Chief of the General Staff Valery Gerasimov reported that massive strikes on Ukraine's energy facilities had begun [10]. Zelensky called it one of the largest strikes on the energy system, with more than 15 key generation and transmission facilities targeted, and regional authorities put the toll over the past day at seven killed and about 90 injured [11]. Al Jazeera, citing Ukrainian officials, reported that Friday's attacks killed at least eight people in nine regions and that more than a million people lost power [12]. Metinvest said six ballistic missiles hit Zaporizhstal's internal energy and logistics infrastructure and blast-furnace areas at dawn, the plant's fifth such attack and 23 ballistic missiles in all, with no casualties this time [13]. Sloviansk city council said FAB-250 bombs hit two high-rise buildings at 03:40, killing one person and injuring ten [14]. Later on Saturday, the wholly foreign-owned Kromberg & Schubert plant in Lutsk, which makes car wiring systems for Audi, BMW, Mercedes-Benz, Škoda, and Porsche and employs about 5,500 people, said it had suspended operations after the Russian strike on the facility on 16 October [15]."
       },
       {
        "kicker": "Confidence",
@@ -33,11 +33,10 @@
      "kind": "Diplomacy",
      "time": "17 Oct 02:34–14:14",
      "title": "Trump waives most Graham Act sanctions; Zelensky calls the diesel deal 'the first step' toward more relief as Moscow hails a 'historic moment'",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The White House posted an executive order in which Trump said he was waiving the sanctions, restrictions, and duties of the Lindsey O. Graham Sanctioning Russia and Iran Act and had certified to Congress that the waiver is in the US national interest; the same order formally sets a 500 percent duty on Russian goods and a 100 percent duty on the five largest buyers of Russian oil and gas, both subject to the waiver [15]. Reuters reported that the order came days before the measures were to take effect and noted that India, among the biggest buyers of Russian oil, had raised concerns about the law [16]. AP called the move unexpected and placed it a week after Trump announced a deal to buy Russian diesel [17]. CBS News reported that the 100 percent tariffs had been due on Sunday and that the waivers stay in place until officials determine further action is appropriate [18]. DW reported that the White House gave no explanation of how the pause serves the national interest [19]. The Wall Street Journal described it as a halt to most of the sanctions in the bill and part of a pivot toward Moscow [20]. Democratic Representative Don Beyer said Trump had waived all of the law's Russia sanctions and called on Congress to fix it [21]. On 16 October House Foreign Affairs ranking member Gregory Meeks introduced a bipartisan bill to void the Treasury licences behind the diesel deal and mandate sanctions on Russian energy [22]. Kremlin envoy Kirill Dmitriev called the waiver an important and truly historic moment and said the sanctions would have damaged mainly the US economy and global markets [23][24]. On Saturday Zelensky told reporters that the decision to scrap the law was wrong, that the diesel deal was only the first step and more sanctions relief would follow, that Putin feels joy at such support, and that energy strikes cannot be stopped by restricting Ukraine's response [25][26]. He said Kyiv had no warning of the waiver or the diesel deal and learned of a possible energy truce from the media [27]."
+       "text": "The White House posted an executive order in which Trump said he was waiving the sanctions, restrictions, and duties of the Lindsey O. Graham Sanctioning Russia and Iran Act and had certified to Congress that the waiver is in the US national interest; the same order formally sets a 500 percent duty on Russian goods and a 100 percent duty on the five largest buyers of Russian oil and gas, both subject to the waiver [16]. Reuters reported that the order came days before the measures were to take effect and noted that India, among the biggest buyers of Russian oil, had raised concerns about the law [17]. AP called the move unexpected and placed it a week after Trump announced a deal to buy Russian diesel [18]. CBS News reported that the 100 percent tariffs had been due on Sunday and that the waivers stay in place until officials determine further action is appropriate [19]. DW reported that the White House gave no explanation of how the pause serves the national interest [20]. The Wall Street Journal described it as a halt to most of the sanctions in the bill and part of a pivot toward Moscow [21]. Democratic Representative Don Beyer said Trump had waived all of the law's Russia sanctions and called on Congress to fix it [22]. On 16 October House Foreign Affairs ranking member Gregory Meeks introduced a bipartisan bill to void the Treasury licences behind the diesel deal and mandate sanctions on Russian energy [23]. Kremlin envoy Kirill Dmitriev called the waiver an important and truly historic moment and said the sanctions would have damaged mainly the US economy and global markets [24][25]. On Saturday Zelensky told reporters that the decision to scrap the law was wrong, that the diesel deal was only the first step and more sanctions relief would follow, that Putin feels joy at such support, and that energy strikes cannot be stopped by restricting Ukraine's response [26][27]. He said Kyiv had no warning of the waiver or the diesel deal and learned of a possible energy truce from the media [28]."
       },
       {
        "kicker": "Confidence",
@@ -49,11 +48,10 @@
      "kind": "Military",
      "time": "16 Oct 22:38–17 Oct 12:18",
      "title": "Ukrainian drones close Moscow's airports for a sixth night; Russia's Defence Ministry claims 610 drones downed as Ryazan's main crude unit is reported halted",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Moscow mayor Sergei Sobyanin said air defences downed 25 more drones heading for the capital, bringing the night's total to 69, with emergency crews at debris sites and no reported casualties; Vnukovo, Domodedovo, Sheremetyevo, and Zhukovsky were not receiving or dispatching flights, according to Rosaviatsiya [28]. Moscow city media reported Sheremetyevo restrictions at about 02:03 Moscow time, putting all four airports under limits [29]. Interfax logged closures at Vnukovo, Domodedovo, and Zhukovsky from 22:38 CEST, nine drones downed over Tula region, restrictions at Sochi, and later closures at Kostroma, Yaroslavl, Penza, Saratov, Gelendzhik, and Cherepovets; earlier the Russian Defence Ministry said 47 Ukrainian drones had been destroyed since Friday morning [30]. Deputy Prime Minister Alexander Novak said the domestic petrol market still has a deficit of about 5 percent and that oil companies have postponed refinery maintenance [31]. The Kyiv Independent reported this was the sixth consecutive night of flight restrictions over Moscow since Kyiv resumed refinery strikes [32]. Russia's Defence Ministry later said air defences destroyed 610 Ukrainian drones between 20:00 on 16 October and 08:00 on 17 October Moscow time over 15 regions, Crimea, the Moscow region, and the Black Sea [33]. The Kyiv Independent, citing a Reuters report based on unnamed industry sources, said the Ryazan refinery halted its CDU-6 crude distillation unit after a drone attack on 15 October, and noted that Kyiv had reported no new refinery attacks since lifting its strike pause [34]."
+       "text": "Moscow mayor Sergei Sobyanin said air defences downed 25 more drones heading for the capital, bringing the night's total to 69, with emergency crews at debris sites and no reported casualties; Vnukovo, Domodedovo, Sheremetyevo, and Zhukovsky were not receiving or dispatching flights, according to Rosaviatsiya [29]. Moscow city media reported Sheremetyevo restrictions at about 02:03 Moscow time, putting all four airports under limits [30]. Interfax logged closures at Vnukovo, Domodedovo, and Zhukovsky from 22:38 CEST, nine drones downed over Tula region, restrictions at Sochi, and later closures at Kostroma, Yaroslavl, Penza, Saratov, Gelendzhik, and Cherepovets; earlier the Russian Defence Ministry said 47 Ukrainian drones had been destroyed since Friday morning [31]. Deputy Prime Minister Alexander Novak said the domestic petrol market still has a deficit of about 5 percent and that oil companies have postponed refinery maintenance [32]. The Kyiv Independent reported this was the sixth consecutive night of flight restrictions over Moscow since Kyiv resumed refinery strikes [33]. Russia's Defence Ministry later said air defences destroyed 610 Ukrainian drones between 20:00 on 16 October and 08:00 on 17 October Moscow time over 15 regions, Crimea, the Moscow region, and the Black Sea [34]. The Kyiv Independent, citing a Reuters report based on unnamed industry sources, said the Ryazan refinery halted its CDU-6 crude distillation unit after a drone attack on 15 October, and noted that Kyiv had reported no new refinery attacks since lifting its strike pause [35]."
       },
       {
        "kicker": "Confidence",
@@ -65,11 +63,10 @@
      "kind": "Military",
      "time": "16 Oct 20:10–17 Oct 12:42",
      "title": "Moscow repeats its Dobropillia claim and lists eight settlements in a day; Kyiv still reports fighting there, and ISW calls the claims exaggerated",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Defence Minister Andrei Belousov sent congratulations to brigades the ministry said had taken Dobropillia, Oleksiievo-Druzhkivka, and Serhiivka in Donetsk region and Velykomykhailivka in Dnipropetrovsk region [35]. Ukraine's General Staff said in its 22:00 Kyiv-time update that 208 engagements took place, that 26 Russian assaults were repelled on the Pokrovsk axis including near Dobropillia and Serhiivka, and that fighting continued near Oleksiievo-Druzhkivka on the Kostiantynivka axis [36]. ISW assessed that Putin and Gerasimov are presenting greatly exaggerated advance figures, that its evidence shows Russia has taken about 100 square kilometres since 1 January, and that Russia has had a net loss of 122 square kilometres since 1 September [37]. Telegraf, citing DeepState map data as of 16 October, put the nearest Russian positions about 3.4 km from Dobropillia, about 4 km from Oleksiievo-Druzhkivka, and about 4.9 km from Serhiivka, and cited the Conflict Intelligence Team as saying Russian troops are present on the southern outskirts of Dobropillia and east of it, without a firm view on how stable that presence is [38]. Reuters reported that Ukraine made no mention of Dobropillia changing hands [39]. On Saturday the Defence Ministry's daily report repeated the claims and added Pervomaiske in Donetsk region, Palamarivka and Kovalivka in Kharkiv region, and Malokaterynivka in Zaporizhzhia region, eight settlements in all [40]. No Ukrainian confirmation of any of the eight was found by the cutoff."
+       "text": "Defence Minister Andrei Belousov sent congratulations to brigades the ministry said had taken Dobropillia, Oleksiievo-Druzhkivka, and Serhiivka in Donetsk region and Velykomykhailivka in Dnipropetrovsk region [36]. Ukraine's General Staff said in its 22:00 Kyiv-time update that 208 engagements took place, that 26 Russian assaults were repelled on the Pokrovsk axis including near Dobropillia and Serhiivka, and that fighting continued near Oleksiievo-Druzhkivka on the Kostiantynivka axis [37]. ISW assessed that Putin and Gerasimov are presenting greatly exaggerated advance figures, that its evidence shows Russia has taken about 100 square kilometres since 1 January, and that Russia has had a net loss of 122 square kilometres since 1 September [38]. Telegraf, citing DeepState map data as of 16 October, put the nearest Russian positions about 3.4 km from Dobropillia, about 4 km from Oleksiievo-Druzhkivka, and about 4.9 km from Serhiivka, and cited the Conflict Intelligence Team as saying Russian troops are present on the southern outskirts of Dobropillia and east of it, without a firm view on how stable that presence is [39]. Reuters reported that Ukraine made no mention of Dobropillia changing hands [40]. On Saturday the Defence Ministry's daily report repeated the claims and added Pervomaiske in Donetsk region, Palamarivka and Kovalivka in Kharkiv region, and Malokaterynivka in Zaporizhzhia region, eight settlements in all [41]. No Ukrainian confirmation of any of the eight was found by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -81,11 +78,10 @@
      "kind": "Military",
      "time": "16 Oct 20:15–22:55",
      "title": "Telegraph says Musk proposed the Starlink speed cap to Trump; Trump says it was neither of them",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The Kyiv Independent, citing The Telegraph and four sources familiar with the matter, reported that Elon Musk approached Trump with the idea of restricting Starlink speeds for Ukrainian forces and that Trump agreed; the Telegraph said two Ukrainian sources and a senior European official confirmed the account [41]. Speaking to reporters at the White House, Trump said it was not him and he did not think it was Musk, that he was not sure the service had been slowed at all, and that his relationship with Zelensky is good [42]. The BBC reported Trump's denial alongside Musk's earlier statement that Starshield limits are decided by the US military and ultimately the president, and Reuters' earlier report that the order came from inside the White House [43]. Ukraine's chargé d'affaires in Washington, Denys Senik, told Newsmax2 that service was better than two days earlier but speeds still fluctuated, and that Kyiv was waiting for the Pentagon and SpaceX to clarify whether it had been fully restored [44]."
+       "text": "The Kyiv Independent, citing The Telegraph and four sources familiar with the matter, reported that Elon Musk approached Trump with the idea of restricting Starlink speeds for Ukrainian forces and that Trump agreed; the Telegraph said two Ukrainian sources and a senior European official confirmed the account [42]. Speaking to reporters at the White House, Trump said it was not him and he did not think it was Musk, that he was not sure the service had been slowed at all, and that his relationship with Zelensky is good [43]. The BBC reported Trump's denial alongside Musk's earlier statement that Starshield limits are decided by the US military and ultimately the president, and Reuters' earlier report that the order came from inside the White House [44]. Ukraine's chargé d'affaires in Washington, Denys Senik, told Newsmax2 that service was better than two days earlier but speeds still fluctuated, and that Kyiv was waiting for the Pentagon and SpaceX to clarify whether it had been fully restored [45]."
       },
       {
        "kicker": "Confidence",
@@ -100,26 +96,11 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Reuters reported that Putin, in uniform at a command post, said Russia is establishing a \"security zone\" inside Ukraine along the border and does \"not plan to make this a subject for potential peace negotiations\"; Kremlin spokesman Dmitry Peskov said the planned zone spans 660 km, of which 70% is under Russian control, without giving its depth [45]. RIA Novosti carried Putin's words at an auxiliary command post of the joint group of forces [46]. Kommersant reported the claims made at the command-post meeting that Russian forces had taken about 6,500 sq km and 310 settlements this year [47]. At 18:33 CEST Zelensky wrote that Putin \"wants to destroy us\" and asked whether the eastern part of the country would be enough for him [48]. Separately, the BBC reported from a Ukrainian counter-offensive, Operation Vivaldi, which Kyiv says has retaken 277 sq km in Donbas in recent months [49]."
+       "text": "Reuters reported that Putin, in uniform at a command post, said Russia is establishing a \"security zone\" inside Ukraine along the border and does \"not plan to make this a subject for potential peace negotiations\"; Kremlin spokesman Dmitry Peskov said the planned zone spans 660 km, of which 70% is under Russian control, without giving its depth [46]. RIA Novosti carried Putin's words at an auxiliary command post of the joint group of forces [47]. Kommersant reported the claims made at the command-post meeting that Russian forces had taken about 6,500 sq km and 310 settlements this year [48]. At 18:33 CEST Zelensky wrote that Putin \"wants to destroy us\" and asked whether the eastern part of the country would be enough for him [49]. Separately, the BBC reported from a Ukrainian counter-offensive, Operation Vivaldi, which Kyiv says has retaken 277 sq km in Donbas in recent months [50]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence on Moscow's negotiating position is high, because Putin said it on camera and Reuters and Russian outlets agree on the wording. Confidence on the territorial figures is low, because only the Russian General Staff has given them."
-      }
-     ]
-    },
-    {
-     "kind": "Diplomatic",
-     "time": "16 Oct 17:32–17:35",
-     "title": "Putin and Pope Leo XIV discuss Oleshky by phone; the Vatican seeks a ceasefire for aid and evacuation",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Vatican News said Pope Leo XIV spoke with Putin, raised concern over the situation in occupied Oleshky, and called for a ceasefire to allow humanitarian aid and the voluntary, safe evacuation of civilians [50]. The Kremlin readout, published at 17:35 CEST, blamed \"the Kyiv regime\" for the humanitarian situation there, said Putin supported the Vatican's intention to help the population and supplies, and said the two agreed to work together on this [51]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence that the call took place and on its stated topics is high, because both parties published readouts. Confidence on any practical arrangement is low, because no operational detail has been published."
       }
      ]
     },
@@ -130,11 +111,59 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The UN Human Rights Monitoring Mission in Ukraine said it verified at least 328 civilians killed and 2,105 injured in September, 85 per cent more than in September 2025, across 22 regions and Kyiv, with casualties on 22 of the month's 30 days. Mission head Danielle Bell said: \"The first two weeks of October were among the deadliest periods for civilians in years.\" The update cited 22 civilians killed in Pryluky on the night of 6 to 7 October [52]. AP carried the same report alongside the overnight strikes [53]."
+       "text": "The UN Human Rights Monitoring Mission in Ukraine said it verified at least 328 civilians killed and 2,105 injured in September, 85 per cent more than in September 2025, across 22 regions and Kyiv, with casualties on 22 of the month's 30 days. Mission head Danielle Bell said: \"The first two weeks of October were among the deadliest periods for civilians in years.\" The update cited 22 civilians killed in Pryluky on the night of 6 to 7 October [51]. AP carried the same report alongside the overnight strikes [52]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is high, because the figures come from the UN monitoring mission's own release and a wire carried them unchanged."
+      }
+     ]
+    },
+    {
+     "kind": "Threat",
+     "time": "17 Oct 15:13–17:04",
+     "title": "Zelensky says Russia wants to place ballistic missile systems in Belarus to strike western Ukraine",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Speaking to journalists on Saturday, Zelensky said Russia is placing drone relays in Belarus to use its territory as a corridor for attacks and wants Lukashenko's support to deploy other weapons there, including ballistic missiles, which he said would threaten western Ukraine first [53]. He repeated the remarks in a post on X at 17:04 [54]. He said such a deployment would directly drag Belarus into the war and that Ukraine will add air defence where attacks are most frequent [53]. No response from Minsk or Moscow was found by the cutoff."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence that Zelensky made these statements is high, because they are quoted on record. Confidence on the underlying claim about Russian plans is low, because he gave no evidence and no other source was found."
+      }
+     ]
+    },
+    {
+     "kind": "Strike",
+     "time": "16 Oct–17 Oct 16:01",
+     "title": "Ukraine's General Staff says its forces struck the Roboavia drone plant in Russia's Rostov Oblast",
+     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Ukraine's General Staff said its forces struck a production and storage building of Roboavia, near Khutor Lenina in Rostov Oblast, on 16 October, calling it an effort to disrupt drone production and supply to Russian forces [55]. Ukrainska Pravda, citing Ukrainian military intelligence, said the plant makes Sarych reconnaissance drones and Klin loitering munitions [55]. The General Staff also confirmed a 12 October strike on a missile-brigade supply warehouse near Latyshi in Bryansk Oblast [55]. No Russian statement on the plant was found by the cutoff."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is low, because the strike rests on the General Staff's claim carried by one outlet, with no independent or Russian confirmation."
+      }
+     ]
+    },
+    {
+     "kind": "Diplomacy",
+     "time": "17 Oct 15:57",
+     "title": "Zelensky says Washington proposes a three-way leaders' meeting, possibly at the Miami G20, but neither the US nor Russia has confirmed it",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Zelensky told journalists that the United States has proposed a meeting of the Ukrainian, US, and Russian leaders, possibly in the Emirates or Saudi Arabia or in the United States during the G20 summit in December, but that neither Russia nor the United States has confirmed it [56]. He said Europeans are starting to make contacts about a meeting in a European country [56]. Ukrainska Pravda recalled that in September the Kremlin said a Miami meeting with Zelensky was impossible and that Putin would meet him only in Moscow [56]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence that Zelensky described the proposal this way is high, because he spoke on record. Confidence on the proposal itself is low, because no US or Russian confirmation was found."
       }
      ]
     }
@@ -149,7 +178,6 @@
      "kind": "Security",
      "time": "16 Oct 20:16 – 17 Oct 10:57",
      "title": "Moldova condemns Russia after five drones it identifies as Russian crash on its territory in under 24 hours",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
@@ -165,7 +193,6 @@
      "kind": "Security",
      "time": "16 Oct 20:30–20:56",
      "title": "Romania keeps searching for seven Wine Trader sailors as a NATO military source says the drones came from Russia; Moscow repeats there is no evidence",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
@@ -178,29 +205,13 @@
      ]
     },
     {
-     "kind": "Security",
-     "time": "16 Oct 12:19–16:44",
-     "title": "Bulgaria formally asks NATO for combat aircraft, air defence, and anti-drone systems after the Black Sea ship strikes",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Reuters reported Defence Minister Dimitar Stoyanov saying Bulgaria had sent letters to the NATO Secretary General and the Supreme Allied Commander asking for additional forces on its territory and was awaiting a decision; a NATO official said ambassadors would discuss the request further. Rutte met Bulgarian Prime Minister Rumen Radev and Romanian President Dan on Thursday and said NATO would adjust its deterrence and defence posture in the Black Sea as needed [10]. Bulgarian National Radio, citing BTA, quoted Stoyanov: \"We have requested aircraft, surface-to-air missile systems, anti-drone systems, and patrol aircraft\"; he said no specific assistance was yet confirmed and that Romania and the Baltic states had similar needs [11]. Defense News carried the Reuters report and Stoyanov's plan to meet his Romanian and Turkish counterparts [12]. No NATO decision on the request had been published by the cutoff."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence on the request is high, because the defence minister's on-record statement is carried consistently by a wire, the national radio, and a defence outlet."
-      }
-     ]
-    },
-    {
      "kind": "Policy",
      "time": "16 Oct 19:15–17 Oct 10:00",
      "title": "Romania co-hosts NATO's annual hybrid-threats symposium and drafts a national counter-drone action plan with US support",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Romania's foreign ministry co-hosted NATO's annual symposium on hybrid threats on 15 and 16 October, where allied, EU, Moldovan, Ukrainian, and energy-industry participants discussed drone incidents, sabotage, cyber-attacks, disinformation, and threats to critical infrastructure, against what the ministry described as intensified actions attributed to Russia against Romania and the eastern flank [13]. US Ambassador Darryl Nirenberg said a four-day workshop at the Romanian Parliament ending on 16 October had produced a National Action Plan to detect, track, and neutralise aerial, surface, and underwater drones, covering the legal framework, inter-agency operations, and the protection of critical infrastructure [14]."
+       "text": "Romania's foreign ministry co-hosted NATO's annual symposium on hybrid threats on 15 and 16 October, where allied, EU, Moldovan, Ukrainian, and energy-industry participants discussed drone incidents, sabotage, cyber-attacks, disinformation, and threats to critical infrastructure, against what the ministry described as intensified actions attributed to Russia against Romania and the eastern flank [10]. US Ambassador Darryl Nirenberg said a four-day workshop at the Romanian Parliament ending on 16 October had produced a National Action Plan to detect, track, and neutralise aerial, surface, and underwater drones, covering the legal framework, inter-agency operations, and the protection of critical infrastructure [11]."
       },
       {
        "kicker": "Confidence",
@@ -215,7 +226,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The Finnish Defence Forces said they had put a temporary restricted area in place over the eastern Gulf of Finland, for air and sea, from 03:36 Finnish time (02:36 CEST) [15]. A follow-up post said it was a precaution to protect bystanders and to give authorities the conditions to counter possible drones [15]."
+       "text": "The Finnish Defence Forces said they had put a temporary restricted area in place over the eastern Gulf of Finland, for air and sea, from 03:36 Finnish time (02:36 CEST) [12]. A follow-up post said it was a precaution to protect bystanders and to give authorities the conditions to counter possible drones [12]."
       },
       {
        "kicker": "Confidence",
@@ -230,7 +241,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Citing incident logs obtained by The Telegraph, GB News reported that an RAF Voyager tanker refuelling a Typhoon off Cromer on 18 February and a Typhoon in simulated combat five days later had close encounters with unidentified objects, one at 17,000 ft, neither visible on radar [16]. The Independent reported that the sightings near Norfolk and Humberside were passed to police, that multiple external investigations are ongoing, and that it was unclear whether the drones were hostile [17]. A Ministry of Defence spokesperson did not comment on the incidents directly but said enhanced vigilance had improved its ability to identify potential drone activity [17]."
+       "text": "Citing incident logs obtained by The Telegraph, GB News reported that an RAF Voyager tanker refuelling a Typhoon off Cromer on 18 February and a Typhoon in simulated combat five days later had close encounters with unidentified objects, one at 17,000 ft, neither visible on radar [13]. The Independent reported that the sightings near Norfolk and Humberside were passed to police, that multiple external investigations are ongoing, and that it was unclear whether the drones were hostile [14]. A Ministry of Defence spokesperson did not comment on the incidents directly but said enhanced vigilance had improved its ability to identify potential drone activity [14]."
       },
       {
        "kicker": "Confidence",
@@ -242,11 +253,10 @@
      "kind": "Sabotage",
      "time": "16 Oct 17:51–17 Oct 14:26",
      "title": "Polish Starlink-station arson: German reporting ties the two Turkish suspects held in Nürtingen to the 'Daltons' crime group as Warsaw blames Russian intelligence",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "ARD's capital studio and STRG_F reported that the two Turkish citizens arrested by Baden-Württemberg special forces in Nürtingen on a Polish European arrest warrant, Müslüm T., 34, and Ümit E., 38, belong to Turkish organised-crime circles known as the 'Daltons' [18]. Poland's special-services coordinator Tomasz Siemoniak said there was no doubt Russian intelligence services were behind the 23 September fire at the Wola Krobowska ground station; tagesschau noted it is unclear what evidence supports that [18]. Turkish Minute, citing Der Spiegel, reported that the pair may belong to the gang or have acted on instructions from people connected to it, and that Polish prosecutors accuse them of sabotage and of working for a foreign intelligence service [19]. Poland's ABW said on 16 October that the fire was arson, that a third person recruited over Telegram reconnoitred the site, and that it is still seeking the organisers [20]."
+       "text": "ARD's capital studio and STRG_F reported that the two Turkish citizens arrested by Baden-Württemberg special forces in Nürtingen on a Polish European arrest warrant, Müslüm T., 34, and Ümit E., 38, belong to Turkish organised-crime circles known as the 'Daltons' [15]. Poland's special-services coordinator Tomasz Siemoniak said there was no doubt Russian intelligence services were behind the 23 September fire at the Wola Krobowska ground station; tagesschau noted it is unclear what evidence supports that [15]. Turkish Minute, citing Der Spiegel, reported that the pair may belong to the gang or have acted on instructions from people connected to it, and that Polish prosecutors accuse them of sabotage and of working for a foreign intelligence service [16]. Poland's ABW said on 16 October that the fire was arson, that a third person recruited over Telegram reconnoitred the site, and that it is still seeking the organisers [17]."
       },
       {
        "kicker": "Confidence",
@@ -263,29 +273,29 @@
    "items": [
     {
      "kind": "Unrest",
-     "time": "17 Oct 09:30–15:08",
-     "title": "France: riot police use batons, tear gas, and water cannon against protesters in Paris, Lyon, Strasbourg, and Marseille on a nationwide day of cost-of-living protests",
-     "flag": "NEW THIS UPDATE",
+     "time": "17 Oct 09:30–16:00",
+     "title": "France: riot police use batons, tear gas, and water cannon in Paris, Lyon, Marseille, Lille, and Bordeaux as the Interior Ministry reports an 'escalation in violence' and 272 arrests",
+     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Germany's dpa, citing France's Interior Ministry, reported that police used tear gas and batons against protesters in Paris, Lyon, and Strasbourg as nationwide demonstrations against high living costs began on Saturday [1]. France 24's live file, compiled with AFP, AP, and Reuters, reported police using tear gas and batons to drive demonstrators from the streets of Paris, Marseille, and Lyon, and said footage from the CLPRESS agency showed armoured riot police chasing demonstrators through Paris and striking several people after they had been knocked to the pavement [2]. The BBC reported people throwing rocks as riot police charged in Paris, and tear gas used in Strasbourg, Bordeaux, and Lyon [3]. CNN reported that police deployed tear gas at Place de la République and charged into the crowd, with a small group aiming fireworks at police lines [4]. AFP reporters saw police fire water cannon and tear gas after hundreds of mostly masked protesters, some setting off fireworks, confronted them at several points in Paris [5]. The Paris police prefecture said at 13:28 that officers at République were being attacked by hostile individuals who had come to fight and that police do not back down before rioters, and at 15:07 that several hundred people had stayed behind after the authorised march set off to attack police and rescue services, with water cannon in use [6][7]. By 14:15 the prefecture reported 133 arrests and more than 1,000 preventive checks in Paris, and the Interior Ministry counted 140 actions involving 32,800 people outside Paris and 166 arrests nationwide at midday [8]. Authorities had projected 90,000 to 170,000 protesters nationwide [9]."
+       "text": "Germany's dpa, citing France's Interior Ministry, reported that police used tear gas and batons against protesters in Paris, Lyon, and Strasbourg as nationwide demonstrations against high living costs began on Saturday [1]. France 24's live file, compiled with AFP, AP, and Reuters, reported police using tear gas and batons to drive demonstrators from the streets of Paris, Marseille, and Lyon, and said footage from the CLPRESS agency showed armoured riot police chasing demonstrators through Paris and striking several people after they had been knocked to the pavement [2]. The BBC reported people throwing rocks as riot police charged in Paris, and tear gas used in Strasbourg, Bordeaux, and Lyon [3]. CNN reported that police deployed tear gas at Place de la République and charged into the crowd, with a small group aiming fireworks at police lines [4]. AFP reporters saw police fire water cannon and tear gas after hundreds of mostly masked protesters, some setting off fireworks, confronted them at several points in Paris [5]. The Paris police prefecture said at 13:28 that officers at République were being attacked by hostile individuals who had come to fight and that police do not back down before rioters, and at 15:07 that several hundred people had stayed behind after the authorised march set off to attack police and rescue services, with water cannon in use [6][7]. By 14:15 the prefecture reported 133 arrests and more than 1,000 preventive checks in Paris, and the Interior Ministry counted 140 actions involving 32,800 people outside Paris and 166 arrests nationwide at midday [8]. Authorities had projected 90,000 to 170,000 protesters nationwide [9]. In its afternoon update the Interior Ministry reported an 'escalation in violence' and 272 arrests nationwide, about 20,000 marchers each in Lyon and Nantes and 10,000 in Rennes, and black blocs of several hundred people formed around the far left within the marches [3][8]. A source close to the case told AFP that the CRS 8 urban-violence unit had been called in to Paris, and the police prefecture said an undeclared march heading for the Élysée was pushed back at Rue Boissy d'Anglas and dispersed [10]. AFP journalists reported violent clashes between several hundred protesters and CRS in central Lille from 14:00, the Bordeaux march quickly turning into clashes with projectiles and tear gas, and police answering projectiles and fireworks on Lyon's Place Bellecour with tear gas and dispersal grenades [10]. The BBC's Paris correspondent said the main authorised march appeared peaceful while small wildcat groups roamed the capital [3]. At 16:38 the Paris police prefecture said the city's fire brigade was putting out fires at several points in the capital and asked that rescue services be let through [11]. France 24's live file, updated at 17:13, headlined that a protester's hand had been blown off by a police grenade and that unions put turnout at half a million; it gave no further detail, and no official confirmation of the injury or count of Saturday's injuries had been found by the cutoff [2]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence that police used batons is high, because the Interior Ministry's account carried by dpa, a live file drawing on three wires, and agency footage agree, and the Paris prefecture's own posts confirm the charges and water cannon. Confidence on participation and arrest figures is moderate, because they come only from the Interior Ministry and the police prefecture and were midday counts."
+       "text": "Confidence that police used batons is high, because the Interior Ministry's account carried by dpa, a live file drawing on three wires, and agency footage agree, and the Paris prefecture's own posts confirm the charges and water cannon. Confidence on participation and arrest figures is moderate, because they come only from the Interior Ministry and the police prefecture and were midday counts. The 272 arrest figure is again the Interior Ministry's own count, reported identically by several outlets. Confidence on the reported grenade injury and the union turnout figure is low, because they rest on one live-file headline with no detail or official confirmation."
       }
      ]
     },
     {
      "kind": "Unrest",
-     "time": "17 Oct 07:00–15:04",
-     "title": "France: protesters briefly break into Marseille's city hall, damage a police station, and set Lyon's tourist office on fire; the CNews and Europe 1 offices are attacked in Paris",
-     "flag": "NEW THIS UPDATE",
+     "time": "17 Oct 07:00–16:00",
+     "title": "France: protesters break into Marseille's and Lille's city halls, damage a police station, and set Lyon's tourist office on fire; the CNews and Europe 1 offices are attacked in Paris",
+     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "AFP reported that masked protesters rammed the door of Marseille's city hall with security barriers and that several got in and spray-painted an anarchist symbol before police dispersed them; an AFP photographer saw protesters attack a police building in the city [5]. Marseille's police prefecture said a municipal police station in the 3rd arrondissement had windows broken and smoke bombs thrown inside [10], with no injuries reported there [8]. Mayor Benoît Payan said the intruders caused some damage and that he had to call the President, the Prime Minister, and the Interior Minister before CRS riot-police reinforcements rose from one company to five [8]. In Paris, the police prefecture said about a hundred masked people blockaded the building that houses CNews and Europe 1 early on Saturday and broke several windows, and that 21 people were detained [2][9]. BFM TV reported that masked people smashed the windows of Lyon's tourist office on Place Bellecour before it caught fire and was looted, and Reuters carried the report [9][11]. The Rhône prefecture said police were manoeuvring to disperse violent groups while firefighters were kept from reaching the fire, and in Rennes the Brittany prefecture reported burning barricades on the ring road [10]."
+       "text": "AFP reported that masked protesters rammed the door of Marseille's city hall with security barriers and that several got in and spray-painted an anarchist symbol before police dispersed them; an AFP photographer saw protesters attack a police building in the city [5]. Marseille's police prefecture said a municipal police station in the 3rd arrondissement had windows broken and smoke bombs thrown inside [12], with no injuries reported there [8]. Mayor Benoît Payan said the intruders caused some damage and that he had to call the President, the Prime Minister, and the Interior Minister before CRS riot-police reinforcements rose from one company to five [8]. In Paris, the police prefecture said about a hundred masked people blockaded the building that houses CNews and Europe 1 early on Saturday and broke several windows, and that 21 people were detained [2][9]. BFM TV reported that masked people smashed the windows of Lyon's tourist office on Place Bellecour before it caught fire and was looted, and Reuters carried the report [9][13]. The Rhône prefecture said police were manoeuvring to disperse violent groups while firefighters were kept from reaching the fire, and in Rennes the Brittany prefecture reported burning barricades on the ring road [12]. In Lille, AFP saw protesters force several entrances to the city hall by breaking glass doors and ransack part of the building before fleeing, after which CRS officers searched it [10], and the BBC published photos of the damaged door [3]. Payan later said he was demanding answers on the policing and wanted to know why people had been able to vandalise the city with impunity [10]. The Bouches-du-Rhône prefect, Jacques Witkowski, said Marseille faced 7,000 to 8,000 rioters who were looting and had no demands, said that seeing Marianne brought down by protesters after the attack on the city hall was a public shame, and said he had enough resources [14]. Lyon's mayor, Grégory Doucet, called the situation very confusing and questioned the capacity to cope with the violence and looting [14]."
       },
       {
        "kicker": "Confidence",
@@ -295,13 +305,13 @@
     },
     {
      "kind": "Politics",
-     "time": "16 Oct–17 Oct 14:23",
+     "time": "16 Oct–17 Oct 16:00",
      "title": "France: the Interior Ministry blames the 'ultra-left' and orders 'great firmness' as the month-old school protest movement reaches 7,950 people held in custody and 937 police and gendarmes injured",
-     "flag": "NEW THIS UPDATE",
+     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "On Friday President Emmanuel Macron said the right to protest comes with respect for people and property and called the presence of people seeking only to cause damage unacceptable [12]. On Saturday people around Interior Minister Laurent Nuñez told BFM TV that the day showed a very strong mobilisation of the ultra-left seeking only to create disorder, cited attempted looting, attacks on police, and the targeting of seats of power and the media, and said the minister had reminded prefects and police of his instructions for great firmness [13]. Reuters reported that Nuñez said stun grenades, suspended for the school protests after a 15-year-old lost a hand, could be used on Saturday, and that the police watchdog is investigating at least two dozen allegations of police violence [14]. Interior Ministry figures reported by CNews put the toll since the school protests began in mid-September at 7,950 people held in custody, 6,773 of them minors, 937 police and gendarmes, 248 pupils, and 149 education staff injured, and 36 inquiries opened by the IGPN police inspectorate [15]. CNN, citing BFM TV, reported an Interior Ministry crisis meeting set for 18:00 with the chiefs of staff of the Prime Minister and the Interior and Justice Ministers [4]. Ecologist leader Marine Tondelier called the use of force completely disproportionate [8], while National Rally president Jordan Bardella blamed professionals of chaos and Jean-Luc Mélenchon's far left [9]. No injury tally for Saturday itself had been published by the cutoff."
+       "text": "On Friday President Emmanuel Macron said the right to protest comes with respect for people and property and called the presence of people seeking only to cause damage unacceptable [15]. On Saturday people around Interior Minister Laurent Nuñez told BFM TV that the day showed a very strong mobilisation of the ultra-left seeking only to create disorder, cited attempted looting, attacks on police, and the targeting of seats of power and the media, and said the minister had reminded prefects and police of his instructions for great firmness [16]. Reuters reported that Nuñez said stun grenades, suspended for the school protests after a 15-year-old lost a hand, could be used on Saturday, and that the police watchdog is investigating at least two dozen allegations of police violence [17]. Interior Ministry figures reported by CNews put the toll since the school protests began in mid-September at 7,950 people held in custody, 6,773 of them minors, 937 police and gendarmes, 248 pupils, and 149 education staff injured, and 36 inquiries opened by the IGPN police inspectorate [18]. CNN, citing BFM TV, reported an Interior Ministry crisis meeting set for 18:00 with the chiefs of staff of the Prime Minister and the Interior and Justice Ministers [4]. Ecologist leader Marine Tondelier called the use of force completely disproportionate [8], while National Rally president Jordan Bardella blamed professionals of chaos and Jean-Luc Mélenchon's far left [9]. No injury tally for Saturday itself had been published by the cutoff. At 16:00 Mélenchon, at the head of the Paris march, accused the police prefect on X of organising disorder by barring access to Place de la République with constant tear gas [8], and Marine Le Pen said the protesters' legitimate social demands had again been taken hostage by the far left [10]."
       },
       {
        "kicker": "Confidence",
@@ -316,7 +326,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The National Assembly on Friday rejected several left-wing amendments to the 2027 finance bill that would have imposed a minimum tax of at least 2 percent of net wealth on about 1,800 of the richest households, on the Zucman model, and rejected proposals to restore the wealth tax (ISF) [16]. The government and general rapporteur Philippe Juvin (LR) opposed the measures, Juvin citing a risk of unconstitutionality and harm to business activity [16][17]. About 3,000 amendments to the revenue part remained in the early evening, with its vote scheduled for Tuesday, and the text must in principle go to the Senate by 17 November [16]. Earlier on Friday the social affairs committee rejected the 2027 social-security budget, and AFP reported Prime Minister Sebastien Lecornu could in the end use Article 49.3 on both texts [18]."
+       "text": "The National Assembly on Friday rejected several left-wing amendments to the 2027 finance bill that would have imposed a minimum tax of at least 2 percent of net wealth on about 1,800 of the richest households, on the Zucman model, and rejected proposals to restore the wealth tax (ISF) [19]. The government and general rapporteur Philippe Juvin (LR) opposed the measures, Juvin citing a risk of unconstitutionality and harm to business activity [19][20]. About 3,000 amendments to the revenue part remained in the early evening, with its vote scheduled for Tuesday, and the text must in principle go to the Senate by 17 November [19]. Earlier on Friday the social affairs committee rejected the 2027 social-security budget, and AFP reported Prime Minister Sebastien Lecornu could in the end use Article 49.3 on both texts [21]."
       },
       {
        "kicker": "Confidence",
@@ -328,30 +338,14 @@
      "kind": "Diplomacy",
      "time": "16 Oct–17 Oct 14:19",
      "title": "Fico says Slovakia and Hungary will not join a €70bn package for Ukraine; Zelensky says no EU leader backs easing Russia sanctions",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Slovak Prime Minister Robert Fico said on 16 October that Slovakia would not take part in the €70 billion support package Zelensky requested at the Brussels summit and that Hungarian Prime Minister Péter Magyar took a similar position, according to the Slovak agency TASR as reported by the Kyiv Independent; Czech Prime Minister Andrej Babiš also signalled Czechia would stay out [19]. On Saturday Zelensky said European partners were unanimous that no sanctions on Russia should be lifted until Putin stops the killing and that nobody supports the US–Russia diesel deal [20]. He said a US proposal to unfreeze part of Russia's frozen assets had been discussed with Belgium and EU leaders and was fully under Europe's control, and that no European leader had said no to the €70 billion request [20]."
+       "text": "Slovak Prime Minister Robert Fico said on 16 October that Slovakia would not take part in the €70 billion support package Zelensky requested at the Brussels summit and that Hungarian Prime Minister Péter Magyar took a similar position, according to the Slovak agency TASR as reported by the Kyiv Independent; Czech Prime Minister Andrej Babiš also signalled Czechia would stay out [22]. On Saturday Zelensky said European partners were unanimous that no sanctions on Russia should be lifted until Putin stops the killing and that nobody supports the US–Russia diesel deal [23]. He said a US proposal to unfreeze part of Russia's frozen assets had been discussed with Belgium and EU leaders and was fully under Europe's control, and that no European leader had said no to the €70 billion request [23]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence on Fico's position is moderate, because it reaches us through one agency relay and Magyar's stance is reported only by Fico. Confidence on Zelensky's statements is high, because they are on record, but his account of what EU leaders said is Kyiv's version, not EU text."
-      }
-     ]
-    },
-    {
-     "kind": "Economy",
-     "time": "16 Oct 20:20–21:13",
-     "title": "Commission clears Italy's energy-bills decree, letting Rome cap the gas price used to set electricity prices; Brussels says it must be temporary",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Meloni told reporters after the summit that Italy had closed its negotiation with the Commission on the energy-bills decree, which lets the government act on how gas costs feed into the electricity price in order to lower bills, and welcomed ETS2 and ETS review language in the conclusions [21]. ANSA reported that the Commission said the measure must be temporary and expects Rome's intervention plan as soon as possible, that the mechanism echoes the 2022 Iberian exception, and that ETS carbon costs on firms stay untouched [22]. Il Foglio reported Meloni did not win the wider budget flexibility she sought, against Nordic and German opposition [23], while Il Messaggero quoted her as optimistic that there are margins for more flexibility within the current rules, including for energy investment [24]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate, because the government and the national agency agree on the deal but the Commission's own text was not found."
       }
      ]
     },
@@ -362,7 +356,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Speaking in Washington on his first US visit in the post, Defence Secretary Wes Streeting said thousands of personnel will take part next month in a major exercise in Poland to make sure the coalition of the willing is ready to support Ukraine after the war [25]. GB News reported the drill will include French, German, and Polish troops, was agreed at a coalition summit in July, and, citing The Times, will rehearse moving troops, food, and fuel into a post-conflict Ukraine [26]. The Independent set the announcement against President Trump declining to say Putin started the war [25]. Polish Prime Minister Donald Tusk had announced in July that the coalition's first exercises, with British and French forces, would be held in Poland in the autumn [27]; Rzeczpospolita reported on 14 October that no date had been fixed and that Polish officers it spoke to unofficially were unsure of the timing [28]."
+       "text": "Speaking in Washington on his first US visit in the post, Defence Secretary Wes Streeting said thousands of personnel will take part next month in a major exercise in Poland to make sure the coalition of the willing is ready to support Ukraine after the war [24]. GB News reported the drill will include French, German, and Polish troops, was agreed at a coalition summit in July, and, citing The Times, will rehearse moving troops, food, and fuel into a post-conflict Ukraine [25]. The Independent set the announcement against President Trump declining to say Putin started the war [24]. Polish Prime Minister Donald Tusk had announced in July that the coalition's first exercises, with British and French forces, would be held in Poland in the autumn [26]; Rzeczpospolita reported on 14 October that no date had been fixed and that Polish officers it spoke to unofficially were unsure of the timing [27]."
       },
       {
        "kicker": "Confidence",
@@ -374,11 +368,10 @@
      "kind": "Policy",
      "time": "16 Oct 19:38–20:44",
      "title": "After the summit, Costa says he will accelerate budget talks for a year-end deal while von der Leyen calls the current negotiating frame a 'straitjacket'",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "European Council President Antonio Costa wrote at 20:44 CEST that the EU must agree its next long-term budget by the end of the year and that he will now accelerate the work [29]. Xinhua reported von der Leyen told the closing press conference that the latest frame would cut flexibility by 50 percent against the current budget and leave 99.5 percent of funds predetermined, calling it a straitjacket [30]. Spanish Prime Minister Pedro Sanchez said after the summit that the Irish presidency's proposal is insufficient and well below the current budget, and that Spain will be a net contributor in the next period [31]. Von der Leyen wrote at 20:05 CEST that Europe will step up for Ukraine's additional needs and that global partners must too [32]. Euronews reported leaders condemned the US-Russia diesel deal while the Bulgarian prime minister broke ranks to support it [33]."
+       "text": "European Council President Antonio Costa wrote at 20:44 CEST that the EU must agree its next long-term budget by the end of the year and that he will now accelerate the work [28]. Xinhua reported von der Leyen told the closing press conference that the latest frame would cut flexibility by 50 percent against the current budget and leave 99.5 percent of funds predetermined, calling it a straitjacket [29]. Spanish Prime Minister Pedro Sanchez said after the summit that the Irish presidency's proposal is insufficient and well below the current budget, and that Spain will be a net contributor in the next period [30]. Von der Leyen wrote at 20:05 CEST that Europe will step up for Ukraine's additional needs and that global partners must too [31]. Euronews reported leaders condemned the US-Russia diesel deal while the Bulgarian prime minister broke ranks to support it [32]."
       },
       {
        "kicker": "Confidence",
@@ -390,11 +383,10 @@
      "kind": "Migration",
      "time": "16 Oct 20:01–22:30",
      "title": "Frederiksen asks the Commission to examine Spain's mass regularisation of migrants; Sanchez likens Babis's 'population replacement' charge to far-right rhetoric",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "El Pais reported that after the 18-country migration breakfast Danish Prime Minister Mette Frederiksen said she had asked the Commission to examine what happens when a country does almost the exact opposite of the rest, and that Czech Prime Minister Andrej Babis spoke of politicians capable of population replacement [34]. Euronews reported that Pedro Sanchez rejected the criticism from Babis, Frederiksen, and Austrian Chancellor Christian Stocker as not matching the figures, separated his disagreement with Frederiksen from Babis's remarks, which he said sound like Spain's Vox, and that Stocker called the plan a bad signal [35]. Euronews reported Babis warned Czechia could tighten border controls against migrants arriving from other EU states [35]."
+       "text": "El Pais reported that after the 18-country migration breakfast Danish Prime Minister Mette Frederiksen said she had asked the Commission to examine what happens when a country does almost the exact opposite of the rest, and that Czech Prime Minister Andrej Babis spoke of politicians capable of population replacement [33]. Euronews reported that Pedro Sanchez rejected the criticism from Babis, Frederiksen, and Austrian Chancellor Christian Stocker as not matching the figures, separated his disagreement with Frederiksen from Babis's remarks, which he said sound like Spain's Vox, and that Stocker called the plan a bad signal [34]. Euronews reported Babis warned Czechia could tighten border controls against migrants arriving from other EU states [34]."
       },
       {
        "kicker": "Confidence",
@@ -403,17 +395,34 @@
      ]
     },
     {
-     "kind": "Politics",
-     "time": "16 Oct 20:44–21:02",
-     "title": "Tusk vows not to yield in the Constitutional Tribunal standoff and rejects giving Nawrocki a share of ambassador nominations",
+     "kind": "Unrest",
+     "time": "17 Oct 16:20–17:13",
+     "title": "Belgium: protests partly inspired by France turn violent in Brussels as the Interior Minister vows to use all necessary means against rioters",
+     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Speaking to reporters after the Brussels summit, Prime Minister Donald Tusk said the key aim was to unseat Bogdan Swieczkowski, whom he called the illegally serving president of the Constitutional Tribunal, and that the government would not back down [36]. Tusk said small but aggressive groups were gathering outside the Tribunal, that coaches of PiS supporters and others were expected on Saturday, and that police would act firmly against clear aggression; Wirtualna Polska reported that a police officer was attacked near the Tribunal on Friday [36]. Tusk said he would not accept terms giving President Karol Nawrocki a share of ambassador posts, that nominations require the foreign minister's proposal, his consent, and the president's signature, and that the president may refuse a specific candidate if he gives reasons [37]."
+       "text": "Several hundred mostly young people protested in Brussels on Saturday, and rioters clashed with police in unrest Reuters described as partly inspired by the demonstrations in France [35]. Belgian student groups said they were protesting against rising education costs and reforms they fear will make higher education less accessible [35]. Police used tear gas and water cannon, and some protesters overturned a car, a Reuters witness reported [35][2]. Interior Minister Bernard Quintin said on X that what was unfolding in Brussels was no longer mere protest and that all necessary means would be used to restore order [35]. A protest also took place in Liège [35]. No arrest or injury figures had been published by the cutoff."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence on what Tusk said is high, because two outlets quote the same briefing consistently."
+       "text": "Confidence is high on the clashes and the minister's statement, because a wire witness reported them and a live file drawing on three wires carried the same account."
+      }
+     ]
+    },
+    {
+     "kind": "Politics",
+     "time": "16 Oct–17 Oct 16:43",
+     "title": "Hungary's Magyar says he does not oppose transit of Ukrainian grain through Hungary",
+     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Hungarian Prime Minister Péter Magyar told RTL on his way home from the Brussels summit on Friday that he saw no obstacle to Ukrainian grain crossing Hungary, provided Hungary is used only as a transit country, Ukrainska Pravda reported, citing Telex [36]. Magyar said Zelensky, at their first one-on-one meeting on 16 October, asked for maize to move by rail to Western Europe in sealed wagons, and that a transit procedure used three or four years ago had since stopped working [36]. Zelensky had asked Poland, Romania, Slovakia, and Hungary at the summit to allow grain transit [36]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is moderate, because the quotes come from a broadcast interview relayed through two outlets, and the Hungarian government had published no statement by the cutoff."
       }
      ]
     }
@@ -455,33 +464,18 @@
      ]
     },
     {
-     "kind": "Security",
-     "time": "16 Oct 17:05",
-     "title": "Lukashenko, near the Latvian border, says Minsk does not want war with NATO and accuses the Baltic states of 'insolent' behaviour",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "RIA Novosti reported that Belarusian leader Alexander Lukashenko, visiting a people's militia unit in Verkhnedvinsk district of Vitebsk region near the Latvian border, said Minsk does not want war with NATO, accused the neighbouring Baltic states of insolent behaviour that provokes larger Western states, and said weapons including drones had been prepared for militia units [4]. On 13 October, before this window, BelTA quoted him saying the reported incursion of an armed group from Belarus was \"entirely staged by the Latvians themselves as a media stunt to get money from the European Union\" [5]. LRT had reported that masked people smugglers bringing 20 migrants to the border pelted Latvian soldiers with stones and one drew an object resembling a pistol [6]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence on what Lukashenko said is moderate, because one Russian state agency carried the remarks, though they repeat a line he used four days earlier."
-      }
-     ]
-    },
-    {
-     "kind": "Infrastructure",
-     "time": "16 Oct 15:42",
-     "title": "Lithuania, Latvia, Estonia, and Poland jointly ask Costa and von der Leyen to fund Rail Baltica's completion in the 2028–2034 EU budget, citing military mobility",
+     "kind": "Politics",
+     "time": "17 Oct 16:39",
+     "title": "Estonia: Prime Minister Michal opens Reform's 2027 campaign, citing growth and 5% defence spending, and accuses Isamaa and Center of coalition plans with EKRE",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "President Gitanas Nausėda said in Brussels that all four states building Rail Baltica had written to European Council President António Costa and Commission President Ursula von der Leyen asking that funds in the next financial framework let them finish the project, and said its importance is both economic and military [7]. The presidency said the leaders committed to completing the line within the 2028–2034 budget period and stressed that the current security environment has raised its value for moving EU and NATO troops and equipment quickly [7]. Nausėda acknowledged that the project had been delayed for objective and subjective reasons [7]."
+       "text": "At the Reform Party council in Tartu on Saturday, Prime Minister Kristen Michal said Estonia's economy is growing twice as fast as the EU average and credited the income tax cut, rising wages, and exports [4]. He said defence spending of 5% of GDP is strengthening security, and accused Isamaa and the Center Party of already planning a coalition, possibly with EKRE, ahead of the March 2027 election [4]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is moderate, because the account rests on the Lithuanian presidency's statement relayed by the public broadcaster; the letter itself was not read."
+       "text": "Confidence that Michal made these statements is high, because the public broadcaster reported them from the meeting. His economic claims were not independently checked."
       }
      ]
     }
@@ -496,7 +490,6 @@
      "kind": "Political",
      "time": "16 Oct evening – 17 Oct 14:04",
      "title": "Albania: on the fifth day of protests, police fire stun grenades, tear gas, and water cannon outside the Education Ministry; police count 500 detained and 165 injured",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
@@ -557,7 +550,6 @@
      "kind": "Diplomacy",
      "time": "16 Oct 23:41–23:48",
      "title": "Montenegro: after Croatia has the year-end deadline cut from EU summit conclusions, Plenković and Janša say the open issues can be settled",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
@@ -566,36 +558,6 @@
       {
        "kicker": "Confidence",
        "text": "Confidence is moderate, because the change to the conclusions is reported consistently by Croatian outlets and acknowledged by Plenković himself, but the in-window statements come through relayed reports and the final text was not read at source."
-      }
-     ]
-    },
-    {
-     "kind": "Security",
-     "time": "16 Oct 13:24–16:22",
-     "title": "Croatia: police arrest Hajduk Split fans over pro-Nazi and antisemitic chants before the Ajax match; the government condemns them",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "BIRN reported that police in Split arrested several members of the Torcida fan group after a march with chants including \"Auschwitz, Auschwitz\" and \"Rise, Adolf\" before Thursday's match against Ajax; the case is being investigated as hate speech, further arrests were expected on Friday, and the Croatian government, Split's mayor, and political parties condemned it [16]. BBC Sport reported the police investigation and that ombudswoman Tena Simonović Einwalter condemned the incident [17]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence on the arrests and the condemnations is high, because two independent outlets report them; the investigating judge's decision was not yet public."
-      }
-     ]
-    },
-    {
-     "kind": "Political",
-     "time": "16 Oct 16:07",
-     "title": "BIRN: Serbia's foreign ministry gave at least €250,000 since 2023 to diaspora groups aligned with the ruling SNS",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "A BIRN investigation published by Balkan Insight found that the Serbian Foreign Ministry's Directorate for the Diaspora gave at least €250,000 since 2023 to diaspora associations in North Macedonia, Bosnia, and Serbia that campaign for President Vučić's SNS. The ministry did not respond to BIRN's questions [18]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate, because the records are documentary but no other outlet or official has yet tested them."
       }
      ]
     }
@@ -610,7 +572,6 @@
      "kind": "Diplomacy",
      "time": "16 Oct 20:25",
      "title": "Iran's Pezeshkian says he and Pashinyan discussed a joint Armenia–Iran strategic document; experts to hold follow-up meetings",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
@@ -626,7 +587,6 @@
      "kind": "Diplomacy",
      "time": "16 Oct–17 Oct 11:23",
      "title": "Georgia: Kobakhidze meets Iran's Pezeshkian in Yerevan as Tehran calls for 'practical cooperation' and criticises US sanctions",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
@@ -642,7 +602,6 @@
      "kind": "Politics",
      "time": "17 Oct 15:01",
      "title": "Georgia: Ivanishvili makes a rare public appearance to chair Georgian Dream meetings as the party faces prosecutions of former officials and a party-ban case",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
@@ -658,7 +617,6 @@
      "kind": "Media",
      "time": "17 Oct 13:17",
      "title": "Georgia: shares in the UK-sanctioned pro-government Imedi TV's owner are redistributed to four insiders",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
@@ -674,7 +632,6 @@
      "kind": "Politics",
      "time": "16 Oct 16:50–19:46",
      "title": "Azerbaijan: parliament blames 'hostile forces' in 'friendly and neighbouring countries' for hybrid attacks as school protests over a hijab ban enter a second week",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
@@ -688,32 +645,17 @@
     },
     {
      "kind": "Diplomacy",
-     "time": "16 Oct 16:08",
-     "title": "Azerbaijan–Turkey rift: Baku declares a Turkish columnist wanted over alleged coup calls, and Ankara bristles after Israel's Herzog flies in on an Azerbaijani airliner",
-     "flag": "NEW THIS UPDATE",
+     "time": "17 Oct 14:35",
+     "title": "Georgia: Kobakhidze proposes a public, political-level dialogue with the EU to normalise relations",
+     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Azerbaijan's Prosecutor General's Office said on 16 October it had opened a criminal case over social-media posts allegedly promoting religious radicalism, a coup, and the forcible change of the constitutional order, charging Turkish columnist Celal Çiftçi of Şanlıurfa Olay and declaring him internationally wanted; OC Media later added that Çiftçi had publicly apologised [9]. OC Media also reported outrage in Ankara after Israeli President Isaac Herzog bypassed a Turkish ban on using its airspace by flying to Baku on a commercial Azerbaijan Airlines jet, with Turkish officials saying they were unaware he was aboard and the pro-government Azerbaijani outlet APA criticising the Turkish uproar [10]."
+       "text": "Prime Minister Irakli Kobakhidze told a briefing that steps must be taken on both sides and that Tbilisi's proposal is to begin a dialogue with the European Union at the political level, open and public, including for Georgian society, according to TASS as carried by 1news.az [9]. He called it an ideal proposal and said European structures should readily accept it [9]. No EU response was found by the cutoff."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence on the criminal case is moderate, because it rests on the prosecutor's statement as reported by one outlet. Confidence on the Herzog flight row is moderate, because one outlet reports both sides' reactions."
-      }
-     ]
-    },
-    {
-     "kind": "Political",
-     "time": "16 Oct 16:10",
-     "title": "Georgia: October 4 defendant Giorgi Kirvalidze detained on new contempt-of-court charges as he left detention",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Civil.ge reported that Giorgi Kirvalidze, an athlete charged over the 4 October 2025 election-day unrest, was detained on 16 October on criminal charges of insulting a judge as he left a seven-day administrative sentence for swearing at Georgian Dream founder Bidzina Ivanishvili. Officers cited Article 366(2) of the Criminal Code, which carries up to two years in prison [11]. Interpressnews carried activist Tamuna Giorgadze's account that he was detained outside the Gurjaani facility [12]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate, because the detention is documented by two outlets but no official charge text has been published."
+       "text": "Confidence is moderate, because the remarks rest on one agency report relayed by a second outlet, and no Georgian government transcript was found."
       }
      ]
     }
@@ -728,7 +670,6 @@
      "kind": "Politics",
      "time": "16 Oct 21:30–17 Oct 14:02",
      "title": "Merz tells the Junge Union 'there are limits for me too' on the coalition and promises a strict pension reform after Winkel's re-election",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
@@ -759,7 +700,6 @@
      "kind": "Politics",
      "time": "17 Oct 14:54",
      "title": "Berlin: Left, Greens, and SPD conclude exploratory talks and, according to dpa and AFP, agree to open coalition negotiations",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
@@ -790,7 +730,6 @@
      "kind": "Economic",
      "time": "16 Oct 11:49–18:59",
      "title": "Merz and Macron agree to loosen the EU's 2035 combustion-engine phase-out in exchange for 'Made in Europe' rules; Baden-Württemberg's car sector welcomes it",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
@@ -832,319 +771,379 @@
      "name": "[1] Interfax-Ukraine",
      "href": "https://interfax.com.ua/news/general/1221766.html",
      "status": "used",
-     "note": "21:22 CEST; Syniehubov: 10 affected in Kharkiv incl. two 13-year-olds; re-checked this run"
+     "note": "21:22 CEST; Syniehubov: 10 affected in Kharkiv incl. two 13-year-olds; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[2] RBC-Ukraine",
      "href": "https://newsukraine.rbc.ua/news/russian-banderol-weapons-hit-kharkiv-damaging-1792181335.html",
      "status": "used",
-     "note": "22:20 CEST; Terekhov: Banderol strikes, 100+ windows broken; re-checked this run"
+     "note": "22:20 CEST; Terekhov: Banderol strikes, 100+ windows broken; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[3] Kyiv Post",
      "href": "https://www.kyivpost.com/post/87340",
      "status": "used",
-     "note": "04:10 CEST; Air Force ballistic warnings toward Kryvyi Rih, Zaporizhzhia, Dnipro; Kyiv red alert; re-checked this run"
+     "note": "04:10 CEST; Air Force ballistic warnings toward Kryvyi Rih, Zaporizhzhia, Dnipro; Kyiv red alert; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[4] Mezha (citing Ukrinform / Fedorov)",
      "href": "https://mezha.net/eng/news/mezha-3bce2a6f9fa62607eeb956a3_buildings_damaged_in/",
      "status": "used",
-     "note": "05:02 CEST; Fedorov: several missile strikes on Zaporizhzhia, two injured; re-checked this run"
+     "note": "05:02 CEST; Fedorov: several missile strikes on Zaporizhzhia, two injured; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[5] Ivan Fedorov (Zaporizhzhia regional head, Telegram)",
      "href": "https://t.me/s/ivan_fedorov_zp",
      "status": "used",
-     "note": "posts 04:07 and 04:47 CEST read; two injured, three residential buildings damaged, cars on fire; re-checked this run"
+     "note": "posts 04:07 and 04:47 CEST read; two injured, three residential buildings damaged, cars on fire; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[6] Suspilne (Telegram news feed)",
      "href": "https://t.me/s/suspilnenews",
      "status": "used",
-     "note": "posts 03:42-05:18 CEST read; correspondents report explosions in Zaporizhzhia and Kryvyi Rih; Kherson MVA: girl, 11, paramedic, two men and a family with a one-month-old baby injured in airstrikes; re-checked this run"
+     "note": "posts 03:42-05:18 CEST read; correspondents report explosions in Zaporizhzhia and Kryvyi Rih; Kherson MVA: girl, 11, paramedic, two men and a family with a one-month-old baby injured in airstrikes; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[7] Dnipropetrovsk Regional Military Administration (Telegram)",
      "href": "https://t.me/s/dnipropetrovskaODA",
      "status": "used",
-     "note": "04:27 CEST post read; Russian strikes on an industrial enterprise in Kryvyi Rih, casualties being clarified; re-checked this run"
+     "note": "04:27 CEST post read; Russian strikes on an industrial enterprise in Kryvyi Rih, casualties being clarified; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[8] UA.News (Ukrenergo statement)",
      "href": "https://ua.news/en/ukraine/v-ukrayini-17-zhovtnia-diiatimut-zhorstkishi-grafiki-vidkliuchennia-svitla-ukrenergo",
      "status": "used",
-     "note": "00:00 CEST; nationwide industrial limits and hourly household schedules for 17 Oct; re-checked this run"
+     "note": "00:00 CEST; nationwide industrial limits and hourly household schedules for 17 Oct; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[9] Ukrainska Pravda (Air Force statement)",
      "href": "https://www.pravda.com.ua/eng/news/2026/10/17/8058458/",
      "status": "used",
-     "note": "07:28 CEST; Air Force tally: 332 drones, 4 Kalibr, ballistic and Kh-22/32 missiles; 293 downed or jammed; hits at 22 locations"
+     "note": "07:28 CEST; Air Force tally: 332 drones, 4 Kalibr, ballistic and Kh-22/32 missiles; 293 downed or jammed; hits at 22 locations; carried; link re-checked this run"
     },
     {
      "name": "[10] RBC-Ukraine (Energy Ministry)",
      "href": "https://newsukraine.rbc.ua/news/russia-strikes-energy-facilities-in-10-regions-1792227906.html",
      "status": "used",
-     "note": "11:05 CEST; energy facilities hit in 10 regions; power restored to 500,000+"
+     "note": "11:05 CEST; energy facilities hit in 10 regions; power restored to 500,000+; carried; link re-checked this run"
     },
     {
      "name": "[11] Kyiv Independent",
      "href": "https://kyivindependent.com/russian-attacks-kill-7-injure-dozens-across-ukraine-amid-continued-strikes-on-energy-infrastructure/",
      "status": "used",
-     "note": "09:28 CEST, updated; Zelensky quote, 7 killed and ~90 injured"
+     "note": "09:28 CEST, updated; Zelensky quote, 7 killed and ~90 injured; carried; re-read this run"
     },
     {
      "name": "[12] Al Jazeera",
      "href": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million",
      "status": "used",
-     "note": "07:19 CEST; Friday toll and power cuts for more than a million"
+     "note": "07:19 CEST; Friday toll and power cuts for more than a million; carried; link re-checked this run"
     },
     {
      "name": "[13] Interfax-Ukraine (Metinvest statement)",
      "href": "https://interfax.com.ua/news/general/1221868.html",
      "status": "used",
-     "note": "12:21 CEST; fifth ballistic strike on Zaporizhstal, six missiles, no casualties"
+     "note": "12:21 CEST; fifth ballistic strike on Zaporizhstal, six missiles, no casualties; carried; link re-checked this run"
     },
     {
      "name": "[14] Ukrinform (Sloviansk city council)",
      "href": "https://www.ukrinform.net/rubric-ato/4175379-russian-fab-bombs-hit-highrise-buildings-in-sloviansk-killing-one-person-and-injuring-ten-others.html",
      "status": "used",
-     "note": "11:27 CEST; FAB-250 strike on two high-rises, one dead, ten injured"
+     "note": "11:27 CEST; FAB-250 strike on two high-rises, one dead, ten injured; carried; link re-checked this run"
     },
     {
-     "name": "[15] The White House (executive order)",
+     "name": "[15] Ukrainska Pravda (Kromberg & Schubert statement)",
+     "href": "https://www.pravda.com.ua/eng/news/2026/10/17/8058520/",
+     "status": "used",
+     "note": "16:30 CEST; Lutsk wiring plant hit 16 Oct suspends operations"
+    },
+    {
+     "name": "[16] The White House (executive order)",
      "href": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
      "status": "used",
-     "note": "primary text; posted 02:34 CEST 17 Oct; sections 1-2 and waiver language read; re-checked this run"
+     "note": "primary text; posted 02:34 CEST 17 Oct; sections 1-2 and waiver language read; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[16] Reuters (via Devdiscourse)",
+     "name": "[17] Reuters (via Devdiscourse)",
      "href": "https://www.devdiscourse.com/article/international/3993920-trump-waives-many-russia-related-sanctions-tariffs-before-they-were-to-take-effect-under-new-law",
      "status": "used",
-     "note": "syndicated Reuters copy read; India concerns, certification quote; re-checked this run"
+     "note": "syndicated Reuters copy read; India concerns, certification quote; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[17] AP (via ABC News)",
+     "name": "[18] AP (via ABC News)",
      "href": "https://abcnews.com/US/wireStory/trump-puts-new-russia-sanctions-passed-congress-hold-137339735",
      "status": "used",
-     "note": "syndicated AP copy read, 03:42 CEST; 'unexpected move', diesel-deal context; re-checked this run"
+     "note": "syndicated AP copy read, 03:42 CEST; 'unexpected move', diesel-deal context; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[18] CBS News",
+     "name": "[19] CBS News",
      "href": "https://www.cbsnews.com/news/trump-waives-sanctions-tariffs-russian-oil-lindsey-graham/",
      "status": "used",
-     "note": "04:38 CEST; 100% tariffs were due Sunday; waiver lasts until officials decide otherwise; re-checked this run"
+     "note": "04:38 CEST; 100% tariffs were due Sunday; waiver lasts until officials decide otherwise; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[19] DW",
+     "name": "[20] DW",
      "href": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002",
      "status": "used",
-     "note": "04:09 CEST; White House gave no explanation of national-interest basis; re-checked this run"
+     "note": "04:09 CEST; White House gave no explanation of national-interest basis; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[20] Wall Street Journal",
+     "name": "[21] Wall Street Journal",
      "href": "https://www.wsj.com/politics/policy/trump-waives-most-russia-sanctions-passed-by-congress-4c36bc93",
      "status": "used",
-     "note": "05:02 CEST; paywalled, lede only read; 'most' sanctions halted; re-checked this run"
+     "note": "05:02 CEST; paywalled, lede only read; 'most' sanctions halted; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[21] Kyiv Independent",
+     "name": "[22] Kyiv Independent",
      "href": "https://kyivindependent.com/trump-waives-latest-russia-sanctions-amid-growing-ukraine-us-tensions/",
      "status": "used",
-     "note": "04:31 CEST; Rep. Don Beyer reaction; re-checked this run"
+     "note": "04:31 CEST; Rep. Don Beyer reaction; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[22] House Foreign Affairs Committee Democrats (Meeks release)",
+     "name": "[23] House Foreign Affairs Committee Democrats (Meeks release)",
      "href": "https://democrats-foreignaffairs.house.gov/2026/10/meeks-introduces-legislation-to-block-trump-s-russia-diesel-deal",
      "status": "used",
-     "note": "release dated 16 Oct; Prohibit Corrupt Russia Oil Deals Act; first surfaced in window via Kyiv Independent post 22:16 CEST; re-checked this run"
+     "note": "release dated 16 Oct; Prohibit Corrupt Russia Oil Deals Act; first surfaced in window via Kyiv Independent post 22:16 CEST; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[23] BBC News",
+     "name": "[24] BBC News",
      "href": "https://www.bbc.com/news/articles/cxr5yvzv7rp0o",
      "status": "used",
-     "note": "04:48 CEST; Dmitriev on X, Beyer reaction, \"row with Zelensky\""
+     "note": "04:48 CEST; Dmitriev on X, Beyer reaction, \"row with Zelensky\"; carried; link re-checked this run"
     },
     {
-     "name": "[24] tagesschau",
+     "name": "[25] tagesschau",
      "href": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
      "status": "used",
-     "note": "14:07 CEST; Dmitriev: \"important and truly historic moment\""
+     "note": "14:07 CEST; Dmitriev: \"important and truly historic moment\"; carried; link re-checked this run"
     },
     {
-     "name": "[25] Kyiv Independent",
+     "name": "[26] Kyiv Independent",
      "href": "https://kyivindependent.com/putin-feels-joy-zelensky-calls-trumps-waiving-of-key-russia-sanctions-wrong/",
      "status": "used",
-     "note": "14:14 CEST; Zelensky: waiver \"wrong\", diesel deal \"first step\", \"Putin feels joy\""
+     "note": "14:14 CEST; Zelensky: waiver \"wrong\", diesel deal \"first step\", \"Putin feels joy\"; carried; link re-checked this run"
     },
     {
-     "name": "[26] AFP",
+     "name": "[27] AFP",
      "href": "https://www.afp.com/en/russia-hails-trump-waiving-sanctions-historic",
      "status": "used",
-     "note": "AFP story read; Zelensky fears more sanctions will be lifted; page time stamp inconsistent, not used for timing"
+     "note": "AFP story read; Zelensky fears more sanctions will be lifted; page time stamp inconsistent, not used for timing; carried; link re-checked this run"
     },
     {
-     "name": "[27] Interfax-Ukraine",
+     "name": "[28] Interfax-Ukraine",
      "href": "https://interfax.com.ua/news/general/1221879.html",
      "status": "used",
-     "note": "13:19 CEST; Zelensky: no warning of the waiver, the diesel deal, or the energy truce"
+     "note": "13:19 CEST; Zelensky: no warning of the waiver, the diesel deal, or the energy truce; carried; link re-checked this run"
     },
     {
-     "name": "[28] Kommersant",
+     "name": "[29] Kommersant",
      "href": "https://www.kommersant.ru/doc/9040988",
      "status": "used",
-     "note": "04:19 CEST; Sobyanin 69 drones, all four airports shut, no casualty information; re-checked this run"
+     "note": "04:19 CEST; Sobyanin 69 drones, all four airports shut, no casualty information; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[29] Moskva 24 (Moscow city media)",
+     "name": "[30] Moskva 24 (Moscow city media)",
      "href": "https://www.m24.ru/news/17102026/953706",
      "status": "used",
-     "note": "02:03 Moscow time; Sheremetyevo added, all four airports restricted; re-checked this run"
+     "note": "02:03 Moscow time; Sheremetyevo added, all four airports restricted; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[30] Interfax (Russia feed)",
+     "name": "[31] Interfax (Russia feed)",
      "href": "https://www.interfax.ru/russia/",
      "status": "used",
-     "note": "timeline read: Vnukovo/Domodedovo/Zhukovsky closed 22:38 CEST, Tula 9 drones, MoD 47 drones since Friday morning (19:31 CEST), regional airport closures incl. Sochi; re-read 05:19 CEST, no refinery strike report in window; re-checked this run"
+     "note": "timeline read: Vnukovo/Domodedovo/Zhukovsky closed 22:38 CEST, Tula 9 drones, MoD 47 drones since Friday morning (19:31 CEST), regional airport closures incl. Sochi; re-read 05:19 CEST, no refinery strike report in window; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[31] Interfax (Novak interview)",
+     "name": "[32] Interfax (Novak interview)",
      "href": "https://www.interfax.ru/russia/1123106",
      "status": "used",
-     "note": "21:55 CEST; Novak says petrol deficit about 5%; re-checked this run"
+     "note": "21:55 CEST; Novak says petrol deficit about 5%; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[32] Kyiv Independent",
+     "name": "[33] Kyiv Independent",
      "href": "https://kyivindependent.com/moscow-closes-sky-multiple-nights-in-row-as-ukraine-resumes-refinery-strikes/",
      "status": "used",
-     "note": "00:45 CEST; sixth night of Moscow flight restrictions, Flightradar24 on Sheremetyevo; re-checked this run"
+     "note": "00:45 CEST; sixth night of Moscow flight restrictions, Flightradar24 on Sheremetyevo; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[33] Kommersant (Russian Defence Ministry)",
+     "name": "[34] Kommersant (Russian Defence Ministry)",
      "href": "https://www.kommersant.ru/doc/9041006",
      "status": "used",
-     "note": "08:03 CEST; MoD: 610 drones downed 20:00–08:00 Moscow time over 15 regions, Crimea, Moscow region, Black Sea"
+     "note": "08:03 CEST; MoD: 610 drones downed 20:00–08:00 Moscow time over 15 regions, Crimea, Moscow region, Black Sea; carried; link re-checked this run"
     },
     {
-     "name": "[34] Kyiv Independent (citing Reuters)",
+     "name": "[35] Kyiv Independent (citing Reuters)",
      "href": "https://kyivindependent.com/russian-ryazan-oil-refinery-halts-one-of-its-main-units-after-drone-attacks-reuters-reports/",
      "status": "used",
-     "note": "12:18 CEST; Ryazan CDU-6 halted after 15 Oct attack, per unnamed industry sources"
+     "note": "12:18 CEST; Ryazan CDU-6 halted after 15 Oct attack, per unnamed industry sources; carried; link re-checked this run"
     },
     {
-     "name": "[35] Interfax (Belousov telegrams)",
+     "name": "[36] Interfax (Belousov telegrams)",
      "href": "https://www.interfax.ru/russia/1123104",
      "status": "used",
-     "note": "21:41 CEST; Russian MoD says Dobropillia, Oleksiievo-Druzhkivka, Serhiivka, Velykomykhailivka taken; re-checked this run"
+     "note": "21:41 CEST; Russian MoD says Dobropillia, Oleksiievo-Druzhkivka, Serhiivka, Velykomykhailivka taken; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[36] Mezha (General Staff 22:00 update)",
+     "name": "[37] Mezha (General Staff 22:00 update)",
      "href": "https://mezha.net/eng/news/mezha-dfd22c95d56011018e330270_general_staff-_208/",
      "status": "used",
-     "note": "21:14 CEST; General Staff: 208 engagements, assaults repelled near Dobropillia, Serhiivka, Oleksiievo-Druzhkivka; re-checked this run"
+     "note": "21:14 CEST; General Staff: 208 engagements, assaults repelled near Dobropillia, Serhiivka, Oleksiievo-Druzhkivka; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[37] ISW / Critical Threats (16 Oct assessment)",
+     "name": "[38] ISW / Critical Threats (16 Oct assessment)",
      "href": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-16-2026",
      "status": "used",
-     "note": "published about 02:15 CEST 17 Oct; net Russian loss of 122 sq km since 1 Sept per ISW; re-checked this run"
+     "note": "published about 02:15 CEST 17 Oct; net Russian loss of 122 sq km since 1 Sept per ISW; re-checked this run; carried; re-read this run"
     },
     {
-     "name": "[38] Telegraf (citing DeepState map and CIT)",
+     "name": "[39] Telegraf (citing DeepState map and CIT)",
      "href": "https://news.telegraf.com.ua/ukr/ukraina/5952700-gerasimov-zayavil-o-zakhvate-dobropolya-i-priblizhenii-k-zaporozhyu-chto-na-samom-dele-proiskhodit-na-fronte-karty",
      "status": "used",
-     "note": "20:10 CEST 16 Oct; DeepState as of 16 Oct: nearest Russian positions ~3.4 km from Dobropillia, ~4 km Oleksiievo-Druzhkivka, ~4.89 km Serhiivka; CIT: Russian presence on southern outskirts and east; re-checked this run"
+     "note": "20:10 CEST 16 Oct; DeepState as of 16 Oct: nearest Russian positions ~3.4 km from Dobropillia, ~4 km Oleksiievo-Druzhkivka, ~4.89 km Serhiivka; CIT: Russian presence on southern outskirts and east; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[39] Reuters (via Devdiscourse)",
+     "name": "[40] Reuters (via Devdiscourse)",
      "href": "https://www.devdiscourse.com/article/international/3993876-russian-forces-capture-dobropillia-in-eastern-ukraine-minister-says-no-confirmation-from-kyiv",
      "status": "used",
-     "note": "syndicated Reuters copy, 22:11 CEST 16 Oct; Ukraine made no mention of Dobropillia changing hands; re-checked this run"
+     "note": "syndicated Reuters copy, 22:11 CEST 16 Oct; Ukraine made no mention of Dobropillia changing hands; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[40] TASS (Russian Defence Ministry)",
+     "name": "[41] TASS (Russian Defence Ministry)",
      "href": "https://tass.com/defense/2203513",
      "status": "used",
-     "note": "12:42 CEST; MoD daily report claims eight settlements, incl. Dobropillia, Pervomaiske, Serhiivka, Oleksiievo-Druzhkivka"
+     "note": "12:42 CEST; MoD daily report claims eight settlements, incl. Dobropillia, Pervomaiske, Serhiivka, Oleksiievo-Druzhkivka; carried; link re-checked this run"
     },
     {
-     "name": "[41] Kyiv Independent (citing The Telegraph)",
+     "name": "[42] Kyiv Independent (citing The Telegraph)",
      "href": "https://kyivindependent.com/musk-asked-trump-to-restrict-ukraines-starlink-service-telegraph-reports/",
      "status": "used",
-     "note": "20:19 CEST; Telegraph report, four sources, Musk proposed cap; re-checked this run"
+     "note": "20:19 CEST; Telegraph report, four sources, Musk proposed cap; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[42] CNN (Arabic edition)",
+     "name": "[43] CNN (Arabic edition)",
      "href": "https://arabic.cnn.com/world/article/2026/10/16/trump-wasnt-behind-starlink-slowdown-ukraine",
      "status": "used",
-     "note": "20:15 CEST; Trump quotes to White House reporters on Starshield; re-checked this run"
+     "note": "20:15 CEST; Trump quotes to White House reporters on Starshield; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[43] BBC News",
+     "name": "[44] BBC News",
      "href": "https://www.bbc.com/news/articles/ckz65g34wyd8o",
      "status": "used",
-     "note": "21:33 CEST; Trump denial, Musk position, Reuters account restated; re-checked this run"
+     "note": "21:33 CEST; Trump denial, Musk position, Reuters account restated; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[44] Ukrinform (Senik interview)",
+     "name": "[45] Ukrinform (Senik interview)",
      "href": "https://www.ukrinform.net/rubric-ato/4175297-ukraine-awaiting-pentagon-and-spacex-confirmation-that-starshield-fully-restored-senik-says.html",
      "status": "used",
-     "note": "22:55 CEST 16 Oct; Senik: speeds better but fluctuating, awaiting Pentagon and SpaceX"
+     "note": "22:55 CEST 16 Oct; Senik: speeds better but fluctuating, awaiting Pentagon and SpaceX; carried; link re-checked this run"
     },
     {
-     "name": "[45] Reuters (via Devdiscourse)",
+     "name": "[46] Reuters (via Devdiscourse)",
      "href": "https://www.devdiscourse.com/article/international/3993834-putin-says-russia-is-building-non-negotiable-security-zone-in-ukraine-along-border",
      "status": "used",
-     "note": "syndicated Reuters copy read; security zone, Peskov 660 km / 70%; re-checked this run"
+     "note": "syndicated Reuters copy read; security zone, Peskov 660 km / 70%; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[46] RIA Novosti",
+     "name": "[47] RIA Novosti",
      "href": "https://ria.ru/20261016/putin-2125017629.html",
      "status": "used",
-     "note": "17:35 CEST; Putin at auxiliary command post (state media); re-checked this run"
+     "note": "17:35 CEST; Putin at auxiliary command post (state media); re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[47] Kommersant",
+     "name": "[48] Kommersant",
      "href": "https://www.kommersant.ru/doc/9040616",
      "status": "used",
-     "note": "17:45 CEST; 6,500 sq km claim; re-checked this run"
+     "note": "17:45 CEST; 6,500 sq km claim; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[48] @ZelenskyyUa",
+     "name": "[49] @ZelenskyyUa",
      "href": "https://x.com/ZelenskyyUa/status/2111133361221566778",
      "status": "used",
-     "note": "18:33 CEST post; read via X API; re-checked this run"
+     "note": "18:33 CEST post; read via X API; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[49] BBC News",
+     "name": "[50] BBC News",
      "href": "https://www.bbc.com/news/articles/cvx284w16z1po",
      "status": "used",
-     "note": "18:00 CEST; Operation Vivaldi, Kyiv's 277 sq km claim; re-checked this run"
+     "note": "18:00 CEST; Operation Vivaldi, Kyiv's 277 sq km claim; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[50] Vatican News",
-     "href": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-update.html",
-     "status": "used",
-     "note": "Pope–Putin call, Oleshky; re-checked this run"
-    },
-    {
-     "name": "[51] kremlin.ru",
-     "href": "http://kremlin.ru/events/president/news/81008",
-     "status": "used",
-     "note": "Kremlin readout, 17:35 CEST; re-checked this run"
-    },
-    {
-     "name": "[52] UN News (OHCHR monitoring mission)",
+     "name": "[51] UN News (OHCHR monitoring mission)",
      "href": "https://news.un.org/en/story/2026/10/1168614",
      "status": "used",
-     "note": "18:02 CEST; September casualty figures, Bell quote; re-checked this run"
+     "note": "18:02 CEST; September casualty figures, Bell quote; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[53] AP (via ABC News)",
+     "name": "[52] AP (via ABC News)",
      "href": "https://abcnews.com/International/wireStory/russia-strikes-9-ukrainian-regions-strain-grows-zelenskyy-137313108",
      "status": "used",
-     "note": "syndicated AP copy read, 12:06 CEST; nine regions, at least 15 wounded; re-checked this run"
+     "note": "syndicated AP copy read, 12:06 CEST; nine regions, at least 15 wounded; re-checked this run; carried; link re-checked this run"
+    },
+    {
+     "name": "[53] Ukrainska Pravda (Zelensky to journalists)",
+     "href": "https://www.pravda.com.ua/eng/news/2026/10/17/8058510/",
+     "status": "used",
+     "note": "15:13 CEST; Zelensky on Russian plans for ballistic missiles in Belarus"
+    },
+    {
+     "name": "[54] Volodymyr Zelensky (X)",
+     "href": "https://x.com/ZelenskyyUa/status/2111473458164981969",
+     "status": "used",
+     "note": "17:04 CEST; post repeating the Belarus remarks"
+    },
+    {
+     "name": "[55] Ukrainska Pravda (General Staff)",
+     "href": "https://www.pravda.com.ua/eng/news/2026/10/17/8058516/",
+     "status": "used",
+     "note": "16:01 CEST; General Staff confirms 16 Oct strike on Roboavia drone plant, Rostov Oblast"
+    },
+    {
+     "name": "[56] Ukrainska Pravda (via European Pravda)",
+     "href": "https://www.pravda.com.ua/eng/news/2026/10/17/8058515/",
+     "status": "used",
+     "note": "15:57 CEST; Zelensky on proposed trilateral leaders meeting"
+    },
+    {
+     "name": "DW",
+     "href": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703",
+     "status": "reviewed",
+     "note": "read; Russian MoD target claims, Kherson toll"
+    },
+    {
+     "name": "Kyiv Post",
+     "href": "https://www.kyivpost.com/post/87367",
+     "status": "reviewed",
+     "note": "read; Zelensky energy statement"
+    },
+    {
+     "name": "Ukrainska Pravda news index",
+     "href": "https://www.pravda.com.ua/eng/news/",
+     "status": "reviewed",
+     "note": "index scanned for 15:24–17:45 items"
+    },
+    {
+     "name": "Kyiv Independent news archive",
+     "href": "https://kyivindependent.com/news-archive/",
+     "status": "reviewed",
+     "note": "index scanned"
+    },
+    {
+     "name": "Ukrainska Pravda (Pivden spokesman)",
+     "href": "https://www.pravda.com.ua/eng/news/2026/10/17/8058504/",
+     "status": "reviewed",
+     "note": "read; POW execution claim, single source, held back for space"
+    },
+    {
+     "name": "Ukrainska Pravda",
+     "href": "https://www.pravda.com.ua/eng/news/2026/10/17/8058484/",
+     "status": "reviewed",
+     "note": "read; Polish deployment rehearsal (covered in Europe)"
+    },
+    {
+     "name": "AP",
+     "href": "https://apnews.com/article/russia-ukraine-war-trump-sanctions-energy-07e1dfc41bdad7b3292c6c263005fabc",
+     "status": "reviewed",
+     "note": "not reached (HTTP 403)"
     }
    ]
   },
@@ -1155,139 +1154,103 @@
      "name": "[1] Moldpres (MFA statement)",
      "href": "https://www.moldpres.md/eng/politics/moldovan-foreign-affairs-ministry-condemns-repeated-violation-of-national-airspace",
      "status": "used",
-     "note": "20:16 CEST 16 Oct; state agency carries MFA text: six UAV overflights on 15-16 Oct, one crashed and exploded in Donduseni; re-checked this run"
+     "note": "20:16 CEST 16 Oct; state agency carries MFA text: six UAV overflights on 15-16 Oct, one crashed and exploded in Donduseni; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[2] Moldova MFA (via Cotidianul)",
      "href": "https://www.cotidianul.md/en/40756/mae-condemns-the-repeated-violation-of-the-airspace-of-the-republic-of-moldova-and-calls-on-russia-to-stop-the-attacks-on-ukraine--a-serious-violation-of-sovereignty/",
      "status": "used",
-     "note": "MFA Facebook statement carried 20:49 CEST 16 Oct; seven unauthorised overflights in two days, one crash in Donduseni; re-checked this run"
+     "note": "MFA Facebook statement carried 20:49 CEST 16 Oct; seven unauthorised overflights in two days, one crash in Donduseni; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[3] Reuters (via Yahoo News)",
      "href": "https://www.yahoo.com/news/articles/moldova-condemns-russia-five-drones-221441124.html",
      "status": "used",
-     "note": "syndicated Reuters copy read, 00:14 CEST 17 Oct; five drones identified as Russian crashed, one lightly injured; re-checked this run"
+     "note": "syndicated Reuters copy read, 00:14 CEST 17 Oct; five drones identified as Russian crashed, one lightly injured; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[4] DW (Russian service)",
      "href": "https://www.dw.com/ru/drony-za-sutki-5-raz-narusili-vozdusnoe-prostranstvo-moldovy-odin-iz-nih-upal/a-79684946",
      "status": "used",
-     "note": "04:55 CEST 17 Oct; MoD Telegram: drone entered 16:22 local, declared crashed and exploded 17:06; eighth violation since 10 Oct; re-checked this run"
+     "note": "04:55 CEST 17 Oct; MoD Telegram: drone entered 16:22 local, declared crashed and exploded 17:06; eighth violation since 10 Oct; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[5] Moldova Ministry of Defence (army.md)",
      "href": "https://www.army.md/en/press-releases/seven-incidents-involving-violation-republic-moldovas-airspace-during-period-october",
      "status": "used",
-     "note": "weekly release read; seven incidents 10–16 Oct, 63 in 2026"
+     "note": "weekly release read; seven incidents 10–16 Oct, 63 in 2026; carried; re-read this run"
     },
     {
      "name": "[6] DW (Ukrainian service)",
      "href": "https://www.dw.com/uk/moldova-zasudila-porusenna-povitranogo-prostoru-dronami-rf/a-79686122",
      "status": "used",
-     "note": "10:57 CEST 17 Oct; MFA condemnation and MoD tally"
+     "note": "10:57 CEST 17 Oct; MFA condemnation and MoD tally; carried; re-read this run"
     },
     {
      "name": "[7] Reuters (via Baird Maritime)",
      "href": "https://www.bairdmaritime.com/security/emergency-services/search-and-rescue/search-back-on-for-missing-after-drone-strikes-tanker-off-romania",
      "status": "used",
-     "note": "syndicated Reuters copy read, 20:40 CEST 16 Oct; Wine Trader search, NATO military source on Russian origin, 23 dead or missing; re-checked this run"
+     "note": "syndicated Reuters copy read, 20:40 CEST 16 Oct; Wine Trader search, NATO military source on Russian origin, 23 dead or missing; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[8] Euronews (Nicusor Dan interview)",
      "href": "https://www.euronews.com/2026/10/16/romanian-president-calls-for-greater-nato-oversight-in-the-black-sea-in-euronews-interview",
      "status": "used",
-     "note": "20:30 CEST 16 Oct; Dan calls for greater NATO oversight of the Black Sea; re-checked this run"
+     "note": "20:30 CEST 16 Oct; Dan calls for greater NATO oversight of the Black Sea; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[9] Fakti.bg (quoting TASS)",
      "href": "https://fakti.bg/en/world/1090862-maria-zakharova-there-is-no-evidence-who-is-behind-the-attacks-on-ships-in-the-black-sea",
      "status": "used",
-     "note": "20:56 CEST 16 Oct; Zakharova line via TASS (Russian state claim carrier) and Radev's parliament remark; re-checked this run"
+     "note": "20:56 CEST 16 Oct; Zakharova line via TASS (Russian state claim carrier) and Radev's parliament remark; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[10] Reuters (via Yahoo News)",
-     "href": "https://www.yahoo.com/news/articles/bulgaria-seeks-nato-anti-drone-085613988.html",
-     "status": "used",
-     "note": "syndicated Reuters copy read, 12:19 CEST; NATO official on ambassadors; re-checked this run"
-    },
-    {
-     "name": "[11] BNR Radio Bulgaria (BTA)",
-     "href": "https://bnrnews.bg/en/post/543049/bulgaria-requests-military-aircraft-and-air-defence-systems-from-nato",
-     "status": "used",
-     "note": "13:24 CEST; Stoyanov's list of requests; re-checked this run"
-    },
-    {
-     "name": "[12] Defense News (Reuters)",
-     "href": "https://www.defensenews.com/global/europe/2026/10/16/bulgaria-seeks-nato-anti-drone-systems-defense-minister-says/",
-     "status": "used",
-     "note": "16:44 CEST; Reuters copy, SACEUR named; re-checked this run"
-    },
-    {
-     "name": "[13] Mediafax",
+     "name": "[10] Mediafax",
      "href": "https://www.mediafax.ro/politic/drone-sabotaje-si-atacuri-cibernetice-nato-s-a-reunit-in-romania-pentru-a-discuta-noile-amenintari-23826762",
      "status": "used",
-     "note": "19:15 CEST 16 Oct; NATO annual hybrid symposium co-hosted by Romanian MFA, 15–16 Oct"
+     "note": "19:15 CEST 16 Oct; NATO annual hybrid symposium co-hosted by Romanian MFA, 15–16 Oct; carried; link re-checked this run"
     },
     {
-     "name": "[14] RO Times (citing the US Embassy and Gândul)",
+     "name": "[11] RO Times (citing the US Embassy and Gândul)",
      "href": "https://rotimes.ro/en/article/2026-10-17-us-ambassador-nirenberg-backs-romania-s-drone-defense-plan",
      "status": "used",
-     "note": "10:00 CEST 17 Oct; Nirenberg on National Action Plan against drones"
+     "note": "10:00 CEST 17 Oct; Nirenberg on National Action Plan against drones; carried; link re-checked this run"
     },
     {
-     "name": "[15] @Puolustusvoimat",
+     "name": "[12] @Puolustusvoimat",
      "href": "https://x.com/Puolustusvoimat/status/2111257112273686860",
      "status": "used",
-     "note": "02:44 CEST 17 Oct post; temporary restricted area eastern Gulf of Finland from 03:36 Finnish time; follow-up post 2111257115666842080 gives drone-defence rationale; read via X API; re-checked this run"
+     "note": "02:44 CEST 17 Oct post; temporary restricted area eastern Gulf of Finland from 03:36 Finnish time; follow-up post 2111257115666842080 gives drone-defence rationale; read via X API; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[16] GB News",
+     "name": "[13] GB News",
      "href": "https://www.gbnews.com/news/raf-jets-near-miss-mystery-drones-uk-skies-investigation-launched",
      "status": "used",
-     "note": "00:59 CEST 17 Oct; dates 18 and 23 Feb, 17,000 ft, not on radar, per Telegraph logs; re-checked this run"
+     "note": "00:59 CEST 17 Oct; dates 18 and 23 Feb, 17,000 ft, not on radar, per Telegraph logs; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[17] The Independent",
+     "name": "[14] The Independent",
      "href": "https://www.independent.co.uk/news/uk/home-news/raf-reports-mystery-drones-uk-b3068419.html",
      "status": "used",
-     "note": "01:06 CEST 17 Oct; follows The Telegraph; MoD spokesperson quote; re-checked this run"
+     "note": "01:06 CEST 17 Oct; follows The Telegraph; MoD spokesperson quote; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[18] tagesschau (ARD-Hauptstadtstudio and STRG_F)",
+     "name": "[15] tagesschau (ARD-Hauptstadtstudio and STRG_F)",
      "href": "https://www.tagesschau.de/investigativ/starlink-polen-tuerkei-mafia-100.html",
      "status": "used",
-     "note": "17:51 CEST 16 Oct; suspects linked to the \"Daltons\"; Siemoniak quote; evidence unclear"
+     "note": "17:51 CEST 16 Oct; suspects linked to the \"Daltons\"; Siemoniak quote; evidence unclear; carried; link re-checked this run"
     },
     {
-     "name": "[19] Turkish Minute (citing Der Spiegel)",
+     "name": "[16] Turkish Minute (citing Der Spiegel)",
      "href": "https://www.turkishminute.com/2026/10/17/turkish-gang-may-have-carried-out-starlink-attack-in-poland-for-russia-report/",
      "status": "used",
-     "note": "14:26 CEST 17 Oct; Daltonlar link, prosecutors' charges"
+     "note": "14:26 CEST 17 Oct; Daltonlar link, prosecutors' charges; carried; link re-checked this run"
     },
     {
-     "name": "[20] ABW",
+     "name": "[17] ABW",
      "href": "https://www.abw.gov.pl/pl/aktualnosci/2846,Podpalenie-stacji-Starlink-Od-ustalen-ABW-i-Policji-do-zatrzyman-w-Niemczech.html",
      "status": "used",
-     "note": "16 Oct statement, Starlink arson; re-checked this run"
-    },
-    {
-     "name": "BGNES (Stoyanov)",
-     "href": "https://www.bgnes.bg/dimitar-stoqnov-poiskahme-ot-nato-aviaciq-i-protivoraketni-sistemi",
-     "status": "reviewed",
-     "note": "12:44 CEST 16 Oct; same Stoyanov quotes, read as a check"
-    },
-    {
-     "name": "The Guardian (French supermarket fridge hack)",
-     "href": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-     "status": "reviewed",
-     "note": "06:00 CEST 17 Oct feature; attack and first reports pre-window, no attribution; not used"
-    },
-    {
-     "name": "Belarus Virtual Consult (exercise review)",
-     "href": "https://belarusvc.com/news/weekly-review-of-military-exercises-in-eu-neighboring-countries-16/",
-     "status": "reviewed",
-     "note": "not reached (search snippet only, not opened)"
+     "note": "16 Oct statement, Starlink arson; re-checked this run; carried; link re-checked this run"
     }
    ]
   },
@@ -1298,271 +1261,271 @@
      "name": "[1] dpa (via Yahoo News)",
      "href": "https://www.yahoo.com/news/world/articles/police-clash-protesters-paris-lyon-123320520.html",
      "status": "used",
-     "note": "14:33 CEST; dpa copy read: Interior Ministry says police used tear gas and batons in Paris, Lyon, Strasbourg"
+     "note": "14:33 CEST; dpa copy read: Interior Ministry says police used tear gas and batons in Paris, Lyon, Strasbourg; carried; link re-checked this run"
     },
     {
      "name": "[2] France 24 live (with AFP, AP, and Reuters)",
      "href": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
      "status": "used",
-     "note": "live file read via fetch, entries 10:23–15:04 CEST; batons, CLPRESS footage, CNews blockade, Lyon fire"
+     "note": "updated 17:13 CEST; headline on grenade injury and union turnout claim; Brussels clashes; re-read via WebFetch"
     },
     {
      "name": "[3] BBC News live",
      "href": "https://www.bbc.com/news/live/ckpdg1v41562t",
      "status": "used",
-     "note": "live page read to 15:08 CEST; ministry tallies, charges and tear gas, Marseille city hall"
+     "note": "15:17–15:46 BST posts; Interior Ministry escalation statement, 272 arrests, Lille city hall"
     },
     {
      "name": "[4] CNN live",
      "href": "https://www.cnn.com/2026/10/17/world/live-news/france-protests-paris-intl",
      "status": "used",
-     "note": "live page read; police charged crowd at République; Interior Ministry crisis unit at 18:00"
+     "note": "live page read; police charged crowd at République; Interior Ministry crisis unit at 18:00; carried; link re-checked this run"
     },
     {
      "name": "[5] AFP",
      "href": "https://www.afp.com/en/french-protesters-clash-police-during-nationwide-demonstrations",
      "status": "used",
-     "note": "AFP story read; water cannon and tear gas in Paris, Marseille city hall, CNews/Europe 1 windows; page time stamp inconsistent, not used for timing"
+     "note": "AFP story read; water cannon and tear gas in Paris, Marseille city hall, CNews/Europe 1 windows; page time stamp inconsistent, not used for timing; carried; link re-checked this run"
     },
     {
      "name": "[6] Préfecture de Police (X)",
      "href": "https://x.com/prefpolice/status/2111418979948355925",
      "status": "used",
-     "note": "13:28 CEST; \"On ne recule pas face aux casseurs\""
+     "note": "13:28 CEST; \"On ne recule pas face aux casseurs\"; carried; link re-checked this run"
     },
     {
      "name": "[7] Préfecture de Police (X)",
      "href": "https://x.com/prefpolice/status/2111444063446553033",
      "status": "used",
-     "note": "15:07 CEST; several hundred hostile individuals at République, water cannon"
+     "note": "15:07 CEST; several hundred hostile individuals at République, water cannon; carried; link re-checked this run"
     },
     {
      "name": "[8] Reuters French live (via Boursorama)",
      "href": "https://www.boursorama.com/actualite-economique/actualites/en-direct-journee-de-colere-sociale-en-france-la-police-sur-le-qui-vive-981e06cc307cb5bf1dcf475d805db316",
      "status": "used",
-     "note": "Reuters live read to 15:02 CEST; 133 Paris arrests at 14:15; Payan; Tondelier; ministry figures; Lyon fire at 15:00"
+     "note": "updated 16:29 CEST; 15:00 Interior Ministry count, Mélenchon at 16:00"
     },
     {
      "name": "[9] BFM TV live",
      "href": "https://www.bfmtv.com/societe/manifestations/direct-manifestations-du-17-octobre-plusieurs-rassemblement-prevus-en-france-emmanuel-macron-appelle-au-calme_LN-202610170049.html",
      "status": "used",
-     "note": "live read to 14:57 CEST; 90,000–170,000 expected; Lyon tourist office; Bardella"
+     "note": "live read to 14:57 CEST; 90,000–170,000 expected; Lyon tourist office; Bardella; carried; link re-checked this run"
     },
     {
-     "name": "[10] franceinfo live",
+     "name": "[10] Europe 1 live (AFP)",
+     "href": "https://www.europe1.fr/societe/en-direct-mobilisation-du-17-octobre-un-commissariat-attaque-a-marseille-plus-dune-centaine-dinterpellations-a-paris-1156250",
+     "status": "used",
+     "note": "afternoon posts; CRS 8, Élysée march, Lille, Bordeaux, Lyon, Le Pen, Payan"
+    },
+    {
+     "name": "[11] Préfecture de Police (X)",
+     "href": "https://x.com/prefpolice/status/2111466961884377575",
+     "status": "used",
+     "note": "16:38 CEST; Paris fire brigade putting out fires at several points"
+    },
+    {
+     "name": "[12] franceinfo live",
      "href": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-lyceens-etudiants-gilets-jaunes-des-milliers-de-manifestants-attendus-dans-toute-la-france_8241022.html",
      "status": "used",
-     "note": "live read about 15:00 CEST; Marseille and Rhône prefecture statements, Rennes barricades"
+     "note": "live read about 15:00 CEST; Marseille and Rhône prefecture statements, Rennes barricades; carried; link re-checked this run"
     },
     {
-     "name": "[11] Reuters (via Devdiscourse)",
+     "name": "[13] Reuters (via Devdiscourse)",
      "href": "https://www.devdiscourse.com/article/international/3994158-lyon-tourist-office-set-on-fire-amid-french-protests-over-rising-costs---bfmtv",
      "status": "used",
-     "note": "Reuters snap read: Lyon tourist office set on fire, citing BFMTV"
+     "note": "Reuters snap read: Lyon tourist office set on fire, citing BFMTV; carried; link re-checked this run"
     },
     {
-     "name": "[12] The Guardian",
+     "name": "[14] TF1 Info live",
+     "href": "https://www.tf1info.fr/societe/en-direct-appels-a-la-mobilisation-en-france-samedi-17-octobre-2026-gilets-jaunes-lyceens-climat-actions-blocages-police-crs-dernieres-actualites-2470445.html",
+     "status": "used",
+     "note": "afternoon posts; Bouches-du-Rhône prefect, Lyon mayor"
+    },
+    {
+     "name": "[15] The Guardian",
      "href": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
      "status": "used",
-     "note": "13:50 CEST; Macron Friday quotes, Nuñez on 80+ marches, metro closures"
+     "note": "13:50 CEST; Macron Friday quotes, Nuñez on 80+ marches, metro closures; carried; link re-checked this run"
     },
     {
-     "name": "[13] BFM TV",
+     "name": "[16] BFM TV",
      "href": "https://www.bfmtv.com/societe/manifestations/manifestations-du-17-octobre-le-ministere-de-l-interieur-estime-que-la-probabilite-que-l-ultragauche-fasse-degenerer-les-corteges-est-tres-forte_AV-202610170198.html",
      "status": "used",
-     "note": "13:52 CEST; Nuñez entourage: ultra-left, \"grande fermeté\""
+     "note": "13:52 CEST; Nuñez entourage: ultra-left, \"grande fermeté\"; carried; link re-checked this run"
     },
     {
-     "name": "[14] Reuters (via Devdiscourse)",
+     "name": "[17] Reuters (via Devdiscourse)",
      "href": "https://www.devdiscourse.com/article/international/3994148-tear-gas-clashes-hit-french-cities-in-cost-of-living-protests",
      "status": "used",
-     "note": "Reuters copy read; stun grenades allowed Saturday; 900+ police injured; watchdog inquiries"
+     "note": "Reuters copy read; stun grenades allowed Saturday; 900+ police injured; watchdog inquiries; carried; link re-checked this run"
     },
     {
-     "name": "[15] CNews (Interior Ministry figures)",
+     "name": "[18] CNews (Interior Ministry figures)",
      "href": "https://www.cnews.fr/france/2026-10-17/blocus-des-lycees-7950-gardes-vue-937-policiers-et-gendarmes-blesses-le-bilan",
      "status": "used",
-     "note": "13:14 CEST; 7,950 in custody, 937 police and gendarmes injured, 36 IGPN inquiries"
+     "note": "13:14 CEST; 7,950 in custody, 937 police and gendarmes injured, 36 IGPN inquiries; carried; link re-checked this run"
     },
     {
-     "name": "[16] France 24 (AFP)",
+     "name": "[19] France 24 (AFP)",
      "href": "https://www.france24.com/fr/info-en-continu/20261016-budget-l-assembl%C3%A9e-rejette-la-taxe-zucman-sur-les-ultrariches",
      "status": "used",
-     "note": "AFP dispatch, 20:47 CEST 16 Oct; Zucman and ISF amendments rejected, about 3,000 amendments left, revenue vote set for Tuesday; read via WebFetch; re-checked this run"
+     "note": "AFP dispatch, 20:47 CEST 16 Oct; Zucman and ISF amendments rejected, about 3,000 amendments left, revenue vote set for Tuesday; read via WebFetch; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[17] BFM TV",
+     "name": "[20] BFM TV",
      "href": "https://www.bfmtv.com/economie/economie-social/finances-publiques/l-assemblee-nationale-rejette-la-taxe-zucman-sur-les-ultrariches-de-nombreux-accrochages-pendant-les-debats_AD-202610160798.html",
      "status": "used",
-     "note": "20:48 CEST 16 Oct; same AFP dispatch; re-checked this run"
+     "note": "20:48 CEST 16 Oct; same AFP dispatch; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[18] France 24 (AFP), Secu budget",
+     "name": "[21] France 24 (AFP), Secu budget",
      "href": "https://www.france24.com/fr/info-en-continu/20261016-apr%C3%A8s-le-budget-de-l-etat-les-d%C3%A9put%C3%A9s-rejettent-en-commission-celui-de-la-s%C3%A9cu",
      "status": "used",
-     "note": "17:37 CEST 16 Oct, prior-window context; committee rejects 2027 social-security budget, 49.3 option; read via WebFetch; re-checked this run"
+     "note": "17:37 CEST 16 Oct, prior-window context; committee rejects 2027 social-security budget, 49.3 option; read via WebFetch; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[19] Kyiv Independent (citing TASR)",
+     "name": "[22] Kyiv Independent (citing TASR)",
      "href": "https://kyivindependent.com/slovakia-hungary-wont-join-70-billion-euro-eu-package-sought-by-ukraine-fico-says/",
      "status": "used",
-     "note": "10:47 CEST 17 Oct; Fico, Magyar, Babiš will not join €70bn package"
+     "note": "10:47 CEST 17 Oct; Fico, Magyar, Babiš will not join €70bn package; carried; link re-checked this run"
     },
     {
-     "name": "[20] Interfax-Ukraine",
+     "name": "[23] Interfax-Ukraine",
      "href": "https://interfax.com.ua/news/general/1221910.html",
      "status": "used",
-     "note": "14:19 CEST; Zelensky: Europe unanimous against easing sanctions; frozen assets \"under Europe's control\""
+     "note": "14:19 CEST; Zelensky: Europe unanimous against easing sanctions; frozen assets \"under Europe's control\"; carried; link re-checked this run"
     },
     {
-     "name": "[21] Governo italiano (Meloni press point)",
-     "href": "https://www.governo.it/it/articolo/consiglio-europeo-del-15-e-16-ottobre-il-punto-stampa-del-presidente-meloni/32870",
-     "status": "used",
-     "note": "transcript posted 20:20 CEST 16 Oct; energy-bills decree deal, ETS conclusions; re-checked this run"
-    },
-    {
-     "name": "[22] ANSA",
-     "href": "https://www.ansa.it/sito/notizie/politica/2026/10/16/intesa-ue-meloni-sul-dl-bollette.-von-der-leyen-ma-non-faremo-miracoli_5f11bc19-b502-42ac-8252-714b161eb42f.html",
-     "status": "used",
-     "note": "21:13 CEST 16 Oct; Commission says measure must be temporary, expects intervention plan; re-checked this run"
-    },
-    {
-     "name": "[23] Il Foglio",
-     "href": "https://www.ilfoglio.it/en/politics/2026/10/16/news/meloni-secures-the-eus-approval-for-the-energy-bills-decree-and-concessions-on-the-ets-though-less-so-on-flexibility--410910",
-     "status": "used",
-     "note": "20:34 CEST 16 Oct; Nordic and German opposition on flexibility; re-checked this run"
-    },
-    {
-     "name": "[24] Il Messaggero",
-     "href": "https://www.ilmessaggero.it/politica/meloni_intesa_flessibilita-9829822.html",
-     "status": "used",
-     "note": "00:08 CEST 17 Oct; Meloni optimistic on margins for more flexibility within current rules; Palazzo Chigi wording on the gas cap; re-checked this run"
-    },
-    {
-     "name": "[25] The Independent",
+     "name": "[24] The Independent",
      "href": "https://www.the-independent.com/news/uk/home-news/donald-trump-ukraine-wes-streeting-zelensky-british-b3068421.html",
      "status": "used",
-     "note": "01:01 CEST 17 Oct; Streeting in Washington announces Poland exercise; re-checked this run"
+     "note": "01:01 CEST 17 Oct; Streeting in Washington announces Poland exercise; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[26] GB News",
+     "name": "[25] GB News",
      "href": "https://www.gbnews.com/news/british-troops-rehearse-deploying-ukraine-ceasefire-major-nato-wargame",
      "status": "used",
-     "note": "02:40 CEST 17 Oct; French, German, Polish troops; Times detail on logistics; re-checked this run"
+     "note": "02:40 CEST 17 Oct; French, German, Polish troops; Times detail on logistics; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[27] Kancelaria Prezesa Rady Ministrow (Tusk, July)",
+     "name": "[26] Kancelaria Prezesa Rady Ministrow (Tusk, July)",
      "href": "https://www.gov.pl/web/primeminister/poland-to-host-the-coalition-of-the-willings-first-military-exercises",
      "status": "used",
-     "note": "14 Jul 2026 statement, background; first coalition exercises in Poland this autumn with British and French forces; re-checked this run"
+     "note": "14 Jul 2026 statement, background; first coalition exercises in Poland this autumn with British and French forces; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[28] Rzeczpospolita",
+     "name": "[27] Rzeczpospolita",
      "href": "https://www.rp.pl/wojsko/art45333901-manewry-koalicji-chetnych-na-pewno-odbeda-sie-w-polsce-gen-polko-nie-powinnismy-sie-wykluczac",
      "status": "used",
-     "note": "17:29 CEST 14 Oct, background; no date fixed, Polish officers unofficially doubtful; re-checked this run"
+     "note": "17:29 CEST 14 Oct, background; no date fixed, Polish officers unofficially doubtful; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[29] @eucopresident",
+     "name": "[28] @eucopresident",
      "href": "https://x.com/eucopresident/status/2111166326966264293",
      "status": "used",
-     "note": "20:44 CEST 16 Oct post on MFF; read via X API; re-checked this run"
+     "note": "20:44 CEST 16 Oct post on MFF; read via X API; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[30] Xinhua",
+     "name": "[29] Xinhua",
      "href": "https://english.news.cn/europe/20261017/b435051680b94335a51660fdbd7747dc/c.html",
      "status": "used",
-     "note": "Chinese state agency, claim carrier; von der Leyen 'straitjacket' quote, Costa year-end aim; re-checked this run"
+     "note": "Chinese state agency, claim carrier; von der Leyen 'straitjacket' quote, Costa year-end aim; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[31] La Moncloa (Sanchez press conference)",
+     "name": "[30] La Moncloa (Sanchez press conference)",
      "href": "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/161026-sanchez-comparecencia--tras-consejo-europeo.aspx",
      "status": "used",
-     "note": "posted 20:00 CEST 16 Oct; Irish presidency MFF proposal insufficient, Spain to be a net contributor; re-checked this run"
+     "note": "posted 20:00 CEST 16 Oct; Irish presidency MFF proposal insufficient, Spain to be a net contributor; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[32] @vonderleyen",
+     "name": "[31] @vonderleyen",
      "href": "https://x.com/vonderleyen/status/2111156622047236232",
      "status": "used",
-     "note": "20:05 CEST 16 Oct post on Ukraine; read via X API; re-checked this run"
+     "note": "20:05 CEST 16 Oct post on Ukraine; read via X API; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[33] Euronews",
+     "name": "[32] Euronews",
      "href": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit",
      "status": "used",
-     "note": "19:38 CEST 16 Oct summit takeaways; Bulgarian PM broke ranks on diesel deal; re-checked this run"
+     "note": "19:38 CEST 16 Oct summit takeaways; Bulgarian PM broke ranks on diesel deal; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[34] El Pais (English)",
+     "name": "[33] El Pais (English)",
      "href": "https://english.elpais.com/international/2026-10-16/denmark-asks-eu-to-examine-spains-plan-to-legalize-migrants.html",
      "status": "used",
-     "note": "20:01 CEST 16 Oct; Frederiksen asks Commission to examine Spain's regularisation; Babis remark; re-checked this run"
+     "note": "20:01 CEST 16 Oct; Frederiksen asks Commission to examine Spain's regularisation; Babis remark; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[35] Euronews (Sanchez)",
+     "name": "[34] Euronews (Sanchez)",
      "href": "https://www.euronews.com/2026/10/16/sanchez-rejects-criticism-of-spains-migration-policy-words-do-not-match-reality",
      "status": "used",
-     "note": "22:30 CEST 16 Oct; Sanchez rebuttal to Babis, Frederiksen, Stocker; re-checked this run"
+     "note": "22:30 CEST 16 Oct; Sanchez rebuttal to Babis, Frederiksen, Stocker; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[36] Wirtualna Polska",
-     "href": "https://wiadomosci.wp.pl/tusk-ostro-ws-sporu-o-tk-chce-wysadzic-z-siodla-swieczkowskiego-7340754779064352a",
+     "name": "[35] Reuters (via Internazionale)",
+     "href": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/17/protesters-clash-with-police-in-brussels",
      "status": "used",
-     "note": "21:02 CEST 16 Oct; Tusk post-summit briefing on Constitutional Tribunal, protests outside TK, officer attacked; re-checked this run"
+     "note": "16:20 CEST; Brussels clashes, Quintin on X"
     },
     {
-     "name": "[37] Bankier.pl (PAP)",
-     "href": "https://www.bankier.pl/wiadomosc/Tusk-wyznacza-czerwona-linie-Nawrockiemu-Chodzi-o-kompetencje-prezydenta-9214137.html",
+     "name": "[36] Ukrainska Pravda (via European Pravda, citing Telex)",
+     "href": "https://www.pravda.com.ua/eng/news/2026/10/17/8058521/",
      "status": "used",
-     "note": "20:44 CEST 16 Oct; Tusk rejects sharing ambassador nominations with Nawrocki; re-checked this run"
+     "note": "16:43 CEST; Magyar on RTL on Ukrainian grain transit"
     },
     {
-     "name": "The Telegraph",
-     "href": "https://www.telegraph.co.uk/world-news/2026/10/17/students-tear-gassed-hit-batons-france-braces-mass-protests/",
+     "name": "CNBC (Reuters)",
+     "href": "https://www.cnbc.com/2026/10/17/french-protesters-take-to-streets-over-rising-prices-and-social-strain.html",
      "status": "reviewed",
-     "note": "not reached (HTTP 402; headline only via search)"
+     "note": "read; matches Reuters copy already cited"
     },
     {
-     "name": "The Sun",
-     "href": "https://www.thesun.co.uk/news/40717151/french-cops-charge-protesters-eurostar-riots/",
+     "name": "BBC News Europe index",
+     "href": "https://www.bbc.com/news/world/europe",
      "status": "reviewed",
-     "note": "not reached (bot check; snippet only, tabloid, not used)"
+     "note": "index checked"
     },
     {
-     "name": "AP News",
+     "name": "Europe 1 live (later update)",
+     "href": "https://www.europe1.fr/societe/en-direct-mobilisation-du-17-octobre-breve-intrusion-de-manifestants-dans-la-mairie-de-lille-scenes-de-chaos-a-bordeaux-et-paris-1156250",
+     "status": "reviewed",
+     "note": "search snippet only; same live file as cited"
+    },
+    {
+     "name": "BFM TV (video, 15:00 count)",
+     "href": "https://www.bfmtv.com/police-justice/video-manifestations-du-17-octobre-272-interpellations-ont-ete-recensees-sur-l-ensemble-du-territoire-national-a-15h_VN-202610170239.html",
+     "status": "reviewed",
+     "note": "search snippet only; 272 arrests at 15:00"
+    },
+    {
+     "name": "L’Humanité",
+     "href": "https://www.humanite.fr/societe/grenades/pour-le-17-octobre-laurent-nunez-autorise-a-nouveau-les-grenades-qui-ont-arrachees-la-main-dun-lyceen",
+     "status": "reviewed",
+     "note": "search snippet only; grenade background"
+    },
+    {
+     "name": "Brussels Times",
+     "href": "https://www.brusselstimes.com/2365633/brussels-protest-turns-violent-as-march-heads-towards-midi-station",
+     "status": "reviewed",
+     "note": "opened; text not extractable"
+    },
+    {
+     "name": "AP",
      "href": "https://apnews.com/article/france-school-protests-yellow-vest-44b9d3ba91ffad4029f975dced7e31cb",
      "status": "reviewed",
-     "note": "not reached (HTTP 403; snippet only)"
+     "note": "not reached (HTTP 403)"
     },
     {
-     "name": "Washington Post (AP copy)",
-     "href": "https://www.washingtonpost.com/world/2026/10/17/france-school-protests-yellow-vest/da465610-ca0b-11f1-aefb-abe4112d087e_story.html",
+     "name": "France 24 (AFP latest developments)",
+     "href": "https://www.france24.com/fr/info-en-continu/20261017-journ%C3%A9e-de-mobilisation-contre-la-vie-ch%C3%A8re-les-derniers-d%C3%A9veloppements",
      "status": "reviewed",
-     "note": "not reached (connection refused; snippet only)"
+     "note": "not reached (HTTP 403)"
     },
     {
-     "name": "Fox News video (13 Oct)",
-     "href": "https://www.foxnews.com/video/6406769788112",
+     "name": "7sur7",
+     "href": "https://www.7sur7.be/belgique/de-nouveux-troubles-eclatent-dans-le-centre-de-bruxelles-bernard-quintin-denonce-de-la-violence-pure-et-simple~a5e837c1/",
      "status": "reviewed",
-     "note": "opened; pre-window clip, not used"
-    },
-    {
-     "name": "franceinfo (custody testimonies)",
-     "href": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-menottes-coups-de-pied-et-de-matraque-insultes-des-lyceens-et-leurs-parents-denoncent-des-gardes-a-vue-abusives_8239624.html",
-     "status": "reviewed",
-     "note": "search snippet checked; pre-window testimony of baton blows at arrests, not used"
-    },
-    {
-     "name": "@laurent_nunez (X)",
-     "href": "https://x.com/laurent_nunez",
-     "status": "reviewed",
-     "note": "timeline read for 16 Oct 15:45–17 Oct 15:12 CEST; no original posts"
-    },
-    {
-     "name": "@EmmanuelMacron (X)",
-     "href": "https://x.com/EmmanuelMacron",
-     "status": "reviewed",
-     "note": "timeline read for the window; no original posts"
+     "note": "not reached (HTTP 403)"
     }
    ]
   },
@@ -1573,107 +1536,83 @@
      "name": "[1] ERR (Estonian): Tallinn opens first public street shelter",
      "href": "https://www.err.ee/1610168983/tallinnas-juhkentali-tanaval-avati-uue-ilme-saanud-varjumiskoht",
      "status": "used",
-     "note": "Published 16 Oct 21:27 EEST (20:27 CEST); deputy mayor Terik and municipal police civil-protection specialist quoted; re-checked this run"
+     "note": "Published 16 Oct 21:27 EEST (20:27 CEST); deputy mayor Terik and municipal police civil-protection specialist quoted; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[2] ERR Russian service: first public shelter opened in Tallinn",
      "href": "https://rus.err.ee/1610168974/v-tallinne-otkrylos-pervoe-obwedostupnoe-ukrytie",
      "status": "used",
-     "note": "Published 16 Oct 20:38 EEST (19:38 CEST); cost up to EUR 70,000, plan for 40-50 modules; re-checked this run"
+     "note": "Published 16 Oct 20:38 EEST (19:38 CEST); cost up to EUR 70,000, plan for 40-50 modules; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[3] ERR (Estonian): Lode hybrid park on the Estonia-Latvia border becomes a bone of contention",
      "href": "https://www.err.ee/1610168998/eesti-ja-lati-vahel-on-kujunenud-tuliounaks-piiriaarne-hubriidpark",
      "status": "used",
-     "note": "Published 16 Oct 21:13 EEST (20:13 CEST); Utilitas CEO Koit and Latvian ministry parliamentary secretary Cilinskis quoted; re-checked this run"
+     "note": "Published 16 Oct 21:13 EEST (20:13 CEST); Utilitas CEO Koit and Latvian ministry parliamentary secretary Cilinskis quoted; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[4] RIA Novosti",
-     "href": "https://ria.ru/20261016/lukashenko-2125012707.html",
+     "name": "[4] ERR News",
+     "href": "https://news.err.ee/1610169325/reform-party-unveils-campaign-slogan-as-pm-touts-economic-growth",
      "status": "used",
-     "note": "17:05 CEST; Lukashenko in Verkhnedvinsk district (state media); re-checked this run"
+     "note": "16:39 CEST; Michal at Reform Party council in Tartu"
     },
     {
-     "name": "[5] belarus.by (BelTA, 13 Oct)",
-     "href": "https://www.belarus.by/en/government/events/lukashenko-dismisses-latvias-accusations-of-armed-group-incursion-from-belarus_i_0000221021.html",
-     "status": "used",
-     "note": "prior-window background; Lukashenko's 13 Oct denial (state media); re-checked this run"
-    },
-    {
-     "name": "[6] LRT (10 Oct)",
-     "href": "https://www.lrt.lt/en/news-in-english/19/3077169/latvia-faces-new-reality-after-armed-incident-on-belarus-border",
-     "status": "used",
-     "note": "prior-window background on the Latvian border incident; re-checked this run"
-    },
-    {
-     "name": "[7] LRT (Lithuanian presidency comment)",
-     "href": "https://www.lrt.lt/naujienos/verslas/4/3084350/prezidentas-su-kitu-saliu-lyderiais-ragina-uztikrinti-rail-baltica-finansavima",
-     "status": "used",
-     "note": "15:42 CEST 16 Oct; joint letter to Costa and von der Leyen, Nausėda quotes"
-    },
-    {
-     "name": "ERR News (front page and news, defence, and politics sections)",
-     "href": "https://news.err.ee/k/news",
+     "name": "ERR News index",
+     "href": "https://news.err.ee/",
      "status": "reviewed",
-     "note": "index read for 16–17 Oct; nothing further passed the significance gate"
+     "note": "index scanned"
     },
     {
-     "name": "ERR News: teachers at Estonian-transition schools",
-     "href": "https://news.err.ee/1610169295/nearly-third-of-teachers-at-schools-transitioning-to-estonian-unqualified",
+     "name": "ERR News",
+     "href": "https://news.err.ee/1610168431/estonia-gets-32m-eu-funding-for-free-world-s-first-line-of-defense-surveillance",
      "status": "reviewed",
-     "note": "15:02 CEST 17 Oct; domestic education file, not used"
+     "note": "read; 16 Oct 10:31, before window"
     },
     {
-     "name": "ERR News: wind-farm bonus",
-     "href": "https://news.err.ee/1610168791/wind-farm-bonus-unconstitutional-ngo-says-as-ministry-pushes-plan",
+     "name": "ERR News",
+     "href": "https://news.err.ee/1610168398/estonia-wants-to-block-russian-gas-transit-through-baltics-for-good",
      "status": "reviewed",
-     "note": "08:21 CEST 17 Oct; domestic, not used"
+     "note": "read; 16 Oct 13:05, before window"
     },
     {
-     "name": "LSM English (front page)",
+     "name": "ERR News",
+     "href": "https://news.err.ee/1610166811/estonian-ex-soldier-jailed-in-russia-after-visiting-his-wife",
+     "status": "reviewed",
+     "note": "read; 15 Oct, before window"
+    },
+    {
+     "name": "ERR News",
+     "href": "https://news.err.ee/1610168743/defense-official-front-heats-up-energy-truce-fails-as-us-kyiv-strain-grows",
+     "status": "reviewed",
+     "note": "read; 16 Oct 14:24, before window"
+    },
+    {
+     "name": "LSM English index",
      "href": "https://eng.lsm.lv/",
      "status": "reviewed",
-     "note": "read via fetch; in-window items fail the gate or predate the window"
+     "note": "index scanned"
     },
     {
-     "name": "LSM: no Russian diesel through Latvian ports",
-     "href": "https://eng.lsm.lv/article/economy/transport/16.10.2026-vid-there-will-be-no-russian-diesel-going-through-latvias-ports.a667838/",
-     "status": "reviewed",
-     "note": "08:10 CEST 16 Oct, before window; not used"
-    },
-    {
-     "name": "Rīga TV (diesel)",
-     "href": "https://rigatv.com/en/raksts/krievijas-dizeldegviela-caur-latvijas-ostam-netiks-vesta-6014348",
-     "status": "reviewed",
-     "note": "15 Oct, before window"
-    },
-    {
-     "name": "LRT English (index)",
+     "name": "LRT English index",
      "href": "https://www.lrt.lt/en/news-in-english",
      "status": "reviewed",
-     "note": "index read; latest Baltic security items predate window"
+     "note": "index scanned"
     },
     {
-     "name": "LRT: Lithuanian-Ukrainian drone components factory",
-     "href": "https://www.lrt.lt/en/news-in-english/19/3083396/lithuanian-and-ukrainian-companies-plan-joint-drone-components-factory",
+     "name": "LRT",
+     "href": "https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border",
      "status": "reviewed",
-     "note": "15 Oct, before window"
+     "note": "read; 16 Oct 09:33, before window"
     },
     {
-     "name": "Breaking Defense (Latvian MoD official)",
-     "href": "https://breakingdefense.com/2026/10/latvian-official-warns-russia-tempted-to-test-european-readiness-sounds-alarm-over-border-issues/",
+     "name": "LRT",
+     "href": "https://www.lrt.lt/en/news-in-english/19/3084074/lithuania-s-2027-budget-5-for-defence-growing-government-deficit",
      "status": "reviewed",
-     "note": "12:00 CEST 16 Oct, before window"
+     "note": "read; 16 Oct 08:24, before window"
     },
     {
-     "name": "RIA Novosti (US ARTEMIS flight near Estonia and Latvia)",
-     "href": "https://ria.ru/20261017/samolet-razvedchik-2125109586.html",
-     "status": "reviewed",
-     "note": "12:28 CEST 17 Oct; routine reconnaissance flight, claim-carrier only, not used"
-    },
-    {
-     "name": "Lithuanian Ministry of National Defence",
-     "href": "https://kam.lt/en/lithuania-gains-ukraines-drone-production-technology-says-minister-r-kaunas/",
+     "name": "LRT",
+     "href": "https://www.lrt.lt/en/news-in-english/19/3084325/how-us-bullied-vilnius-into-dropping-support-for-conference-critical",
      "status": "reviewed",
      "note": "not reached (HTTP 403)"
     }
@@ -1686,121 +1625,127 @@
      "name": "[1] AFP via Free Malaysia Today: Clashes grip Tirana as Albanian PM blames 'foreign hands'",
      "href": "https://www.freemalaysiatoday.com/category/world/2026/10/17/clashes-grip-tirana-as-albanian-pm-blames-foreign-hands",
      "status": "used",
-     "note": "AFP copy, published 17 Oct 01:15 UTC (03:15 CEST); interior minister Demo figures; re-checked this run"
+     "note": "AFP copy, published 17 Oct 01:15 UTC (03:15 CEST); interior minister Demo figures; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[2] Al Jazeera: Albanian PM blames 'foreign hands' for unrest",
      "href": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify",
      "status": "used",
-     "note": "Published 16 Oct 23:27 UTC (17 Oct 01:27 CEST); Rama video quote; re-checked this run"
+     "note": "Published 16 Oct 23:27 UTC (17 Oct 01:27 CEST); Rama video quote; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[3] DW: Can Albania's student protests bring political change?",
      "href": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217",
      "status": "used",
-     "note": "Major-outlet sweep; 16 Oct 14:23 UTC, pre-window, used only for the earlier police injury figure to compare; re-checked this run"
+     "note": "Major-outlet sweep; 16 Oct 14:23 UTC, pre-window, used only for the earlier police injury figure to compare; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[4] Reuters (via Internazionale)",
      "href": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/17/albanian-anti-government-protesters-clash-with-police-in-tirana",
      "status": "used",
-     "note": "14:04 CEST; fifth day, Education Ministry, stun grenades, 500 detained, 120 police and 45 protesters injured"
+     "note": "14:04 CEST; fifth day, Education Ministry, stun grenades, 500 detained, 120 police and 45 protesters injured; carried; re-read this run"
     },
     {
      "name": "[5] Panorama (Albania)",
      "href": "https://en.panorama.com.al/tensione-para-ministrise-se-arsimit-studentet-hedhin-gure-policia-i-pergjigjet-me-gaz-lotsjelles-dhe-uje/",
      "status": "used",
-     "note": "17 Oct; renewed stone-throwing and tear gas outside the ministry"
+     "note": "17 Oct; renewed stone-throwing and tear gas outside the ministry; carried; link re-checked this run"
     },
     {
      "name": "[6] N1: Vucic at campaign event in Novi Sad",
      "href": "https://n1info.rs/english/news/vucic-at-campaign-event-in-novi-sad/",
      "status": "used",
-     "note": "Published 16 Oct 21:35 CEST; re-checked this run"
+     "note": "Published 16 Oct 21:35 CEST; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[7] Danas: SNS rally in Novi Sad",
      "href": "https://www.danas.rs/vesti/politika/izbori26/sns-miting-novi-sad-izbori-2026/",
      "status": "used",
-     "note": "Live report first posted 19:11 CEST, rally began 18:00; Vucic quotes on canopy collapse and Dodik greeting; re-checked this run"
+     "note": "Live report first posted 19:11 CEST, rally began 18:00; Vucic quotes on canopy collapse and Dodik greeting; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[8] X: Aleksandar Vucic (@avucic) posts from the rally",
      "href": "https://x.com/avucic/status/2111164926156833056",
      "status": "used",
-     "note": "Three posts 18:38, 20:27, 20:35 UTC (20:38, 22:27, 22:35 CEST); re-checked this run"
+     "note": "Three posts 18:38, 20:27, 20:35 UTC (20:38, 22:27, 22:35 CEST); re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[9] N1 Bosnia: Mladic flags at Vucic rally in Novi Sad",
      "href": "https://n1info.ba/regija/na-vucicevom-predizbornom-skupu-u-novom-sadu-velican-ratni-zlocinac-ratko-mladic/",
      "status": "used",
-     "note": "Published 16 Oct 20:33 UTC (22:33 CEST); describes flags from rally photographs; same N1 network as the Serbian service; re-checked this run"
+     "note": "Published 16 Oct 20:33 UTC (22:33 CEST); describes flags from rally photographs; same N1 network as the Serbian service; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[10] N1: Students start march to Belgrade",
      "href": "https://n1info.rs/english/news/students-start-march-to-belgrade/",
      "status": "used",
-     "note": "Published 16 Oct 21:53 CEST; re-checked this run"
+     "note": "Published 16 Oct 21:53 CEST; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[11] N1: SNS activists set up parallel event across the street from Student List",
      "href": "https://n1info.rs/english/news/sns-activists-set-up-parallel-event-across-the-street-from-student-list/",
      "status": "used",
-     "note": "Published 16 Oct 21:49 CEST; re-checked this run"
+     "note": "Published 16 Oct 21:49 CEST; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[12] N1: N1 newsroom regrets loss of 10 staff members",
      "href": "https://n1info.rs/english/news/n1-newsroom-regrets-loss-of-10-staff-members/",
      "status": "used",
-     "note": "Published 16 Oct 22:04 CEST; newsroom statement; re-checked this run"
+     "note": "Published 16 Oct 22:04 CEST; newsroom statement; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[13] HRT/Hina: Plenkovic intervened to strip deadlines from Montenegro conclusions",
      "href": "https://vijesti.hrt.hr/eu/plenkovic-intervenirao-da-se-iz-zakljucaka-o-crnoj-gori-izbace-vremenske-odrednice-12960343",
      "status": "used",
-     "note": "Published 16 Oct 07:12 CEST, pre-window; conclusions text and removed draft wording, used as context for the sequel; re-checked this run"
+     "note": "Published 16 Oct 07:12 CEST, pre-window; conclusions text and removed draft wording, used as context for the sequel; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[14] Kosovo Online (via RTS): Croatia secured change to EU summit conclusions, message to Montenegro",
      "href": "https://www.kosovo-online.com/vesti/region/hrvatska-izdejstvovala-izmenu-zakljucaka-samita-eu-crnoj-gori-poruka-da-se-rese",
      "status": "used",
-     "note": "Published 16 Oct 23:41 CEST, relaying RTS; Plenkovic quote at close of summit; re-checked this run"
+     "note": "Published 16 Oct 23:41 CEST, relaying RTS; Plenkovic quote at close of summit; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[15] Vijesti (via RTCG): Jansa expects no major problems, hopes Montenegro joins EU soon",
      "href": "https://www.vijesti.me/vijesti/politika/831870/jansa-mislim-da-nece-biti-vecih-problema-nadamo-se-da-ce-crna-gora-uskoro-uci-u-eu",
      "status": "used",
-     "note": "Published 16 Oct 23:48 CEST; Jansa post-summit remarks; re-checked this run"
+     "note": "Published 16 Oct 23:48 CEST; Jansa post-summit remarks; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[16] BIRN / Balkan Insight",
-     "href": "https://balkaninsight.com/2026/10/16/croatian-football-fans-pro-nazi-chants-prompt-arrests/bi/",
-     "status": "used",
-     "note": "13:24 CEST; arrests, government condemnation; re-checked this run"
-    },
-    {
-     "name": "[17] BBC Sport",
-     "href": "https://www.bbc.com/sport/football/articles/cwj0lmr8gne5o",
-     "status": "used",
-     "note": "16:22 CEST; police inquiry, ombudswoman; re-checked this run"
-    },
-    {
-     "name": "[18] BIRN / Balkan Insight",
-     "href": "https://balkaninsight.com/2026/10/16/serbia-channels-public-funds-to-pro-vucic-diaspora-groups/bi/",
-     "status": "used",
-     "note": "16:07 CEST investigation; re-checked this run"
-    },
-    {
-     "name": "BIRN / Balkan Insight (front page)",
+     "name": "Balkan Insight index",
      "href": "https://balkaninsight.com/",
      "status": "reviewed",
-     "note": "index read for 16–17 Oct"
+     "note": "index scanned"
     },
     {
-     "name": "N1 (Student List final rally)",
-     "href": "https://n1info.rs/english/news/student-list-announces-final-campaign-rally-set-for-belgrade-on-october-22/",
+     "name": "Balkan Insight",
+     "href": "https://balkaninsight.com/2026/10/16/albania-pm-defiant-as-protests-spread-to-provincial-cities/bi/",
      "status": "reviewed",
-     "note": "12 Oct background, before window"
+     "note": "read; 16 Oct 11:12, before window"
+    },
+    {
+     "name": "NBC News (Reuters)",
+     "href": "https://www.nbcnews.com/world/europe/albanian-anti-government-protesters-clash-police-tirana-rcna604009",
+     "status": "reviewed",
+     "note": "read; same Reuters copy"
+    },
+    {
+     "name": "Mr East",
+     "href": "https://www.mreast.eu/2026/10/poll-puts-student-list-ahead-of-vucics-bloc-in-serbia/",
+     "status": "reviewed",
+     "note": "read; 3 Oct, outside window"
+    },
+    {
+     "name": "Kosovo Online",
+     "href": "https://www.kosovo-online.com/en/news/politics/sljuka-neither-pristina-nor-eu-thinking-about-dialogue-belgrade-17-10-2026",
+     "status": "reviewed",
+     "note": "not reached (HTTP 403)"
+    },
+    {
+     "name": "Albanian Telegraphic Agency",
+     "href": "https://en.ata.gov.al/2026/10/17/protesters-march-towards-prime-ministers-office-as-clashes-with-police-continue/",
+     "status": "reviewed",
+     "note": "not reached (HTTP 403)"
     }
    ]
   },
@@ -1811,106 +1756,94 @@
      "name": "[1] APA (Tehran bureau)",
      "href": "https://en.apa.az/asia/pezeshkian-we-discussed-preparation-of-joint-strategic-document-with-armenia-530613",
      "status": "used",
-     "note": "16 Oct 20:25 CEST; Pezeshkian on joint strategic document; re-checked this run"
+     "note": "16 Oct 20:25 CEST; Pezeshkian on joint strategic document; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[2] NEWS.am",
      "href": "https://news.am/en/video/1068208",
      "status": "used",
-     "note": "16 Oct 07:54 CEST, prior-window background; Mirzoyan: document practically agreed; re-checked this run"
+     "note": "16 Oct 07:54 CEST, prior-window background; Mirzoyan: document practically agreed; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[3] Tasnim",
      "href": "https://www.tasnimnews.ir/en/news/2026/10/16/3724370/pezeshkian-urges-long-term-strategic-plan-with-armenia",
      "status": "used",
-     "note": "16 Oct 14:30 CEST, prior-window background; IRGC-affiliated Iranian agency; re-checked this run"
+     "note": "16 Oct 14:30 CEST, prior-window background; IRGC-affiliated Iranian agency; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[4] Civil.ge",
      "href": "https://civil.ge/archives/755035",
      "status": "used",
-     "note": "11:23 CEST 17 Oct; Kobakhidze–Pezeshkian meeting in Yerevan on 16 Oct"
+     "note": "11:23 CEST 17 Oct; Kobakhidze–Pezeshkian meeting in Yerevan on 16 Oct; carried; link re-checked this run"
     },
     {
      "name": "[5] Civil.ge",
      "href": "https://civil.ge/archives/755066",
      "status": "used",
-     "note": "15:01 CEST 17 Oct; Ivanishvili chairs GD political council and majority meetings"
+     "note": "15:01 CEST 17 Oct; Ivanishvili chairs GD political council and majority meetings; carried; link re-checked this run"
     },
     {
      "name": "[6] Civil.ge",
      "href": "https://civil.ge/archives/755050",
      "status": "used",
-     "note": "13:17 CEST 17 Oct; registry filing 16 Oct, four equal 25% shareholders"
+     "note": "13:17 CEST 17 Oct; registry filing 16 Oct, four equal 25% shareholders; carried; link re-checked this run"
     },
     {
      "name": "[7] OC Media",
      "href": "https://oc-media.org/baku-blames-forces-in-friendly-and-neighbouring-countries-for-hybrid-attacks-amid-hijab-protests/",
      "status": "used",
-     "note": "16:50 CEST 16 Oct; Milli Majlis statement on \"hybrid attacks\"; pro-Iranian hack of 14 Oct"
+     "note": "16:50 CEST 16 Oct; Milli Majlis statement on \"hybrid attacks\"; pro-Iranian hack of 14 Oct; carried; link re-checked this run"
     },
     {
      "name": "[8] DW",
      "href": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-whats-behind-the-rare-wave-of-protests/a-79683716",
      "status": "used",
-     "note": "19:46 CEST 16 Oct; week of school protests over the hijab ban, Instagram and TikTok disrupted"
+     "note": "19:46 CEST 16 Oct; week of school protests over the hijab ban, Instagram and TikTok disrupted; carried; link re-checked this run"
     },
     {
-     "name": "[9] OC Media",
-     "href": "https://oc-media.org/azerbaijan-opens-criminal-case-over-calls-for-coup-declares-turkish-columnist-wanted/",
+     "name": "[9] 1news.az (TASS)",
+     "href": "https://1news.az/en/news/20261017163507331-Georgia-proposes-that-the-EU-begin-a-dialogue-to-normalize-relations",
      "status": "used",
-     "note": "16:08 CEST 16 Oct; Prosecutor General case, Çiftçi wanted, later apology"
+     "note": "14:35 CEST; Kobakhidze briefing on EU dialogue"
     },
     {
-     "name": "[10] OC Media",
-     "href": "https://oc-media.org/uproar-after-israeli-president-herzog-bypasses-turkish-ban-using-commercial-azerbaijani-jet/",
-     "status": "used",
-     "note": "16:08 CEST 16 Oct; Herzog on AZAL flight, Ankara outrage"
-    },
-    {
-     "name": "[11] Civil.ge",
-     "href": "https://civil.ge/archives/755000",
-     "status": "used",
-     "note": "16:10 CEST, Kirvalidze; re-checked this run"
-    },
-    {
-     "name": "[12] Interpressnews",
-     "href": "https://www.interpressnews.ge/en/article/150240-according-to-an-activist-giorgi-kirvalidze-who-was-detained-on-the-fact-of-insulting-bidzina-ivanishvili-was-detained-again-immediately-after-leaving-the-gurjaani-isolator/",
-     "status": "used",
-     "note": "14:49 CEST, activist account; re-checked this run"
-    },
-    {
-     "name": "OC Media (front page)",
-     "href": "https://oc-media.org/",
-     "status": "reviewed",
-     "note": "index read for 16–17 Oct"
-    },
-    {
-     "name": "Civil.ge (front page)",
+     "name": "Civil Georgia index",
      "href": "https://civil.ge/",
      "status": "reviewed",
-     "note": "index read for 16–17 Oct"
+     "note": "index scanned; no new items after 15:24"
     },
     {
-     "name": "OC Media: Public Defender departments",
-     "href": "https://oc-media.org/georgias-public-defender-to-reportedly-abolish-department-focused-on-gender-equality/",
+     "name": "commonspace.eu",
+     "href": "https://www.commonspace.eu/news/pashinyan-says-he-wants-peace-treaty-azerbaijan-2031",
      "status": "reviewed",
-     "note": "16:20 CEST 16 Oct; below significance gate"
+     "note": "opened; article text behind sign-up"
     },
     {
-     "name": "Azernews (Mirzoyan on enclaves)",
-     "href": "https://www.azernews.az/karabakh/265668.html",
-     "status": "reviewed",
-     "note": "09:10 CEST 16 Oct, before window"
-    },
-    {
-     "name": "ILKHA (Abu Dhabi talks)",
+     "name": "ILKHA",
      "href": "https://ilkha.com/english/world/historic-bilateral-talks-conclude-between-armenia-and-azerbaijan-in-abu-dhabi-466706",
      "status": "reviewed",
-     "note": "opened; describes July 2025 talks, stale, not used"
+     "note": "read; undated, matches February 2026 Abu Dhabi meeting, not used"
     },
     {
-     "name": "Aurora News (Armenia)",
+     "name": "Armenpress",
+     "href": "https://armenpress.am/en/article/1241217",
+     "status": "reviewed",
+     "note": "read; dated 4 Feb 2026, outside window"
+    },
+    {
+     "name": "Azernews",
+     "href": "https://www.azernews.az/karabakh/265668.html",
+     "status": "reviewed",
+     "note": "read; 16 Oct 09:10, before window"
+    },
+    {
+     "name": "Rustavi 2",
+     "href": "https://www.rustavi2.ge/en/news/367650",
+     "status": "reviewed",
+     "note": "not reached (HTTP 403)"
+    },
+    {
+     "name": "Aurora News",
      "href": "https://auroranews.am/en/news/2026-10-17-peace-by-2031-azerbaijan-reminds-of-key-condition",
      "status": "reviewed",
      "note": "not reached (HTTP 403)"
@@ -1924,174 +1857,144 @@
      "name": "[1] tagesschau",
      "href": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
      "status": "used",
-     "note": "16 Oct 23:15 CEST; Winkel re-elected; re-checked this run"
+     "note": "16 Oct 23:15 CEST; Winkel re-elected; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[2] Tagesspiegel",
      "href": "https://www.tagesspiegel.de/politik/ju-chef-winkel-warnt-vor-ende-der-rentenreform-das-ware-ein-scheitern-von-dem-sich-die-bundesregierung-kaum-noch-erholen-kann-16171918.html",
      "status": "used",
-     "note": "16 Oct 22:40 CEST; Winkel on pension reform; re-checked this run"
+     "note": "16 Oct 22:40 CEST; Winkel on pension reform; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[3] tagesschau",
      "href": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
      "status": "used",
-     "note": "13:57 CEST; \"Es gibt auch für mich Grenzen\"; AfD and Left warnings"
+     "note": "13:57 CEST; \"Es gibt auch für mich Grenzen\"; AfD and Left warnings; carried; re-read this run"
     },
     {
      "name": "[4] Stuttgarter Zeitung",
      "href": "https://www.stuttgarter-zeitung.de/politik/ju-deutschlandtag-merz-verspricht-junger-union-straffen-reformkurs-79581299.html",
      "status": "used",
-     "note": "14:02 CEST; pension package to cabinet this year, 45-year rule to go, delegate calls for resignation"
+     "note": "14:02 CEST; pension package to cabinet this year, 45-year rule to go, delegate calls for resignation; carried; link re-checked this run"
     },
     {
      "name": "[5] Deutschlandfunk",
      "href": "https://www.deutschlandfunk.de/merz-reformprozess-schnell-abschliessen-100.html",
      "status": "used",
-     "note": "17 Oct; \"no chance at next election\" without growth and reformed social systems"
+     "note": "17 Oct; \"no chance at next election\" without growth and reformed social systems; carried; link re-checked this run"
     },
     {
      "name": "[6] DW live",
      "href": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913",
      "status": "used",
-     "note": "12:34 CEST; speech quotes, approval ratings falling"
+     "note": "12:34 CEST; speech quotes, approval ratings falling; carried; link re-checked this run"
     },
     {
      "name": "[7] tagesschau",
      "href": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html",
      "status": "used",
-     "note": "17 Oct 03:50 CEST; Schweitzer interview relay; re-checked this run"
+     "note": "17 Oct 03:50 CEST; Schweitzer interview relay; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[8] Handelsblatt (Bundespolitik live)",
      "href": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-hoffmann-gegen-aufnahme-von-politikern-in-rentenversicherung/100137034.html",
      "status": "used",
-     "note": "17 Oct 04:37 CEST; liveblog lists Schweitzer item; re-checked this run"
+     "note": "17 Oct 04:37 CEST; liveblog lists Schweitzer item; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[9] tagesschau (rbb)",
      "href": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html",
      "status": "used",
-     "note": "14:54 CEST; exploratory talks concluded, agreement per dpa and AFP, statement due 17:00"
+     "note": "14:54 CEST; exploratory talks concluded, agreement per dpa and AFP, statement due 17:00; carried; link re-checked this run"
     },
     {
      "name": "[10] Stuttgarter Zeitung (dpa)",
      "href": "https://www.stuttgarter-zeitung.de/politik/koalitionsverhandlungen-spd-linke-und-gruene-in-mecklenburg-vorpommern-praesentieren-erste-ergebnisse-79580537.html",
      "status": "used",
-     "note": "16 Oct 21:56 CEST; MV coalition interim results; re-checked this run"
+     "note": "16 Oct 21:56 CEST; MV coalition interim results; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[11] Élysée (joint Franco-German statement)",
      "href": "https://www.elysee.fr/en/emmanuel-macron/2026/10/16/joint-franco-german-press-statement-on-the-future-of-the-european-automotive-industry",
      "status": "used",
-     "note": "16 Oct joint statement text; re-checked this run"
+     "note": "16 Oct joint statement text; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[12] tagesschau",
      "href": "https://www.tagesschau.de/wirtschaft/energie/frankreich-deutschland-verbrenner-aus-einigung-100.html",
      "status": "used",
-     "note": "13:48 CEST; Council majority, Parliament; re-checked this run"
+     "note": "13:48 CEST; Council majority, Parliament; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[13] Euronews",
      "href": "https://www.euronews.com/2026/10/16/france-and-germany-strike-car-industry-deal-linking-2035-engine-rules-to-made-in-europe-pu",
      "status": "used",
-     "note": "14:36 CEST; 90% CO2, made-in-Europe link, Merz quote; re-checked this run"
+     "note": "14:36 CEST; 90% CO2, made-in-Europe link, Merz quote; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[14] @bundeskanzler",
      "href": "https://x.com/bundeskanzler/status/2111031860553720140",
      "status": "used",
-     "note": "11:49 CEST post on car package; read via X API; re-checked this run"
+     "note": "11:49 CEST post on car package; read via X API; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[15] DW",
      "href": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europes-struggling-car-industry/a-79678595",
      "status": "used",
-     "note": "12:32 CEST; Merz and Macron quotes; re-checked this run"
+     "note": "12:32 CEST; Merz and Macron quotes; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[16] Stuttgarter Zeitung",
      "href": "https://www.stuttgarter-zeitung.de/inhalt.autoindustrie-in-baden-wuerttemberg-breite-zustimmung-fuer-abkehr-vom-verbrenner-aus.79577537.html",
      "status": "used",
-     "note": "16:19 CEST; BW reaction; lede only readable (paywall); re-checked this run"
+     "note": "16:19 CEST; BW reaction; lede only readable (paywall); re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[17] tagesschau",
      "href": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-paris-berlin-100.html",
      "status": "used",
-     "note": "18:59 CEST 16 Oct; Merz: \"Das Verbrenner-Aus ist damit Geschichte\"; Schneider backs deal"
+     "note": "18:59 CEST 16 Oct; Merz: \"Das Verbrenner-Aus ist damit Geschichte\"; Schneider backs deal; carried; link re-checked this run"
     },
     {
      "name": "[18] WirtschaftsWoche (dpa)",
      "href": "https://www.wiwo.de/politik/deutschland/nachbesserungen-am-entwurf-unionsfraktionschef-will-aenderungen-bei-zuckersteuer/100262923.html",
      "status": "used",
-     "note": "17 Oct 01:00 CEST; Frei on sugar tax, Hoffmann on start date; re-checked this run"
+     "note": "17 Oct 01:00 CEST; Frei on sugar tax, Hoffmann on start date; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[19] Süddeutsche Zeitung (dpa)",
      "href": "https://www.sueddeutsche.de/politik/nachbesserungen-am-entwurf-unionsfraktionschef-will-aenderungen-bei-zuckersteuer-dpa.urn-newsml-dpa-com-20090101-261016-930-852348",
      "status": "used",
-     "note": "17 Oct 01:00 CEST; same dpa copy; re-checked this run"
+     "note": "17 Oct 01:00 CEST; same dpa copy; re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[20] Tagesspiegel (dpa)",
      "href": "https://www.tagesspiegel.de/politik/dpa-nachbesserungen-am-entwurf-unionsfraktionschef-will-anderungen-bei-zuckersteuer-16172162.html",
      "status": "used",
-     "note": "17 Oct 01:01 CEST; same dpa copy; re-checked this run"
+     "note": "17 Oct 01:01 CEST; same dpa copy; re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "Stuttgarter Zeitung (front page, Politik, Baden-Württemberg, and Stuttgart pages)",
+     "name": "Stuttgarter Zeitung (Baden-Württemberg)",
+     "href": "https://www.stuttgarter-zeitung.de/baden-wuerttemberg",
+     "status": "reviewed",
+     "note": "canvassed; no new qualifying item"
+    },
+    {
+     "name": "Stuttgarter Zeitung",
      "href": "https://www.stuttgarter-zeitung.de/",
      "status": "reviewed",
-     "note": "canvassed 15:20 CEST; Germany and BW pages read"
+     "note": "canvassed; front page checked"
     },
     {
-     "name": "Stuttgarter Zeitung: CDU Württemberg-Hohenzollern elects Lins",
-     "href": "https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/cdu-wuerttemberg-hohenzollern-nachfolge-von-thomas-bareiss-norbert-lins-ist-neuer-bezirksvorsitzender-79577026.html",
+     "name": "Deutschlandfunk news index",
+     "href": "https://www.deutschlandfunk.de/nachrichten-index-40374.html",
      "status": "reviewed",
-     "note": "12:31 CEST 17 Oct; party district file, below the BW significance gate"
-    },
-    {
-     "name": "Stuttgarter Zeitung: track charges dispute",
-     "href": "https://www.stuttgarter-zeitung.de/politik/streit-zwischen-bund-und-laendern-fahren-bald-weniger-regionalzuege-79573283.html",
-     "status": "reviewed",
-     "note": "05:00 CEST 17 Oct preview; not used"
-    },
-    {
-     "name": "tagesschau (front page)",
-     "href": "https://www.tagesschau.de/",
-     "status": "reviewed",
-     "note": "index read 15:20 CEST"
-    },
-    {
-     "name": "tagesschau: Reiche on direct payments",
-     "href": "https://www.tagesschau.de/inland/innenpolitik/katherina-reiche-tankrabatt-entlastungen-100.html",
-     "status": "reviewed",
-     "note": "16:55 CEST 16 Oct; interview, not used after cap"
-    },
-    {
-     "name": "tagesschau: threats against Jewish students",
-     "href": "https://www.tagesschau.de/inland/juedische-studenten-afd-100.html",
-     "status": "reviewed",
-     "note": "16:40 CEST 16 Oct; not used"
-    },
-    {
-     "name": "tagesschau: Winkel re-elected",
-     "href": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
-     "status": "reviewed",
-     "note": "re-read; matches carried vote figures"
-    },
-    {
-     "name": "Deutschlandfunk (Merz warns SPD and Greens)",
-     "href": "https://www.deutschlandfunk.de/merz-warnt-spd-und-gruene-vor-koalitionsgespraechen-mit-linkspartei-in-berli-100.html",
-     "status": "reviewed",
-     "note": "17 Oct; same agency text as the cited DLF report"
+     "note": "index checked"
     }
    ]
   }
  ],
  "sourceKey": "A source is used only if an item cites it. Numbers in brackets match the tab's 'Sources used in this tab' list.",
- "operationalAssessment": "Off-cycle edition, rolling window 16 Oct 2026 15:24 CEST to 17 Oct 2026 15:24 CEST. New research covered 05:35 to 15:24 CEST; items from the 05:35 and 19:30 editions whose times fall inside the 24 hours were re-checked and carried, and stories with new developments are marked as follow-ups. The priority story is France's nationwide day of cost-of-living and school protests: the Interior Ministry, as carried by dpa, says police used batons and tear gas in Paris, Lyon, and Strasbourg, and wire live files and agency footage show baton charges in Paris. Russia's overnight strike on Ukraine's energy system hit ten regions. Official sites and X accounts were read where reachable; the major-outlet sweep read BBC, DW, and CNN directly, Reuters through syndicated copies, and AP, the New York Times, the Washington Post, and Fox News only as snippets or pre-window pages. Baltics is below six items because the window was thin there. The ledger lists only sources read or checked. Hybrid Warfare uses a draft canvas pending approval.",
+ "operationalAssessment": "Evening edition, rolling window 16 Oct 2026 17:15 CEST to 17 Oct 2026 17:15 CEST. New research covered 15:24 to 17:15 CEST; items from the 15:24 edition whose times fall inside the 24 hours were carried, and stories with new developments are marked as follow-ups, while items older than 24 hours were dropped. The priority story remains France's nationwide day of cost-of-living and school protests: the Interior Ministry reported an escalation in violence and 272 arrests by mid-afternoon, police used tear gas, water cannon, and dispersal grenades in Paris, Lyon, Lille, and Bordeaux, and protesters forced their way into the city halls of Marseille and Lille. Protests partly inspired by France turned violent in Brussels. Zelensky said Russia wants to place ballistic missile systems in Belarus. Official sites and X accounts were read where reachable; the major-outlet sweep read BBC and DW directly and Reuters through syndicated copies, and France 24 through its wire-based live file, while AP was blocked and CNN, Fox News, the New York Times, the Washington Post, and the Wall Street Journal were not reached for new items this cycle. Baltics and Balkans are below six items because the window was thin there. The ledger lists only sources read or checked. Hybrid Warfare uses a draft canvas pending approval.",
  "footer": "Fully automated, open-source compilation for situational awareness only. Not for use in financial planning, medical treatment, or the initiation of global thermonuclear war."
 }
