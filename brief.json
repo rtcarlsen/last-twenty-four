@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-17T07:57:37+02:00",
+ "generatedAt": "2026-10-17T08:10:14+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Saturday, 17 October 2026, 05:35 CEST",
  "windowLabel": "16 Oct 2026 19:30 CEST → 17 Oct 2026 05:35 CEST",
@@ -206,7 +206,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "European Council President Antonio Costa wrote at 20:44 CEST that the EU must agree its next long-term budget by the end of the year and that he will now accelerate the work [9]. Xinhua reported von der Leyen told the closing press conference that the latest frame would cut flexibility by 50 percent against the current budget and leave 99.5 percent of funds predetermined, calling it a straitjacket [10]. Spanish Prime Minister Pedro Sanchez said after the summit that the Irish presidency's proposal is insufficient and well below the current budget, and that Spain will be a net contributor in the next period [13]. Von der Leyen wrote at 20:05 CEST that Europe will step up for Ukraine's additional needs and that global partners must too [11]. Euronews reported leaders condemned the US-Russia diesel deal while the Bulgarian prime minister broke ranks to support it [12]."
+       "text": "European Council President Antonio Costa wrote at 20:44 CEST that the EU must agree its next long-term budget by the end of the year and that he will now accelerate the work [9]. Xinhua reported von der Leyen told the closing press conference that the latest frame would cut flexibility by 50 percent against the current budget and leave 99.5 percent of funds predetermined, calling it a straitjacket [10]. Spanish Prime Minister Pedro Sanchez said after the summit that the Irish presidency's proposal is insufficient and well below the current budget, and that Spain will be a net contributor in the next period [11]. Von der Leyen wrote at 20:05 CEST that Europe will step up for Ukraine's additional needs and that global partners must too [12]. Euronews reported leaders condemned the US-Russia diesel deal while the Bulgarian prime minister broke ranks to support it [13]."
       },
       {
        "kicker": "Confidence",
@@ -1538,6 +1538,12 @@
      "note": "Chinese state agency, claim carrier; von der Leyen 'straitjacket' quote, Costa year-end aim"
     },
     {
+     "name": "La Moncloa (Sanchez press conference)",
+     "href": "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/161026-sanchez-comparecencia--tras-consejo-europeo.aspx",
+     "status": "used",
+     "note": "posted 20:00 CEST 16 Oct; Irish presidency MFF proposal insufficient, Spain to be a net contributor"
+    },
+    {
      "name": "@vonderleyen",
      "href": "https://x.com/vonderleyen/status/2111156622047236232",
      "status": "used",
@@ -1548,12 +1554,6 @@
      "href": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit",
      "status": "used",
      "note": "19:38 CEST 16 Oct summit takeaways; Bulgarian PM broke ranks on diesel deal"
-    },
-    {
-     "name": "La Moncloa (Sanchez press conference)",
-     "href": "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/161026-sanchez-comparecencia--tras-consejo-europeo.aspx",
-     "status": "used",
-     "note": "posted 20:00 CEST 16 Oct; Irish presidency MFF proposal insufficient, Spain to be a net contributor"
     },
     {
      "name": "El Pais (English)",
