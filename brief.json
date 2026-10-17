@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-17T07:54:15+02:00",
+ "generatedAt": "2026-10-17T07:57:37+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Saturday, 17 October 2026, 05:35 CEST",
  "windowLabel": "16 Oct 2026 19:30 CEST → 17 Oct 2026 05:35 CEST",
@@ -25,7 +25,7 @@
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence on the waiver itself is high, because the primary text and five independent desks agree. Confidence on the forecast is moderate, because the order leaves reinstatement to administration discretion and no explanation of its basis is public."
+       "text": "Confidence on the waiver itself is high, because the primary text and five independent sources agree. Confidence on the forecast is moderate, because the order leaves reinstatement to administration discretion and no explanation of its basis is public."
       }
      ]
     },
@@ -86,7 +86,7 @@
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence on Trump's denial is high, because two independent desks carry his on-record words. Confidence on who ordered the cap is low, because the three accounts conflict and all rest on interested or anonymous sources."
+       "text": "Confidence on Trump's denial is high, because two independent sources carry his on-record words. Confidence on who ordered the cap is low, because the three accounts conflict and all rest on interested or anonymous sources."
       }
      ]
     }
@@ -141,7 +141,7 @@
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is moderate, because the source is the responsible authority itself but no other desk confirmed the duration or trigger."
+       "text": "Confidence is moderate, because the source is the responsible authority itself but no other source confirmed the duration or trigger."
       }
      ]
     },
@@ -210,7 +210,7 @@
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence on Costa's and von der Leyen's stated positions is high, because they come from their own posts. Confidence on the flexibility figures is low, because only one state-media desk carried them."
+       "text": "Confidence on Costa's and von der Leyen's stated positions is high, because they come from their own posts. Confidence on the flexibility figures is low, because only one state-media source carried them."
       }
      ]
     },
@@ -226,7 +226,7 @@
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence on what the leaders said is high, because two independent desks quote them directly and the quotes match."
+       "text": "Confidence on what the leaders said is high, because two independent sources quote them directly and the quotes match."
       }
      ]
     },
@@ -389,7 +389,7 @@
    "id": "ca",
    "nav": "Caucasus",
    "heading": "Armenia, Azerbaijan, Georgia, and the frozen conflicts.",
-   "note": "Thin overnight window. Armenian, Azerbaijani and Georgian agencies, independent desks and official accounts were checked; most new-looking stories (the Putin–Aliyev call, the Mehdiyev expulsion, the OSCE chair's Georgia visit) were first published before the window.",
+   "note": "Thin overnight window. Armenian, Azerbaijani and Georgian agencies, independent sources and official accounts were checked; most new-looking stories (the Putin–Aliyev call, the Mehdiyev expulsion, the OSCE chair's Georgia visit) were first published before the window.",
    "items": [
     {
      "kind": "Diplomacy",
@@ -850,13 +850,13 @@
      "note": "read; 17:23 CEST 16 Oct, before window"
     },
     {
-     "name": "Moscow Times news desk",
+     "name": "Moscow Times",
      "href": "https://www.themoscowtimes.com/news",
      "status": "reviewed",
      "note": "read; no in-window Russia-Ukraine item beyond those cited"
     },
     {
-     "name": "Meduza English desk",
+     "name": "Meduza (English)",
      "href": "https://meduza.io/en",
      "status": "reviewed",
      "note": "read; front page scanned for in-window items"
@@ -1870,7 +1870,7 @@
      "name": "LSM (Latvian) RSS",
      "href": "https://www.lsm.lv/rss/",
      "status": "reviewed",
-     "note": "Read; only in-window news item is a 02:24 EEST piece on US Russia-sanctions timing, not Baltic-specific (Europe/RU desks)"
+     "note": "Read; only in-window news item is a 02:24 EEST piece on US Russia-sanctions timing, not Baltic-specific (Europe/RU tabs)"
     },
     {
      "name": "LRT English news list",
@@ -2008,7 +2008,7 @@
      "name": "15min.lt RSS",
      "href": "https://www.15min.lt/rss",
      "status": "reviewed",
-     "note": "Read; in-window items world news and Putin security-zone remarks (RU desk), no Lithuanian security item"
+     "note": "Read; in-window items world news and Putin security-zone remarks (RU tab), no Lithuanian security item"
     },
     {
      "name": "15min.lt Lietuva section",
@@ -2020,7 +2020,7 @@
      "name": "BNS news list",
      "href": "https://www.bns.lt/",
      "status": "reviewed",
-     "note": "Read; newest item 16 Oct 19:00 (EU leaders on US sanctions), Europe desk"
+     "note": "Read; newest item 16 Oct 19:00 (EU leaders on US sanctions), Europe tab"
     },
     {
      "name": "Baltic Times RSS",
@@ -2044,7 +2044,7 @@
      "name": "X search: Baltic border, balloons, navy, airspace",
      "href": "https://x.com/search?q=Lithuania%20Latvia%20Estonia%20border%20balloons",
      "status": "reviewed",
-     "note": "search_posts_all in window: only a repost of the Finnish Gulf of Finland restriction (Hybrid desk) and a repost of the prior-window Kaliningrad deployment; no Lithuanian balloon or Estonian navy report"
+     "note": "search_posts_all in window: only a repost of the Finnish Gulf of Finland restriction (Hybrid tab) and a repost of the prior-window Kaliningrad deployment; no Lithuanian balloon or Estonian navy report"
     },
     {
      "name": "Breaking Defense: Latvian defence state secretary Rikveilis warns Russia tempted to test readiness",
@@ -2062,7 +2062,7 @@
      "name": "TVNET (Latvian) RSS",
      "href": "https://www.tvnet.lv/rss",
      "status": "reviewed",
-     "note": "Read; in-window items: Latvijas attistibai departures (reviewed above), Poland Starlink-site arson suspect (Europe/Hybrid desks)"
+     "note": "Read; in-window items: Latvijas attistibai departures (reviewed above), Poland Starlink-site arson suspect (Europe/Hybrid tabs)"
     },
     {
      "name": "Lrytas RSS",
@@ -3271,6 +3271,6 @@
   }
  ],
  "sourceKey": "A source is used only if an item cites it. Numbers in brackets match the tab's 'Sources used in this tab' list.",
- "operationalAssessment": "Window 16 Oct 2026 19:30 CEST to 17 Oct 2026 05:35 CEST, an overnight window of about ten hours that opens where the re-run evening edition of 16 October ended. The night's main development is the US waiver of most Graham Act sanctions and tariffs on Russia, published at 02:34 CEST; no Kyiv or Kremlin reaction had been located by the cutoff. Ukraine's Air Force had not posted its overnight tally by the cutoff, so overnight strike figures come from regional officials and broadcasters. Official sites and X accounts were read where reachable, and a second pass covered CNN, Reuters, AP, BBC, DW, Fox News, the New York Times, the Washington Post and the Wall Street Journal: BBC, DW and CNN were read directly; Reuters and AP were read through syndicated copies because their own sites refused access; the New York Times, Washington Post and Wall Street Journal yielded search snippets or ledes only. Baltics and Caucasus are below the usual four to six items because the window was thin there, not because desks were skipped. Moscow's claim to have taken Dobropillia is contradicted by Kyiv's evening report, DeepState map data and ISW. The ledger lists only sources read or checked. Hybrid Warfare uses a draft canvas pending approval.",
+ "operationalAssessment": "Window 16 Oct 2026 19:30 CEST to 17 Oct 2026 05:35 CEST, an overnight window of about ten hours that opens where the re-run evening edition of 16 October ended. The night's main development is the US waiver of most Graham Act sanctions and tariffs on Russia, published at 02:34 CEST; no Kyiv or Kremlin reaction had been located by the cutoff. Ukraine's Air Force had not posted its overnight tally by the cutoff, so overnight strike figures come from regional officials and broadcasters. Official sites and X accounts were read where reachable, and a second pass covered CNN, Reuters, AP, BBC, DW, Fox News, the New York Times, the Washington Post and the Wall Street Journal: BBC, DW and CNN were read directly; Reuters and AP were read through syndicated copies because their own sites refused access; the New York Times, Washington Post and Wall Street Journal yielded search snippets or ledes only. Baltics and Caucasus are below the usual four to six items because the window was thin there, not because sources were skipped. Moscow's claim to have taken Dobropillia is contradicted by Kyiv's evening report, DeepState map data and ISW. The ledger lists only sources read or checked. Hybrid Warfare uses a draft canvas pending approval.",
  "footer": "Fully automated, open-source compilation for situational awareness only. Not an official U.S., Allied, or German government product."
 }
