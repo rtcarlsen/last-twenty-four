@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-17T08:10:14+02:00",
+ "generatedAt": "2026-10-17T08:13:02+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Saturday, 17 October 2026, 05:35 CEST",
  "windowLabel": "16 Oct 2026 19:30 CEST → 17 Oct 2026 05:35 CEST",
@@ -502,175 +502,175 @@
    "theater": "Russia & Ukraine",
    "sources": [
     {
-     "name": "The White House (executive order)",
+     "name": "[1] The White House (executive order)",
      "href": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
      "status": "used",
      "note": "primary text; posted 02:34 CEST 17 Oct; sections 1-2 and waiver language read"
     },
     {
-     "name": "Reuters (via Devdiscourse)",
+     "name": "[2] Reuters (via Devdiscourse)",
      "href": "https://www.devdiscourse.com/article/international/3993920-trump-waives-many-russia-related-sanctions-tariffs-before-they-were-to-take-effect-under-new-law",
      "status": "used",
      "note": "syndicated Reuters copy read; India concerns, certification quote"
     },
     {
-     "name": "AP (via ABC News)",
+     "name": "[3] AP (via ABC News)",
      "href": "https://abcnews.com/US/wireStory/trump-puts-new-russia-sanctions-passed-congress-hold-137339735",
      "status": "used",
      "note": "syndicated AP copy read, 03:42 CEST; 'unexpected move', diesel-deal context"
     },
     {
-     "name": "CBS News",
+     "name": "[4] CBS News",
      "href": "https://www.cbsnews.com/news/trump-waives-sanctions-tariffs-russian-oil-lindsey-graham/",
      "status": "used",
      "note": "04:38 CEST; 100% tariffs were due Sunday; waiver lasts until officials decide otherwise"
     },
     {
-     "name": "DW",
+     "name": "[5] DW",
      "href": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002",
      "status": "used",
      "note": "04:09 CEST; White House gave no explanation of national-interest basis"
     },
     {
-     "name": "Wall Street Journal",
+     "name": "[6] Wall Street Journal",
      "href": "https://www.wsj.com/politics/policy/trump-waives-most-russia-sanctions-passed-by-congress-4c36bc93",
      "status": "used",
      "note": "05:02 CEST; paywalled, lede only read; 'most' sanctions halted"
     },
     {
-     "name": "Kyiv Independent",
+     "name": "[7] Kyiv Independent",
      "href": "https://kyivindependent.com/trump-waives-latest-russia-sanctions-amid-growing-ukraine-us-tensions/",
      "status": "used",
      "note": "04:31 CEST; Rep. Don Beyer reaction"
     },
     {
-     "name": "House Foreign Affairs Committee Democrats (Meeks release)",
+     "name": "[8] House Foreign Affairs Committee Democrats (Meeks release)",
      "href": "https://democrats-foreignaffairs.house.gov/2026/10/meeks-introduces-legislation-to-block-trump-s-russia-diesel-deal",
      "status": "used",
      "note": "release dated 16 Oct; Prohibit Corrupt Russia Oil Deals Act; first surfaced in window via Kyiv Independent post 22:16 CEST"
     },
     {
-     "name": "Kommersant",
+     "name": "[9] Kommersant",
      "href": "https://www.kommersant.ru/doc/9040988",
      "status": "used",
      "note": "04:19 CEST; Sobyanin 69 drones, all four airports shut, no casualty information"
     },
     {
-     "name": "Moskva 24 (Moscow city media)",
+     "name": "[10] Moskva 24 (Moscow city media)",
      "href": "https://www.m24.ru/news/17102026/953706",
      "status": "used",
      "note": "02:03 Moscow time; Sheremetyevo added, all four airports restricted"
     },
     {
-     "name": "Interfax (Russia feed)",
+     "name": "[11] Interfax (Russia feed)",
      "href": "https://www.interfax.ru/russia/",
      "status": "used",
      "note": "timeline read: Vnukovo/Domodedovo/Zhukovsky closed 22:38 CEST, Tula 9 drones, MoD 47 drones since Friday morning (19:31 CEST), regional airport closures incl. Sochi; re-read 05:19 CEST, no refinery strike report in window"
     },
     {
-     "name": "Interfax (Novak interview)",
+     "name": "[12] Interfax (Novak interview)",
      "href": "https://www.interfax.ru/russia/1123106",
      "status": "used",
      "note": "21:55 CEST; Novak says petrol deficit about 5%"
     },
     {
-     "name": "Kyiv Independent",
+     "name": "[13] Kyiv Independent",
      "href": "https://kyivindependent.com/moscow-closes-sky-multiple-nights-in-row-as-ukraine-resumes-refinery-strikes/",
      "status": "used",
      "note": "00:45 CEST; sixth night of Moscow flight restrictions, Flightradar24 on Sheremetyevo"
     },
     {
-     "name": "Interfax-Ukraine",
+     "name": "[14] Interfax-Ukraine",
      "href": "https://interfax.com.ua/news/general/1221766.html",
      "status": "used",
      "note": "21:22 CEST; Syniehubov: 10 affected in Kharkiv incl. two 13-year-olds"
     },
     {
-     "name": "RBC-Ukraine",
+     "name": "[15] RBC-Ukraine",
      "href": "https://newsukraine.rbc.ua/news/russian-banderol-weapons-hit-kharkiv-damaging-1792181335.html",
      "status": "used",
      "note": "22:20 CEST; Terekhov: Banderol strikes, 100+ windows broken"
     },
     {
-     "name": "Kyiv Post",
+     "name": "[16] Kyiv Post",
      "href": "https://www.kyivpost.com/post/87340",
      "status": "used",
      "note": "04:10 CEST; Air Force ballistic warnings toward Kryvyi Rih, Zaporizhzhia, Dnipro; Kyiv red alert"
     },
     {
-     "name": "Mezha (citing Ukrinform / Fedorov)",
+     "name": "[17] Mezha (citing Ukrinform / Fedorov)",
      "href": "https://mezha.net/eng/news/mezha-3bce2a6f9fa62607eeb956a3_buildings_damaged_in/",
      "status": "used",
      "note": "05:02 CEST; Fedorov: several missile strikes on Zaporizhzhia, two injured"
     },
     {
-     "name": "Ivan Fedorov (Zaporizhzhia regional head, Telegram)",
+     "name": "[18] Ivan Fedorov (Zaporizhzhia regional head, Telegram)",
      "href": "https://t.me/s/ivan_fedorov_zp",
      "status": "used",
      "note": "posts 04:07 and 04:47 CEST read; two injured, three residential buildings damaged, cars on fire"
     },
     {
-     "name": "Suspilne (Telegram news feed)",
+     "name": "[19] Suspilne (Telegram news feed)",
      "href": "https://t.me/s/suspilnenews",
      "status": "used",
      "note": "posts 03:42-05:18 CEST read; correspondents report explosions in Zaporizhzhia and Kryvyi Rih; Kherson MVA: girl, 11, paramedic, two men and a family with a one-month-old baby injured in airstrikes"
     },
     {
-     "name": "Dnipropetrovsk Regional Military Administration (Telegram)",
+     "name": "[20] Dnipropetrovsk Regional Military Administration (Telegram)",
      "href": "https://t.me/s/dnipropetrovskaODA",
      "status": "used",
      "note": "04:27 CEST post read; Russian strikes on an industrial enterprise in Kryvyi Rih, casualties being clarified"
     },
     {
-     "name": "UA.News (Ukrenergo statement)",
+     "name": "[21] UA.News (Ukrenergo statement)",
      "href": "https://ua.news/en/ukraine/v-ukrayini-17-zhovtnia-diiatimut-zhorstkishi-grafiki-vidkliuchennia-svitla-ukrenergo",
      "status": "used",
      "note": "00:00 CEST; nationwide industrial limits and hourly household schedules for 17 Oct"
     },
     {
-     "name": "Interfax (Belousov telegrams)",
+     "name": "[22] Interfax (Belousov telegrams)",
      "href": "https://www.interfax.ru/russia/1123104",
      "status": "used",
      "note": "21:41 CEST; Russian MoD says Dobropillia, Oleksiievo-Druzhkivka, Serhiivka, Velykomykhailivka taken"
     },
     {
-     "name": "Mezha (General Staff 22:00 update)",
+     "name": "[23] Mezha (General Staff 22:00 update)",
      "href": "https://mezha.net/eng/news/mezha-dfd22c95d56011018e330270_general_staff-_208/",
      "status": "used",
      "note": "21:14 CEST; General Staff: 208 engagements, assaults repelled near Dobropillia, Serhiivka, Oleksiievo-Druzhkivka"
     },
     {
-     "name": "ISW / Critical Threats (16 Oct assessment)",
+     "name": "[24] ISW / Critical Threats (16 Oct assessment)",
      "href": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-16-2026",
      "status": "used",
      "note": "published about 02:15 CEST 17 Oct; net Russian loss of 122 sq km since 1 Sept per ISW"
     },
     {
-     "name": "Telegraf (citing DeepState map and CIT)",
+     "name": "[25] Telegraf (citing DeepState map and CIT)",
      "href": "https://news.telegraf.com.ua/ukr/ukraina/5952700-gerasimov-zayavil-o-zakhvate-dobropolya-i-priblizhenii-k-zaporozhyu-chto-na-samom-dele-proiskhodit-na-fronte-karty",
      "status": "used",
      "note": "20:10 CEST 16 Oct; DeepState as of 16 Oct: nearest Russian positions ~3.4 km from Dobropillia, ~4 km Oleksiievo-Druzhkivka, ~4.89 km Serhiivka; CIT: Russian presence on southern outskirts and east"
     },
     {
-     "name": "Reuters (via Devdiscourse)",
+     "name": "[26] Reuters (via Devdiscourse)",
      "href": "https://www.devdiscourse.com/article/international/3993876-russian-forces-capture-dobropillia-in-eastern-ukraine-minister-says-no-confirmation-from-kyiv",
      "status": "used",
      "note": "syndicated Reuters copy, 22:11 CEST 16 Oct; Ukraine made no mention of Dobropillia changing hands"
     },
     {
-     "name": "Kyiv Independent (citing The Telegraph)",
+     "name": "[27] Kyiv Independent (citing The Telegraph)",
      "href": "https://kyivindependent.com/musk-asked-trump-to-restrict-ukraines-starlink-service-telegraph-reports/",
      "status": "used",
      "note": "20:19 CEST; Telegraph report, four sources, Musk proposed cap"
     },
     {
-     "name": "CNN (Arabic edition)",
+     "name": "[28] CNN (Arabic edition)",
      "href": "https://arabic.cnn.com/world/article/2026/10/16/trump-wasnt-behind-starlink-slowdown-ukraine",
      "status": "used",
      "note": "20:15 CEST; Trump quotes to White House reporters on Starshield"
     },
     {
-     "name": "BBC News",
+     "name": "[29] BBC News",
      "href": "https://www.bbc.com/news/articles/ckz65g34wyd8o",
      "status": "used",
      "note": "21:33 CEST; Trump denial, Musk position, Reuters account restated"
@@ -1089,61 +1089,61 @@
    "theater": "Hybrid Warfare",
    "sources": [
     {
-     "name": "Moldpres (MFA statement)",
+     "name": "[1] Moldpres (MFA statement)",
      "href": "https://www.moldpres.md/eng/politics/moldovan-foreign-affairs-ministry-condemns-repeated-violation-of-national-airspace",
      "status": "used",
      "note": "20:16 CEST 16 Oct; state agency carries MFA text: six UAV overflights on 15-16 Oct, one crashed and exploded in Donduseni"
     },
     {
-     "name": "Moldova MFA (via Cotidianul)",
+     "name": "[2] Moldova MFA (via Cotidianul)",
      "href": "https://www.cotidianul.md/en/40756/mae-condemns-the-repeated-violation-of-the-airspace-of-the-republic-of-moldova-and-calls-on-russia-to-stop-the-attacks-on-ukraine--a-serious-violation-of-sovereignty/",
      "status": "used",
      "note": "MFA Facebook statement carried 20:49 CEST 16 Oct; seven unauthorised overflights in two days, one crash in Donduseni"
     },
     {
-     "name": "Reuters (via Yahoo News)",
+     "name": "[3] Reuters (via Yahoo News)",
      "href": "https://www.yahoo.com/news/articles/moldova-condemns-russia-five-drones-221441124.html",
      "status": "used",
      "note": "syndicated Reuters copy read, 00:14 CEST 17 Oct; five drones identified as Russian crashed, one lightly injured"
     },
     {
-     "name": "DW (Russian service)",
+     "name": "[4] DW (Russian service)",
      "href": "https://www.dw.com/ru/drony-za-sutki-5-raz-narusili-vozdusnoe-prostranstvo-moldovy-odin-iz-nih-upal/a-79684946",
      "status": "used",
      "note": "04:55 CEST 17 Oct; MoD Telegram: drone entered 16:22 local, declared crashed and exploded 17:06; eighth violation since 10 Oct"
     },
     {
-     "name": "Reuters (via Baird Maritime)",
+     "name": "[5] Reuters (via Baird Maritime)",
      "href": "https://www.bairdmaritime.com/security/emergency-services/search-and-rescue/search-back-on-for-missing-after-drone-strikes-tanker-off-romania",
      "status": "used",
      "note": "syndicated Reuters copy read, 20:40 CEST 16 Oct; Wine Trader search, NATO military source on Russian origin, 23 dead or missing"
     },
     {
-     "name": "Euronews (Nicusor Dan interview)",
+     "name": "[6] Euronews (Nicusor Dan interview)",
      "href": "https://www.euronews.com/2026/10/16/romanian-president-calls-for-greater-nato-oversight-in-the-black-sea-in-euronews-interview",
      "status": "used",
      "note": "20:30 CEST 16 Oct; Dan calls for greater NATO oversight of the Black Sea"
     },
     {
-     "name": "Fakti.bg (quoting TASS)",
+     "name": "[7] Fakti.bg (quoting TASS)",
      "href": "https://fakti.bg/en/world/1090862-maria-zakharova-there-is-no-evidence-who-is-behind-the-attacks-on-ships-in-the-black-sea",
      "status": "used",
      "note": "20:56 CEST 16 Oct; Zakharova line via TASS (Russian state claim carrier) and Radev's parliament remark"
     },
     {
-     "name": "@Puolustusvoimat",
+     "name": "[8] @Puolustusvoimat",
      "href": "https://x.com/Puolustusvoimat/status/2111257112273686860",
      "status": "used",
      "note": "02:44 CEST 17 Oct post; temporary restricted area eastern Gulf of Finland from 03:36 Finnish time; follow-up post 2111257115666842080 gives drone-defence rationale; read via X API"
     },
     {
-     "name": "GB News",
+     "name": "[9] GB News",
      "href": "https://www.gbnews.com/news/raf-jets-near-miss-mystery-drones-uk-skies-investigation-launched",
      "status": "used",
      "note": "00:59 CEST 17 Oct; dates 18 and 23 Feb, 17,000 ft, not on radar, per Telegraph logs"
     },
     {
-     "name": "The Independent",
+     "name": "[10] The Independent",
      "href": "https://www.independent.co.uk/news/uk/home-news/raf-reports-mystery-drones-uk-b3068419.html",
      "status": "used",
      "note": "01:06 CEST 17 Oct; follows The Telegraph; MoD spokesperson quote"
@@ -1478,121 +1478,121 @@
    "theater": "Europe",
    "sources": [
     {
-     "name": "Governo italiano (Meloni press point)",
+     "name": "[1] Governo italiano (Meloni press point)",
      "href": "https://www.governo.it/it/articolo/consiglio-europeo-del-15-e-16-ottobre-il-punto-stampa-del-presidente-meloni/32870",
      "status": "used",
      "note": "transcript posted 20:20 CEST 16 Oct; energy-bills decree deal, ETS conclusions"
     },
     {
-     "name": "ANSA",
+     "name": "[2] ANSA",
      "href": "https://www.ansa.it/sito/notizie/politica/2026/10/16/intesa-ue-meloni-sul-dl-bollette.-von-der-leyen-ma-non-faremo-miracoli_5f11bc19-b502-42ac-8252-714b161eb42f.html",
      "status": "used",
      "note": "21:13 CEST 16 Oct; Commission says measure must be temporary, expects intervention plan"
     },
     {
-     "name": "Il Foglio",
+     "name": "[3] Il Foglio",
      "href": "https://www.ilfoglio.it/en/politics/2026/10/16/news/meloni-secures-the-eus-approval-for-the-energy-bills-decree-and-concessions-on-the-ets-though-less-so-on-flexibility--410910",
      "status": "used",
      "note": "20:34 CEST 16 Oct; Nordic and German opposition on flexibility"
     },
     {
-     "name": "Il Messaggero",
+     "name": "[4] Il Messaggero",
      "href": "https://www.ilmessaggero.it/politica/meloni_intesa_flessibilita-9829822.html",
      "status": "used",
      "note": "00:08 CEST 17 Oct; Meloni optimistic on margins for more flexibility within current rules; Palazzo Chigi wording on the gas cap"
     },
     {
-     "name": "The Independent",
+     "name": "[5] The Independent",
      "href": "https://www.the-independent.com/news/uk/home-news/donald-trump-ukraine-wes-streeting-zelensky-british-b3068421.html",
      "status": "used",
      "note": "01:01 CEST 17 Oct; Streeting in Washington announces Poland exercise"
     },
     {
-     "name": "GB News",
+     "name": "[6] GB News",
      "href": "https://www.gbnews.com/news/british-troops-rehearse-deploying-ukraine-ceasefire-major-nato-wargame",
      "status": "used",
      "note": "02:40 CEST 17 Oct; French, German, Polish troops; Times detail on logistics"
     },
     {
-     "name": "Kancelaria Prezesa Rady Ministrow (Tusk, July)",
+     "name": "[7] Kancelaria Prezesa Rady Ministrow (Tusk, July)",
      "href": "https://www.gov.pl/web/primeminister/poland-to-host-the-coalition-of-the-willings-first-military-exercises",
      "status": "used",
      "note": "14 Jul 2026 statement, background; first coalition exercises in Poland this autumn with British and French forces"
     },
     {
-     "name": "Rzeczpospolita",
+     "name": "[8] Rzeczpospolita",
      "href": "https://www.rp.pl/wojsko/art45333901-manewry-koalicji-chetnych-na-pewno-odbeda-sie-w-polsce-gen-polko-nie-powinnismy-sie-wykluczac",
      "status": "used",
      "note": "17:29 CEST 14 Oct, background; no date fixed, Polish officers unofficially doubtful"
     },
     {
-     "name": "@eucopresident",
+     "name": "[9] @eucopresident",
      "href": "https://x.com/eucopresident/status/2111166326966264293",
      "status": "used",
      "note": "20:44 CEST 16 Oct post on MFF; read via X API"
     },
     {
-     "name": "Xinhua",
+     "name": "[10] Xinhua",
      "href": "https://english.news.cn/europe/20261017/b435051680b94335a51660fdbd7747dc/c.html",
      "status": "used",
      "note": "Chinese state agency, claim carrier; von der Leyen 'straitjacket' quote, Costa year-end aim"
     },
     {
-     "name": "La Moncloa (Sanchez press conference)",
+     "name": "[11] La Moncloa (Sanchez press conference)",
      "href": "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/161026-sanchez-comparecencia--tras-consejo-europeo.aspx",
      "status": "used",
      "note": "posted 20:00 CEST 16 Oct; Irish presidency MFF proposal insufficient, Spain to be a net contributor"
     },
     {
-     "name": "@vonderleyen",
+     "name": "[12] @vonderleyen",
      "href": "https://x.com/vonderleyen/status/2111156622047236232",
      "status": "used",
      "note": "20:05 CEST 16 Oct post on Ukraine; read via X API"
     },
     {
-     "name": "Euronews",
+     "name": "[13] Euronews",
      "href": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit",
      "status": "used",
      "note": "19:38 CEST 16 Oct summit takeaways; Bulgarian PM broke ranks on diesel deal"
     },
     {
-     "name": "El Pais (English)",
+     "name": "[14] El Pais (English)",
      "href": "https://english.elpais.com/international/2026-10-16/denmark-asks-eu-to-examine-spains-plan-to-legalize-migrants.html",
      "status": "used",
      "note": "20:01 CEST 16 Oct; Frederiksen asks Commission to examine Spain's regularisation; Babis remark"
     },
     {
-     "name": "Euronews (Sanchez)",
+     "name": "[15] Euronews (Sanchez)",
      "href": "https://www.euronews.com/2026/10/16/sanchez-rejects-criticism-of-spains-migration-policy-words-do-not-match-reality",
      "status": "used",
      "note": "22:30 CEST 16 Oct; Sanchez rebuttal to Babis, Frederiksen, Stocker"
     },
     {
-     "name": "France 24 (AFP)",
+     "name": "[16] France 24 (AFP)",
      "href": "https://www.france24.com/fr/info-en-continu/20261016-budget-l-assembl%C3%A9e-rejette-la-taxe-zucman-sur-les-ultrariches",
      "status": "used",
      "note": "AFP dispatch, 20:47 CEST 16 Oct; Zucman and ISF amendments rejected, about 3,000 amendments left, revenue vote set for Tuesday; read via WebFetch"
     },
     {
-     "name": "BFM TV",
+     "name": "[17] BFM TV",
      "href": "https://www.bfmtv.com/economie/economie-social/finances-publiques/l-assemblee-nationale-rejette-la-taxe-zucman-sur-les-ultrariches-de-nombreux-accrochages-pendant-les-debats_AD-202610160798.html",
      "status": "used",
      "note": "20:48 CEST 16 Oct; same AFP dispatch"
     },
     {
-     "name": "France 24 (AFP), Secu budget",
+     "name": "[18] France 24 (AFP), Secu budget",
      "href": "https://www.france24.com/fr/info-en-continu/20261016-apr%C3%A8s-le-budget-de-l-etat-les-d%C3%A9put%C3%A9s-rejettent-en-commission-celui-de-la-s%C3%A9cu",
      "status": "used",
      "note": "17:37 CEST 16 Oct, prior-window context; committee rejects 2027 social-security budget, 49.3 option; read via WebFetch"
     },
     {
-     "name": "Wirtualna Polska",
+     "name": "[19] Wirtualna Polska",
      "href": "https://wiadomosci.wp.pl/tusk-ostro-ws-sporu-o-tk-chce-wysadzic-z-siodla-swieczkowskiego-7340754779064352a",
      "status": "used",
      "note": "21:02 CEST 16 Oct; Tusk post-summit briefing on Constitutional Tribunal, protests outside TK, officer attacked"
     },
     {
-     "name": "Bankier.pl (PAP)",
+     "name": "[20] Bankier.pl (PAP)",
      "href": "https://www.bankier.pl/wiadomosc/Tusk-wyznacza-czerwona-linie-Nawrockiemu-Chodzi-o-kompetencje-prezydenta-9214137.html",
      "status": "used",
      "note": "20:44 CEST 16 Oct; Tusk rejects sharing ambassador nominations with Nawrocki"
@@ -1825,19 +1825,19 @@
    "theater": "Baltics",
    "sources": [
     {
-     "name": "ERR (Estonian): Tallinn opens first public street shelter",
+     "name": "[1] ERR (Estonian): Tallinn opens first public street shelter",
      "href": "https://www.err.ee/1610168983/tallinnas-juhkentali-tanaval-avati-uue-ilme-saanud-varjumiskoht",
      "status": "used",
      "note": "Published 16 Oct 21:27 EEST (20:27 CEST); deputy mayor Terik and municipal police civil-protection specialist quoted"
     },
     {
-     "name": "ERR Russian service: first public shelter opened in Tallinn",
+     "name": "[2] ERR Russian service: first public shelter opened in Tallinn",
      "href": "https://rus.err.ee/1610168974/v-tallinne-otkrylos-pervoe-obwedostupnoe-ukrytie",
      "status": "used",
      "note": "Published 16 Oct 20:38 EEST (19:38 CEST); cost up to EUR 70,000, plan for 40-50 modules"
     },
     {
-     "name": "ERR (Estonian): Lode hybrid park on the Estonia-Latvia border becomes a bone of contention",
+     "name": "[3] ERR (Estonian): Lode hybrid park on the Estonia-Latvia border becomes a bone of contention",
      "href": "https://www.err.ee/1610168998/eesti-ja-lati-vahel-on-kujunenud-tuliounaks-piiriaarne-hubriidpark",
      "status": "used",
      "note": "Published 16 Oct 21:13 EEST (20:13 CEST); Utilitas CEO Koit and Latvian ministry parliamentary secretary Cilinskis quoted"
@@ -2184,79 +2184,79 @@
    "theater": "Balkans",
    "sources": [
     {
-     "name": "AFP via Free Malaysia Today: Clashes grip Tirana as Albanian PM blames 'foreign hands'",
+     "name": "[1] AFP via Free Malaysia Today: Clashes grip Tirana as Albanian PM blames 'foreign hands'",
      "href": "https://www.freemalaysiatoday.com/category/world/2026/10/17/clashes-grip-tirana-as-albanian-pm-blames-foreign-hands",
      "status": "used",
      "note": "AFP copy, published 17 Oct 01:15 UTC (03:15 CEST); interior minister Demo figures"
     },
     {
-     "name": "Al Jazeera: Albanian PM blames 'foreign hands' for unrest",
+     "name": "[2] Al Jazeera: Albanian PM blames 'foreign hands' for unrest",
      "href": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify",
      "status": "used",
      "note": "Published 16 Oct 23:27 UTC (17 Oct 01:27 CEST); Rama video quote"
     },
     {
-     "name": "DW: Can Albania's student protests bring political change?",
+     "name": "[3] DW: Can Albania's student protests bring political change?",
      "href": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217",
      "status": "used",
      "note": "Major-outlet sweep; 16 Oct 14:23 UTC, pre-window, used only for the earlier police injury figure to compare"
     },
     {
-     "name": "N1: Vucic at campaign event in Novi Sad",
+     "name": "[4] N1: Vucic at campaign event in Novi Sad",
      "href": "https://n1info.rs/english/news/vucic-at-campaign-event-in-novi-sad/",
      "status": "used",
      "note": "Published 16 Oct 21:35 CEST"
     },
     {
-     "name": "Danas: SNS rally in Novi Sad",
+     "name": "[5] Danas: SNS rally in Novi Sad",
      "href": "https://www.danas.rs/vesti/politika/izbori26/sns-miting-novi-sad-izbori-2026/",
      "status": "used",
      "note": "Live report first posted 19:11 CEST, rally began 18:00; Vucic quotes on canopy collapse and Dodik greeting"
     },
     {
-     "name": "X: Aleksandar Vucic (@avucic) posts from the rally",
+     "name": "[6] X: Aleksandar Vucic (@avucic) posts from the rally",
      "href": "https://x.com/avucic/status/2111164926156833056",
      "status": "used",
      "note": "Three posts 18:38, 20:27, 20:35 UTC (20:38, 22:27, 22:35 CEST)"
     },
     {
-     "name": "N1 Bosnia: Mladic flags at Vucic rally in Novi Sad",
+     "name": "[7] N1 Bosnia: Mladic flags at Vucic rally in Novi Sad",
      "href": "https://n1info.ba/regija/na-vucicevom-predizbornom-skupu-u-novom-sadu-velican-ratni-zlocinac-ratko-mladic/",
      "status": "used",
      "note": "Published 16 Oct 20:33 UTC (22:33 CEST); describes flags from rally photographs; same N1 network as the Serbian service"
     },
     {
-     "name": "N1: Students start march to Belgrade",
+     "name": "[8] N1: Students start march to Belgrade",
      "href": "https://n1info.rs/english/news/students-start-march-to-belgrade/",
      "status": "used",
      "note": "Published 16 Oct 21:53 CEST"
     },
     {
-     "name": "N1: SNS activists set up parallel event across the street from Student List",
+     "name": "[9] N1: SNS activists set up parallel event across the street from Student List",
      "href": "https://n1info.rs/english/news/sns-activists-set-up-parallel-event-across-the-street-from-student-list/",
      "status": "used",
      "note": "Published 16 Oct 21:49 CEST"
     },
     {
-     "name": "N1: N1 newsroom regrets loss of 10 staff members",
+     "name": "[10] N1: N1 newsroom regrets loss of 10 staff members",
      "href": "https://n1info.rs/english/news/n1-newsroom-regrets-loss-of-10-staff-members/",
      "status": "used",
      "note": "Published 16 Oct 22:04 CEST; newsroom statement"
     },
     {
-     "name": "HRT/Hina: Plenkovic intervened to strip deadlines from Montenegro conclusions",
+     "name": "[11] HRT/Hina: Plenkovic intervened to strip deadlines from Montenegro conclusions",
      "href": "https://vijesti.hrt.hr/eu/plenkovic-intervenirao-da-se-iz-zakljucaka-o-crnoj-gori-izbace-vremenske-odrednice-12960343",
      "status": "used",
      "note": "Published 16 Oct 07:12 CEST, pre-window; conclusions text and removed draft wording, used as context for the sequel"
     },
     {
-     "name": "Kosovo Online (via RTS): Croatia secured change to EU summit conclusions, message to Montenegro",
+     "name": "[12] Kosovo Online (via RTS): Croatia secured change to EU summit conclusions, message to Montenegro",
      "href": "https://www.kosovo-online.com/vesti/region/hrvatska-izdejstvovala-izmenu-zakljucaka-samita-eu-crnoj-gori-poruka-da-se-rese",
      "status": "used",
      "note": "Published 16 Oct 23:41 CEST, relaying RTS; Plenkovic quote at close of summit"
     },
     {
-     "name": "Vijesti (via RTCG): Jansa expects no major problems, hopes Montenegro joins EU soon",
+     "name": "[13] Vijesti (via RTCG): Jansa expects no major problems, hopes Montenegro joins EU soon",
      "href": "https://www.vijesti.me/vijesti/politika/831870/jansa-mislim-da-nece-biti-vecih-problema-nadamo-se-da-ce-crna-gora-uskoro-uci-u-eu",
      "status": "used",
      "note": "Published 16 Oct 23:48 CEST; Jansa post-summit remarks"
@@ -2615,19 +2615,19 @@
    "theater": "Caucasus",
    "sources": [
     {
-     "name": "APA (Tehran bureau)",
+     "name": "[1] APA (Tehran bureau)",
      "href": "https://en.apa.az/asia/pezeshkian-we-discussed-preparation-of-joint-strategic-document-with-armenia-530613",
      "status": "used",
      "note": "16 Oct 20:25 CEST; Pezeshkian on joint strategic document"
     },
     {
-     "name": "NEWS.am",
+     "name": "[2] NEWS.am",
      "href": "https://news.am/en/video/1068208",
      "status": "used",
      "note": "16 Oct 07:54 CEST, prior-window background; Mirzoyan: document practically agreed"
     },
     {
-     "name": "Tasnim",
+     "name": "[3] Tasnim",
      "href": "https://www.tasnimnews.ir/en/news/2026/10/16/3724370/pezeshkian-urges-long-term-strategic-plan-with-armenia",
      "status": "used",
      "note": "16 Oct 14:30 CEST, prior-window background; IRGC-affiliated Iranian agency"
@@ -2944,73 +2944,73 @@
    "theater": "Germany",
    "sources": [
     {
-     "name": "tagesschau",
+     "name": "[1] tagesschau",
      "href": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
      "status": "used",
      "note": "16 Oct 23:15 CEST; Winkel re-elected"
     },
     {
-     "name": "Stuttgarter Zeitung (dpa)",
+     "name": "[2] Stuttgarter Zeitung (dpa)",
      "href": "https://www.stuttgarter-zeitung.de/politik/deutschlandtag-der-jungen-union-winkel-mit-bisher-bestem-ergebnis-als-ju-chef-bestaetigt-79580580.html",
      "status": "used",
      "note": "16 Oct 22:20 CEST; vote count, Merz due Saturday"
     },
     {
-     "name": "Tagesspiegel",
+     "name": "[3] Tagesspiegel",
      "href": "https://www.tagesspiegel.de/politik/ju-chef-winkel-warnt-vor-ende-der-rentenreform-das-ware-ein-scheitern-von-dem-sich-die-bundesregierung-kaum-noch-erholen-kann-16171918.html",
      "status": "used",
      "note": "16 Oct 22:40 CEST; Winkel on pension reform"
     },
     {
-     "name": "Handelsblatt",
+     "name": "[4] Handelsblatt",
      "href": "https://www.handelsblatt.com/politik/deutschland/junge-union-wuest-richtung-bundesregierung-reisst-euch-zusammen/100261877.html",
      "status": "used",
      "note": "16 Oct 21:32 CEST; Wüst at the Deutschlandtag"
     },
     {
-     "name": "Deutschlandfunk",
+     "name": "[5] Deutschlandfunk",
      "href": "https://www.deutschlandfunk.de/winkel-als-ju-chef-bestaetigt-rede-und-diskussion-mit-merz-erwartet-100.html",
      "status": "used",
      "note": "17 Oct broadcast; Merz speech and debate due in the morning"
     },
     {
-     "name": "tagesschau",
+     "name": "[6] tagesschau",
      "href": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html",
      "status": "used",
      "note": "17 Oct 03:50 CEST; Schweitzer interview relay"
     },
     {
-     "name": "Handelsblatt (Bundespolitik live)",
+     "name": "[7] Handelsblatt (Bundespolitik live)",
      "href": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-hoffmann-gegen-aufnahme-von-politikern-in-rentenversicherung/100137034.html",
      "status": "used",
      "note": "17 Oct 04:37 CEST; liveblog lists Schweitzer item"
     },
     {
-     "name": "Handelsblatt",
+     "name": "[8] Handelsblatt",
      "href": "https://www.handelsblatt.com/politik/deutschland/konjunktur-bericht-iw-sieht-steigendes-wachstumspotenzial-der-deutschen-wirtschaft-ab-2030/100262926.html",
      "status": "used",
      "note": "17 Oct 02:52 CEST; IW study via Rheinische Post"
     },
     {
-     "name": "Stuttgarter Zeitung (dpa)",
+     "name": "[9] Stuttgarter Zeitung (dpa)",
      "href": "https://www.stuttgarter-zeitung.de/politik/koalitionsverhandlungen-spd-linke-und-gruene-in-mecklenburg-vorpommern-praesentieren-erste-ergebnisse-79580537.html",
      "status": "used",
      "note": "16 Oct 21:56 CEST; MV coalition interim results"
     },
     {
-     "name": "WirtschaftsWoche (dpa)",
+     "name": "[10] WirtschaftsWoche (dpa)",
      "href": "https://www.wiwo.de/politik/deutschland/nachbesserungen-am-entwurf-unionsfraktionschef-will-aenderungen-bei-zuckersteuer/100262923.html",
      "status": "used",
      "note": "17 Oct 01:00 CEST; Frei on sugar tax, Hoffmann on start date"
     },
     {
-     "name": "Süddeutsche Zeitung (dpa)",
+     "name": "[11] Süddeutsche Zeitung (dpa)",
      "href": "https://www.sueddeutsche.de/politik/nachbesserungen-am-entwurf-unionsfraktionschef-will-aenderungen-bei-zuckersteuer-dpa.urn-newsml-dpa-com-20090101-261016-930-852348",
      "status": "used",
      "note": "17 Oct 01:00 CEST; same dpa copy"
     },
     {
-     "name": "Tagesspiegel (dpa)",
+     "name": "[12] Tagesspiegel (dpa)",
      "href": "https://www.tagesspiegel.de/politik/dpa-nachbesserungen-am-entwurf-unionsfraktionschef-will-anderungen-bei-zuckersteuer-16172162.html",
      "status": "used",
      "note": "17 Oct 01:01 CEST; same dpa copy"
