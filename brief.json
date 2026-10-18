@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-18T16:51:56+02:00",
+ "generatedAt": "2026-10-18T17:02:12+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Sunday, 18 October 2026, 17:00 CEST",
  "windowLabel": "17 Oct 2026 17:00 CEST → 18 Oct 2026 17:00 CEST",
@@ -111,7 +111,7 @@
     },
     {
      "kind": "Strike",
-     "time": "16 Oct 21:22–18 Oct 13:10",
+     "time": "17 Oct 11:05–18 Oct 13:10",
      "title": "Russia keeps hitting Ukraine's grid: a ballistic missile and 180 drones overnight, strikes in the west, and at least 10 civilians killed in a day",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
@@ -277,14 +277,14 @@
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence that a protester died after a cardiac arrest is high, because two outlets independently report the police prefecture's statement. Confidence on the cause is low, because the inquiry is open and no details were released."
+       "text": "Confidence that a protester died after a cardiac arrest is high, because the Paris police prefecture's account is reported by actu Paris and the death is also reported by tagesschau [3][4]. Confidence on the cause is low, because the inquiry is open and no details were released."
       }
      ]
     },
     {
      "kind": "Election",
      "time": "18 Oct 09:03",
-     "title": "Czech Republic: Babiš's governing coalition wins none of the 27 Senate seats contested, and the pro-Western opposition keeps control of the chamber",
+     "title": "Czech Republic: Babiš's ANO wins none of the 27 Senate seats contested, and the pro-Western opposition keeps control of the chamber",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -300,16 +300,16 @@
     {
      "kind": "Unrest",
      "time": "17 Oct 19:48–18 Oct 16:32",
-     "title": "France: Nuñez says 'the Republic will not yield' as arrests pass 1,800, Macron calls a crisis meeting and an address, and opponents demand the minister's resignation",
+     "title": "France: Nuñez says 'the Republic will not yield' as arrests pass 2,000, Macron calls a crisis meeting and an address, and opponents demand the minister's resignation",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Interior Minister Laurent Nuñez wrote on X on Sunday that 1,800 people had been arrested and more than 500 police officers, gendarmes, and firefighters injured, calling the toll provisional; he blamed thousands of far-left individuals joined by looters and said the Republic would not yield [6][7]. tagesschau quoted him giving 2,000 arrests and 600 injured, and DW cited more than 600 officers hurt [4][8]. He had said on Saturday that no state of emergency was planned [9]. The Élysée said President Emmanuel Macron would hold a crisis meeting with Prime Minister Sébastien Lecornu and ministers and address the nation at 20:00 on Sunday [4][8]. Politicians on the left and far right called for Nuñez to resign, the Guardian reported [7]. Marine Le Pen accused Jean-Luc Mélenchon's party of legitimising the violence, Mélenchon urged demonstrators to stay away from looting, and US President Donald Trump blamed immigration on Truth Social [8]. On Saturday Macron wrote that those who attacked prefectures, shops, and town halls would be prosecuted and punished [10]."
+       "text": "Interior Minister Laurent Nuñez wrote on X at 13:00 CEST on Sunday that more than 2,000 people had been arrested and more than 600 police officers, gendarmes, and firefighters injured, calling the injury toll provisional; he blamed several thousand far-left individuals joined by looters and said the Republic would not yield [6][4]. Earlier on Sunday he had put arrests at 1,800, and the Interior Ministry put injured officers at more than 500, figures the Guardian and the BBC still carried [7][8]. He said the state was not planning to declare a state of emergency [9]. The Élysée said Macron would hold a crisis meeting with Prime Minister Lecornu and ministers and address the nation at 20:00 on Sunday [4][10]. Left and far-right politicians called for Nuñez to resign, the Guardian reported [7]. Marine Le Pen accused Mélenchon's party of legitimising the violence, Mélenchon urged demonstrators to avoid looting, and Trump blamed immigration on Truth Social [10]. On Saturday Macron wrote that those who attacked prefectures, shops, and town halls would be prosecuted and punished [11]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence on the official statements is high, because they are on record on X and reported consistently. Confidence on the arrest and injury totals is moderate, because they are provisional government figures that range from 1,800 to 2,000 arrests across reports."
+       "text": "Confidence on the official statements is high, because they are on record and reported consistently. Confidence on the arrest and injury totals is moderate, because they are provisional government figures that range from 1,800 to more than 2,000 arrests across reports; the minister's latest is more than 2,000."
       }
      ]
     },
@@ -321,7 +321,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The Interior Ministry put Saturday's turnout at about 550,000, including 110,000 in Paris, and the CGT union at 800,000 [8]. Paris police reported 855 arrests, which they called a record, and prosecutors said 517 people remained in custody, including 171 minors, in provisional figures [8]. The Retail and Trade Federation said about 1,500 shops and retailers were damaged [11]. In Limoges, masked protesters set the 143-year-old town hall on fire, and prefect Maurice Barate said it was largely lost [9], while tagesschau quoted him saying the rear of the building was saved [4]. In Marseille protesters rammed the city hall door with barriers and briefly got inside, and in Lille a McDonald's was set on fire and an Apple store looted [9][11]. Looting and serious damage were also reported in Lyon, Bordeaux, Rennes, Strasbourg, Grenoble, Nice, and other cities [4]."
+       "text": "The Interior Ministry put Saturday's turnout at about 550,000, including 110,000 in Paris, and the CGT union at 800,000 [10]. Paris police reported 855 arrests, which they called a record, and prosecutors said 517 people remained in custody, including 171 minors, in provisional figures [10]. The Retail and Trade Federation said about 1,500 shops and retailers were damaged [8]. In Limoges, masked protesters set the 143-year-old town hall on fire, and prefect Maurice Barate said it was largely lost [9], while tagesschau quoted him saying the rear of the building was saved [4]. In Marseille protesters rammed the city hall door with barriers and briefly got inside, and in Lille a McDonald's was set on fire and an Apple store looted [9][8]. Looting and serious damage were also reported in Lyon, Bordeaux, Rennes, Strasbourg, Grenoble, Nice, and other cities [4]."
       },
       {
        "kicker": "Confidence",
@@ -337,7 +337,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The BBC saw riot police charge a crowd in central Paris on Saturday and hit several people with batons, and BBC Verify said a 57-second video showed at least 11 baton blows aimed at five protesters, none of whom appeared armed [12][13]. The Paris police prefecture said officers at République were attacked by people who had come to fight [14]. DW reported that police used tear gas, batons, and water cannon in several cities and that demonstrators were also injured, and cited Le Figaro as reporting that a 17-year-old lost a hand to a grenade fired by police in Saint-Étienne [8]. The local prosecutor referred that injury to the IGPN police watchdog, and Nuñez said it may have been a gendarmerie grenade but could not confirm it [15]. Lecornu rejected Mélenchon's criticism of police command as a dangerous and cynical inversion of responsibility [16]. No official count of injured protesters, or police comment on the Paris baton charges, was found by the cutoff."
+       "text": "The BBC saw riot police charge a crowd in central Paris on Saturday and hit several people with batons, and BBC Verify said a 57-second video showed at least 11 baton blows aimed at five protesters, none of whom appeared armed [12][13]. The Paris police prefecture said officers at République were attacked by people who had come to fight [14]. DW reported that police used tear gas, batons, and water cannon in several cities and that demonstrators were also injured, and cited Le Figaro as reporting that a 17-year-old lost a hand to a grenade fired by police in Saint-Étienne [10]. The Saint-Étienne prosecutor opened an inquiry and referred it to the IGPN police watchdog, and the gendarmerie inspectorate IGGN was later co-assigned; Nuñez said 'we are told it would be a gendarmerie grenade' but he could not confirm it [15][16]. Lecornu rejected Mélenchon's criticism of police command as a dangerous and cynical inversion of responsibility [17]. No official count of injured protesters, or police comment on the Paris baton charges, was found by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -352,7 +352,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Several hundred mostly young people protested in Brussels on Saturday, and rioters clashed with police in unrest Reuters described as partly inspired by the demonstrations in France [17]. Belgian student groups said they were protesting against rising education costs and reforms they fear will make higher education less accessible [17]. Police used tear gas and water cannon, and some protesters overturned a car, a Reuters witness reported [17][15]. Interior Minister Bernard Quintin said on X that what was unfolding in Brussels was no longer mere protest and that all necessary means would be used to restore order [17]. A protest also took place in Liège [17]. Police said about ten people were arrested, police also used water cannon against small groups in Liège, and the Interior Ministry blamed organised violence [18]."
+       "text": "Several hundred mostly young people protested in Brussels on Saturday, and rioters clashed with police in unrest Reuters described as partly inspired by the demonstrations in France [18]. Belgian student groups said they were protesting against rising education costs and reforms they fear will make higher education less accessible [18]. Police used tear gas and water cannon, and some protesters overturned a car, a Reuters witness reported [18][19]. Interior Minister Bernard Quintin said on X that what was unfolding in Brussels was no longer mere protest and that all necessary means would be used to restore order [18]. A protest also took place in Liège [18]. Police said about ten people were arrested, police also used water cannon against small groups in Liège, and the Interior Ministry blamed organised violence [20]."
       },
       {
        "kicker": "Confidence",
@@ -425,7 +425,7 @@
     {
      "kind": "Media",
      "time": "18 Oct 16:15",
-     "title": "Serbia: Nova.rs journalists reject management's ultimatum to accept a new editorial team or leave, a week before the election",
+     "title": "Serbia: Nova.rs journalists reject management's ultimatum to accept a new editorial team or leave",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -496,7 +496,7 @@
     {
      "kind": "Diplomacy",
      "time": "18 Oct 14:19",
-     "title": "Armenia: Alen Simonyan says Azerbaijan's absence from COP17 in Yerevan is its own decision and there is no tension with Baku, as COP17 formally opens",
+     "title": "Armenia: Alen Simonyan says Azerbaijan's absence from COP17 in Yerevan is its own decision and there is no tension with Baku",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -527,7 +527,7 @@
     },
     {
      "kind": "Protest",
-     "time": "17 Oct 21:50",
+     "time": "17 Oct 11:53–22:58",
      "title": "Georgia: protesters rally outside Georgian Dream's office during Ivanishvili's meetings as the 44th Saturday march demands 'Georgia without Bidzina Ivanishvili'",
      "sections": [
       {
@@ -973,10 +973,10 @@
      "note": "18 Oct 16:32 CEST; Nuñez statement, resignation calls"
     },
     {
-     "name": "[8] DW (France arrests)",
-     "href": "https://www.dw.com/en/france-reports-more-than-1800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322",
+     "name": "[8] BBC News (Paris aftermath)",
+     "href": "https://www.bbc.com/news/articles/c574pdzl0k4no",
      "status": "used",
-     "note": "18 Oct 12:26 CEST"
+     "note": "18 Oct 11:56 CEST"
     },
     {
      "name": "[9] The Guardian (France protests)",
@@ -985,16 +985,16 @@
      "note": "updated 18 Oct; carried and re-read"
     },
     {
-     "name": "[10] Emmanuel Macron (X)",
+     "name": "[10] DW (France arrests)",
+     "href": "https://www.dw.com/en/france-reports-more-than-1800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322",
+     "status": "used",
+     "note": "18 Oct 12:26 CEST"
+    },
+    {
+     "name": "[11] Emmanuel Macron (X)",
      "href": "https://x.com/EmmanuelMacron/status/2111514740593746283",
      "status": "used",
      "note": "17 Oct 19:48 CEST; carried; re-checked in X pass"
-    },
-    {
-     "name": "[11] BBC News (Paris aftermath)",
-     "href": "https://www.bbc.com/news/articles/c574pdzl0k4no",
-     "status": "used",
-     "note": "18 Oct 11:56 CEST"
     },
     {
      "name": "[12] BBC News (France protests)",
@@ -1015,25 +1015,37 @@
      "note": "17 Oct; carried; link re-checked this run"
     },
     {
-     "name": "[15] France 24 live (with AFP, AP, and Reuters)",
-     "href": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
+     "name": "[15] TF1 Info (Saint-Étienne)",
+     "href": "https://www.tf1info.fr/justice-faits-divers/17-octobre-la-main-d-un-manifestant-arrachee-par-une-grenade-a-saint-etienne-une-enquete-ouverte-et-confiee-a-l-igpn-2470539.html",
      "status": "used",
-     "note": "17 Oct; carried; curl 403, last read via WebFetch on 18 Oct morning"
+     "note": "17 Oct 19:47 CEST; prosecutor's inquiry, IGPN referral; read in Karen's spot-check, 18 Oct"
     },
     {
-     "name": "[16] Sébastien Lecornu (X, reply to Mélenchon)",
+     "name": "[16] L'Humanité (Saint-Étienne)",
+     "href": "https://www.humanite.fr/societe/grenades/main-arrachee-a-saint-etienne-linspection-generale-de-la-gendarmerie-co-saisie-avec-ligpn",
+     "status": "used",
+     "note": "18 Oct 15:25 CEST; IGGN co-assigned, Nuñez quote; read in Karen's spot-check, 18 Oct"
+    },
+    {
+     "name": "[17] Sébastien Lecornu (X, reply to Mélenchon)",
      "href": "https://x.com/SebLecornu/status/2111508644613194075",
      "status": "used",
      "note": "17 Oct 19:24 CEST; re-checked in X pass"
     },
     {
-     "name": "[17] Reuters (via Internazionale)",
+     "name": "[18] Reuters (via Internazionale)",
      "href": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/17/protesters-clash-with-police-in-brussels",
      "status": "used",
      "note": "16:20 CEST; Brussels clashes, Quintin on X; carried; link re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[18] tagesschau (Brussels)",
+     "name": "[19] France 24 live (with AFP, AP, and Reuters)",
+     "href": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
+     "status": "used",
+     "note": "17 Oct; carried; curl 403, last read via WebFetch on 18 Oct morning"
+    },
+    {
+     "name": "[20] tagesschau (Brussels)",
      "href": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
      "status": "used",
      "note": "17 Oct 21:10 CEST; about ten arrests; Liège clashes; ministry speaks of organised violence; carried; link re-checked this run"
