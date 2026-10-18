@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-18T06:11:02+02:00",
+ "generatedAt": "2026-10-18T09:38:25+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Sunday, 18 October 2026, 05:14 CEST",
  "windowLabel": "17 Oct 2026 05:14 CEST → 18 Oct 2026 05:14 CEST",
@@ -354,22 +354,6 @@
    "heading": "Stability, politics, and outside influence in the Western Balkans",
    "items": [
     {
-     "kind": "Political",
-     "time": "16 Oct evening – 17 Oct 22:53",
-     "title": "Albania: on the fifth day, protesters attack police outside the Education Ministry and Rama's office; rubber bullets are reported for the first time",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "On Saturday, the fifth straight day, masked protesters, many of them students, threw rocks and petrol bombs at riot police defending the Education Ministry in Tirana, and police answered with water cannon and tear gas, the BBC reported [1]. Reuters reported stun grenades as well, and police figures of 500 protesters detained, 330 of them released, and 120 police and 45 protesters injured, noting that many protester injuries may have gone unrecorded [2]. In the afternoon the crowds moved to Prime Minister Edi Rama's office on the main boulevard and swelled well beyond earlier days, and police special forces reinforced riot police at dusk [1]. The BBC said there were reports that rubber bullets were used for the first time, and that 80 people had been charged with disorder and hundreds more arrested or under investigation [1]. Earlier, Interior Minister Ervin Demo called the unrest a disguised attempt to seize power and said two officers were suspended for excessive force [3], and Rama blamed foreign hands [4]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence on the clashes is high, because the BBC and a wire report them independently. Confidence on the rubber bullets is low, because the BBC gives them only as reports. Confidence on casualty and detention figures is moderate, because they come from police and the government."
-      }
-     ]
-    },
-    {
      "kind": "Election",
      "time": "17 Oct 15:47",
      "title": "Serbia: police say 110,000 attended Vučić's Novi Sad rally; independent monitors put it at 16,500",
@@ -377,11 +361,27 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Serbia's Interior Ministry said about 110,000 people attended the ruling Serbian Progressive Party's rally in Novi Sad on Friday evening, almost seven times the 16,500 estimated by the independent Public Assemblies Archive, N1 reported [5]. The Archive said on Saturday that its estimate was based on the area occupied and crowd density in footage from 18:23, and counted those present at one moment rather than everyone who attended over the evening [5]. It was the party's first major rally in Novi Sad since the railway-station canopy collapse of 1 November 2024, which killed 16 people and set off the protest movement, eight days before the 25 October parliamentary election [5]. No ministry explanation of its method was found by the cutoff."
+       "text": "Serbia's Interior Ministry said about 110,000 people attended the ruling Serbian Progressive Party's rally in Novi Sad on Friday evening, almost seven times the 16,500 estimated by the independent Public Assemblies Archive, N1 reported [1]. The Archive said on Saturday that its estimate was based on the area occupied and crowd density in footage from 18:23, and counted those present at one moment rather than everyone who attended over the evening [1]. It was the party's first major rally in Novi Sad since the railway-station canopy collapse of 1 November 2024, which killed 16 people and set off the protest movement, eight days before the 25 October parliamentary election [1]. No ministry explanation of its method was found by the cutoff."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence that the two estimates were published is moderate, because both are reported by one outlet, single-source, unconfirmed. Confidence on the true size is low, because the methods differ and neither can be checked."
+      }
+     ]
+    },
+    {
+     "kind": "Political",
+     "time": "16 Oct evening – 17 Oct 22:53",
+     "title": "Albania: on the fifth day, protesters attack police outside the Education Ministry and Rama's office; rubber bullets are reported for the first time",
+     "flag": "FOLLOW UP TO PREVIOUS REPORT",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "On Saturday, the fifth straight day, masked protesters, many of them students, threw rocks and petrol bombs at riot police defending the Education Ministry in Tirana, and police answered with water cannon and tear gas, the BBC reported [2]. Reuters reported stun grenades as well, and police figures of 500 protesters detained, 330 of them released, and 120 police and 45 protesters injured, noting that many protester injuries may have gone unrecorded [3]. In the afternoon the crowds moved to Prime Minister Edi Rama's office on the main boulevard and swelled well beyond earlier days, and police special forces reinforced riot police at dusk [2]. The BBC said there were reports that rubber bullets were used for the first time, and that 80 people had been charged with disorder and hundreds more arrested or under investigation [2]. Earlier, Interior Minister Ervin Demo called the unrest a disguised attempt to seize power and said two officers were suspended for excessive force [4], and Rama blamed foreign hands [5]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence on the clashes is high, because the BBC and a wire report them independently. Confidence on the rubber bullets is low, because the BBC gives them only as reports. Confidence on casualty and detention figures is moderate, because they come from police and the government."
       }
      ]
     }
@@ -409,13 +409,29 @@
      ]
     },
     {
+     "kind": "Protest",
+     "time": "17 Oct",
+     "title": "Georgia: protesters rally outside Georgian Dream's office during Ivanishvili's meetings as the 44th Saturday march demands 'Georgia without Bidzina Ivanishvili'",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Citizens protested outside Georgian Dream's central office in Tbilisi as the party's political council and parliamentary majority gathered there, with banners calling support for the party treason and reading '14 bloody years', Interpressnews reported [2]. The same day, on the 689th day of continuous pro-European protests, the 44th Saturday march ran from Avlabari Square to Rustaveli Avenue under the slogans 'No to Torture' and 'Georgia without Bidzina Ivanishvili', and former President Salome Zourabichvili took part, Caucasian Knot reported, citing Publika and JamNews [3]. Marchers carried Georgian, EU, and Ukrainian flags and portraits of jailed protesters and demanded their release [3]. No police statement or crowd estimate was found by the cutoff."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence that the rally and the march took place is moderate, because two outlets report them, one of them relaying local media, and no independent crowd count was found."
+      }
+     ]
+    },
+    {
      "kind": "Politics",
      "time": "17 Oct 15:01",
      "title": "Georgia: Ivanishvili makes a rare public appearance to chair Georgian Dream meetings as the party faces prosecutions of former officials and a party-ban case",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Bidzina Ivanishvili, the US-sanctioned founder and honorary chair of Georgian Dream, chaired meetings of the party's political council and parliamentary majority on 17 October, and Prime Minister Irakli Kobakhidze said afterwards that they focused on domestic and foreign policy issues without giving details [2]. Civil.ge set the appearance against resignations, prosecutions, and arrests involving former senior officials, including former Prime Minister Irakli Garibashvili, and the Constitutional Court's upcoming consideration of a lawsuit to ban several opposition parties [2]."
+       "text": "Bidzina Ivanishvili, the US-sanctioned founder and honorary chair of Georgian Dream, chaired meetings of the party's political council and parliamentary majority on 17 October, and Prime Minister Irakli Kobakhidze said afterwards that they focused on domestic and foreign policy issues without giving details [4]. Civil.ge set the appearance against resignations, prosecutions, and arrests involving former senior officials, including former Prime Minister Irakli Garibashvili, and the Constitutional Court's upcoming consideration of a lawsuit to ban several opposition parties [4]."
       },
       {
        "kicker": "Confidence",
@@ -431,7 +447,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Prime Minister Irakli Kobakhidze told a briefing that steps must be taken on both sides and that Tbilisi's proposal is to begin a dialogue with the European Union at the political level, open and public, including for Georgian society, according to TASS as carried by 1news.az [3]. He called it an ideal proposal and said European structures should readily accept it [3]. No EU response was found by the cutoff."
+       "text": "Prime Minister Irakli Kobakhidze told a briefing that steps must be taken on both sides and that Tbilisi's proposal is to begin a dialogue with the European Union at the political level, open and public, including for Georgian society, according to TASS as carried by 1news.az [5]. He called it an ideal proposal and said European structures should readily accept it [5]. No EU response was found by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -446,27 +462,11 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Registry documents filed on 16 October show that Georgian Media Production Group, owner of the British-sanctioned pro-government channel Imedi, is now held in equal 25 percent shares by four people: general director Mariam Lomidze, presenter Irakli Chikhladze, programming head Maia Chigoshvili, and new shareholder Magda Anikashvili, a host and supervisory-board member [4]. Prime Media Global, owned by businessman Ilia Mikelaishvili, which held 50 percent, and two other executives no longer hold shares [4]."
+       "text": "Registry documents filed on 16 October show that Georgian Media Production Group, owner of the British-sanctioned pro-government channel Imedi, is now held in equal 25 percent shares by four people: general director Mariam Lomidze, presenter Irakli Chikhladze, programming head Maia Chigoshvili, and new shareholder Magda Anikashvili, a host and supervisory-board member [6]. Prime Media Global, owned by businessman Ilia Mikelaishvili, which held 50 percent, and two other executives no longer hold shares [6]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is moderate, because the account rests on one outlet's reading of public registry documents."
-      }
-     ]
-    },
-    {
-     "kind": "Protest",
-     "time": "17 Oct",
-     "title": "Georgia: protesters rally outside Georgian Dream's office during Ivanishvili's meetings as the 44th Saturday march demands 'Georgia without Bidzina Ivanishvili'",
-     "flag": "NEW THIS UPDATE",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Citizens protested outside Georgian Dream's central office in Tbilisi as the party's political council and parliamentary majority gathered there, with banners calling support for the party treason and reading '14 bloody years', Interpressnews reported [5]. The same day, on the 689th day of continuous pro-European protests, the 44th Saturday march ran from Avlabari Square to Rustaveli Avenue under the slogans 'No to Torture' and 'Georgia without Bidzina Ivanishvili', and former President Salome Zourabichvili took part, Caucasian Knot reported, citing Publika and JamNews [6]. Marchers carried Georgian, EU, and Ukrainian flags and portraits of jailed protesters and demanded their release [6]. No police statement or crowd estimate was found by the cutoff."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence that the rally and the march took place is moderate, because two outlets report them, one of them relaying local media, and no independent crowd count was found."
       }
      ]
     },
@@ -493,22 +493,6 @@
    "heading": "Politics, the Bundeswehr, the economy, and developments in Baden-Württemberg",
    "items": [
     {
-     "kind": "Politics",
-     "time": "17 Oct 14:54–20:45",
-     "title": "Berlin: Left, Greens, and SPD conclude exploratory talks and, according to dpa and AFP, agree to open coalition negotiations",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "tagesschau reported that the Left, Greens, and SPD concluded exploratory talks four weeks after the Berlin election and would give a joint statement at 17:00; dpa and AFP, citing party sources, reported agreement to open coalition negotiations [1]. The Greens have called a small party congress for Monday and the Left a congress on 31 October, so negotiations could begin in early November [1]. Chancellor Merz told the Junge Union the same day that anyone who wants to strengthen the political centre must not hold talks with left radicals [2]. Berlin CDU leader Stefan Evers called the exploratory paper a capitulation by the SPD and Greens to a radical, partly antisemitic Left, citing the plan to socialise large housing stocks [3]. Baden-Württemberg's Green Minister-President Cem Özdemir told his party's state congress that the Greens cannot form a coalition with the Berlin Left, which he said had let the spirit of antisemitism out of the bottle, while warning against equating the Left with the AfD [4]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate, because the agreement rests on party sources relayed by two agencies ahead of the parties' own statement."
-      }
-     ]
-    },
-    {
      "kind": "Land",
      "time": "17 Oct 19:56",
      "title": "Baden-Württemberg: the governing Greens elect Clara Wellhäußer and Jan-Lukas Schmitt as new state chairs at their Offenburg congress",
@@ -516,11 +500,27 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Delegates at the Baden-Württemberg Greens' congress in Offenburg elected Clara Wellhäußer, with almost 93 percent, and Jan-Lukas Schmitt, with 81 percent, as the new state co-chairs of Minister-President Cem Özdemir's party; there were no rival candidates, Stuttgarter Zeitung reported [5]. Wellhäußer, 27, a Freiburg city councillor, is counted on the party's left wing; Schmitt, 31, a former business journalist, belongs to the realist wing and is seen as a close confidant of Özdemir [5]. They succeed Lena Schwelling and Pascal Haggenmüller, who had led the party since 2021 and did not stand again [5]."
+       "text": "Delegates at the Baden-Württemberg Greens' congress in Offenburg elected Clara Wellhäußer, with almost 93 percent, and Jan-Lukas Schmitt, with 81 percent, as the new state co-chairs of Minister-President Cem Özdemir's party; there were no rival candidates, Stuttgarter Zeitung reported [1]. Wellhäußer, 27, a Freiburg city councillor, is counted on the party's left wing; Schmitt, 31, a former business journalist, belongs to the realist wing and is seen as a close confidant of Özdemir [1]. They succeed Lena Schwelling and Pascal Haggenmüller, who had led the party since 2021 and did not stand again [1]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is moderate, because the result is reported by one regional outlet, single-source, unconfirmed, though it concerns an on-record party vote."
+      }
+     ]
+    },
+    {
+     "kind": "Politics",
+     "time": "17 Oct 14:54–20:45",
+     "title": "Berlin: Left, Greens, and SPD conclude exploratory talks and, according to dpa and AFP, agree to open coalition negotiations",
+     "flag": "FOLLOW UP TO PREVIOUS REPORT",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "tagesschau reported that the Left, Greens, and SPD concluded exploratory talks four weeks after the Berlin election and would give a joint statement at 17:00; dpa and AFP, citing party sources, reported agreement to open coalition negotiations [2]. The Greens have called a small party congress for Monday and the Left a congress on 31 October, so negotiations could begin in early November [2]. Chancellor Merz told the Junge Union the same day that anyone who wants to strengthen the political centre must not hold talks with left radicals [3]. Berlin CDU leader Stefan Evers called the exploratory paper a capitulation by the SPD and Greens to a radical, partly antisemitic Left, citing the plan to socialise large housing stocks [4]. Baden-Württemberg's Green Minister-President Cem Özdemir told his party's state congress that the Greens cannot form a coalition with the Berlin Left, which he said had let the spirit of antisemitism out of the bottle, while warning against equating the Left with the AfD [5]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is moderate, because the agreement rests on party sources relayed by two agencies ahead of the parties' own statement."
       }
      ]
     },
@@ -531,7 +531,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Johannes Winkel was re-elected chairman of the Junge Union at its Deutschlandtag in Bonn with 265 votes, his best result [6], and before the congress said a collapse of the planned pension reform would be a failure the federal government could hardly recover from [7]. Addressing about 300 delegates on Saturday, Chancellor Friedrich Merz said he wants the coalition to succeed but does not put its survival above every policy outcome it must deliver: 'There are limits for me too' [2]. He said the pension package should reach cabinet this year with a first reading before the turn of the year, that penalty-free retirement after 45 years should go, and that the pension commission's proposals should come unchanged; one delegate called on him to resign [8]. Merz said the CDU would stand no chance at the next election unless it showed sustained growth and reformed social systems [9][10], said anyone in the party who backs electing AfD members to state office has no place in the CDU, and warned SPD and Greens against talks with the Left in Berlin [2]."
+       "text": "Johannes Winkel was re-elected chairman of the Junge Union at its Deutschlandtag in Bonn with 265 votes, his best result [6], and before the congress said a collapse of the planned pension reform would be a failure the federal government could hardly recover from [7]. Addressing about 300 delegates on Saturday, Chancellor Friedrich Merz said he wants the coalition to succeed but does not put its survival above every policy outcome it must deliver: 'There are limits for me too' [3]. He said the pension package should reach cabinet this year with a first reading before the turn of the year, that penalty-free retirement after 45 years should go, and that the pension commission's proposals should come unchanged; one delegate called on him to resign [8]. Merz said the CDU would stand no chance at the next election unless it showed sustained growth and reformed social systems [9][10], said anyone in the party who backs electing AfD members to state office has no place in the CDU, and warned SPD and Greens against talks with the Left in Berlin [3]."
       },
       {
        "kicker": "Confidence",
@@ -1105,34 +1105,34 @@
    "theater": "Balkans",
    "sources": [
     {
-     "name": "[1] BBC News (Tirana)",
+     "name": "[1] N1 (Public Assemblies Archive estimate)",
+     "href": "https://n1info.rs/english/news/serbian-police-claim-110000-attended-vucic-rally-independent-monitors-estimate-just-16500/",
+     "status": "used",
+     "note": "17 Oct 15:47 CEST; police 110,000 versus 16,500"
+    },
+    {
+     "name": "[2] BBC News (Tirana)",
      "href": "https://www.bbc.com/news/articles/crwydey50xeno",
      "status": "used",
      "note": "17 Oct 22:53 CEST; fifth day; rubber bullets reported; 80 charged"
     },
     {
-     "name": "[2] Reuters (via Internazionale)",
+     "name": "[3] Reuters (via Internazionale)",
      "href": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/17/albanian-anti-government-protesters-clash-with-police-in-tirana",
      "status": "used",
      "note": "14:04 CEST; fifth day, Education Ministry, stun grenades, 500 detained, 120 police and 45 protesters injured; carried; re-read this run; carried; link re-checked this run"
     },
     {
-     "name": "[3] AFP via Free Malaysia Today: Clashes grip Tirana as Albanian PM blames 'foreign hands'",
+     "name": "[4] AFP via Free Malaysia Today: Clashes grip Tirana as Albanian PM blames 'foreign hands'",
      "href": "https://www.freemalaysiatoday.com/category/world/2026/10/17/clashes-grip-tirana-as-albanian-pm-blames-foreign-hands",
      "status": "used",
      "note": "AFP copy, published 17 Oct 01:15 UTC (03:15 CEST); interior minister Demo figures; re-checked this run; carried; link re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[4] Al Jazeera: Albanian PM blames 'foreign hands' for unrest",
+     "name": "[5] Al Jazeera: Albanian PM blames 'foreign hands' for unrest",
      "href": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify",
      "status": "used",
      "note": "Published 16 Oct 23:27 UTC (17 Oct 01:27 CEST); Rama video quote; re-checked this run; carried; link re-checked this run; carried; link re-checked this run"
-    },
-    {
-     "name": "[5] N1 (Public Assemblies Archive estimate)",
-     "href": "https://n1info.rs/english/news/serbian-police-claim-110000-attended-vucic-rally-independent-monitors-estimate-just-16500/",
-     "status": "used",
-     "note": "17 Oct 15:47 CEST; police 110,000 versus 16,500"
     },
     {
      "name": "N1 English",
@@ -1194,34 +1194,34 @@
      "note": "17 Oct 21:00 CEST; Matanat Turan moved from house arrest to detention"
     },
     {
-     "name": "[2] Civil.ge",
-     "href": "https://civil.ge/archives/755066",
-     "status": "used",
-     "note": "15:01 CEST 17 Oct; Ivanishvili chairs GD political council and majority meetings; carried; link re-checked this run; carried; link re-checked this run"
-    },
-    {
-     "name": "[3] 1news.az (TASS)",
-     "href": "https://1news.az/en/news/20261017163507331-Georgia-proposes-that-the-EU-begin-a-dialogue-to-normalize-relations",
-     "status": "used",
-     "note": "14:35 CEST; Kobakhidze briefing on EU dialogue; carried; link re-checked this run"
-    },
-    {
-     "name": "[4] Civil.ge",
-     "href": "https://civil.ge/archives/755050",
-     "status": "used",
-     "note": "13:17 CEST 17 Oct; registry filing 16 Oct, four equal 25% shareholders; carried; link re-checked this run; carried; link re-checked this run"
-    },
-    {
-     "name": "[5] Interpressnews",
+     "name": "[2] Interpressnews",
      "href": "https://www.interpressnews.ge/en/article/150253-citizens-holding-protest-rally-near-georgian-dream-central-office-where-political-council-and-parliamentary-majority-meetings-are-set-to-take-place/",
      "status": "used",
      "note": "17 Oct; rally outside the Georgian Dream office before the meetings"
     },
     {
-     "name": "[6] Caucasian Knot (English)",
+     "name": "[3] Caucasian Knot (English)",
      "href": "https://www.eng.kavkaz-uzel.eu/articles/79477",
      "status": "used",
      "note": "17 Oct 22:58 CEST; 44th Saturday march, day 689, citing Publika and JamNews"
+    },
+    {
+     "name": "[4] Civil.ge",
+     "href": "https://civil.ge/archives/755066",
+     "status": "used",
+     "note": "15:01 CEST 17 Oct; Ivanishvili chairs GD political council and majority meetings; carried; link re-checked this run; carried; link re-checked this run"
+    },
+    {
+     "name": "[5] 1news.az (TASS)",
+     "href": "https://1news.az/en/news/20261017163507331-Georgia-proposes-that-the-EU-begin-a-dialogue-to-normalize-relations",
+     "status": "used",
+     "note": "14:35 CEST; Kobakhidze briefing on EU dialogue; carried; link re-checked this run"
+    },
+    {
+     "name": "[6] Civil.ge",
+     "href": "https://civil.ge/archives/755050",
+     "status": "used",
+     "note": "13:17 CEST 17 Oct; registry filing 16 Oct, four equal 25% shareholders; carried; link re-checked this run; carried; link re-checked this run"
     },
     {
      "name": "[7] Civil.ge",
@@ -1283,34 +1283,34 @@
    "theater": "Germany",
    "sources": [
     {
-     "name": "[1] tagesschau (rbb)",
+     "name": "[1] Stuttgarter Zeitung (Greens BW congress)",
+     "href": "https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/parteitag-in-offenburg-gruene-in-baden-wuerttemberg-haben-neues-fuehrungsduo-79581905.html",
+     "status": "used",
+     "note": "17 Oct 19:56 CEST; new state chairs elected"
+    },
+    {
+     "name": "[2] tagesschau (rbb)",
      "href": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html",
      "status": "used",
      "note": "14:54 CEST; exploratory talks concluded, agreement per dpa and AFP, statement due 17:00; carried; link re-checked this run; carried; link re-checked this run"
     },
     {
-     "name": "[2] tagesschau",
+     "name": "[3] tagesschau",
      "href": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
      "status": "used",
      "note": "13:57 CEST; \"Es gibt auch für mich Grenzen\"; AfD and Left warnings; carried; re-read this run; carried; link re-checked this run"
     },
     {
-     "name": "[3] Stuttgarter Zeitung (Evers)",
+     "name": "[4] Stuttgarter Zeitung (Evers)",
      "href": "https://www.stuttgarter-zeitung.de/politik/regierungsbildung-in-berlin-cdu-chef-evers-nennt-sondierungspapier-kapitulationserklaerung-79581958.html",
      "status": "used",
      "note": "17 Oct 20:45 CEST; CDU Berlin leader on the exploratory paper"
     },
     {
-     "name": "[4] Stuttgarter Zeitung (Özdemir at Offenburg)",
+     "name": "[5] Stuttgarter Zeitung (Özdemir at Offenburg)",
      "href": "https://www.stuttgarter-zeitung.de/politik/parteitag-in-offenburg-oezdemir-zu-berliner-linken-mit-so-jemandem-nicht-koalieren-79581548.html",
      "status": "used",
      "note": "17 Oct 16:21 CEST; Özdemir rejects coalition with Berlin Left"
-    },
-    {
-     "name": "[5] Stuttgarter Zeitung (Greens BW congress)",
-     "href": "https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/parteitag-in-offenburg-gruene-in-baden-wuerttemberg-haben-neues-fuehrungsduo-79581905.html",
-     "status": "used",
-     "note": "17 Oct 19:56 CEST; new state chairs elected"
     },
     {
      "name": "[6] tagesschau",
