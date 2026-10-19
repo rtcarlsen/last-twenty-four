@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-19T17:47:25+02:00",
+ "generatedAt": "2026-10-19T19:41:43+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Monday, 19 October 2026, 17:00 CEST",
  "windowLabel": "18 Oct 2026 17:00 CEST → 19 Oct 2026 17:00 CEST",
@@ -16,7 +16,7 @@
     {
      "kind": "Military",
      "time": "18 Oct–19 Oct 16:12",
-     "title": "Zelensky says the US is delaying Patriot interceptors that allies have already paid for; Ukrainian officials say Hegseth has not signed the contracts",
+     "title": "Zelensky Says US Is Delaying Patriot Interceptor Allies Already Paid For",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -32,7 +32,7 @@
     {
      "kind": "Diplomacy",
      "time": "19 Oct 09:47–15:35",
-     "title": "Zelensky says partners again gave no early warning of Russia's ballistic missiles; Rubio says there has been 'no pause' in US intelligence sharing",
+     "title": "Zelensky Says Partners Gave No Early Warning; Rubio Denies Intel Pause",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -48,7 +48,7 @@
     {
      "kind": "Strike",
      "time": "18 Oct 22:00–19 Oct 15:01",
-     "title": "Russia fires 16 ballistic missiles and 269 drones overnight at Ukraine's grid; 550,000 families lose power and at least four people are killed in a day",
+     "title": "Russia Fires 16 Ballistic Missiles and 269 Drones at Ukraine's Grid Overnight",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -64,7 +64,7 @@
     {
      "kind": "Diplomacy",
      "time": "19 Oct 06:19–12:29",
-     "title": "WSJ reports Putin proposed a November summit with Trump and Xi on Ukraine without Zelensky; Rubio confirms talk of a meeting and Kyiv objects",
+     "title": "WSJ: Putin Proposed a Trump–Xi Ukraine Summit Without Zelensky",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -80,7 +80,7 @@
     {
      "kind": "Strike",
      "time": "18 Oct 22:00–19 Oct 16:06",
-     "title": "Russian missiles hit Kyiv in three waves overnight, killing a 21-year-old woman, injuring eight, and damaging a metro station and a high-rise block",
+     "title": "Russian Missiles Hit Kyiv Overnight, Killing One and Injuring Eight",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
@@ -96,7 +96,7 @@
     {
      "kind": "Politics",
      "time": "18 Oct 23:09–19 Oct 02:26",
-     "title": "Trump says Zelensky 'doesn't want to end this war' as he defends the Russia sanctions waiver; Bessent tells Zelensky to 'be very careful' over Starlink claims",
+     "title": "Trump Says Zelensky 'Doesn't Want to End This War' as He Defends Sanctions Waiver",
      "sections": [
       {
        "kicker": "Reporting",
@@ -111,7 +111,7 @@
     {
      "kind": "Front",
      "time": "18 Oct 17:32–19 Oct 00:34",
-     "title": "Zelensky says Ukraine has retaken more ground than Russia captured since the start of autumn and denies that Dobropillia has fallen",
+     "title": "Zelensky Says Ukraine Gained More Ground Than Russia This Autumn",
      "sections": [
       {
        "kicker": "Reporting",
@@ -126,7 +126,7 @@
     {
      "kind": "Politics",
      "time": "18 Oct 20:13",
-     "title": "Zelensky says he would run if elections were held during the war and asks for a 60-day ceasefire to prepare them",
+     "title": "Zelensky Says He Would Run in Wartime Elections; Needs 60-Day Ceasefire",
      "flag": "single-source, unconfirmed",
      "sections": [
       {
@@ -142,7 +142,7 @@
     {
      "kind": "Diplomacy",
      "time": "18 Oct 17:18",
-     "title": "Zelensky speaks to Trump envoys Witkoff and Kushner about the Miami talks and air defence, saying 'a great deal depends on America's position'",
+     "title": "Zelensky Speaks to Witkoff and Kushner About Miami Talks and Air Defence",
      "flag": "single-source, unconfirmed",
      "sections": [
       {
@@ -165,7 +165,7 @@
     {
      "kind": "Sabotage",
      "time": "19 Oct 15:55–16:14",
-     "title": "Bulgaria: a Sofia court authorises European arrest warrants for two German nationals charged with burning Starlink antennas at a teleport near Sofia",
+     "title": "Bulgaria: Sofia Court Issues European Warrants over Starlink Antenna Arson",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -181,7 +181,7 @@
     {
      "kind": "Airspace",
      "time": "18 Oct–19 Oct 11:16",
-     "title": "NATO's North Atlantic Council will meet on Tuesday on Black Sea security at Romania's request after Romanian F-16s down two Geran drones",
+     "title": "NATO to Meet Tuesday on Black Sea Security after Romania Downs Two Drones",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -197,7 +197,7 @@
     {
      "kind": "Airspace",
      "time": "18 Oct 02:00–19 Oct 16:20",
-     "title": "Poland's second search south of Lublin for an object that may have crossed its airspace ends with nothing found",
+     "title": "Poland's Second Lublin Airspace Search Ends with Nothing Found",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
@@ -213,7 +213,7 @@
     {
      "kind": "Aviation",
      "time": "18 Oct 20:10–19 Oct 02:48",
-     "title": "An Austrian Airlines flight from Tel Aviv to Vienna makes an emergency landing in Sofia after a bomb threat, escorted by a Bulgarian fighter",
+     "title": "Tel Aviv–Vienna Flight Diverts to Sofia after Bomb Threat",
      "sections": [
       {
        "kicker": "Reporting",
@@ -228,7 +228,7 @@
     {
      "kind": "Sabotage",
      "time": "18 Oct 02:00–19:59",
-     "title": "Lithuania foils an arson attempt on a company storing Starlink equipment; officials call it Russian sabotage aimed at Ukraine",
+     "title": "Lithuania Foils Starlink Arson Attempt; Officials Call It Russian Sabotage",
      "sections": [
       {
        "kicker": "Reporting",
@@ -250,7 +250,7 @@
     {
      "kind": "Economy",
      "time": "19 Oct 09:32–16:13",
-     "title": "France: officials count more than 2,300 people held over the weekend and 2,000 businesses hit, as riot damage runs to hundreds of millions of euros and bond yields rise",
+     "title": "France: More Than 2,300 Arrested and 2,000 Businesses Hit During Weekend Riots",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -266,7 +266,7 @@
     {
      "kind": "Migration",
      "time": "18 Oct night–19 Oct 13:06",
-     "title": "Greece: 12 migrants die in the Aegean overnight, six after a speedboat hits a police patrol vessel off Lesbos",
+     "title": "Greece: 12 Migrants Die in Aegean after Boat Clash",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -282,7 +282,7 @@
     {
      "kind": "Security",
      "time": "18 Oct 20:00–19 Oct 16:35",
-     "title": "France: Macron refuses Nuñez's resignation after his address, the interior minister admits police 'lost control', and Lecornu asks prefects to impose local curfews",
+     "title": "Macron Refuses Nuñez's Resignation after Minister Admits Police 'Lost Control'",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
@@ -298,7 +298,7 @@
     {
      "kind": "Protest",
      "time": "18 Oct 20:02–19 Oct 15:43",
-     "title": "France: looting in central Paris runs for a second night after Macron's address, with 350 more arrests in the capital",
+     "title": "Looting Runs a Second Night in Paris after Macron's Address",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
@@ -314,7 +314,7 @@
     {
      "kind": "Unrest",
      "time": "17 Oct–18 Oct 21:45",
-     "title": "Italy and Portugal: Meloni backs police after a second day of Milan cost-of-living clashes, and a tent camp goes up in Lisbon",
+     "title": "Meloni Backs Police after Second Day of Milan Cost-of-Living Clashes",
      "sections": [
       {
        "kicker": "Reporting",
@@ -329,7 +329,7 @@
     {
      "kind": "Unrest",
      "time": "17 Oct 09:30–18 Oct 21:14",
-     "title": "France: police use batons, tear gas, and water cannon in several cities; a teenager lost a hand in Saint-Étienne and a girl lost an eye in Mulhouse",
+     "title": "French Protestors Injured Amid Baton and Tear-Gas Clashes",
      "sections": [
       {
        "kicker": "Reporting",
@@ -351,7 +351,7 @@
     {
      "kind": "Airspace",
      "time": "18 Oct night–19 Oct 15:20",
-     "title": "Lithuania: the defence minister says Sunday's exploding drone was a Ukrainian FPV-1 knocked off course in an attack on St Petersburg; Poland denies a report that it was launched inside Lithuania",
+     "title": "Lithuania Says Exploding Drone Was a Ukrainian FPV Knocked Off Course",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -367,7 +367,7 @@
     {
      "kind": "Border",
      "time": "19 Oct 14:31",
-     "title": "Latvia: Polish border guards help watch the Latvian–Belarusian border from 19 October to 1 November",
+     "title": "Polish Border Guards Help Watch Latvian-Belarusian Border",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -383,7 +383,7 @@
     {
      "kind": "Security",
      "time": "18 Oct–19 Oct",
-     "title": "Latvia: the State Security Service starts revoking the citizenship of Oleg Levushkin, a suspect in the Leipzig airport drone sabotage",
+     "title": "Latvia Revoking Citizenship of Leipzig Drone Sabotage Suspect",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -399,7 +399,7 @@
     {
      "kind": "Influence",
      "time": "18 Oct–19 Oct",
-     "title": "Estonia: Russian outlets claim Estonia and British special forces help steer Ukrainian drones at St Petersburg and call for retaliation",
+     "title": "Russian Outlets Claim Estonia and UK Help Steer Drones at St Petersburg",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -415,7 +415,7 @@
     {
      "kind": "Exercise",
      "time": "19 Oct 08:50",
-     "title": "Lithuania: NATO and Lithuanian troops begin counter-hybrid exercises around Klaipėda port and in the Baltic Sea, running to 30 October",
+     "title": "NATO and Lithuania Troops Begin Counter-Hybrid Exercises",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -438,7 +438,7 @@
     {
      "kind": "Media",
      "time": "19 Oct 16:46",
-     "title": "Serbia: staff of Nova.rs, N1, TV Nova, Danas, Radar, and Forbes Serbia call a joint protest for Tuesday over the Nova.rs ultimatum",
+     "title": "Serbian News Outlets Call a Joint Protest over Nova.rs Ultimatum",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -454,7 +454,7 @@
     {
      "kind": "Media",
      "time": "19 Oct 16:03",
-     "title": "Bosnia: public broadcaster BHRT condemns SNSD leader Milorad Dodik's verbal attack on its reporter after a question on coal prices",
+     "title": "BHRT Condemns Dodik's Verbal Attack over Reporter's Question",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -470,7 +470,7 @@
     {
      "kind": "Diplomacy",
      "time": "19 Oct 15:47",
-     "title": "Bosnia: Foreign Minister Konaković says Serbian embassy staff will be sent home if Belgrade runs voting in Bosnia without consent",
+     "title": "Konaković Threatens to Send Serbian Embassy Staff Home",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -486,7 +486,7 @@
     {
      "kind": "Court",
      "time": "19 Oct 14:41",
-     "title": "Serbia: a Novi Sad court leaves ex-minister Goran Vesić at liberty in the railway canopy case while extending house arrest for four co-defendants",
+     "title": "Court Leaves Vesić Free During Novi Sad Railway Canopy Case",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -502,7 +502,7 @@
     {
      "kind": "Media",
      "time": "17 Oct–19 Oct 14:23",
-     "title": "Serbia: police search for Slavija Info editor Ljubomir Stefanović over an X post saying Vučić 'will shoot at citizens on election day'",
+     "title": "Serbian Police Search for Editor over Vučić Election-Day Shooting Post",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -518,7 +518,7 @@
     {
      "kind": "Surveillance",
      "time": "19 Oct 14:04",
-     "title": "Serbia: Citizen Lab and SHARE confirm Pegasus spyware on the phone of Belgrade University Rector Vladan Đokić",
+     "title": "Citizen Lab Confirms Pegasus Spyware on Belgrade University Rector's Phone",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -534,7 +534,7 @@
     {
      "kind": "Election",
      "time": "19 Oct 11:06–13:51",
-     "title": "Serbia: Vučić accuses opponents of planning election fraud, and Belgrade prosecutors set round-the-clock duty shifts from 25 October to 5 November",
+     "title": "Vučić Accuses Opponents of Planning Election Fraud",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -550,7 +550,7 @@
     {
      "kind": "Election",
      "time": "19 Oct 08:01–13:08",
-     "title": "Serbia: an opposition member of the voter register commission says at least 2 percent of voters are irregularly registered as the audit misses the election",
+     "title": "Opposition Says at Least 2 Percent of Serbian Voters Are Irregularly Registered",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -566,7 +566,7 @@
     {
      "kind": "Unrest",
      "time": "17 Oct 12:00–19 Oct 13:25",
-     "title": "Albania: a police station and the Infrastructure Ministry burn on the sixth night; Rama says 'a red line has been crossed', offers police a bonus, and offers dialogue",
+     "title": "Albanian Police Station and Ministry Burn on Sixth Night; Rama Offers Dialogue",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
@@ -589,7 +589,7 @@
     {
      "kind": "Security",
      "time": "19 Oct 12:30–16:20",
-     "title": "Azerbaijan: prosecutors put seven people living in Türkiye on the international wanted list over hijab-row posts as Amnesty urges Baku to reverse the restrictions",
+     "title": "Azerbaijan Puts Seven in Türkiye on Wanted List over Hijab-Row Posts",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -605,7 +605,7 @@
     {
      "kind": "Diplomacy",
      "time": "19 Oct 16:01",
-     "title": "Armenia–Azerbaijan: OIC foreign ministers welcome the initialled peace treaty and call on Armenia to remove remaining obstacles to signing",
+     "title": "OIC Ministers Welcome Armenia–Azerbaijan Peace Treaty Draft, Urge Armenia to Sign",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -621,7 +621,7 @@
     {
      "kind": "Media",
      "time": "19 Oct 10:47–14:23",
-     "title": "Georgia: Formula TV anchor Vakho Sanaia gets 30 days' detention over posts insulting Georgian Dream figures; the EU calls it part of a crackdown",
+     "title": "Georgian TV Anchor Gets 30 Days' Detention over Posts",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -637,7 +637,7 @@
     {
      "kind": "Court",
      "time": "19 Oct 11:34",
-     "title": "Georgia: the bribery case against former Prime Minister Irakli Garibashvili goes to trial, in open session despite the prosecutors' request",
+     "title": "Georgia: Garibashvili Bribery Case Goes to Open Trial",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -653,7 +653,7 @@
     {
      "kind": "Diplomacy",
      "time": "19 Oct 11:20",
-     "title": "Armenia: Environment Minister Hambardzum Matevosyan is elected COP17 president for two years as the UN biodiversity conference opens in Yerevan",
+     "title": "Armenia's Environment Minister Elected COP17 President as Talks Open in Yerevan",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -669,7 +669,7 @@
     {
      "kind": "Politics",
      "time": "19 Oct 09:56–10:17",
-     "title": "Armenia: Pashinyan fires State Protocol Service chief Gagik Vanoyan two days after calling Kyrgyzstan's president the president of Kazakhstan",
+     "title": "Pashinyan Fires Protocol Chief after Mixing Up Kyrgyz and Kazakh Presidents",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -685,7 +685,7 @@
     {
      "kind": "Politics",
      "time": "18 Oct 18:14",
-     "title": "Georgia: former Georgian Dream MP Nana Keinishvili quits the National Bank board a week after prosecutors open a probe into her business dealings",
+     "title": "Former Georgian Dream MP Quits National Bank Board after Probe",
      "sections": [
       {
        "kicker": "Reporting",
@@ -707,7 +707,7 @@
     {
      "kind": "Economy",
      "time": "19 Oct 12:41",
-     "title": "Economy Ministry adopts a ten-point hydrogen package with at least €1.5 billion for industrial first movers and support to convert 4 GW of power plants",
+     "title": "Economy Ministry Adopts €1.5 Billion Hydrogen Package for First-Movers",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -723,7 +723,7 @@
     {
      "kind": "Economy",
      "time": "19 Oct 12:11–12:29",
-     "title": "Volkswagen: works council and IG Metall say the board has ordered pay freezes for about 660,000 staff worldwide until 2030",
+     "title": "Volkswagen Orders 3-Year Pay Freeze for 660,000 Staff Worldwide",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -739,7 +739,7 @@
     {
      "kind": "Security",
      "time": "19 Oct 11:52–15:28",
-     "title": "Leipzig/Halle airport: two Syrian men turn themselves in, and police treat Saturday's broken perimeter fence as a driving accident, not an attack",
+     "title": "Leipzig Police Treat Broken Fence as an Accident, Not an Attack",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
@@ -755,7 +755,7 @@
     {
      "kind": "Politics",
      "time": "17 Oct 14:54–19 Oct 09:59",
-     "title": "Berlin: SPD and Greens decide on coalition talks with the Left as Miersch voices 'considerable doubts' and 20 SPD MPs object",
+     "title": "Berlin: SPD and Greens Open Coalition Talks with the Left",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
@@ -771,7 +771,7 @@
     {
      "kind": "Advisory",
      "time": "18 Oct 21:52",
-     "title": "Foreign Office tells Germans in France to avoid demonstrations after the riots and warns of fines for staying at unauthorised protests",
+     "title": "Foreign Office Tells Germans in France to Avoid Demonstrations",
      "sections": [
       {
        "kicker": "Reporting",
