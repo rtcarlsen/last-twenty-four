@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-20T20:17:28+02:00",
+ "generatedAt": "2026-10-20T21:01:18+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Tuesday, 20 October 2026, 17:10 CEST",
  "windowLabel": "19 Oct 2026 17:10 CEST → 20 Oct 2026 17:10 CEST",
@@ -17,6 +17,8 @@
      "kind": "Diplomacy",
      "time": "20 Oct 12:28–16:39",
      "title": "Zelensky Meets Witkoff in Oslo, with Kushner Joining by Video",
+     "lede": "Zelensky held talks in Oslo on 20 October with US envoy Steve Witkoff and Jared Kushner, and Axios reported the aim was a peace proposal for Russia.",
+     "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -33,6 +35,8 @@
      "kind": "Strike",
      "time": "19 Oct 17:00–20 Oct 15:15",
      "title": "Russian Drones Kill Seven around Kyiv; Outages Hit 12 Regions",
+     "lede": "An overnight Russian attack of 165 drones plus missiles cut power in 12 regions, and officials reported seven people killed in and around Kyiv.",
+     "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -49,6 +53,8 @@
      "kind": "Strike",
      "time": "20 Oct 09:04–12:42",
      "title": "Russian Shelling of Kramatorsk Kills Three Heat Plant Workers",
+     "lede": "Russian shelling of Kramatorsk on 20 October killed three men and injured two people, the Donetsk Oblast prosecutor's office said.",
+     "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -65,6 +71,8 @@
      "kind": "Politics",
      "time": "20 Oct 05:11–10:27",
      "title": "Vance Says Ukraine Should Not Join NATO or Strike Russian Refineries",
+     "lede": "US Vice President JD Vance said Ukraine should not be in NATO or strike Russian diesel production, because it raises energy prices for Americans.",
+     "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -81,11 +89,13 @@
      "kind": "Military",
      "time": "18 Oct–20 Oct 15:37",
      "title": "Rubio Says Patriot Delays Not Political as WP Reports Hegseth Holdup",
+     "lede": "Rubio said no political directive lay behind Patriot delays, while the Washington Post reported Hegseth has not taken the steps needed to approve allied transfers.",
+     "confidenceLevel": "Moderate",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Zelensky said on 18 and 19 October that Washington had approved only some of the Patriot interceptors bought for Ukraine through NATO's PURL scheme and pointed at the US Department of Defense [16][17]. On 20 October the Washington Post, citing a US official and three others, reported that Defense Secretary Pete Hegseth has not formally rejected the allied Patriot transfers but has not taken the steps to approve them, as summarised by Ukrinform [18]. Zelensky said he held a 'constructive' call with Secretary of State Marco Rubio on interceptors, early warning of Russian ballistic attacks, and restoring Starlink and Starshield services [19]. Speaking in India, Rubio said deliveries may have been delayed but there was no 'deliberate political directive' to harm Ukraine [20]. He called claims that Ukrainians are dying because the US withholds warnings 'scandalous' and said gaps on 13 and 18 October were a technical matter under review [21][3]. On 19 October Zelensky also met a Lockheed Martin team on interceptor supply [22]. No Pentagon statement was found by the cutoff."
+       "text": "Zelensky said on 18 and 19 October that Washington had approved only some of the Patriot interceptors bought for Ukraine through NATO's PURL scheme and pointed at the Pentagon [16][17]. On 20 October the Washington Post, citing a US official and three others, reported that Defense Secretary Pete Hegseth has not formally rejected the allied Patriot transfers but has not taken the steps to approve them, as summarised by Ukrinform [18]. Zelensky said he held a 'constructive' call with Secretary of State Marco Rubio on interceptors, early warning, and Starlink and Starshield services [19]. Speaking in India, Rubio said deliveries may have been delayed but there was no 'deliberate political directive' to harm Ukraine [20]. He called claims that Ukrainians are dying because the US withholds warnings 'scandalous' and said gaps on 13 and 18 October were a technical matter under review [21][3]. On 19 October Zelensky also met a Lockheed Martin team on interceptor supply [22]. No Pentagon statement was found by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -97,6 +107,8 @@
      "kind": "Security",
      "time": "19 Oct 18:00–20:57",
      "title": "Man Opens Fire in Kyiv Draft Office, Wounding Three Police and Three Soldiers",
+     "lede": "A man brought to a Kyiv recruitment centre for violating mobilisation law opened fire inside on 19 October, wounding six people before police detained him.",
+     "confidenceLevel": "High",
      "sections": [
       {
        "kicker": "Reporting",
@@ -112,6 +124,8 @@
      "kind": "Diplomacy",
      "time": "19 Oct 20:08–20:33",
      "title": "Pope Leo XIV Calls Zelensky on Oleshky, Days after Speaking with Putin",
+     "lede": "Pope Leo XIV discussed occupied Oleshky and a humanitarian ceasefire with Zelensky by phone on 19 October, the Holy See said, as reported by Ukrainska Pravda.",
+     "confidenceLevel": "Moderate",
      "flag": "single-source, unconfirmed",
      "sections": [
       {
@@ -128,6 +142,8 @@
      "kind": "Strike",
      "time": "19 Oct 15:30–20:19",
      "title": "Russian Drone Kills at Least Five, Including Children, in Kharkiv Oblast Park",
+     "lede": "A Russian drone hit a park in Nova Vodolaha, Kharkiv Oblast, on 19 October, killing at least five civilians, including two girls, officials said.",
+     "confidenceLevel": "Moderate",
      "sections": [
       {
        "kicker": "Reporting",
@@ -143,6 +159,8 @@
      "kind": "Strike",
      "time": "19 Oct 19:37",
      "title": "Russian Strike on Khmelnytskyi Kills Two Women and Injures Three",
+     "lede": "A Russian attack on Khmelnytskyi on 19 October killed two women, injured three people, and damaged homes, regional governor Serhii Tiurin said.",
+     "confidenceLevel": "Moderate",
      "flag": "single-source, unconfirmed",
      "sections": [
       {
@@ -159,6 +177,8 @@
      "kind": "Politics",
      "time": "19 Oct 19:35",
      "title": "WSJ: Republicans Threaten Pentagon Funding over Trump's Russia Policy",
+     "lede": "Several pro-Ukraine Republicans are threatening to withhold support for Pentagon funding unless Trump takes a tougher line on Russia, Ukrinform reported, citing the Wall Street Journal.",
+     "confidenceLevel": "Moderate",
      "flag": "single-source, unconfirmed",
      "sections": [
       {
@@ -182,6 +202,8 @@
      "kind": "Espionage",
      "time": "19 Oct–20 Oct 11:08",
      "title": "Poland Detains Polish-Ukrainian Reservist on Suspicion of Spying",
+     "lede": "Polish military police detained a 31-year-old Polish-Ukrainian reservist on suspicion of offering to work for a foreign intelligence service, Notes from Poland reported.",
+     "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -198,6 +220,8 @@
      "kind": "Airspace",
      "time": "18 Oct–20 Oct 06:44",
      "title": "NATO Council Sets Black Sea Talks after Romania Downs Two Drones",
+     "lede": "NATO's North Atlantic Council was set to discuss Black Sea security on 20 October at Romania's request, after Romania shot down two Geran drones.",
+     "confidenceLevel": "High",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
@@ -214,10 +238,12 @@
      "kind": "Sabotage",
      "time": "19 Oct 15:55–20:45",
      "title": "Bulgaria Issues European Warrants for Two Germans over Starlink Antenna Arson",
+     "lede": "A Sofia court authorised European arrest warrants for two German nationals charged in absentia with setting fire to Starlink antennas at a teleport near Sofia.",
+     "confidenceLevel": "High",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The Sofia City Court on Monday authorised European arrest warrants for two German nationals, named by prosecutors as Zeka Islam and Tirpan Beytullah, who were charged in absentia on 14 October with setting fire to Starlink antennas at the Plana teleport south of Sofia, the state news agency BTA reported [6]. Prosecutors said the two, holding German documents showing they were born in 2007, entered at the Kalotina checkpoint at 17:37 on 9 October, set the fire at about 22:25 wearing gloves and masks, and left for Serbia in a German-registered car at 23:55 (local time) [6]. BTA said three antennas were destroyed, two partly damaged, and three otherwise affected; BNT said 18 antennas were set on fire [6][7]. German authorities do not know where the two are [6][7]. Defence lawyers said the car, not the men, had been identified and that they would appeal [6]. No official attribution of the attack to a state was found by the cutoff. DW, citing AFP and dpa, said both suspects are 19 and noted that a similar Polish Starlink case led to four arrests in Germany [8]."
+       "text": "The Sofia City Court on Monday authorised European arrest warrants for two German nationals, named by prosecutors as Zeka Islam and Tirpan Beytullah, who were charged in absentia on 14 October with setting fire to Starlink antennas at the Plana teleport south of Sofia, the state news agency BTA reported [6]. Prosecutors said the two, holding German documents showing they were born in 2007, entered on 9 October, set the fire at about 22:25 local time, and left for Serbia in a German-registered car [6]. BTA said three antennas were destroyed, two partly damaged, and three otherwise affected; BNT said 18 antennas were set on fire [6][7]. German authorities do not know where the two are [6][7]. Defence lawyers said the car, not the men, had been identified and that they would appeal [6]. No official attribution of the attack to a state was found by the cutoff. DW, citing AFP and dpa, said both suspects are 19 and noted that a similar Polish Starlink case led to four arrests in Germany [8]."
       },
       {
        "kicker": "Confidence",
@@ -229,6 +255,8 @@
      "kind": "Disinformation",
      "time": "19 Oct 18:02",
      "title": "Assessment Says Russia and Iran Exploit French Riots with Fake Reports",
+     "lede": "A Disinformation Commission assessment says Russian-linked networks and Iranian officials spread fake reports about the French riots but found no foreign state behind them, National Security News reported.",
+     "confidenceLevel": "Low",
      "flag": "single-source, unconfirmed",
      "sections": [
       {
@@ -252,6 +280,8 @@
      "kind": "Unrest",
      "time": "20 Oct 06:56–16:22",
      "title": "Portuguese Police Clear Housing-Protest Camps in Lisbon and Porto, Detaining 55",
+     "lede": "Portuguese police cleared housing-protest camps in Lisbon and Porto on 20 October and detained 55 people in Lisbon, all later released, Observador reported.",
+     "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -268,11 +298,13 @@
      "kind": "Unrest",
      "time": "17 Oct 09:30–20 Oct 16:35",
      "title": "Nuñez Orders Prefects to Ban Risky Saturday Protests as Policing Draws Fire",
+     "lede": "Interior Minister Laurent Nuñez told prefects to ban protests likely to disturb order on 24 October and consider targeted curfews, according to a telegram BFMTV saw.",
+     "confidenceLevel": "Moderate",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The BBC saw riot police baton a crowd in central Paris on Saturday, and BBC Verify counted at least 11 baton blows on five apparently unarmed protesters [2][3]. In Saint-Étienne a 17-year-old lost a hand to a grenade, and in Mulhouse a 17-year-old girl lost an eye; police inspectorates are investigating [4][5][6]. In parliament on Tuesday, Lecornu blamed an 'insurrectional scheme' by far-left groups, said intelligence 'did not see everything', and said the Paris deployment was too static [7]. He and Nuñez promised a 'massive' deployment for Saturday, and Nuñez said Sentinelle soldiers would take over static guard duties to free police [7]. A Green deputy said protesters were 'gassed and mutilated' and told Nuñez to resign; he said he was not 'at war' with protesters [7]. In a telegram seen by BFMTV, Nuñez told prefects to ban protests likely to disturb order on Saturday 24 October, route others away from public buildings and shopping streets, and consider targeted curfews [7]. Yellow Vest representatives have called protests for that day [8]. No new baton charges on 19 or 20 October were found by the cutoff."
+       "text": "The BBC saw riot police baton a crowd in central Paris on Saturday, and BBC Verify counted at least 11 baton blows on five apparently unarmed protesters [2][3]. In Saint-Étienne a 17-year-old lost a hand to a grenade, and in Mulhouse a 17-year-old girl lost an eye; police inspectorates are investigating [4][5][6]. In parliament on Tuesday, Lecornu blamed an 'insurrectional scheme' by far-left groups, said intelligence 'did not see everything', and said the Paris deployment was too static [7]. He and Nuñez promised a 'massive' deployment for Saturday, and Nuñez said Sentinelle soldiers would take over static guard duties to free police [7]. In a telegram seen by BFMTV, Nuñez told prefects to ban protests likely to disturb order on Saturday 24 October, route others away from public buildings and shopping streets, and consider targeted curfews [7]. Yellow Vest representatives have called protests for that day [8]. No new baton charges on 19 or 20 October were found by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -284,11 +316,13 @@
      "kind": "Security",
      "time": "18 Oct 20:00–20 Oct 16:09",
      "title": "France Renews Targeted Curfews after Calm First Night",
+     "lede": "Lyon, Bordeaux, Nice, and other French towns kept or renewed partial curfews after police said the first night under them passed without major incidents.",
+     "confidenceLevel": "High",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Partial curfews took effect on Monday night after Prime Minister Sébastien Lecornu let local authorities impose them; he ruled out whole-city curfews [9][10][11]. Paris police barred anyone from Place de la République and Les Halles from 23:00 to 06:00, and Lyon, Nice, Bordeaux, Lille, and other towns set partial or youth curfews [12][10][13][14]. Police said the night passed without major incidents, and Lecornu wrote on X on Tuesday that the curfews 'contributed to calm' and that prefects and mayors would decide new ones for Tuesday night [15][8]. Bordeaux and Nice kept their curfews for several days, and the Rhône prefecture renewed Lyon's city-centre curfew from 21:00 to 06:00 [15][7]. Paris police banned carrying fuel or gas in individual containers, protective gear near schools, and fireworks across the Paris area until Thursday [7]. The Créteil Soleil shopping centre closed on Tuesday afternoon after looting rumours on social media caused a crowd surge, the Paris police prefecture said [7]. Macron refused Interior Minister Laurent Nuñez's resignation [16][17]. In parliament, Nuñez denied Mediapart's report that intelligence officers were pressed to blame LFI [7][13]."
+       "text": "Partial curfews took effect on Monday night after Prime Minister Sébastien Lecornu let local authorities impose them; he ruled out whole-city curfews [9][10][11]. Paris police barred anyone from Place de la République and Les Halles from 23:00 to 06:00, and Lyon, Nice, Bordeaux, Lille, and other towns set partial or youth curfews [12][10][13][14]. Police said the night passed without major incidents, and Lecornu wrote on X on Tuesday that the curfews 'contributed to calm' and that prefects and mayors would decide new ones for Tuesday night [15][8]. Bordeaux and Nice kept their curfews for several days, and the Rhône prefecture renewed Lyon's city-centre curfew from 21:00 to 06:00 [15][7]. Paris police banned carrying fuel in individual containers, protective gear near schools, and fireworks until Thursday [7]. The Créteil Soleil shopping centre closed on Tuesday afternoon after looting rumours on social media caused a crowd surge, the Paris police prefecture said [7]. Macron refused Interior Minister Laurent Nuñez's resignation [16][17]. In parliament, Nuñez denied Mediapart's report that intelligence officers were pressed to blame LFI [7][13]."
       },
       {
        "kicker": "Confidence",
@@ -300,6 +334,8 @@
      "kind": "Disaster",
      "time": "19 Oct–20 Oct 15:54",
      "title": "Storm Adam Death Toll in Spain Rises to Seven as Sánchez Visits Oliva",
+     "lede": "Storm Adam's death toll in Spain rose to seven after a body was recovered off Menorca, Antena 3 reported, as Sánchez visited flood-hit Oliva.",
+     "confidenceLevel": "Low",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
@@ -316,11 +352,13 @@
      "kind": "Security",
      "time": "19 Oct 09:32–20 Oct 14:37",
      "title": "France Jails 149 Rioters as Custody Count Passes 2,500",
+     "lede": "France has jailed 149 suspected rioters and looters and held more than 2,500 people in custody since Saturday, the justice minister and his ministry said.",
+     "confidenceLevel": "High",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Justice Minister Gérald Darmanin said at Lille's court at about 12:39 on Tuesday that 149 suspected rioters or looters had been jailed, on remand or by immediate sentence [7]. Le Parisien, with AFP, quoted him as saying about 150 were jailed and more than 800 referred to court [22]. Earlier on Tuesday the Justice Ministry put the jailed at 123 and custody at more than 2,500 since Saturday; its spokesman Sacha Straub-Kahn said 95 to 98 percent were men, 70 percent adults, and Paris tripled its daily fast-track hearings to six [8][23]. On Monday night Darmanin had given 2,513 in custody and 67 jailed, and told prosecutors to treat cases as organized crime, allowing 72-hour custody [13]. A 40-year-old man with ultra-left ties was arrested on Tuesday over the arson of Limoges city hall, and an anti-terrorism unit leads that inquiry, AFP reported, citing a source [8]. The BBC said officials put injured police at about 1,000 [11]. Medef head Patrick Martin said the state 'failed' and at least 3,000 businesses were hit, by preliminary estimates [8][15]. About 550,000 people marched on Saturday by official count; organisers claimed 800,000 [24]."
+       "text": "Justice Minister Gérald Darmanin said at Lille's court at about 12:39 on Tuesday that 149 suspected rioters or looters had been jailed, on remand or by immediate sentence [7]. Le Parisien, with AFP, quoted him as saying about 150 were jailed and more than 800 referred to court [22]. Earlier on Tuesday the Justice Ministry put the jailed at 123 and custody at more than 2,500 since Saturday [8][23]. On Monday night Darmanin had given 2,513 in custody and 67 jailed, and told prosecutors to treat cases as organized crime, allowing 72-hour custody [13]. A 40-year-old man with ultra-left ties was arrested on Tuesday over the arson of Limoges city hall, and an anti-terrorism unit leads that inquiry, AFP reported, citing a source [8]. The BBC said officials put injured police at about 1,000 [11]. Medef head Patrick Martin said the state 'failed' and at least 3,000 businesses were hit, by preliminary estimates [8][15]. About 550,000 people marched on Saturday by official count; organisers claimed 800,000 [24]."
       },
       {
        "kicker": "Confidence",
@@ -332,11 +370,13 @@
      "kind": "Unrest",
      "time": "17 Oct–20 Oct 13:00",
      "title": "Italy Sends 500 Troops to Milan as Cabinet Readies Riot Decree",
+     "lede": "Italy is sending 500 extra soldiers to Milan after weekend riots, and its cabinet was due to take up a public-order decree on Tuesday.",
+     "confidenceLevel": "High",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Italy's government is sending 500 extra soldiers to Milan and vowed a 'firm response from the state' after weekend riots, The Guardian reported on Tuesday [25]. Milan police detained 271 young people after looting near the Duomo on Saturday and Sunday; 32 were arrested, including 23 minors, and 28 were arrested in Turin [25]. ANSA reported on Monday evening that the cabinet would take up a public-order decree on Tuesday [26], and Il Tempo said the meeting was set for 17:30 [27]. Il Tempo, citing draft text, said it creates an aggravated group-damage offence carrying 18 months to five years, allows arrests within 48 hours based on video, lets police hold people judged dangerous for up to 12 hours, and fines parents of offenders under 14 [27]. Il Tempo said 85 percent of those detained in Milan were minors [27]. No curfew appeared in the reported draft; Monday reports had said Meloni was weighing one [10]. A new '17 October' movement called protests every Saturday in Milan and other cities [25]. No adopted decree text was found by the cutoff."
+       "text": "Italy's government is sending 500 extra soldiers to Milan and vowed a 'firm response from the state' after weekend riots, The Guardian reported on Tuesday [25]. Milan police detained 271 young people after looting near the Duomo on Saturday and Sunday; 32 were arrested, including 23 minors, and 28 were arrested in Turin [25]. ANSA reported on Monday evening that the cabinet would take up a public-order decree on Tuesday [26], and Il Tempo said the meeting was set for 17:30 [27]. Il Tempo, citing draft text, said it creates an aggravated group-damage offence carrying 18 months to five years, allows arrests within 48 hours based on video, lets police hold people judged dangerous for up to 12 hours, and fines parents of offenders under 14 [27]. No curfew appeared in the reported draft; Monday reports had said Meloni was weighing one [10]. A new '17 October' movement called protests every Saturday in Milan and other cities [25]. No adopted decree text was found by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -355,6 +395,8 @@
      "kind": "Defence",
      "time": "20 Oct 12:25",
      "title": "NATO Tests Counter-Drone and Deep-Strike Technology at Latvian Ranges",
+     "lede": "NATO trials of counter-drone, communications, and deep-strike technology began this week at Latvian military sites with nearly 100 companies, Latvia's Defence Ministry said.",
+     "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -371,6 +413,8 @@
      "kind": "Economy",
      "time": "20 Oct 08:34",
      "title": "airBaltic Prepares Mass Redundancies as Collective Deal Fails",
+     "lede": "airBaltic's chairman said on 20 October the airline expects mass redundancies soon, after staff and management failed to agree on collectively reduced hours.",
+     "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -387,6 +431,8 @@
      "kind": "Airspace",
      "time": "18 Oct night–20 Oct 08:25",
      "title": "Lithuania Seeks NATO Rule Change to Shoot Down Unseen Drones",
+     "lede": "Lithuania's prime minister asked NATO to let fighter jets shoot down airspace violators pilots cannot see, after a diverted Ukrainian drone crashed in Lithuania.",
+     "confidenceLevel": "High",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
@@ -403,6 +449,8 @@
      "kind": "Politics",
      "time": "19 Oct 19:30–19:45",
      "title": "Estonia's Parliament Rejects No-Confidence Motion Against Michal Government",
+     "lede": "A no-confidence motion against Prime Minister Kristen Michal's government failed in Estonia's parliament on 19 October, winning 34 votes when at least 51 were needed.",
+     "confidenceLevel": "High",
      "sections": [
       {
        "kicker": "Reporting",
@@ -425,6 +473,8 @@
      "kind": "Politics",
      "time": "19 Oct late–20 Oct 12:08",
      "title": "Montenegro Adopts Constitutional Integrity Checks for Prime Minister and Ministers",
+     "lede": "Montenegro's parliament adopted constitutional amendments on 19 October requiring conflict-of-interest checks on candidates for prime minister and ministers, Balkan Insight reported.",
+     "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -441,6 +491,8 @@
      "kind": "Politics",
      "time": "20 Oct 10:38",
      "title": "Serbian Filmmakers to File Criminal Complaint Against Culture Minister Selaković",
+     "lede": "Seven Serbian filmmaker associations said they would file a criminal complaint against Culture Minister Nikola Selaković over state film funding withheld for more than two years.",
+     "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -457,6 +509,8 @@
      "kind": "EU",
      "time": "20 Oct 07:48",
      "title": "Kosovo Risks Losing €90 Million More in EU Growth Plan Funds",
+     "lede": "Kosovo risks losing about €90 million more in EU Growth Plan funds unless 23 reforms are done by the end of December, Balkan Insight reported.",
+     "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -473,6 +527,8 @@
      "kind": "Media",
      "time": "19 Oct 17:27–20 Oct 07:40",
      "title": "N1 Bars Vučić from Presenting His Election List; Ruling Party Calls It Fascist",
+     "lede": "N1 Television refused to let Aleksandar Vučić present his list in its election slot, and Vučić and Ana Brnabić called the decision fascist.",
+     "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -489,11 +545,13 @@
      "kind": "Unrest",
      "time": "17 Oct 12:00–20 Oct 16:36",
      "title": "Albania's Protests Reach Eighth Day as Police Report 271 Arrests",
+     "lede": "Student-led protests against Prime Minister Edi Rama entered an eighth day on 20 October, and Tirana police said 271 people had been arrested in seven days.",
+     "confidenceLevel": "Moderate",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Student-led protests demanding Prime Minister Edi Rama's resignation entered an eighth day in Tirana on 20 October [6]. On 19 October protesters clashed with police, who used water and tear gas [7]. Tirana police said on 20 October they had arrested 33 people, six of them minors aged 15 to 17, and prosecuted 41 others over that rally, that seven officers were hurt, and that 271 people had been arrested over seven days [8]. The Supreme Court postponed all non-urgent hearings after the 17 October fire damaged its premises and court files [9]. Rama said some students were bound to 'politically extremist ideologies', Balkan Insight reported [10]. The Teachers' Union announced a boycott of teaching at all universities from 21 October, [11]. The OSCE's ODIHR urged police to avoid unlawful or disproportionate force and said any such case should be investigated promptly and independently [6]. President Bajram Begaj met the US, EU, and German ambassadors [12]. DW put injuries since the protests began at about 300, more than half of them police [13]."
+       "text": "Student-led protests demanding Prime Minister Edi Rama's resignation entered an eighth day in Tirana on 20 October [6]. On 19 October protesters clashed with police, who used water and tear gas [7]. Tirana police said on 20 October they had arrested 33 people and prosecuted 41 others over that rally, that seven officers were hurt, and that 271 people had been arrested over seven days [8]. The Supreme Court postponed all non-urgent hearings after the 17 October fire damaged its premises and court files [9]. Rama said some students were bound to 'politically extremist ideologies', Balkan Insight reported [10]. The Teachers' Union announced a boycott of teaching at all universities from 21 October [11]. The OSCE's ODIHR urged police to avoid unlawful or disproportionate force [6]. President Bajram Begaj met the US, EU, and German ambassadors [12]. DW put injuries since the protests began at about 300, more than half of them police [13]."
       },
       {
        "kicker": "Confidence",
@@ -505,6 +563,8 @@
      "kind": "Police",
      "time": "19 Oct 21:01",
      "title": "KRIK Says 15 Serbian Narcotics Officers Sidelined after Record Marijuana Seizure",
+     "lede": "Fifteen Serbian narcotics officers were moved out of their division after seizing five tons of marijuana on a ruling-party councillor's farm, KRIK reported, according to N1.",
+     "confidenceLevel": "Moderate",
      "flag": "single-source, unconfirmed",
      "sections": [
       {
@@ -528,6 +588,8 @@
      "kind": "Politics",
      "time": "20 Oct 15:47",
      "title": "Georgian Dream Accuses EU of Double Standard over French and Albanian Unrest",
+     "lede": "Prime Minister Irakli Kobakhidze accused European officials of urging calm in France and Albania while encouraging protesters in Georgia, OC Media reported.",
+     "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -544,6 +606,8 @@
      "kind": "Politics",
      "time": "20 Oct 13:53",
      "title": "Aliyev Signs Order Establishing Karabakh National Park",
+     "lede": "Azerbaijan's President Ilham Aliyev ordered the creation of a Karabakh National Park, APA reported, without giving its boundaries, area, or management body.",
+     "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -560,6 +624,8 @@
      "kind": "Politics",
      "time": "20 Oct 13:47",
      "title": "Gakharia's For Georgia Asks Court to Split Its Case from Party-Ban Suit",
+     "lede": "Opposition party For Georgia asked the Constitutional Court to examine its case separately as the court starts hearing Georgian Dream's suit to ban five opposition parties.",
+     "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -576,6 +642,8 @@
      "kind": "Diplomacy",
      "time": "19 Oct midday–20 Oct 11:51",
      "title": "Georgia Accuses EU of Interference over Criticism of Opposition-Ban Case",
+     "lede": "Georgia's Foreign Ministry called EU criticism of the court case to ban five opposition parties undue pressure on the court and interference in internal affairs.",
+     "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -592,6 +660,8 @@
      "kind": "Politics",
      "time": "20 Oct 09:01",
      "title": "Pashinyan Orders Reviews after Complaints of Coercion Before Local Elections",
+     "lede": "Pashinyan said he ordered urgent reviews of claims of politically motivated dismissals and of a child's campaign speech before local elections, Armenpress reported.",
+     "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
       {
@@ -608,6 +678,8 @@
      "kind": "Media",
      "time": "19 Oct 14:37–20:46",
      "title": "Georgia: UK-Sanctioned Imedi and POSTV Shares Change Hands for Nominal Sums",
+     "lede": "Shares in UK-sanctioned pro-government channels Imedi and POSTV changed hands for nominal sums of ₾100 to ₾1,000, registry documents reported by OC Media show.",
+     "confidenceLevel": "Moderate",
      "flag": "single-source, unconfirmed",
      "sections": [
       {
@@ -624,6 +696,8 @@
      "kind": "Occupation",
      "time": "19 Oct 20:09",
      "title": "Former Russian Deputy Minister Named First Deputy Premier of Occupied Tskhinvali",
+     "lede": "Former Russian deputy minister Ekaterina Tolstikova was appointed first deputy prime minister of occupied Tskhinvali by its de facto leader, Interpressnews reported.",
+     "confidenceLevel": "Moderate",
      "flag": "single-source, unconfirmed",
      "sections": [
       {
@@ -640,6 +714,8 @@
      "kind": "Security",
      "time": "19 Oct 12:30–19:54",
      "title": "Azerbaijan Puts Seven in Türkiye on Wanted List over Hijab-Row Posts",
+     "lede": "Azerbaijan put seven people in Türkiye on the international wanted list, and a Baku court ordered their detention in absentia over alleged calls to seize power.",
+     "confidenceLevel": "High",
      "sections": [
       {
        "kicker": "Reporting",
@@ -662,6 +738,8 @@
      "kind": "Health",
      "time": "20 Oct 09:24–16:46",
      "title": "Doctors' Association Warns Insured Patients Face Longer Waits from 2027",
+     "lede": "Doctors' association head Andreas Gassen said statutory patients will wait longer for appointments from next year because of outpatient cuts, a claim insurers called far-fetched.",
+     "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -678,11 +756,13 @@
      "kind": "Politics",
      "time": "20 Oct 09:01–15:49",
      "title": "AfD Confirms Hack as Unknown Group Posts About 421,000 Party Emails Online",
+     "lede": "The AfD confirmed a September hack of a hosting provider after unknown actors posted what they say are about 421,000 party emails online.",
+     "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The AfD confirmed on Tuesday that a hosting provider used by the party was hacked in September 2026 and that parts of 'a few' mailboxes, most of them unused for years, were illegally copied, after unknown actors posted data online that they say comprises about 421,000 AfD emails, tagesschau and the Stuttgarter Zeitung reported [3] [4]. The AfD said current mailboxes of its federal association were not affected, that the attack was detected and stopped quickly, and that it is checking the publication [3] [4]. The leakers claim the data come from ten mailboxes, including one in the name of former party leader Alexander Gauland [3] [4]. The anonymous website, registered in mid-October, gives Wyoming in the US as its seat [3]. Party sources told ARD the content appears authentic, and the AfD named its company Alternita as affected [3]. Bild reported that the files include a photo of the ID card of AfD deputy parliamentary leader Markus Frohnmaier, bank statements, and membership lists; this was not independently checked [3]. No statement from investigators was found by the cutoff."
+       "text": "The AfD confirmed on Tuesday that a hosting provider used by the party was hacked in September 2026 and that parts of 'a few' mailboxes, most of them unused for years, were illegally copied, after unknown actors posted data online that they say comprises about 421,000 AfD emails, tagesschau and the Stuttgarter Zeitung reported [3] [4]. The AfD said current mailboxes of its federal association were not affected, that the attack was detected and stopped quickly, and that it is checking the publication [3] [4]. The leakers claim the data come from ten mailboxes, including one in the name of former party leader Alexander Gauland [3] [4]. Party sources told ARD the content appears authentic, and the AfD named its company Alternita as affected [3]. Bild reported that the files include a photo of the ID card of AfD deputy parliamentary leader Markus Frohnmaier, bank statements, and membership lists; this was not independently checked [3]. No statement from investigators was found by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -694,11 +774,13 @@
      "kind": "Economy",
      "time": "20 Oct 11:40–14:28",
      "title": "Amazon Pledges More Than €16 Billion for Germany in 2027 at Berlin Summit",
+     "lede": "Amazon said it plans to invest more than €16 billion in Germany in 2027, including €4.8 billion for its Frankfurt cloud and AI region.",
+     "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Amazon announced on Tuesday at the federal government's Invest in Germany Summit in Berlin that it plans to invest more than €16 billion in Germany in 2027, including €4.8 billion to expand its AWS Europe (Frankfurt) cloud and AI region [5] [6]. The company said the money also covers its Leo satellite internet network, logistics projects with robotics, and more than 15 new Prime Video productions in Germany by the end of 2027 [5]. Economy Minister Katherina Reiche called the investment 'a clear vote of confidence' in Germany as a business location [5] [6]. The Stuttgarter Zeitung noted that Amazon gave few further details and that it is unclear whether the sum includes earlier AWS pledges of €8.8 billion for Frankfurt and €7.8 billion for Brandenburg, as reported a year ago [6]. Chancellor Friedrich Merz told the summit that several companies had pledged a total of €800 billion by 2028, while Reiche told Deutschlandfunk the pledges amount to €228 billion counting only projects over €100 million; the timeframe and basis of the figures were not given [7]."
+       "text": "Amazon announced on Tuesday at the federal government's Invest in Germany Summit in Berlin that it plans to invest more than €16 billion in Germany in 2027, including €4.8 billion to expand its AWS Europe (Frankfurt) cloud and AI region [5] [6]. The company said the money also covers its Leo satellite network, robotic logistics, and more than 15 Prime Video productions [5]. Economy Minister Katherina Reiche called the investment 'a clear vote of confidence' in Germany as a business location [5] [6]. The Stuttgarter Zeitung noted that Amazon gave few further details and that it is unclear whether the sum includes earlier AWS pledges of €8.8 billion for Frankfurt and €7.8 billion for Brandenburg [6]. Chancellor Friedrich Merz told the summit that several companies had pledged a total of €800 billion by 2028, while Reiche told Deutschlandfunk the pledges amount to €228 billion counting only projects over €100 million; the timeframe and basis of the figures were not given [7]."
       },
       {
        "kicker": "Confidence",
@@ -710,6 +792,8 @@
      "kind": "Baden-Württemberg",
      "time": "20 Oct 14:26",
      "title": "Baden-Württemberg Launches Task Force to Halve Power Grid Expansion Times",
+     "lede": "Baden-Württemberg launched a two-year task force on 20 October to cut power distribution grid expansion procedures from up to ten years to five.",
+     "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -726,10 +810,12 @@
      "kind": "Politics",
      "time": "17 Oct 14:54–19 Oct 22:15",
      "title": "Berlin SPD and Greens Vote to Open Coalition Talks with the Left",
+     "lede": "The Berlin SPD board and a small Greens congress voted to open coalition talks with the Left, which decides at its own congress on 31 October.",
+     "confidenceLevel": "High",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The Berlin SPD state board voted 26 to 3, with no abstentions, at a digital meeting on Monday evening to open coalition talks with the Left and the Greens, and a small Greens party congress then backed talks with only 2 of 45 delegates against, tagesschau and dpa reported [10] [11]. The Left, which won the 20 September election with 25.7 percent, decides at a party congress on 31 October because of Berlin's two-week autumn school holiday, and talks could start in early November [10] [11]. If they succeed, Left parliamentary leader Elif Eralp could become the party's first Governing Mayor of Berlin [10]. SPD state leaders Bettina König and Steffen Krach said the joint statements on antisemitism and organised crime remain the basic condition for working together, and Greens state leader Nina Stahr said the Left 'has in parts a problem with antisemitism' [11]. The exploratory paper agreed on Saturday includes socialising about 160,000 flats owned by large housing companies, with up to €16 billion set aside for compensation, and a new-build programme for 100,000 flats [12] [10] [11]. Before the votes, SPD parliamentary leader Matthias Miersch voiced 'considerable doubts', and 20 SPD MPs opposed the talks [13]."
+       "text": "The Berlin SPD state board voted 26 to 3 at a digital meeting on Monday evening to open coalition talks with the Left and the Greens, and a small Greens party congress then backed talks with only 2 of 45 delegates against, tagesschau and dpa reported [10] [11]. The Left, which won the 20 September election with 25.7 percent, decides at a party congress on 31 October, and talks could start in early November [10] [11]. If they succeed, Left parliamentary leader Elif Eralp could become the party's first Governing Mayor of Berlin [10]. SPD state leaders Bettina König and Steffen Krach said the joint statements on antisemitism and organised crime remain the basic condition for working together, and Greens state leader Nina Stahr said the Left 'has in parts a problem with antisemitism' [11]. The exploratory paper agreed on Saturday includes socialising about 160,000 flats owned by large housing companies, with up to €16 billion set aside for compensation, and a new-build programme for 100,000 flats [12] [10] [11]. Before the votes, SPD parliamentary leader Matthias Miersch voiced 'considerable doubts', and 20 SPD MPs opposed the talks [13]."
       },
       {
        "kicker": "Confidence",
@@ -741,10 +827,12 @@
      "kind": "Economy",
      "time": "19 Oct 20:22–21:23",
      "title": "Federal Government Signs AI Letter of Intent with Nvidia at Investment Summit",
+     "lede": "The Economy and Research ministries signed a letter of intent with Nvidia on 19 October to develop advanced AI models for robots and other physical AI systems.",
+     "confidenceLevel": "High",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The Economy and Research ministries signed a letter of intent with US chipmaker Nvidia on Monday to push an initiative to develop advanced AI models for 'physical AI', meaning AI built into systems such as robots, the federal government said at the first Invest in Germany summit in Berlin, tagesschau reported [14]. The government said the aim is to bring industrial AI into broad use and build an AI ecosystem in Europe, and that Nvidia will open its AI models to small and medium-sized firms and research institutes as well as large industry [14]. Chancellor Friedrich Merz urged companies to open their industrial data for AI, and Nvidia chief executive Jensen Huang said the company invested almost $1 billion in Germany last year [14] [15]. The government gave no figure for its own spending; tagesschau cited a media report that it plans to back the project with a three-digit million-euro sum, partly to rent computing capacity in Deutsche Telekom's AI cloud [14]. The letter of intent itself was not found on a government site by the cutoff."
+       "text": "The Economy and Research ministries signed a letter of intent with US chipmaker Nvidia on Monday to push an initiative to develop advanced AI models for 'physical AI', meaning AI built into systems such as robots, the federal government said at the first Invest in Germany summit in Berlin, tagesschau reported [14]. The government said the aim is to bring industrial AI into broad use, and that Nvidia will open its AI models to smaller firms and research institutes [14]. Chancellor Friedrich Merz urged companies to open their industrial data for AI, and Nvidia chief executive Jensen Huang said the company invested almost $1 billion in Germany last year [14] [15]. The government gave no figure for its own spending; tagesschau cited a media report that it plans to back the project with a three-digit million-euro sum, partly to rent computing capacity in Deutsche Telekom's AI cloud [14]. The letter of intent itself was not found on a government site by the cutoff."
       },
       {
        "kicker": "Confidence",
