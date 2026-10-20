@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-20T16:58:38+02:00",
+ "generatedAt": "2026-10-20T20:17:28+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Tuesday, 20 October 2026, 17:10 CEST",
  "windowLabel": "19 Oct 2026 17:10 CEST → 20 Oct 2026 17:10 CEST",
@@ -1842,5 +1842,5 @@
  ],
  "sourceKey": "A source is used only if an item cites it. Numbers in brackets match the tab's 'Sources used in this tab' list.",
  "operationalAssessment": "Evening edition, rolling window 19 Oct 2026 17:10 CEST to 20 Oct 2026 17:10 CEST. New research covered 05:10 CEST to 17:10 CEST on 20 October; items from the previous edition whose times fall inside the 24 hours were carried and re-checked, stories with new developments are marked as follow-ups, and items older than 24 hours were dropped. The priority story remains France: targeted curfews were renewed after a calm first night, Justice Minister Darmanin said 149 rioters or looters had been jailed as the custody count passed 2,500, and Interior Minister Nuñez told prefects to ban risky Saturday protests as scrutiny of police baton use and grenade injuries continued. Italy is sending 500 troops to Milan, and Storm Adam's toll in Spain rose to seven. Russian drones killed seven people around Kyiv and caused outages in 12 regions, shelling killed three heat-plant workers in Kramatorsk, and Zelensky met US envoy Witkoff in Oslo. The NATO Council set Black Sea talks after Romania downed two drones, Lithuania sought a NATO rule change on shooting down drones, Albania's protests reached an eighth day with 271 arrests, Georgia accused the EU of interference over the opposition-ban case, and the AfD confirmed a hack as about 421,000 party emails were posted online. The ledger lists only sources actually read or checked. Hybrid Warfare uses a draft canvas pending approval.",
- "footer": "Fully automated, open-source compilation for situational awareness only. Not for use in financial planning, medical treatment, or the initiation of global thermonuclear war."
+ "footer": "For situational awareness only; not for operational, financial, or medical decisions."
 }
