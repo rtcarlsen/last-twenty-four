@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-20T21:01:18+02:00",
+ "generatedAt": "2026-10-21T01:36:35+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Tuesday, 20 October 2026, 17:10 CEST",
  "windowLabel": "19 Oct 2026 17:10 CEST → 20 Oct 2026 17:10 CEST",
@@ -35,8 +35,8 @@
      "kind": "Strike",
      "time": "19 Oct 17:00–20 Oct 15:15",
      "title": "Russian Drones Kill Seven around Kyiv; Outages Hit 12 Regions",
-     "lede": "An overnight Russian attack of 165 drones plus missiles cut power in 12 regions, and officials reported seven people killed in and around Kyiv.",
-     "confidenceLevel": "Moderate",
+     "lede": "Air defences downed or jammed 115 of 165 drones, but hits at 30 locations brought hourly power cuts nationwide, Ukraine's Air Force and Ukrenergo said.",
+     "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
@@ -71,7 +71,7 @@
      "kind": "Politics",
      "time": "20 Oct 05:11–10:27",
      "title": "Vance Says Ukraine Should Not Join NATO or Strike Russian Refineries",
-     "lede": "US Vice President JD Vance said Ukraine should not be in NATO or strike Russian diesel production, because it raises energy prices for Americans.",
+     "lede": "Vance argued that strikes on Russian diesel production raise energy prices for Americans, speaking after Trump accused Zelensky of not wanting to end the war.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
@@ -89,8 +89,8 @@
      "kind": "Military",
      "time": "18 Oct–20 Oct 15:37",
      "title": "Rubio Says Patriot Delays Not Political as WP Reports Hegseth Holdup",
-     "lede": "Rubio said no political directive lay behind Patriot delays, while the Washington Post reported Hegseth has not taken the steps needed to approve allied transfers.",
-     "confidenceLevel": "Moderate",
+     "lede": "Zelensky says Washington has approved only some of the Patriot interceptors Ukraine bought through NATO's PURL scheme, and no Pentagon statement was found.",
+     "confidenceLevel": "High",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
@@ -142,7 +142,7 @@
      "kind": "Strike",
      "time": "19 Oct 15:30–20:19",
      "title": "Russian Drone Kills at Least Five, Including Children, in Kharkiv Oblast Park",
-     "lede": "A Russian drone hit a park in Nova Vodolaha, Kharkiv Oblast, on 19 October, killing at least five civilians, including two girls, officials said.",
+     "lede": "Regional police report 15 injured, including seven children, in the 19 October strike on Nova Vodolaha and have opened a war-crimes case.",
      "confidenceLevel": "Moderate",
      "sections": [
       {
@@ -159,7 +159,7 @@
      "kind": "Strike",
      "time": "19 Oct 19:37",
      "title": "Russian Strike on Khmelnytskyi Kills Two Women and Injures Three",
-     "lede": "A Russian attack on Khmelnytskyi on 19 October killed two women, injured three people, and damaged homes, regional governor Serhii Tiurin said.",
+     "lede": "Homes were damaged, a business caught fire, and some consumers lost power after a line was hit, regional governor Serhii Tiurin said.",
      "confidenceLevel": "Moderate",
      "flag": "single-source, unconfirmed",
      "sections": [
@@ -202,7 +202,7 @@
      "kind": "Espionage",
      "time": "19 Oct–20 Oct 11:08",
      "title": "Poland Detains Polish-Ukrainian Reservist on Suspicion of Spying",
-     "lede": "Polish military police detained a 31-year-old Polish-Ukrainian reservist on suspicion of offering to work for a foreign intelligence service, Notes from Poland reported.",
+     "lede": "Deputy Defence Minister Cezary Tomczyk said the man had been conducting reconnaissance of military installations, and he faces up to eight years in prison, Notes from Poland reported.",
      "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
@@ -255,7 +255,7 @@
      "kind": "Disinformation",
      "time": "19 Oct 18:02",
      "title": "Assessment Says Russia and Iran Exploit French Riots with Fake Reports",
-     "lede": "A Disinformation Commission assessment says Russian-linked networks and Iranian officials spread fake reports about the French riots but found no foreign state behind them, National Security News reported.",
+     "lede": "The assessment found no evidence that a foreign state started or directs the unrest, calling it 'a home-grown protest movement', National Security News reported.",
      "confidenceLevel": "Low",
      "flag": "single-source, unconfirmed",
      "sections": [
@@ -280,7 +280,7 @@
      "kind": "Unrest",
      "time": "20 Oct 06:56–16:22",
      "title": "Portuguese Police Clear Housing-Protest Camps in Lisbon and Porto, Detaining 55",
-     "lede": "Portuguese police cleared housing-protest camps in Lisbon and Porto on 20 October and detained 55 people in Lisbon, all later released, Observador reported.",
+     "lede": "All 55 detainees were freed by early afternoon, and the Acampada movement vowed to return as new protests were called in both cities, Observador reported.",
      "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
@@ -334,7 +334,7 @@
      "kind": "Disaster",
      "time": "19 Oct–20 Oct 15:54",
      "title": "Storm Adam Death Toll in Spain Rises to Seven as Sánchez Visits Oliva",
-     "lede": "Storm Adam's death toll in Spain rose to seven after a body was recovered off Menorca, Antena 3 reported, as Sánchez visited flood-hit Oliva.",
+     "lede": "Firefighters recovered a man's body off Menorca, Antena 3 reported, and Sánchez faced shouts of 'resign' on his visit to the flood-hit town.",
      "confidenceLevel": "Low",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
@@ -352,7 +352,7 @@
      "kind": "Security",
      "time": "19 Oct 09:32–20 Oct 14:37",
      "title": "France Jails 149 Rioters as Custody Count Passes 2,500",
-     "lede": "France has jailed 149 suspected rioters and looters and held more than 2,500 people in custody since Saturday, the justice minister and his ministry said.",
+     "lede": "Justice Minister Gérald Darmanin has told prosecutors to treat riot cases as organized crime, allowing 72-hour custody, and says more than 800 people have been referred to court.",
      "confidenceLevel": "High",
      "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
@@ -395,7 +395,7 @@
      "kind": "Defence",
      "time": "20 Oct 12:25",
      "title": "NATO Tests Counter-Drone and Deep-Strike Technology at Latvian Ranges",
-     "lede": "NATO trials of counter-drone, communications, and deep-strike technology began this week at Latvian military sites with nearly 100 companies, Latvia's Defence Ministry said.",
+     "lede": "Nearly 100 defence companies from more than 20 countries take part, and the series ends with a NATO FUSE event in late October, Latvia's Defence Ministry said.",
      "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
@@ -449,7 +449,7 @@
      "kind": "Politics",
      "time": "19 Oct 19:30–19:45",
      "title": "Estonia's Parliament Rejects No-Confidence Motion Against Michal Government",
-     "lede": "A no-confidence motion against Prime Minister Kristen Michal's government failed in Estonia's parliament on 19 October, winning 34 votes when at least 51 were needed.",
+     "lede": "The motion won 34 votes when at least 51 were needed, with the Social Democrats not voting, according to the parliament and ERR.",
      "confidenceLevel": "High",
      "sections": [
       {
@@ -473,7 +473,7 @@
      "kind": "Politics",
      "time": "19 Oct late–20 Oct 12:08",
      "title": "Montenegro Adopts Constitutional Integrity Checks for Prime Minister and Ministers",
-     "lede": "Montenegro's parliament adopted constitutional amendments on 19 October requiring conflict-of-interest checks on candidates for prime minister and ministers, Balkan Insight reported.",
+     "lede": "The ruling coalition, independent MPs, and one opposition MP backed the change, and the government agreed a law will set out how checks are done, Balkan Insight reported.",
      "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
@@ -491,7 +491,7 @@
      "kind": "Politics",
      "time": "20 Oct 10:38",
      "title": "Serbian Filmmakers to File Criminal Complaint Against Culture Minister Selaković",
-     "lede": "Seven Serbian filmmaker associations said they would file a criminal complaint against Culture Minister Nikola Selaković over state film funding withheld for more than two years.",
+     "lede": "The associations put the initial damage at €17 million, with dozens of films not made, and allege funding was withheld to punish critics of corruption, N1 reported.",
      "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
@@ -509,7 +509,7 @@
      "kind": "EU",
      "time": "20 Oct 07:48",
      "title": "Kosovo Risks Losing €90 Million More in EU Growth Plan Funds",
-     "lede": "Kosovo risks losing about €90 million more in EU Growth Plan funds unless 23 reforms are done by the end of December, Balkan Insight reported.",
+     "lede": "The money is lost unless 23 reforms are finished by the end of December, Balkan Insight reported.",
      "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
@@ -587,8 +587,8 @@
     {
      "kind": "Politics",
      "time": "20 Oct 15:47",
-     "title": "Georgian Dream Accuses EU of Double Standard over French and Albanian Unrest",
-     "lede": "Prime Minister Irakli Kobakhidze accused European officials of urging calm in France and Albania while encouraging protesters in Georgia, OC Media reported.",
+     "title": "Kobakhidze Says EU Backs Georgian Protesters but Urges Calm in France",
+     "lede": "Kobakhidze, who also cited Albania, called Europe's description of violent Georgian protesters as peaceful a 'farce', OC Media reported.",
      "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
@@ -624,7 +624,7 @@
      "kind": "Politics",
      "time": "20 Oct 13:47",
      "title": "Gakharia's For Georgia Asks Court to Split Its Case from Party-Ban Suit",
-     "lede": "Opposition party For Georgia asked the Constitutional Court to examine its case separately as the court starts hearing Georgian Dream's suit to ban five opposition parties.",
+     "lede": "Executive secretary Berdia Sichinava called the bid to ban the only opposition party in parliament 'absurd and devoid of any legal basis', Civil.ge reported.",
      "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
@@ -642,7 +642,7 @@
      "kind": "Diplomacy",
      "time": "19 Oct midday–20 Oct 11:51",
      "title": "Georgia Accuses EU of Interference over Criticism of Opposition-Ban Case",
-     "lede": "Georgia's Foreign Ministry called EU criticism of the court case to ban five opposition parties undue pressure on the court and interference in internal affairs.",
+     "lede": "The ministry was answering Commission spokesperson Christian Wigand, who said the developments 'suggest a troubling instrumentalization of the justice system'.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
@@ -660,7 +660,7 @@
      "kind": "Politics",
      "time": "20 Oct 09:01",
      "title": "Pashinyan Orders Reviews after Complaints of Coercion Before Local Elections",
-     "lede": "Pashinyan said he ordered urgent reviews of claims of politically motivated dismissals and of a child's campaign speech before local elections, Armenpress reported.",
+     "lede": "Pashinyan sent the Inspection Body a claim of political dismissals and the Anti-Corruption Committee a child's campaign video, and pledged public accountability, Armenpress reported.",
      "confidenceLevel": "Moderate",
      "flag": "NEW THIS UPDATE · single-source, unconfirmed",
      "sections": [
@@ -678,7 +678,7 @@
      "kind": "Media",
      "time": "19 Oct 14:37–20:46",
      "title": "Georgia: UK-Sanctioned Imedi and POSTV Shares Change Hands for Nominal Sums",
-     "lede": "Shares in UK-sanctioned pro-government channels Imedi and POSTV changed hands for nominal sums of ₾100 to ₾1,000, registry documents reported by OC Media show.",
+     "lede": "Imedi's parent company is now held in four 25 percent parts by staff, including its director general, and Georgian Dream MP Viktor Japaridze sold his POSTV share, OC Media reported.",
      "confidenceLevel": "Moderate",
      "flag": "single-source, unconfirmed",
      "sections": [
@@ -696,7 +696,7 @@
      "kind": "Occupation",
      "time": "19 Oct 20:09",
      "title": "Former Russian Deputy Minister Named First Deputy Premier of Occupied Tskhinvali",
-     "lede": "Former Russian deputy minister Ekaterina Tolstikova was appointed first deputy prime minister of occupied Tskhinvali by its de facto leader, Interpressnews reported.",
+     "lede": "Ekaterina Tolstikova, who served in Dagestan's government from 2016 to 2020, replaces Dzambolat Tedeev under decrees by de facto leader Marat Kambolov, Interpressnews reported.",
      "confidenceLevel": "Moderate",
      "flag": "single-source, unconfirmed",
      "sections": [
@@ -756,7 +756,7 @@
      "kind": "Politics",
      "time": "20 Oct 09:01–15:49",
      "title": "AfD Confirms Hack as Unknown Group Posts About 421,000 Party Emails Online",
-     "lede": "The AfD confirmed a September hack of a hosting provider after unknown actors posted what they say are about 421,000 party emails online.",
+     "lede": "The AfD says only parts of a few mailboxes, most unused for years, were copied and that its federal association's current mailboxes were not affected.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
@@ -774,7 +774,7 @@
      "kind": "Economy",
      "time": "20 Oct 11:40–14:28",
      "title": "Amazon Pledges More Than €16 Billion for Germany in 2027 at Berlin Summit",
-     "lede": "Amazon said it plans to invest more than €16 billion in Germany in 2027, including €4.8 billion for its Frankfurt cloud and AI region.",
+     "lede": "It is unclear whether the sum includes earlier AWS pledges of €8.8 billion for Frankfurt and €7.8 billion for Brandenburg, the Stuttgarter Zeitung noted.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
@@ -792,7 +792,7 @@
      "kind": "Baden-Württemberg",
      "time": "20 Oct 14:26",
      "title": "Baden-Württemberg Launches Task Force to Halve Power Grid Expansion Times",
-     "lede": "Baden-Württemberg launched a two-year task force on 20 October to cut power distribution grid expansion procedures from up to ten years to five.",
+     "lede": "Özdemir said grids in some regions, above all Mittelbaden, are reaching their limits, and the results will feed a state grid acceleration law.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
@@ -810,7 +810,7 @@
      "kind": "Politics",
      "time": "17 Oct 14:54–19 Oct 22:15",
      "title": "Berlin SPD and Greens Vote to Open Coalition Talks with the Left",
-     "lede": "The Berlin SPD board and a small Greens congress voted to open coalition talks with the Left, which decides at its own congress on 31 October.",
+     "lede": "If the Left's 31 October congress agrees, talks could start in early November, and Elif Eralp could become the party's first Governing Mayor of Berlin.",
      "confidenceLevel": "High",
      "sections": [
       {
