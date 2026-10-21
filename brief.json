@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T19:15:04+02:00",
+  "generatedAt": "2026-10-21T19:20:08+02:00",
   "brow": "Aggregated snapshot · open-source compilation · not official reporting",
   "asOf": "Wednesday, 21 October 2026, 17:10 CEST",
   "windowLabel": "20 Oct 2026 17:10 CEST → 21 Oct 2026 17:10 CEST",
@@ -88,7 +88,7 @@
         {
           "kind": "event",
           "time": "21 Oct 07:01–11:28",
-          "title": "Azov Corps Calls Russian Claim of Taking Dobropillia Disinformation",
+          "title": "Azov Corps Calls Russian Claim of Taking Ukraine's Dobropillia Disinformation",
           "lede": "Gerasimov told Putin the town had fallen, but Russian flag-raising videos were geolocated only to its southern and eastern parts, and some showed signs of AI editing.",
           "confidenceLevel": "High",
           "flag": "NEW THIS UPDATE",
@@ -113,7 +113,7 @@
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "Putin received US envoy Steve Witkoff at the Constantine Palace in St Petersburg on 21 October, a day after Witkoff's Oslo talks with Zelensky; Jared Kushner joined by video [8][9]. Witkoff thanked Putin for freeing American Stephen Hubbard, jailed on mercenary charges, and Putin said Hubbard was at Pulkovo airport [8][3]. Trump said no swap was needed for the release [3]. Witkoff said he brought papers with peace ideas and asked Putin to consider resuming trilateral talks with Ukraine [3][8]. The meeting lasted about three hours [9]. Afterwards Kremlin aide Yuri Ushakov said Russia was ready in principle to resume three-way talks in mid-November on a postwar security system, and that the Oslo proposals contained little that was useful [10]. Zelensky said he would not wait in Oslo for Witkoff's return [11]. No US statement on the outcome was found by the cutoff."
+              "text": "Putin received US envoy Steve Witkoff at the Constantine Palace in St Petersburg, Russia, on 21 October, a day after Witkoff's Oslo talks with Zelensky; Jared Kushner joined by video [8][9]. Witkoff thanked Putin for freeing American Stephen Hubbard, jailed on mercenary charges, and Putin said Hubbard was at Pulkovo airport [8][3]. Trump said no swap was needed for the release [3]. Witkoff said he brought papers with peace ideas and asked Putin to consider resuming trilateral talks with Ukraine [3][8]. The meeting lasted about three hours [9]. Afterwards Kremlin aide Yuri Ushakov said Russia was ready in principle to resume three-way talks in mid-November on a postwar security system, and that the Oslo proposals contained little that was useful [10]. Zelensky said he would not wait in Oslo for Witkoff's return [11]. No US statement on the outcome was found by the cutoff."
             },
             {
               "kicker": "Confidence",
@@ -124,7 +124,7 @@
         {
           "kind": "Strike",
           "time": "19 Oct 17:00–21 Oct 12:09",
-          "title": "Drone Sets Kyiv High-Rise Ablaze as Russian Attacks Kill Nine Nationwide",
+          "title": "Drone Sets Kyiv High-Rise Ablaze as Russian Attacks Kill Nine Across Ukraine",
           "lede": "A second straight night of strikes followed a 19–20 October wave that killed seven around the capital, with Kharkiv, Donetsk, and Kherson regions also hit.",
           "confidenceLevel": "High",
           "flag": "FOLLOW UP TO PREVIOUS REPORT",
@@ -160,7 +160,7 @@
         {
           "kind": "event",
           "time": "20 Oct 22:41",
-          "title": "Drone Hits Epicentr Store in Pervomaisk, Wounding Eight Shoppers and Staff",
+          "title": "Drone Hits Epicentr Store in Pervomaisk, Ukraine, Wounding Eight Shoppers and Staff",
           "lede": "Two women were hospitalised in moderate condition after the evening attack on the Mykolaiv Oblast shopping centre, the acting regional head said.",
           "confidenceLevel": "Moderate",
           "flag": "single-source, unconfirmed",
@@ -280,7 +280,7 @@
         {
           "kind": "Politics",
           "time": "21 Oct 08:11–21 Oct 14:51",
-          "title": "Unions Leave Matignon Without Concessions and Call Strike for 5 November",
+          "title": "French Unions Leave Matignon Without Concessions and Call Strike for 5 November",
           "lede": "CGT leader Sophie Binet said the prime minister offered no measures, and the government promised first education decisions to school groups on Monday, 26 October.",
           "confidenceLevel": "High",
           "flag": "NEW THIS UPDATE",
@@ -334,7 +334,7 @@
         {
           "kind": "Security",
           "time": "18 Oct 20:00–21 Oct 16:36",
-          "title": "Paris and Lyon Renew Curfews for a Third Straight Night",
+          "title": "French Cities Paris and Lyon Renew Curfews for a Third Straight Night",
           "lede": "Lyon's prefect said neither earlier night saw any disorder and pushed the start back two hours to 23:00, while Paris again barred undeclared gatherings from 20:00.",
           "confidenceLevel": "High",
           "flag": "FOLLOW UP TO PREVIOUS REPORT",
@@ -352,7 +352,7 @@
         {
           "kind": "Unrest",
           "time": "20 Oct 06:56–21 Oct 15:37",
-          "title": "Lisbon Court Postpones Hearings for 55 Rossio Detainees to 27 October",
+          "title": "Portuguese Court Postpones Hearings for 55 Lisbon Rossio Detainees to 27 October",
           "lede": "Only 25 of those summoned turned up on Wednesday morning, and the movement said it would weigh the interior minister's warnings before pitching tents again.",
           "confidenceLevel": "Moderate",
           "flag": "FOLLOW UP TO PREVIOUS REPORT",
@@ -388,7 +388,7 @@
         {
           "kind": "Security",
           "time": "19 Oct 09:32–21 Oct 11:46",
-          "title": "Darmanin Puts Riot Jailings at 174 as Paris Prosecutors Break Down Cases",
+          "title": "Darmanin Puts France's Riot Jailings at 174 as Paris Prosecutors Break Down Cases",
           "lede": "Of 557 people held in Paris, 433 were adults, and about 60 percent were sent before a court or magistrate, including 53 for immediate trial.",
           "confidenceLevel": "High",
           "flag": "FOLLOW UP TO PREVIOUS REPORT",
@@ -406,7 +406,7 @@
         {
           "kind": "Disaster",
           "time": "19 Oct–20 Oct 21:43",
-          "title": "Sánchez Pledges Disaster-Zone Status After Storm Adam Kills Seven",
+          "title": "Spain's Sánchez Pledges Disaster-Zone Status After Storm Adam Kills Seven",
           "lede": "Two of the seven deaths, a farmer in the Pego-Oliva marsh and a man found off Menorca, are still being checked for a link to the storm.",
           "confidenceLevel": "Moderate",
           "sections": [
@@ -687,7 +687,7 @@
         {
           "kind": "Politics",
           "time": "20 Oct 20:25",
-          "title": "Vučić Pledges €1.3 Billion for Hospitals in Final Pre-Election TV Pitch",
+          "title": "Serbia's Vučić Pledges €1.3 Billion for Hospitals in Final Pre-Election TV Pitch",
           "lede": "Speaking on public broadcaster RTS five days before the 25 October vote, he also forecast average pensions of €600 and said fixing water supply needs over €15 billion.",
           "confidenceLevel": "Moderate",
           "flag": "single-source, unconfirmed",
@@ -803,7 +803,7 @@
           "kind": "Security",
           "time": "19 Oct 21:00–20 Oct 17:29",
           "title": "Lawyer Says Jailed Peikrishvili Was Beaten; Prison Service Says He Self-Harmed",
-          "lede": "The lawyer named cellmates long linked to the criminal underworld, and the inmate's mother said they demanded his phone passcode; the service called the claims a smear.",
+          "lede": "The lawyer named cellmates long linked to the criminal underworld, and the inmate's mother said they demanded his phone passcode; Georgia's prison service called the claims a smear.",
           "confidenceLevel": "High",
           "sections": [
             {
@@ -827,7 +827,7 @@
           "kind": "Baden-Württemberg",
           "time": "21 Oct 14:00–16:19",
           "title": "Baden-Württemberg Ministries and Universities Pull Websites Offline over PHP Flaw",
-          "lede": "The federal cyber agency expects attackers to exploit the flaw within hours of the 16:00 patch release, so state bodies shut sites until updates are installed.",
+          "lede": "Germany's federal cyber agency expects attackers to exploit the flaw within hours of the 16:00 patch release, so state bodies shut sites until updates are installed.",
           "confidenceLevel": "High",
           "flag": "NEW THIS UPDATE",
           "sections": [
@@ -898,13 +898,13 @@
         {
           "kind": "Politics",
           "time": "20 Oct 18:42–21 Oct 14:16",
-          "title": "Finance Ministry Admits Error Putting Tobacco Tax Rise in Force Early",
+          "title": "German Finance Ministry Admits Error Putting Tobacco Tax Rise in Force Early",
           "lede": "Industry groups warned the wording would apply rates meant for 2030 at once, but the ministry says deliveries continue and the higher rates start in January 2027.",
           "confidenceLevel": "High",
           "sections": [
             {
               "kicker": "Reporting",
-              "text": "The tobacco tax reform published in the Federal Law Gazette on Tuesday enters into force 'on the day after promulgation', 21 October, not 1 January 2027 as planned, dpa and ARD reported [12] [13]. A Finance Ministry spokesman confirmed a 'technical error' and said a correction has been started [12] [13]. Customs has been informed, factories may keep delivering, and cigarettes in shops remain on sale, the ministry said [12] [13]. On Wednesday a ministry spokesman said the higher rates will apply only from 1 January 2027 and that the government is weighing whether a clarification suffices without a new Bundestag vote; FDP leader Wolfgang Kubicki said only the Bundestag can correct the error [13] [14]. Two industry associations criticised the drafting [12]. The reform raises the tax in steps to 2030, which could lift a pack of 20 by about €4 to €11.78 [12] [13]. Customs says current rates apply until 31 December, with new rates from 1 January 2027, or 1 March 2027 for cigars and pipe tobacco [15]. No formal Gazette correction was found by the cutoff."
+              "text": "The tobacco tax reform published in the Federal Law Gazette on Tuesday enters into force 'on the day after promulgation', 21 October, not 1 January 2027 as planned, dpa and ARD reported [12] [13]. A Finance Ministry spokesman confirmed a 'technical error' and said a correction has been started [12] [13]. Customs has been informed, factories may keep delivering, and cigarettes in shops stay on sale, the ministry said [12] [13]. On Wednesday a ministry spokesman said the higher rates will apply only from 1 January 2027 and that the government is weighing whether a clarification suffices without a new Bundestag vote; FDP leader Wolfgang Kubicki said only the Bundestag can correct the error [13] [14]. Two industry associations criticised the drafting [12]. The reform raises the tax in steps to 2030, which could lift a pack of 20 by about €4 to €11.78 [12] [13]. Customs says current rates apply until 31 December, with new rates from 1 January 2027, or 1 March 2027 for cigars and pipe tobacco [15]. No formal Gazette correction was found."
             },
             {
               "kicker": "Confidence",
@@ -917,7 +917,7 @@
           "kind": "Baden-Württemberg",
           "time": "20 Oct 18:41",
           "title": "Biberach Machine Maker Vollmer Files for Insolvency, Putting 450 Jobs at Risk",
-          "lede": "A court in Ravensburg allowed the century-old firm to restructure under its own management, with wages covered for three months and the business running as normal.",
+          "lede": "A court in Ravensburg, Germany, allowed the century-old firm to restructure under its own management, with wages covered for three months and the business running as normal.",
           "confidenceLevel": "High",
           "sections": [
             {
