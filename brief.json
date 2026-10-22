@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-22T04:48:54+02:00",
+ "generatedAt": "2026-10-22T06:51:58+02:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Thursday, 22 October 2026, 05:10 CEST",
  "windowLabel": "21 Oct 2026 05:10 CEST → 22 Oct 2026 05:10 CEST",
@@ -277,38 +277,110 @@
    "heading": "Politics, security, and defense across the EU and NATO's European members",
    "items": [
     {
-     "kind": "Politics",
-     "time": "21 Oct 18:34–21 Oct 18:38",
-     "title": "France's Assembly Opens Riot Inquiry as Le Pen's RN Boycotts It",
-     "lede": "Lawmakers picked three rapporteurs from Horizons, the Socialists, and the Ecologists, and the far-right party said the panel would only be used to blame police.",
+     "kind": "Defence",
+     "time": "22 Oct 01:01–22 Oct 04:09",
+     "title": "UK Lawmakers Warn of 'Glaring Gaps' in Britain's Arctic Defences Against Russia",
+     "lede": "The Commons Defence Committee cited too few warships, low submarine availability, and a lost ability to operate under ice, while the defence ministry pointed to new investment.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The National Assembly's law committee in France formally took on the powers of a commission of inquiry into the violence around the 17 and 18 October protests on Wednesday afternoon [1]. In a three-round secret ballot it named Agnès Firmin Le Bodo of Horizons, Roger Vicot of the Socialists, and Pouria Amirshahi of the Ecologists as rapporteurs, under chairman Vincent Caure of Renaissance [1][2]. The rapporteurs can inspect documents and sites, except where defence secrecy applies, and will write the final report [1]. Marine Le Pen said on X that the left had 'manoeuvred' to deny the RN a rapporteur, called the panel 'a leftist echo chamber' aimed at 'burdening the police', and said 'we will not take part in this masquerade' [2]. The RN called its exclusion 'lunar' [1]. No date for the first hearings was found by the cutoff."
+       "text": "The UK House of Commons Defence Committee said in a report published on Thursday that Britain has 'glaring gaps' in its ability to defend the High North, leaving undersea cables, energy supplies, and the nuclear deterrent exposed to Russia [1][2]. It said the Royal Navy has five Type 23 frigates and six Type 45 destroyers, just over half its requirement of 19, and found 'shockingly low availability' of submarines and a temporary loss of the ability to operate them beneath Arctic ice [2][1]. Chairman Tan Dhesi said work on the gaps 'cannot start soon enough' if Russia could attack NATO by 2030 [1][2]. The committee asked whether the UK-led Joint Expeditionary Force should focus more on the High North, and Dhesi said Britain might need to reinforce its army presence in Estonia to offset that [2]. The Ministry of Defence said it was 'clear-eyed' about the threat and cited £1.5 billion for its Atlantic Bastion programme and £330 million for undersea infrastructure [2][1]. The report came days after HMS Prince of Wales left Portsmouth on Sunday for an Arctic and North Atlantic deployment [2]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high, because Le Figaro, with AFP, and BFMTV report the vote and Le Pen's statement."
+       "text": "Confidence is high, because the committee and the ministry spoke on record and the BBC and The Independent agree. The fleet figures are the committee's."
+      }
+     ]
+    },
+    {
+     "kind": "Unrest",
+     "time": "21 Oct 19:45–22 Oct 00:04",
+     "title": "Italy's Meloni Convenes Cabinet as Truckers' Fuel-Price Blockades Paralyse the South",
+     "lede": "The interior ministry has identified 1,339 protesters and filed complaints against 71, as fuel runs short at southern airports and supermarket shelves empty in Campania, Puglia, and Calabria.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Italy's Prime Minister Giorgia Meloni called a cabinet meeting for Thursday to approve a decree with support for road hauliers and new money for farmers, as truckers protesting fuel costs kept up road blockades across the south [3][4]. The Interior Ministry said 1,339 people had been identified, 71 reported for criminal offences, and 242 fined, and police escorted about 500 trucks in Campania [3]. The mayors of Naples and Bari described 'paralysed cities submerged in rubbish' [3]. Fuel ran out at the Crotone and Reggio Calabria airports, and the air navigation service ENAV warned airlines of limited jet fuel at four southern airports [3][5]. Meloni met her deputies Antonio Tajani and Matteo Salvini and Interior Minister Matteo Piantedosi on Wednesday evening, and government sources cited fears of criminal infiltration of the protests [6][5]. Hauliers' groups lifted blockades in Sicily and Calabria ahead of a 27 October meeting with Salvini, while blockades in Campania continued [5]. Opposition leaders Giuseppe Conte and Elly Schlein demanded that Meloni brief parliament [5]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high, because the Interior Ministry and Palazzo Chigi spoke on record and ANSA and Adnkronos agree. The decree's contents were not final by the cutoff."
       }
      ]
     },
     {
      "kind": "Security",
-     "time": "21 Oct 16:49–21 Oct 17:57",
-     "title": "French Prefecture Websites Go Offline After a Critical Software Flaw Alert",
-     "lede": "The interior ministry said the shutdown was preventive, and curfew and protest-ban orders moved to social media and posted notices until a patch arrives.",
+     "time": "21 Oct 15:19–21 Oct 22:54",
+     "title": "EU Agencies Urge Rapid PHP Fixes as European Governments Take Websites Offline",
+     "lede": "The Netherlands, France, Belgium, Finland, and the Czech Republic shut state sites as a precaution, and Dutch and US cyber agencies said they had seen no active exploitation.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "France's Interior Ministry took all its exposed websites, including those of every prefecture and the Paris police prefecture, offline on Wednesday afternoon at the request of the national cyber agency ANSSI [2][1]. The ministry said a 'critical security vulnerability' had been announced hours earlier by the publisher of a widely used generic software component [2][1]. The CERT-FR alert centre flagged flaws in a programming language used across much of the web, Le Figaro reported [1]. Teams will apply updates once the publisher releases a fix, and prefectures will post orders on social media and by public notice meanwhile [1][2]. The outage came as curfew and protest-ban orders were due to be published [2]. The Bouches-du-Rhône prefecture posted its curfew maps on social media because its site was unreachable [2]. No report of an intrusion was found by the cutoff."
+       "text": "The European Commission, the EU cyber agency ENISA, CERT-EU, Europol, and the EU's national response teams said on Wednesday that two critical flaws in PHP, a language widely used for websites, could let attackers run code remotely without authentication, and urged organisations to apply the fixes released at 15:40 CEST or isolate exposed systems [7]. In the Netherlands, the national cyber centre advised site owners to consider going offline, and Overheid.nl, MijnOverheid, and DigiD were pulled [8]. MijnOverheid and DigiD were back by evening, but Overheid.nl was still down at 22:54 [9][10]. France's Interior Ministry took prefecture websites offline, and Belgium's foreign ministry did the same, though Belgium's cyber centre recorded no attacks on Belgian sites [11]. Finland's state IT centre shut public government web services, and the Czech government took its site down at 19:00 [11]. NOS reported Belgian and French government sites still unavailable late on Wednesday [10]. Cloudflare's technology chief said early attacks were emerging [12]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high, because the Interior Ministry stated it on record and BFMTV and Le Figaro agree. The software component was not named."
+       "text": "Confidence is high, because the EU bodies and the Dutch government stated it on record and Reuters, NOS, and CNBC agree. The scale of any exploitation is unclear."
+      }
+     ]
+    },
+    {
+     "kind": "Politics",
+     "time": "21 Oct 11:10–21 Oct 17:45",
+     "title": "Spain's Constitutional Court Leaves About 163,000 New Citizens' Votes in Doubt",
+     "lede": "Judges voted 10 to 2 that the ombudsman's appeal was premature, sending the suspension of voting rights under the 'grandchildren's law' back to the Supreme Court.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Spain's Constitutional Court on Wednesday rejected, by 10 votes to 2, an appeal by ombudsman Ángel Gabilondo against the Supreme Court's provisional suspension of voting rights for people naturalized under the Democratic Memory Law [13][14]. The majority found the appeal premature because the Supreme Court is still taking submissions from those affected, and two progressive judges, Juan Carlos Campo and Ramón Sáez, dissented [13][14]. The Supreme Court's suspension covers 163,020 people, according to government figures cited in its orders, who cannot vote in the 29 November general election unless consulates certify that they descend from exiles [14]. Gabilondo said he respected the decision but was concerned that citizens would lose a fundamental right [14]. The government said the ruling was procedural, did not address the merits, and that 'all Spanish nationals have the right to vote' [13][14]. Vox, which had asked the Constitutional Court to reject the appeal, was among those that brought the original Supreme Court challenge [14][13]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high, because the Constitutional Court's decision and the government's and ombudsman's responses are on record and El País and RTVE agree. The 163,020 figure rests on RTVE's report of the Supreme Court's orders; El País gives a round 160,000."
+      }
+     ]
+    },
+    {
+     "kind": "Politics",
+     "time": "21 Oct 11:56–22 Oct 04:52",
+     "title": "Macron Summons Intelligence Chiefs After Ruling Out a French State of Emergency",
+     "lede": "The Élysée said Thursday's 10:00 security council will review the failures behind last weekend's riots, while Lecornu receives party leaders and the Paris, Lyon, and Marseille mayors.",
+     "confidenceLevel": "High",
+     "flag": "FOLLOW UP TO PREVIOUS REPORT",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "President Emmanuel Macron told reporters in Doha on Wednesday that France 'does not need a state of emergency' because prefects can already order curfews and gathering bans, though the decision 'could be taken' if the situation justified it [15][16]. The Élysée said late on Wednesday that he would chair a security council at 10:00 on Thursday with Prime Minister Sébastien Lecornu and the intelligence services to review 'the dysfunctions' behind last weekend's events and plan security for the coming weeks [17]. Macron said people 'will be prevented from causing disorder next Saturday' [18]. Lecornu was due to receive the parties at Matignon early on Thursday afternoon with Interior Minister Laurent Nuñez, Justice Minister Gérald Darmanin, and intelligence and police chiefs, and to meet the mayors of Paris, Lyon, and Marseille [19]. On Wednesday, the National Assembly's law committee took on inquiry powers into the 17 and 18 October violence, and Marine Le Pen said her RN would boycott the 'masquerade' after it was denied a rapporteur [20][21]. Former president François Hollande called the government weak, and Le Pen said it 'has lost control of everything' [16][22]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high, because Macron spoke on camera, the Élysée announced the council on record, and RFI, BFMTV, franceinfo, France 24, and Le Figaro agree."
+      }
+     ]
+    },
+    {
+     "kind": "Unrest",
+     "time": "20 Oct 06:56–22 Oct 01:45",
+     "title": "Portuguese Protesters Strike Rossio Tents but Vote to Sleep in the Square",
+     "lede": "A Lisbon assembly backed the open-air option with 338 votes after police set a deadline, and the movement has called a Saturday march and urged a general strike.",
+     "confidenceLevel": "Moderate",
+     "flag": "FOLLOW UP TO PREVIOUS REPORT",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Protesters in Lisbon, Portugal, voted at an assembly early on Thursday to take down their tents in Rossio square and sleep in the open, after the PSP police warned that gatherings in public places were not permitted and set 00:30 Lisbon time as the deadline for removing the tents, RTP reported [23]. The option won 338 votes, ahead of leaving or keeping the tents behind a human cordon [23]. Earlier on Wednesday night, an assembly had voted to camp again but not to resist removal, Expresso reported [24]. Interior Minister Luís Neves had said the PSP would act 'pre-emptively' and not allow tents [25][23]. The 55 people detained on Tuesday will be heard on 27 October [24][26]. The movement called a march from Marquês de Pombal to Rossio at 15:00 on Saturday and urged a general strike [24]. Near 22:00, PSP officers escorted a man waving an Israeli flag into the metro after protesters pushed him out [24]. No police removal of the camp was found by the cutoff."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence on the overnight vote is moderate, because it rests on RTP's live report. Confidence on the earlier vote, the detentions, and the hearing date is high."
       }
      ]
     },
@@ -322,29 +394,11 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "France's Interior Minister Laurent Nuñez sent instructions to prefects ahead of Saturday's protests, asking them to ban gatherings 'likely to disturb public order', BFMTV reported [2]. The Seine-Maritime prefect banned protests in central Rouen and Le Havre on 24 October from 09:00 to 20:00, recalling that 18 people, including a mobile gendarme, were hurt there on 17 October [1][2]. Toulon banned protests from 11:00 to 23:59 and imposed a minors' curfew from 18:00; Chambéry barred marches from 08:00 to 22:00 [2][1]. Grenoble's prefect banned all gatherings in part of the centre from Thursday 06:00 to Sunday 06:00 [2][1]. The Paris prefecture banned a Thursday march by Interfac IDF, and the Rhône prefect banned a Unef and NPA march in Lyon [2][1]. Student groups called the bans 'repressive' and said more of them would march on Saturday [2]. Nuñez told senators 'several tens of thousands' of counter-protesters were expected at the RN congress in Orléans [1][2]. A Senate report offered 30 proposals, including a one-year prison term for joining a banned protest [2]."
+       "text": "France's Interior Minister Laurent Nuñez sent instructions to prefects ahead of Saturday's protests, asking them to ban gatherings 'likely to disturb public order', BFMTV reported [21]. The Seine-Maritime prefect banned protests in central Rouen and Le Havre on 24 October from 09:00 to 20:00, recalling that 18 people, including a mobile gendarme, were hurt there on 17 October [20][21]. Toulon banned protests from 11:00 to 23:59 and imposed a minors' curfew from 18:00; Chambéry barred marches from 08:00 to 22:00 [21][20]. Grenoble's prefect banned all gatherings in part of the centre from Thursday 06:00 to Sunday 06:00 [21][20]. The Paris prefecture banned a Thursday march by Interfac IDF, and the Rhône prefect banned a Unef and NPA march in Lyon [21][20]. Student groups called the bans 'repressive' and said more of them would march on Saturday [21]. Nuñez told senators 'several tens of thousands' of counter-protesters were expected at the RN congress in Orléans [20][21]. A Senate report offered 30 proposals, including a one-year prison term for joining a banned protest [21]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is high, because prefectures and the minister spoke on record and BFMTV and Le Figaro agree. Nuñez's instructions to prefects rest on BFMTV's summary."
-      }
-     ]
-    },
-    {
-     "kind": "Unrest",
-     "time": "20 Oct 06:56–21 Oct 23:05",
-     "title": "Portuguese Protesters Pitch Tents in Rossio Again, Vowing No Resistance",
-     "lede": "After the 55 arrests, a Lisbon assembly voted to let police remove the tents if ordered, and called a Saturday march and a general strike.",
-     "confidenceLevel": "Moderate",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Protesters in Lisbon, Portugal, voted at a confused and tense assembly on Wednesday night to camp in Rossio square again, but not to resist if authorities ordered them out, Expresso reported [3]. The change followed the detention of 55 people by the PSP police early on Tuesday; their court hearings were postponed to 27 October [3][4]. The assembly called a march from Marquês de Pombal to Rossio at 15:00 on Saturday, urged a general strike, and proposed a solidarity rally at the Justice Campus on Tuesday [3]. Near 22:00, protesters pushed out a man waving an Israeli flag, and PSP riot officers formed a cordon and escorted him into the metro without further incident [3]. Speakers criticized Defence Minister Nuno Melo for questioning protesters' accents [3]. No police removal of the camp was found by the cutoff."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence on the camp and the vote is moderate, because they rest on Expresso's on-site report. Confidence on the earlier detentions and postponement is high."
       }
      ]
     },
@@ -358,7 +412,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "France's Justice Minister Gérald Darmanin said in Marseille on Wednesday that 2,500 people had been held in police custody since the violence began, and 174 had been jailed for receiving stolen goods or assault [2][1]. He said many looters 'of all ages, all sexes, all neighbourhoods' had no criminal record [1]. The Paris prosecutor's office said 433 of its 557 custody cases were adults, about 60 percent were referred to court, and 28 people were sentenced on Tuesday, four of them to prison without suspension [1]. The Paris police prefecture's new reporting platform received 350 looting videos by Wednesday evening, which about 200 investigators will review with CCTV and social media footage [2]. In Grenoble, the prefect reported 66 arrests and 64 custody cases from 17 October [1]. A Bordeaux student arrested inside the Gironde prefect's residence received a six-month suspended sentence, and prosecutors appealed [2]."
+       "text": "France's Justice Minister Gérald Darmanin said in Marseille on Wednesday that 2,500 people had been held in police custody since the violence began, and 174 had been jailed for receiving stolen goods or assault [21][20]. He said many looters 'of all ages, all sexes, all neighbourhoods' had no criminal record [20]. The Paris prosecutor's office said 433 of its 557 custody cases were adults, about 60 percent were referred to court, and 28 people were sentenced on Tuesday, four of them to prison without suspension [20]. The Paris police prefecture's new reporting platform received 350 looting videos by Wednesday evening, which about 200 investigators will review with CCTV and social media footage [21]. In Grenoble, the prefect reported 66 arrests and 64 custody cases from 17 October [20]. A Bordeaux student arrested inside the Gironde prefect's residence received a six-month suspended sentence, and prosecutors appealed [21]."
       },
       {
        "kicker": "Confidence",
@@ -376,7 +430,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "France renewed localized curfews for the night of 21 to 22 October: Paris barred everyone from parts of the city, including Place de la République, from 23:00 to 06:00 for a third night, and Lyon's Presqu'île curfew ran from 23:00 [5][6]. The Rhône prefect said the targeted curfews had 'contributed to the calm' [5]. The Nord prefect extended minors-only curfews in Lille, Douai, Denain, and Wattignies from 20:00 to 06:00 until Friday morning, and banned protest gatherings in Lille and Wattignies on Thursday from 07:00 to 22:00 [1][2]. Marseille's minors-only curfew covered the city centre, several shopping centres, Plan-de-Campagne, and part of Aubagne [5][2]. The RATP closed access to the Châtelet, République, and Les Halles stations from 22:00 at the police prefecture's request [2]. Paris also banned undeclared gatherings on Thursday from 08:00 to 20:00 around the Élysée, Matignon, parliament, the Louvre, and the railway stations [1][2]. No police report of disorder or arrests overnight was found by the cutoff."
+       "text": "France renewed localized curfews for the night of 21 to 22 October: Paris barred everyone from parts of the city, including Place de la République, from 23:00 to 06:00 for a third night, and Lyon's Presqu'île curfew ran from 23:00 [27][16]. The Rhône prefect said the targeted curfews had 'contributed to the calm' [27]. The Nord prefect extended minors-only curfews in Lille, Douai, Denain, and Wattignies from 20:00 to 06:00 until Friday morning, and banned protest gatherings in Lille and Wattignies on Thursday from 07:00 to 22:00 [20][21]. Marseille's minors-only curfew covered the city centre, several shopping centres, Plan-de-Campagne, and part of Aubagne [27][21]. The RATP closed access to the Châtelet, République, and Les Halles stations from 22:00 at the police prefecture's request [21]. Paris also banned undeclared gatherings on Thursday from 08:00 to 20:00 around the Élysée, Matignon, parliament, the Louvre, and the railway stations [20][21]. No police report of disorder or arrests overnight was found by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -393,45 +447,11 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Prime Minister Sébastien Lecornu met the CFDT, CGT, FO, CFTC, and CFE-CGC unions at Matignon for about two and a half hours on Wednesday, with Interior Minister Laurent Nuñez present; high-school students were not invited [6]. 'The time has come to step up the mobilization; the strike must take over,' Binet said, calling for assemblies to spread the strike from the 5 November protest day [6][7]. CFDT leader Marylise Léon said the government was 'not really in tempo', and SNES-FSU leader Sophie Vénétitay called for 'a very big strike' [7]. Binet said the CGT would march on Saturday to protect young people and workers [6]. Education Minister Édouard Geffray told parliament the government would present decisions on class sizes, teacher replacement, and the Parcoursup admissions system on 26 October [6]. The yellow-vest coordination filed notice for a Paris march from Bastille to Opéra on 24 October, organiser Benjamin Ball said [6][7]. Lecornu told parliament the far left seeks 'to pollute the presidential election' [8][7]."
+       "text": "Prime Minister Sébastien Lecornu met the CFDT, CGT, FO, CFTC, and CFE-CGC unions at Matignon for about two and a half hours on Wednesday, with Interior Minister Laurent Nuñez present; high-school students were not invited [16]. 'The time has come to step up the mobilization; the strike must take over,' Binet said, calling for assemblies to spread the strike from the 5 November protest day [16][22]. CFDT leader Marylise Léon said the government was 'not really in tempo', and SNES-FSU leader Sophie Vénétitay called for 'a very big strike' [22]. Binet said the CGT would march on Saturday to protect young people and workers [16]. Education Minister Édouard Geffray told parliament the government would present decisions on class sizes, teacher replacement, and the Parcoursup admissions system on 26 October [16]. The yellow-vest coordination filed notice for a Paris march from Bastille to Opéra on 24 October, organiser Benjamin Ball said [16][22]. Lecornu told parliament the far left seeks 'to pollute the presidential election' [18][22]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is high, because union leaders and ministers spoke on record and RFI, franceinfo, and CNEWS agree."
-      }
-     ]
-    },
-    {
-     "kind": "Politics",
-     "time": "21 Oct 11:56",
-     "title": "Macron Rejects State of Emergency and Orders Intelligence Review of Riots",
-     "lede": "Speaking in Qatar, the president kept that option open if conditions worsen and vowed that troublemakers would be stopped at Saturday's protests.",
-     "confidenceLevel": "High",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "President Emmanuel Macron told reporters in Doha on Wednesday that France 'does not need a state of emergency' because prefects can already order curfews and gathering bans, which he said had restored calm since Monday [9][6]. He said the decision 'could be taken' if the situation justified it [9]. He announced a Thursday morning meeting with intelligence services, Prime Minister Sébastien Lecornu, and the relevant ministers for a detailed account of 17 October, saying transparency was needed [6][7]. 'The hand must not tremble at the top of the state,' he said, defending staying on his Gulf tour to secure fuel supplies [6]. He said people 'will be prevented from causing disorder next Saturday' [8]. He condemned politicians who had been 'ambiguous' about violence and denounced 'foreign manipulation of information' and 'stupid' comments by foreign leaders [6][9]. Former president François Hollande called the government weak and the president absent, and Marine Le Pen said the government 'has lost control of everything' [6][7]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high, because Macron spoke on camera and RFI, BFMTV, franceinfo, and CNEWS report the same remarks."
-      }
-     ]
-    },
-    {
-     "kind": "Security",
-     "time": "20 Oct 22:40–21 Oct 10:42",
-     "title": "French Air Force Loses Mirage 2000D on Night Training Flight Near Nancy",
-     "lede": "A trainee pilot and a veteran instructor from the Nancy-Ochey base were aboard, and the air force confirmed one death while searchers looked for the second airman.",
-     "confidenceLevel": "High",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "A Mirage 2000D returning to the Nancy-Ochey air base from a night training flight crashed at about 22:40 on Tuesday in woods between Domèvre and Tremblecourt, near Rogéville in Meurthe-et-Moselle, the air force said [10][11]. Witnesses reported a loud explosion and a fireball [10][11]. One body had been found by Wednesday morning, and the search for the second crew member continued [11][10]. Base commander Colonel Ludovic Humbert said the aircraft was 'very modern', recently upgraded, and 'not necessarily' unreliable [10]. Fog and bad weather kept helicopters out overnight, so about 160 people searched on foot with a drone, prefect Yves Séguy said [10]. The site was placed under military protection for the investigation [10]. No cause had been given by the cutoff."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence on the crash and the death is high, because the air force and the prefect confirmed them on record and TF1 Info and franceinfo agree. The cause is unknown."
       }
      ]
     }
@@ -1267,70 +1287,262 @@
    "theater": "Europe",
    "sources": [
     {
-     "name": "[1] Le Figaro live, with AFP (Lille extension, Grenoble ban and arrests, Rouen injuries, Toulon, inquiry rapporteurs, prefecture websites)",
-     "href": "https://www.lefigaro.fr/actualite-france/en-direct-violences-urbaines-17-octobre-ultragauche-lfi-melenchon-lecornu-couvre-feux-syndicats-20261021",
+     "name": "[1] BBC News (Commons Defence Committee: 'glaring gaps' in UK Arctic defence)",
+     "href": "https://www.bbc.com/news/articles/cmj471wgpky7o",
      "status": "used",
-     "note": "21 Oct 06:37–22:47 CEST posts read"
+     "note": "22 Oct 02:09 UTC = 04:09 CEST"
     },
     {
-     "name": "[2] BFMTV live (curfews, Saturday bans, Nuñez instructions to prefects, 2,500 custody cases, 350 looting videos, prefecture websites offline, inquiry)",
-     "href": "https://www.bfmtv.com/politique/direct-violences-du-17-octobre-nouvelle-nuit-de-couvre-feu-dans-plusieurs-villes-sebastien-lecornu-recoit-les-organisations-syndicales_LN-202610210076.html",
+     "name": "[2] The Independent, with PA (Defence Committee High North report; fleet figures; MoD response)",
+     "href": "https://www.independent.co.uk/news/uk/politics/uk-military-defence-armed-forces-russia-high-north-b3070804.html",
      "status": "used",
-     "note": "21 Oct 06:20–22 Oct 00:20 CEST posts read"
+     "note": "22 Oct 00:01 BST = 01:01 CEST (report embargo)"
     },
     {
-     "name": "[3] Expresso via SAPO (Rossio camp returns without resistance; Saturday march called)",
-     "href": "https://sapo.pt/artigo/tendas-de-volta-ao-rossio-mas-nao-havera-resistencia-momento-de-tensao-envolveu-manifestante-pro-israel-6ad93d977bb353707c2be5b6",
+     "name": "[3] ANSA (truck blockades spread; Viminale: 1,339 identified, 71 reported, 242 fined; Meloni calls cabinet)",
+     "href": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/protesta-autotrasporto-dilagano-blocchi-tir-denunce-e-pugno-duro-del-governo_9c1d4f81-b58b-423e-aef2-9fa4b224c7bf.html",
      "status": "used",
-     "note": "21 Oct 23:05 CEST"
+     "note": "21 Oct 23:28 CEST"
     },
     {
-     "name": "[4] RTP, with Lusa (court postpones hearings of 55 Rossio detainees to 27 October)",
-     "href": "https://www.rtp.pt/noticias/pais/tribunal-adia-audicao-dos-55-detidos-em-lisboa-para-dia-27_n1773233",
+     "name": "[4] ANSA English (Meloni calls Thursday cabinet on decree for road haulage and farming)",
+     "href": "https://www.ansa.it/english/news/politics/2026/10/21/meloni-calls-cabinet-meet-thursday-on-decree-for-road-haulage-and_2b446f37-e0b4-453b-9969-ac55dc866455.html",
      "status": "used",
-     "note": "21 Oct 15:37 CEST; carried; re-checked this run"
+     "note": "21 Oct 19:45 CEST"
     },
     {
-     "name": "[5] franceinfo, with AFP (curfews renewed Wednesday night in Paris, Lyon, Marseille, and the Nord)",
-     "href": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/nouveaux-couvre-feux-decretes-mercredi-soir-dans-certains-secteurs-de-plusieurs-villes-dont-paris-et-lyon_8247457.html",
+     "name": "[5] Adnkronos (cabinet decree today; Sicily and Calabria blockades suspended; southern airports short of jet fuel; Conte and Schlein demand briefing)",
+     "href": "https://www.adnkronos.com/economia/protesta-tir-agricoltori-decreto-meloni-news_5NYFqizQdjGBaY3yciWdO4",
      "status": "used",
-     "note": "21 Oct 16:23, updated 21:13 CEST"
+     "note": "22 Oct 00:04 CEST"
     },
     {
-     "name": "[6] RFI French live (Macron in Doha, Matignon union meeting, Paris prosecutor breakdown, new Paris curfew, education decisions)",
-     "href": "https://www.rfi.fr/fr/france/20261021-direct-france-apr%C3%A8s-une-nouvelle-nuit-sous-couvre-feu-le-premier-ministre-re%C3%A7oit-les-syndicats",
+     "name": "[6] ANSA (government fears criminal infiltration; Palazzo Chigi meeting with Tajani, Salvini, and Piantedosi)",
+     "href": "https://www.ansa.it/sito/notizie/politica/2026/10/21/governo-teme-infiltrazioni-criminali.-la-preoccupazione-della-premier_3f396837-7dfc-4719-a9e6-6c8a80f5da14.html",
      "status": "used",
-     "note": "21 Oct 08:07–16:36 CEST posts read; with AFP; carried; re-checked this run"
+     "note": "21 Oct 21:46 CEST"
     },
     {
-     "name": "[7] franceinfo live (unions call 5 November strike; Darmanin 174 jailed; Nuñez rules out state of emergency; 30 new looting suspects)",
-     "href": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-sebastien-lecornu-recoit-les-organisations-syndicales-apres-une-nouvelle-nuit-de-couvre-feux_8246746.html",
+     "name": "[7] ENISA, with the European Commission (DG CNECT), CERT-EU, Europol EC3, and the EU CSIRTs network: joint statement on critical PHP vulnerabilities",
+     "href": "https://www.enisa.europa.eu/news/joint-statement-on-critical-php-vulnerabilities",
      "status": "used",
-     "note": "21 Oct 07:32–16:31 CEST; carried; re-checked this run"
+     "note": "21 Oct 2026; official EU statement"
     },
     {
-     "name": "[8] CNEWS live, with AFP (Lyon curfew renewed from 23:00; no disorder two nights; Paris prefecture orders; Darmanin on full holding cells)",
-     "href": "https://www.cnews.fr/france/2026-10-21/violences-urbaines-lultragauche-cherche-polluer-lelection-presidentielle-denonce",
+     "name": "[8] Rijksoverheid, Netherlands government (Overheid.nl, MijnOverheid, and DigiD taken offline as a precaution)",
+     "href": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/21/aantal-websites-rijksoverheid-preventief-offline-na-kwetsbaarheden-php",
      "status": "used",
-     "note": "21 Oct 06:52–15:41 CEST; carried; re-checked this run"
+     "note": "21 Oct 15:19 CEST"
     },
     {
-     "name": "[9] BFMTV (Macron: no state of emergency needed)",
+     "name": "[9] NOS liveblog, with ANP (MijnOverheid and DigiD back online; justice minister Van Weel: no signs of active exploitation)",
+     "href": "https://nos.nl/liveblog/2636066-mijnoverheid-en-digid-weer-online-wereldwijd-oproepen-om-beveiligingsupdate-te-installeren",
+     "status": "used",
+     "note": "21 Oct 13:01, updated 21:09 CEST"
+    },
+    {
+     "name": "[10] NOS, with ANP (Overheid.nl still down; Belgian and French government sites still unavailable)",
+     "href": "https://nos.nl/artikel/2636149-nog-altijd-websites-niet-bereikbaar-na-lek-ook-internationaal-nog-problemen",
+     "status": "used",
+     "note": "21 Oct 22:54 CEST"
+    },
+    {
+     "name": "[11] Reuters factbox via Investing.com (websites taken offline over PHP risks: France, Belgium, Netherlands, Finland, Czech Republic, Germany)",
+     "href": "https://www.investing.com/news/stock-market-news/factboxwebsites-taken-offline-over-php-risks-4963631",
+     "status": "used",
+     "note": "21 Oct; updated 15:06 (US Eastern) = 21:06 CEST"
+    },
+    {
+     "name": "[12] CNBC, with Reuters (Cloudflare CTO: early attacks emerging)",
+     "href": "https://www.cnbc.com/2026/10/21/government-websites-go-dark-as-software-flaw-sparks-security-scramble.html",
+     "status": "used",
+     "note": "21 Oct 12:17 EDT = 18:17 CEST"
+    },
+    {
+     "name": "[13] El País (Constitutional Court rejects ombudsman's appeal over the 'ley de nietos' vote suspension, 10 to 2)",
+     "href": "https://elpais.com/espana/2026-10-21/el-constitucional-rechaza-el-amparo-por-la-ley-de-nietos-con-el-voto-en-contra-de-dos-magistrados-progresistas.html",
+     "status": "used",
+     "note": "21 Oct 13:03, updated 14:21 CEST"
+    },
+    {
+     "name": "[14] RTVE (Constitutional Court finds the appeal 'premature'; 163,020 affected; government and ombudsman respond)",
+     "href": "https://www.rtve.es/noticias/20261021/constitucional-voto-ley-nietos/17272287.shtml",
+     "status": "used",
+     "note": "21 Oct 11:10, updated 17:45 CEST"
+    },
+    {
+     "name": "[15] BFMTV (Macron: no state of emergency needed)",
      "href": "https://www.bfmtv.com/politique/elysee/il-faut-savoir-raison-garder-emmanuel-macron-juge-que-le-retour-a-l-ordre-apres-les-violences-du-17-octobre-ne-requiert-pas-l-etat-d-urgence_AV-202610210470.html",
      "status": "used",
      "note": "21 Oct; carried; re-checked this run"
     },
     {
-     "name": "[10] TF1 Info, with AFP (Mirage 2000D crash: one pilot dead, second sought; base commander and prefect)",
-     "href": "https://www.tf1info.fr/justice-faits-divers/un-mort-et-un-2-pilote-toujours-recherche-ce-que-l-on-sait-du-crash-d-un-avion-militaire-pres-de-nancy-2471109.html",
+     "name": "[16] RFI French live (Macron in Doha, Matignon union meeting, Paris prosecutor breakdown, new Paris curfew, education decisions)",
+     "href": "https://www.rfi.fr/fr/france/20261021-direct-france-apr%C3%A8s-une-nouvelle-nuit-sous-couvre-feu-le-premier-ministre-re%C3%A7oit-les-syndicats",
      "status": "used",
-     "note": "21 Oct 07:34, updated 10:42 CEST; carried; re-checked this run"
+     "note": "21 Oct 08:07–16:36 CEST posts read; with AFP; carried; re-checked this run"
     },
     {
-     "name": "[11] franceinfo, France 2 report (crash near Rogéville; first body found)",
-     "href": "https://www.franceinfo.fr/faits-divers/accident/crash-d-un-avion-de-chasse-pres-de-nancy-au-moins-un-mort-les-recherches-se-poursuivent_8246983.html",
+     "name": "[17] franceinfo (Élysée: Macron to chair a security council at 10:00 Thursday with Lecornu and intelligence services)",
+     "href": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-presidera-un-conseil-de-securite-jeudi-matin-en-presence-de-sebastien-lecornu-et-des-services-de-renseignement-annonce-l-elysee_8247982.html",
      "status": "used",
-     "note": "21 Oct 10:13 CEST; carried; re-checked this run"
+     "note": "21 Oct 22:42 CEST"
+    },
+    {
+     "name": "[18] CNEWS live, with AFP (Lyon curfew renewed from 23:00; no disorder two nights; Paris prefecture orders; Darmanin on full holding cells)",
+     "href": "https://www.cnews.fr/france/2026-10-21/violences-urbaines-lultragauche-cherche-polluer-lelection-presidentielle-denonce",
+     "status": "used",
+     "note": "21 Oct 06:52–15:41 CEST; carried; re-checked this run"
+    },
+    {
+     "name": "[19] France 24 French live, with AFP and Reuters (Lecornu to receive parties and the Paris, Lyon, and Marseille mayors; Thursday protest bans)",
+     "href": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
+     "status": "used",
+     "note": "22 Oct 04:48–04:52 CEST posts read"
+    },
+    {
+     "name": "[20] Le Figaro live, with AFP (Lille extension, Grenoble ban and arrests, Rouen injuries, Toulon, inquiry rapporteurs, prefecture websites)",
+     "href": "https://www.lefigaro.fr/actualite-france/en-direct-violences-urbaines-17-octobre-ultragauche-lfi-melenchon-lecornu-couvre-feux-syndicats-20261021",
+     "status": "used",
+     "note": "21 Oct 06:37–22:47 CEST posts read"
+    },
+    {
+     "name": "[21] BFMTV live (curfews, Saturday bans, Nuñez instructions to prefects, 2,500 custody cases, 350 looting videos, prefecture websites offline, inquiry)",
+     "href": "https://www.bfmtv.com/politique/direct-violences-du-17-octobre-nouvelle-nuit-de-couvre-feu-dans-plusieurs-villes-sebastien-lecornu-recoit-les-organisations-syndicales_LN-202610210076.html",
+     "status": "used",
+     "note": "21 Oct 06:20–22 Oct 00:20 CEST posts read"
+    },
+    {
+     "name": "[22] franceinfo live (unions call 5 November strike; Darmanin 174 jailed; Nuñez rules out state of emergency; 30 new looting suspects)",
+     "href": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-sebastien-lecornu-recoit-les-organisations-syndicales-apres-une-nouvelle-nuit-de-couvre-feux_8246746.html",
+     "status": "used",
+     "note": "21 Oct 07:32–16:31 CEST; carried; re-checked this run"
+    },
+    {
+     "name": "[23] RTP live, with Lusa (Rossio assembly votes 338 to take down tents and sleep in the open; PSP 00:30 deadline)",
+     "href": "https://www.rtp.pt/noticias/pais/manifestantes-decidiram-pernoitar-no-rossio-esta-quarta-feira-apesar-dos-alertas-da-psp_e1773164",
+     "status": "used",
+     "note": "21 Oct–22 Oct 00:45 Lisbon (01:45 CEST) posts read"
+    },
+    {
+     "name": "[24] Expresso via SAPO (Rossio camp returns without resistance; Saturday march called)",
+     "href": "https://sapo.pt/artigo/tendas-de-volta-ao-rossio-mas-nao-havera-resistencia-momento-de-tensao-envolveu-manifestante-pro-israel-6ad93d977bb353707c2be5b6",
+     "status": "used",
+     "note": "21 Oct 23:05 CEST"
+    },
+    {
+     "name": "[25] TSF, with Lusa (Interior Minister Luís Neves: PSP will act pre-emptively and not allow tents)",
+     "href": "https://www.tsf.pt/amp/18139404/luis-neves-garante-que-psp-vai-atuar-de-forma-antecipativa-e-nao-vai-permitir-mais-tendas-no-rossio-em-lisboa",
+     "status": "used",
+     "note": "21 Oct 12:17 Lisbon (13:17 CEST)"
+    },
+    {
+     "name": "[26] RTP, with Lusa (court postpones hearings of 55 Rossio detainees to 27 October)",
+     "href": "https://www.rtp.pt/noticias/pais/tribunal-adia-audicao-dos-55-detidos-em-lisboa-para-dia-27_n1773233",
+     "status": "used",
+     "note": "21 Oct 15:37 CEST; carried; re-checked this run"
+    },
+    {
+     "name": "[27] franceinfo, with AFP (curfews renewed Wednesday night in Paris, Lyon, Marseille, and the Nord)",
+     "href": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/nouveaux-couvre-feux-decretes-mercredi-soir-dans-certains-secteurs-de-plusieurs-villes-dont-paris-et-lyon_8247457.html",
+     "status": "used",
+     "note": "21 Oct 16:23, updated 21:13 CEST"
+    },
+    {
+     "name": "TF1 Info, with AFP (Mirage 2000D crash: one pilot dead, second sought; base commander and prefect)",
+     "href": "https://www.tf1info.fr/justice-faits-divers/un-mort-et-un-2-pilote-toujours-recherche-ce-que-l-on-sait-du-crash-d-un-avion-militaire-pres-de-nancy-2471109.html",
+     "status": "reviewed",
+     "note": "21 Oct 07:34, updated 10:42 CEST; Mirage 2000D item dropped under the France cap (Rick, 22 Oct); no new development found"
+    },
+    {
+     "name": "franceinfo, France 2 report (crash near Rogéville; first body found)",
+     "href": "https://www.franceinfo.fr/faits-divers/accident/crash-d-un-avion-de-chasse-pres-de-nancy-au-moins-un-mort-les-recherches-se-poursuivent_8246983.html",
+     "status": "reviewed",
+     "note": "21 Oct 10:13 CEST; Mirage 2000D item dropped under the France cap (Rick, 22 Oct); no new development found"
+    },
+    {
+     "name": "Le Figaro (Paris curfew renewed Wednesday night)",
+     "href": "https://www.lefigaro.fr/actualite-france/violences-urbaines-un-nouveau-couvre-feu-instaure-mercredi-soir-dans-plusieurs-quartiers-de-paris-20261021",
+     "status": "reviewed",
+     "note": "21 Oct; search extract; no overnight disorder report found"
+    },
+    {
+     "name": "UK: BBC News UK page (Jackdaw gas field approved; Storm Austen; RAF Fairford re-arrests)",
+     "href": "https://www.bbc.com/news/uk",
+     "status": "reviewed",
+     "note": "22 Oct about 06:45 CEST; UK breadth check; Jackdaw reviewed, not used (energy licensing; Defence Committee report chosen); RAF Fairford is a Hybrid Warfare matter"
+    },
+    {
+     "name": "UK: The Guardian politics (Jackdaw approval; Rosebank decision pending; Reform UK fined)",
+     "href": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
+     "status": "reviewed",
+     "note": "21 Oct; search extract; UK breadth check; nothing further qualified"
+    },
+    {
+     "name": "Spain: EFE (candidate lists open for the 29 November general election)",
+     "href": "https://efe.com/espana/2026-10-21/inicio-plazo-presentancion-candidaturas-electorales/",
+     "status": "reviewed",
+     "note": "21 Oct; Spain breadth check; procedural, not used"
+    },
+    {
+     "name": "Spain: RTVE (Ceuta has cared for more than 3,300 migrant minors and moved 288)",
+     "href": "https://www.rtve.es/noticias/20261021/menores-migrantes-atendidos-ceuta-son-mas-3300-total-288-han-sido-enviados-a-peninsula/17276598.shtml",
+     "status": "reviewed",
+     "note": "21 Oct; search extract; Spain breadth check; ongoing Ceuta situation with no new decision, not used"
+    },
+    {
+     "name": "Spain: EFE (Constitutional Court to decide on ombudsman's 'ley de nietos' appeal)",
+     "href": "https://efe.com/espana/2026-10-21/constitucional-recurso-defensor-pueblo-ley-nietos/",
+     "status": "reviewed",
+     "note": "21 Oct; search extract; preview, superseded by El País and RTVE"
+    },
+    {
+     "name": "Netherlands: NOS politics page (Tweede Kamer AI-written speeches study)",
+     "href": "https://nos.nl/nieuws/politiek",
+     "status": "reviewed",
+     "note": "22 Oct about 06:45 CEST; Netherlands breadth check; PHP outage used, nothing else qualified"
+    },
+    {
+     "name": "Belgium: VRT NWS live (federal kern meets again on De Wever's new budget proposal)",
+     "href": "https://www.vrt.be/vrtnws/nl/liveblog/kernkabinet-zit-opnieuw-samen-over-nieuw-begrotingsvoorstel-van-~1790599460224/",
+     "status": "reviewed",
+     "note": "21 Oct evening; Belgium breadth check; talks on a 10-billion-euro effort ran overnight with no deal; held for an outcome"
+    },
+    {
+     "name": "Belgium: Le Soir (De Wever hoped for a budget deal overnight; Vandenbroucke refused)",
+     "href": "https://www.lesoir.be/778288/article/2026-10-21/bart-de-wever-esperait-un-accord-budgetaire-au-bout-de-la-nuit-vandenbroucke-le",
+     "status": "reviewed",
+     "note": "21 Oct; search extract; Belgium breadth check; no deal by cutoff"
+    },
+    {
+     "name": "Belgium: La Libre, with Belga (federal talks stall; 'positions remain very far apart')",
+     "href": "https://www.lalibre.be/belgique/politique-belge/2026/10/21/les-negociations-federales-senlisent-les-positions-restent-encore-tres-eloignees-7PQORDJ2QVHEBGUGSCMN6TWRMU/",
+     "status": "reviewed",
+     "note": "21 Oct 06:45 CEST; Belgium breadth check"
+    },
+    {
+     "name": "EU: European Commission press corner (carbon market stability agreement; Booking.com DSA probe; 20.5 million euros for media)",
+     "href": "https://ec.europa.eu/commission/presscorner/home/en",
+     "status": "reviewed",
+     "note": "21 Oct; EU institutions breadth check; routine files, not used"
+    },
+    {
+     "name": "EU: European Parliament plenary votes (2027 budget position adopted 400 to 189, 84 abstentions; employment guidelines rejected 314 to 317)",
+     "href": "https://www.europarl.europa.eu/plenary/en/votes.html",
+     "status": "reviewed",
+     "note": "21 Oct; search extract; EU institutions breadth check; negotiating position only, Council talks from 3 November; not used"
+    },
+    {
+     "name": "EU: EEAS press material (Kallas on Russian strikes on Black Sea shipping; Commission on the US Graham Act waiver)",
+     "href": "https://www.eeas.europa.eu/eeas/press-material_en",
+     "status": "reviewed",
+     "note": "22 Oct about 06:45 CEST; both statements delivered 20 Oct, before the window; Parliament resolution vote on Black Sea attacks due 22 Oct"
+    },
+    {
+     "name": "EU: Council of the EU (joint Costa and von der Leyen statement on the Libya-Türkiye maritime MoU)",
+     "href": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/20/joint-statement-by-the-president-of-the-european-council-and-the-president-of-the-european-commission/",
+     "status": "reviewed",
+     "note": "search extract; Council site timed out; EU institutions breadth check; not used"
     },
     {
      "name": "20 Minutes (curfew map for Wednesday night)",
