@@ -1089,22 +1089,22 @@
      "note": "published 24 Oct 06:51 UTC (07:51 CET); read via curl; Spain and UK breadth check; carried; re-checked this run"
     },
     {
-     "name": "[22] BFMTV, with AFP (Paris court rejects appeals against new march route)",
+     "name": "BFMTV, with AFP (Paris court rejects appeals against new march route)",
      "href": "https://www.bfmtv.com/societe/manifestations/manifestation-du-24-octobre-a-paris-le-tribunal-administratif-rejette-les-recours-contre-le-nouveau-parcours-la-mobilisation-se-tiendra-entre-porte-d-italie-et-porte-de-vincennes_AD-202610240204.html",
-     "status": "used",
-     "note": "24 Oct 10:42 CET; read via curl and search extract; follow-up; re-checked this run"
+     "status": "reviewed",
+     "note": "24 Oct 10:42 CET; read via curl and search extract; follow-up; re-checked this run; cited only by the Paris baton-charge item Rick cut on 25 Oct"
     },
     {
-     "name": "[23] Le Parisien (courts rule on protest bans in Paris, Lyon, Marseille, and Bordeaux)",
+     "name": "Le Parisien (courts rule on protest bans in Paris, Lyon, Marseille, and Bordeaux)",
      "href": "https://www.leparisien.fr/politique/mobilisation-du-24-octobre-paris-lyon-marseille-bordeaux-la-justice-valide-ou-invalide-les-interdictions-de-manifester-24-10-2026-GKJFVNJAYBAU5E4KD3KDORDOGM.php",
-     "status": "used",
-     "note": "24 Oct; search extract; follow-up; re-checked this run"
+     "status": "reviewed",
+     "note": "24 Oct; search extract; follow-up; re-checked this run; cited only by the Paris baton-charge item Rick cut on 25 Oct"
     },
     {
-     "name": "[24] Europe 1 live, with AFP (Nuñez announces 135 arrests at 13:00)",
+     "name": "Europe 1 live, with AFP (Nuñez announces 135 arrests at 13:00)",
      "href": "https://www.europe1.fr/societe/en-direct-manifestations-du-24-octobre-laurent-nunez-annonce-135-interpellations-a-13h-1177791",
-     "status": "used",
-     "note": "live page 24 Oct 05:30 to 15:37 CET; read via curl; follow-up; re-checked this run"
+     "status": "reviewed",
+     "note": "live page 24 Oct 05:30 to 15:37 CET; read via curl; follow-up; re-checked this run; cited only by the Paris baton-charge item Rick cut on 25 Oct"
     },
     {
      "name": "El País (five frantic days in the consulates to meet the Supreme Court ultimatum)",
