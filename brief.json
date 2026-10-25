@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-25T05:07:57+01:00",
+ "generatedAt": "2026-10-25T08:58:17+01:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Sunday, 25 October 2026, 05:10 CET",
  "windowLabel": "24 Oct 2026 05:10 CET → 25 Oct 2026 05:10 CET",
@@ -277,24 +277,6 @@
      ]
     },
     {
-     "kind": "Unrest",
-     "time": "17 Oct 08:30–24 Oct 23:06",
-     "title": "Riot Police Baton-Charge Masked Youths at the End of the Paris March",
-     "lede": "France's Interior Ministry counted 110,000 marchers in Paris, the CGT 250,000, and police arrested 65 there as clashes at Porte de Vincennes lasted about two hours.",
-     "confidenceLevel": "High",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "The Paris administrative court in France on Saturday morning rejected the unions' challenges to the ban on the agreed Bastille to Nation route, and organisers accepted the imposed Porte d'Italie to Porte de Vincennes march [3][4]. The interior ministry estimated 110,000 marchers in Paris and the CGT 250,000 [5]. As the crowd dispersed at Porte de Vincennes, masked protesters threw objects and fireworks at police, who answered with tear gas and water cannon [5][6]. Police baton-charged groups of masked youths smashing the windows of a car dealership, the BBC reported, and AFP reporters saw batons used to push demonstrators back [6][5]. Interior Minister Laurent Nuñez said several thousand radical activists gathered at the rear of the march, including about 500 identified as rioters, and the clashes lasted about two hours [7][6]. Paris police said they checked more than 3,000 people and arrested 65 [5]. The Paris curfew around République and Les Halles stays from 23:00 to 06:00 until Monday [8]. No Paris injury figure was found by the cutoff."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high on the march figures, the clashes, and the arrests, because the ministry, Paris police, and Nuñez spoke on record and AFP and BBC reporters saw the baton charges."
-      }
-     ]
-    },
-    {
      "kind": "Security",
      "time": "23 Oct 11:45–24 Oct 22:42",
      "title": "Milan Prosecutors Detain Alleged Mastermind of Italy's Movimento 17 Ottobre",
@@ -304,7 +286,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Italian police on Saturday night detained Youssef Siher, a 30-year-old Italian researcher considered the mastermind of the Movimento 17 ottobre linked to last weekend's clashes in central Milan, on the order of Milan prosecutors, ANSA reported [9]. He is suspected of incitement to commit crimes aggravated by terrorist aims and of organised violence at public demonstrations under Article 420 bis of the new decree [9]. His wife is under investigation without arrest for the same offences [9]. Earlier he had been questioned at Milan police headquarters while a home was searched, Corriere della Sera reported, citing Tg1 [10]. The 500 Folgore paratroopers sent under the decree patrolled central Milan alongside police, and police took a group of youths from Piazza Duomo for checks [10][11]. Prime Minister Giorgia Meloni said the decree's measures aim to stop violent people setting cities ablaze while guaranteeing the right to protest, and thanked police and Interior Minister Matteo Piantedosi [12]. No national arrest figure was confirmed by the cutoff."
+       "text": "Italian police on Saturday night detained Youssef Siher, a 30-year-old Italian researcher considered the mastermind of the Movimento 17 ottobre linked to last weekend's clashes in central Milan, on the order of Milan prosecutors, ANSA reported [3]. He is suspected of incitement to commit crimes aggravated by terrorist aims and of organised violence at public demonstrations under Article 420 bis of the new decree [3]. His wife is under investigation without arrest for the same offences [3]. Earlier he had been questioned at Milan police headquarters while a home was searched, Corriere della Sera reported, citing Tg1 [4]. The 500 Folgore paratroopers sent under the decree patrolled central Milan alongside police, and police took a group of youths from Piazza Duomo for checks [4][5]. Prime Minister Giorgia Meloni said the decree's measures aim to stop violent people setting cities ablaze while guaranteeing the right to protest, and thanked police and Interior Minister Matteo Piantedosi [6]. No national arrest figure was confirmed by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -322,7 +304,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "French Interior Minister Laurent Nuñez said on Saturday evening that police had made nearly 1,000 arrests, against 385 at the same time on 17 Oct, and that the figure would rise [13][7][14]. He counted 410,000 people at 289 events, against 550,000 at 430 a week earlier; the CGT said 800,000 [14][5]. He said marches passed off well but black-clad ultra-left groups attacked police with an extremely elevated level of violence, while no public buildings were attacked and looting was very limited [7][14]. In Toulouse, a 20-year-old man suffered a serious hand injury during a dispersal, the prefecture said, and it reported 30 arrests and 27 people in custody [5][14]. Marseille's prefecture reported 51 arrests, 20 in custody, and three shops looted as barricades burned [14][6]. In Tours, a bank branch was set on fire and eight police officers were injured, the prefecture said [15]. Nuñez said far-right activists sought clashes in Cannes and Montpellier for the first time and that police would stay on high alert overnight [7]. No final overnight national arrest or custody count was found by the cutoff."
+       "text": "French Interior Minister Laurent Nuñez said on Saturday evening that police had made nearly 1,000 arrests, against 385 at the same time on 17 Oct, and that the figure would rise [7][8][9]. He counted 410,000 people at 289 events, against 550,000 at 430 a week earlier; the CGT said 800,000 [9][10]. He said marches passed off well but black-clad ultra-left groups attacked police with an extremely elevated level of violence, while no public buildings were attacked and looting was very limited [8][9]. In Toulouse, a 20-year-old man suffered a serious hand injury during a dispersal, the prefecture said, and it reported 30 arrests and 27 people in custody [10][9]. Marseille's prefecture reported 51 arrests, 20 in custody, and three shops looted as barricades burned [9][11]. In Tours, a bank branch was set on fire and eight police officers were injured, the prefecture said [12]. Nuñez said far-right activists sought clashes in Cannes and Montpellier for the first time and that police would stay on high alert overnight [8]. No final overnight national arrest or custody count was found by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -340,7 +322,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "A few hundred people gathered on Saturday at the Mont des Arts in Brussels, Belgium, and youths heading for the liberal MR party's headquarters broke a police cordon in Saint-Gilles, where riot police fired tear gas on Chaussée de Forest [16][17][18]. Police pushed them back towards Brussels-South station, and protesters tried to set a pile of shared scooters alight before the last of them were kettled at Square de l'Aviation [18][19]. Reuters witnesses saw officers hit and kick one demonstrator during a chase [20]. Brussels police said about 400 people took part; five were detained for disturbing public order and four arrested over prohibited weapons and incitement to violence [21][19]. In Liège, about 200 marchers briefly blocked access to the A602 motorway, and police made five arrests [19][21]. Belgian Interior Minister Bernard Quintin said on X that the protests ended without major incident, thanked police for their firmness, and said those behind damage and fires must be identified and punished [21]. No injury figures were found by the cutoff."
+       "text": "A few hundred people gathered on Saturday at the Mont des Arts in Brussels, Belgium, and youths heading for the liberal MR party's headquarters broke a police cordon in Saint-Gilles, where riot police fired tear gas on Chaussée de Forest [13][14][15]. Police pushed them back towards Brussels-South station, and protesters tried to set a pile of shared scooters alight before the last of them were kettled at Square de l'Aviation [15][16]. Reuters witnesses saw officers hit and kick one demonstrator during a chase [17]. Brussels police said about 400 people took part; five were detained for disturbing public order and four arrested over prohibited weapons and incitement to violence [18][16]. In Liège, about 200 marchers briefly blocked access to the A602 motorway, and police made five arrests [16][18]. Belgian Interior Minister Bernard Quintin said on X that the protests ended without major incident, thanked police for their firmness, and said those behind damage and fires must be identified and punished [18]. No injury figures were found by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -357,7 +339,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "France's National Anti-Terrorism Prosecutor's Office (Pnat) said on Saturday that the custody of Kévin T., 39, was extended after Friday's drive-by shooting in Trappes and La Verrière, west of Paris, which killed one man and wounded five, an attack President Macron called \"a racist terrorist attack\" [22][23]. Three people from his family and friends were taken into custody on Friday night and overnight, bringing to four the relatives questioned, among them his mother, AFP reported [23][22]. A search found his flat in Plaisir rigged with gas bottles and electrical wires connected to a timer, a police source told AFP; a Sten submachine gun and a tear-gas canister were found in his Renault Clio [23]. A copy of Mein Kampf was found at his home, and he reportedly tested positive for cocaine, RTL reported, citing sources [22]. The Pnat said the girl, hit by eight bullets, is still in critical condition [23]. The Pnat is investigating murder and attempted murder linked to a terrorist enterprise, aggravated by racial or religious motive [23][22]. No charge was announced by the cutoff."
+       "text": "France's National Anti-Terrorism Prosecutor's Office (Pnat) said on Saturday that the custody of Kévin T., 39, was extended after Friday's drive-by shooting in Trappes and La Verrière, west of Paris, which killed one man and wounded five, an attack President Macron called \"a racist terrorist attack\" [19][20]. Three people from his family and friends were taken into custody on Friday night and overnight, bringing to four the relatives questioned, among them his mother, AFP reported [20][19]. A search found his flat in Plaisir rigged with gas bottles and electrical wires connected to a timer, a police source told AFP; a Sten submachine gun and a tear-gas canister were found in his Renault Clio [20]. A copy of Mein Kampf was found at his home, and he reportedly tested positive for cocaine, RTL reported, citing sources [19]. The Pnat said the girl, hit by eight bullets, is still in critical condition [20]. The Pnat is investigating murder and attempted murder linked to a terrorist enterprise, aggravated by racial or religious motive [20][19]. No charge was announced by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -375,7 +357,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Spain's conservative People's Party (PP) posted a campaign video this week using artificial intelligence to show people linked to Prime Minister Pedro Sánchez's Socialists appearing to admit wrongdoing, The Guardian reported [24]. A deepfake of Sánchez's wife, Begoña Gómez, speaks about getting a university post through her husband, and one of former Prime Minister José Luis Rodríguez Zapatero speaks about hiding jewellery, nods to investigations in which both deny wrongdoing [24]. The video had nearly 2 million views by Friday and carried a tiny, near-transparent AI label [24]. Digital Transformation Minister Óscar López told TVE on Friday it was \"a colossal lie\" and \"intolerable\" on a party's official accounts [24]. Former Socialist member Leire Díez filed a court complaint on Friday alleging defamation and digital identity theft, the paper reported [24]. PP official Borja Sémper said the video highlighted Socialist hypocrisy and was not meant to deceive [24]. Most legal experts consulted by El País said it was not illegal [24]. Spain votes on 29 November [24]."
+       "text": "Spain's conservative People's Party (PP) posted a campaign video this week using artificial intelligence to show people linked to Prime Minister Pedro Sánchez's Socialists appearing to admit wrongdoing, The Guardian reported [21]. A deepfake of Sánchez's wife, Begoña Gómez, speaks about getting a university post through her husband, and one of former Prime Minister José Luis Rodríguez Zapatero speaks about hiding jewellery, nods to investigations in which both deny wrongdoing [21]. The video had nearly 2 million views by Friday and carried a tiny, near-transparent AI label [21]. Digital Transformation Minister Óscar López told TVE on Friday it was \"a colossal lie\" and \"intolerable\" on a party's official accounts [21]. Former Socialist member Leire Díez filed a court complaint on Friday alleging defamation and digital identity theft, the paper reported [21]. PP official Borja Sémper said the video highlighted Socialist hypocrisy and was not meant to deceive [21]. Most legal experts consulted by El País said it was not illegal [21]. Spain votes on 29 November [21]."
       },
       {
        "kicker": "Confidence",
@@ -993,136 +975,136 @@
      "note": "live page 24 Oct 13:42 to 15:35 BST (13:42 to 15:35 CET); read via curl; UK breadth check; follow-up; re-checked this run"
     },
     {
-     "name": "[3] BFMTV, with AFP (Paris court rejects appeals against new march route)",
-     "href": "https://www.bfmtv.com/societe/manifestations/manifestation-du-24-octobre-a-paris-le-tribunal-administratif-rejette-les-recours-contre-le-nouveau-parcours-la-mobilisation-se-tiendra-entre-porte-d-italie-et-porte-de-vincennes_AD-202610240204.html",
-     "status": "used",
-     "note": "24 Oct 10:42 CET; read via curl and search extract; follow-up; re-checked this run"
-    },
-    {
-     "name": "[4] Le Parisien (courts rule on protest bans in Paris, Lyon, Marseille, and Bordeaux)",
-     "href": "https://www.leparisien.fr/politique/mobilisation-du-24-octobre-paris-lyon-marseille-bordeaux-la-justice-valide-ou-invalide-les-interdictions-de-manifester-24-10-2026-GKJFVNJAYBAU5E4KD3KDORDOGM.php",
-     "status": "used",
-     "note": "24 Oct; search extract; follow-up; re-checked this run"
-    },
-    {
-     "name": "[5] AFP English (France protests: latest developments)",
-     "href": "https://www.afp.com/en/france-protests-latest-developments",
-     "status": "used",
-     "note": "published 24 Oct 23:06 CET; read via curl"
-    },
-    {
-     "name": "[6] BBC News (almost 1,000 arrested as clashes follow another day of mass protests across France)",
-     "href": "https://www.bbc.com/news/articles/c95ynd587ynzo",
-     "status": "used",
-     "note": "published late 24 Oct; read via curl; UK breadth check"
-    },
-    {
-     "name": "[7] France 24, with AFP (nearly 1,000 arrested in French protests marred by elevated violence)",
-     "href": "https://www.france24.com/en/live-news/20261024-nearly-1-000-arrested-in-french-protests-marred-by-elevated-violence-minister",
-     "status": "used",
-     "note": "24 Oct 19:18 CET; search extract (curl 403)"
-    },
-    {
-     "name": "[8] Europe 1 live, with AFP (Nuñez announces 135 arrests at 13:00)",
-     "href": "https://www.europe1.fr/societe/en-direct-manifestations-du-24-octobre-laurent-nunez-annonce-135-interpellations-a-13h-1177791",
-     "status": "used",
-     "note": "live page 24 Oct 05:30 to 15:37 CET; read via curl; follow-up; re-checked this run"
-    },
-    {
-     "name": "[9] ANSA (Milan: Youssef Siher, alleged mastermind of Movimento 17 ottobre, detained)",
+     "name": "[3] ANSA (Milan: Youssef Siher, alleged mastermind of Movimento 17 ottobre, detained)",
      "href": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/scontri-a-milano-fermato-youssef-siher-mente-del-movimento-17-ottobre_2de4f860-7c65-4ef2-97e3-0536be9ff0a2.html",
      "status": "used",
      "note": "24 Oct 22:42 CET; read via curl; Italy breadth check"
     },
     {
-     "name": "[10] Corriere della Sera Milano live (Milan protests; Movimento 17 ottobre page creator identified)",
+     "name": "[4] Corriere della Sera Milano live (Milan protests; Movimento 17 ottobre page creator identified)",
      "href": "https://milano.corriere.it/cronaca/diretta-live/26_ottobre_24/milano-manifestazioni-scontri-oggi.shtml",
      "status": "used",
      "note": "live page 24 Oct 10:53 to 15:37 CET; read via curl; Italy breadth check; follow-up; re-checked this run"
     },
     {
-     "name": "[11] BBC News live (French police arrest 135 as tens of thousands protest)",
+     "name": "[5] BBC News live (French police arrest 135 as tens of thousands protest)",
      "href": "https://www.bbc.com/news/live/cq1j38x0n4zrt",
      "status": "used",
      "note": "live page, latest entry 15:41 BST (15:41 CET) 24 Oct; read via curl; follow-up; re-checked this run"
     },
     {
-     "name": "[12] ANSA (Meloni: freedom to protest without cities set ablaze)",
+     "name": "[6] ANSA (Meloni: freedom to protest without cities set ablaze)",
      "href": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/meloni-con-le-nuove-misure-liberta-di-manifestare-senza-citta-a-ferro-e-fuoco_1d4a317d-258b-45c5-a4ef-b78c2f180edc.html",
      "status": "used",
      "note": "24 Oct 20:48 CET; read via curl; Italy breadth check"
     },
     {
-     "name": "[13] BFMTV live (Nuñez cites 1,000 arrests; prefecture tallies)",
+     "name": "[7] BFMTV live (Nuñez cites 1,000 arrests; prefecture tallies)",
      "href": "https://www.bfmtv.com/societe/manifestations/direct-colere-sociale-70-000-policiers-et-gendarmes-mobilises-en-france-pour-cette-nouvelle-journee-de-mobilisation_LN-202610240063.html",
      "status": "used",
      "note": "24 Oct entries 18:40 to 20:19 CET; search extract"
     },
     {
-     "name": "[14] TF1 Info live (summary of 24 Oct: nearly 1,000 arrests, two seriously injured)",
+     "name": "[8] France 24, with AFP (nearly 1,000 arrested in French protests marred by elevated violence)",
+     "href": "https://www.france24.com/en/live-news/20261024-nearly-1-000-arrested-in-french-protests-marred-by-elevated-violence-minister",
+     "status": "used",
+     "note": "24 Oct 19:18 CET; search extract (curl 403)"
+    },
+    {
+     "name": "[9] TF1 Info live (summary of 24 Oct: nearly 1,000 arrests, two seriously injured)",
      "href": "https://www.tf1info.fr/societe/en-direct-manifestation-24-octobre-pillages-heurts-violences-urbaines-des-couvre-feux-partiels-instaures-matignon-lecornu-melenchon-macron-le-pen-les-dernieres-informations-du-24-octobre-2026-2471729.html",
      "status": "used",
      "note": "24 Oct evening entries to about 20:30 CET; search extract"
     },
     {
-     "name": "[15] CNews live (bank branch set on fire in Tours)",
+     "name": "[10] AFP English (France protests: latest developments)",
+     "href": "https://www.afp.com/en/france-protests-latest-developments",
+     "status": "used",
+     "note": "published 24 Oct 23:06 CET; read via curl"
+    },
+    {
+     "name": "[11] BBC News (almost 1,000 arrested as clashes follow another day of mass protests across France)",
+     "href": "https://www.bbc.com/news/articles/c95ynd587ynzo",
+     "status": "used",
+     "note": "published late 24 Oct; read via curl; UK breadth check"
+    },
+    {
+     "name": "[12] CNews live (bank branch set on fire in Tours)",
      "href": "https://www.cnews.fr/france/2026-10-24/mobilisation-du-24-octobre-le-cortege-parisien-selance-de-la-porte-ditalie-135",
      "status": "used",
      "note": "24 Oct 22:30 CET entry; search extract"
     },
     {
-     "name": "[16] 7sur7, with Belga (tensions erupt in Brussels between youths and police)",
+     "name": "[13] 7sur7, with Belga (tensions erupt in Brussels between youths and police)",
      "href": "https://www.7sur7.be/belgique/des-tensions-eclatent-a-bruxelles-entre-des-jeunes-et-les-policiers~af3453f0/",
      "status": "used",
      "note": "24 Oct 14:17 CET; read via WebFetch (curl 403); follow-up; re-checked this run"
     },
     {
-     "name": "[17] RTBF, with Belga (scuffles between youths and police in Brussels)",
+     "name": "[14] RTBF, with Belga (scuffles between youths and police in Brussels)",
      "href": "https://www.rtbf.be/article/manifestations-en-belgique-la-situation-reste-calme-a-bruxelles-et-a-liege-11805382",
      "status": "used",
      "note": "24 Oct 11:22, modified 15:11 CET; read via curl; Belgium breadth check; follow-up; re-checked this run"
     },
     {
-     "name": "[18] La Libre Belgique live (police encircle the last protesters in Brussels)",
+     "name": "[15] La Libre Belgique live (police encircle the last protesters in Brussels)",
      "href": "https://www.lalibre.be/belgique/societe/2026/10/24/direct-de-nouveaux-debordements-dans-les-rues-de-bruxelles-cest-tres-inquietant-je-navais-jamais-vu-un-dispositif-de-cette-ampleur-FDFQDVFYENBCRF27LVXKCCLY5Y/",
      "status": "used",
      "note": "24 Oct 08:50, modified 15:16 CET; read via curl and search extract; follow-up; re-checked this run"
     },
     {
-     "name": "[19] 7sur7, with Belga (police end the Brussels protest; Liège march)",
+     "name": "[16] 7sur7, with Belga (police end the Brussels protest; Liège march)",
      "href": "https://www.7sur7.be/belgique/la-police-met-fin-a-la-manifestation-a-bruxelles-qui-sest-deroulee-sans-incidents-majeurs~af3453f0/",
      "status": "used",
      "note": "live entries 24 Oct 15:57 to 20:56 CET; search extract"
     },
     {
-     "name": "[20] Reuters via Internazionale (Belgian protesters and police skirmish in Brussels)",
+     "name": "[17] Reuters via Internazionale (Belgian protesters and police skirmish in Brussels)",
      "href": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/24/belgian-protesters-and-police-skirmish-at-anti-government-demonstrations-in-brussels",
      "status": "used",
      "note": "24 Oct; search extract"
     },
     {
-     "name": "[21] La Libre Belgique, with Belga (Quintin: Brussels and Liège protests without major incident)",
+     "name": "[18] La Libre Belgique, with Belga (Quintin: Brussels and Liège protests without major incident)",
      "href": "https://www.lalibre.be/dernieres-depeches/2026/10/24/mobilisation-de-la-jeunesse-des-manifestations-a-bruxelles-et-liege-sans-incident-majeur-note-bernard-quintin-6YOSAXUGBFA2ZJQMYWN24LKDTY/",
      "status": "used",
      "note": "24 Oct 21:14 CET; search extract (curl returned page shell only); Belgium breadth check"
     },
     {
-     "name": "[22] RTL (Trappes suspect custody extended; four relatives questioned)",
+     "name": "[19] RTL (Trappes suspect custody extended; four relatives questioned)",
      "href": "https://www.rtl.fr/actu/justice-faits-divers/attentat-raciste-de-trappes-la-garde-a-vue-du-principal-suspect-prolongee-trois-membres-de-son-entourage-egalement-entendus-7900688964",
      "status": "used",
      "note": "24 Oct 11:45, modified 12:30 CET; read via WebFetch; carried; re-checked this run"
     },
     {
-     "name": "[23] France 24, with AFP (suspect and four relatives questioned by investigators)",
+     "name": "[20] France 24, with AFP (suspect and four relatives questioned by investigators)",
      "href": "https://www.france24.com/fr/info-en-continu/20261024-attaque-dans-les-yvelines-le-suspect-et-quatre-de-ses-proches-entendus-par-les-enqu%C3%AAteurs",
      "status": "used",
      "note": "24 Oct 13:14, modified 14:57 CET; read via WebFetch (curl 403); carried; re-checked this run"
     },
     {
-     "name": "[24] The Guardian (opposition deepfake video of Spanish PM's wife sparks outrage before election)",
+     "name": "[21] The Guardian (opposition deepfake video of Spanish PM's wife sparks outrage before election)",
      "href": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
      "status": "used",
      "note": "published 24 Oct 06:51 UTC (07:51 CET); read via curl; Spain and UK breadth check; carried; re-checked this run"
+    },
+    {
+     "name": "[22] BFMTV, with AFP (Paris court rejects appeals against new march route)",
+     "href": "https://www.bfmtv.com/societe/manifestations/manifestation-du-24-octobre-a-paris-le-tribunal-administratif-rejette-les-recours-contre-le-nouveau-parcours-la-mobilisation-se-tiendra-entre-porte-d-italie-et-porte-de-vincennes_AD-202610240204.html",
+     "status": "used",
+     "note": "24 Oct 10:42 CET; read via curl and search extract; follow-up; re-checked this run"
+    },
+    {
+     "name": "[23] Le Parisien (courts rule on protest bans in Paris, Lyon, Marseille, and Bordeaux)",
+     "href": "https://www.leparisien.fr/politique/mobilisation-du-24-octobre-paris-lyon-marseille-bordeaux-la-justice-valide-ou-invalide-les-interdictions-de-manifester-24-10-2026-GKJFVNJAYBAU5E4KD3KDORDOGM.php",
+     "status": "used",
+     "note": "24 Oct; search extract; follow-up; re-checked this run"
+    },
+    {
+     "name": "[24] Europe 1 live, with AFP (Nuñez announces 135 arrests at 13:00)",
+     "href": "https://www.europe1.fr/societe/en-direct-manifestations-du-24-octobre-laurent-nunez-annonce-135-interpellations-a-13h-1177791",
+     "status": "used",
+     "note": "live page 24 Oct 05:30 to 15:37 CET; read via curl; follow-up; re-checked this run"
     },
     {
      "name": "El País (five frantic days in the consulates to meet the Supreme Court ultimatum)",
@@ -1826,6 +1808,6 @@
   }
  ],
  "sourceKey": "A source is used only if an item cites it. Numbers in brackets match the tab's 'Sources used in this tab' list.",
- "operationalAssessment": "Morning edition, rolling window 24 Oct 2026 05:10 CET to 25 Oct 2026 05:10 CET (clocks went back one hour overnight). New research covered 16:10 CET on 24 October to 05:10 CET on 25 October; items from the previous edition whose times fall inside the 24 hours were carried and re-checked, stories with new developments are marked as follow-ups, and items older than 24 hours were dropped. The priority story remains France: riot police baton-charged masked youths at the end of Saturday's Paris march, the Interior Ministry counted 110,000 marchers in Paris against the CGT's 250,000, and French police arrested nearly 1,000 people nationwide as night clashes followed calmer marches. Ukrainian drones reached Omsk in Siberia and swarmed Belgorod overnight, while a Russian drone killed three people in an apartment block in Synelnykove. Milan prosecutors detained the alleged organiser behind Italy's Movimento 17 Ottobre, Belgium's interior minister thanked police after the Brussels and Liège protests, Storm Boelo hit Scotland, Serbia and Bulgaria vote on Sunday, Armenia reported vote-buying arrests before local elections, and police used pepper spray at a Stuttgart rally. The ledger lists only sources actually read or checked. Hybrid Warfare uses a draft canvas pending approval.",
+ "operationalAssessment": "Morning edition, rolling window 24 Oct 2026 05:10 CET to 25 Oct 2026 05:10 CET (clocks went back one hour overnight). New research covered 16:10 CET on 24 October to 05:10 CET on 25 October; items from the previous edition whose times fall inside the 24 hours were carried and re-checked, stories with new developments are marked as follow-ups, and items older than 24 hours were dropped. The priority story remains France, where police arrested nearly 1,000 people nationwide as night clashes followed calmer marches. Ukrainian drones reached Omsk in Siberia and swarmed Belgorod overnight, while a Russian drone killed three people in an apartment block in Synelnykove. Milan prosecutors detained the alleged organiser behind Italy's Movimento 17 Ottobre, Belgium's interior minister thanked police after the Brussels and Liège protests, Storm Boelo hit Scotland, Serbia and Bulgaria vote on Sunday, Armenia reported vote-buying arrests before local elections, and police used pepper spray at a Stuttgart rally. The ledger lists only sources actually read or checked. Hybrid Warfare uses a draft canvas pending approval.",
  "footer": "For situational awareness only; not for operational, financial, or medical decisions."
 }
