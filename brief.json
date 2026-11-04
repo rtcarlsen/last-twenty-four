@@ -1,12 +1,12 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-03T16:50:45+01:00",
+ "generatedAt": "2026-11-04T04:50:19+01:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
- "asOf": "Tuesday, 3 November 2026, 17:10 CET",
- "windowLabel": "2 Nov 2026 17:10 CET → 3 Nov 2026 17:10 CET",
+ "asOf": "Wednesday, 4 November 2026, 05:10 CET",
+ "windowLabel": "3 Nov 2026 05:10 CET → 4 Nov 2026 05:10 CET",
  "cadenceLabel": "Rolling 24 hours · updated twice daily",
  "banner": null,
- "editionNote": "Evening edition. It covers the 24 hours to 17:10 CET on 3 November; new research covers 05:10 CET to 17:10 CET on 3 November, items from the previous edition still inside the 24 hours were carried, and stories with new developments are marked as follow-ups.",
+ "editionNote": "Morning edition. It covers the 24 hours to 05:10 CET on 4 November; new research covers 17:10 CET on 3 November to 05:10 CET on 4 November, items from the previous edition still inside the 24 hours were carried, and stories with new developments are marked as follow-ups.",
  "theaters": [
   {
    "id": "ru",
@@ -15,50 +15,50 @@
    "items": [
     {
      "kind": "Strike",
-     "time": "3 Nov 02:30–14:40",
-     "title": "Russia's Biggest Energy Strike of the Year Cuts Power Across Ukraine",
-     "lede": "Russia's biggest attack on Ukraine's energy system this year hit 10 regions, the Kyiv Independent reported, and regional authorities counted 38 dead over the past day.",
+     "time": "4 Nov 01:42",
+     "title": "Drone Hits an Ozon Warehouse in Russia's Adygea Republic",
+     "lede": "The online retailer said a fire broke out and staff were evacuated, with no injuries reported so far.",
+     "confidenceLevel": "Moderate",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "A drone struck an Ozon logistics center in Russia's Adygea Republic overnight into 4 November, the company said in a statement reported by the Kyiv Independent [1]. Ozon said it evacuated all employees, no one was injured, and a fire broke out [1]. The company said goods in the warehouse were pulled from its online store [1]. Adygea's head, Murat Kumpilov, later said a drone attack caused a fire at the Ozon logistics center in Adygeysk and no casualties were reported, RIA Novosti reported [2]. No Ukrainian claim of responsibility was found by the cutoff."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is moderate because the account rests on Russian sources, the company and Adygea's head, relayed by the Kyiv Independent and Russian state media."
+      }
+     ]
+    },
+    {
+     "kind": "Security",
+     "time": "3 Nov 18:32",
+     "title": "Ukraine Charges Zelensky's Former Spokeswoman Iuliia Mendel With Treason",
+     "lede": "The SBU and prosecutors filed the charges in absentia, accusing the now-critic of spreading pro-Kremlin narratives under martial law.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Russia launched its biggest mass attack on Ukraine's energy facilities this year overnight into Tuesday, the Kyiv Independent reported [1]. Strikes hit substations, transmission lines, and power plants in 10 regions and cut power to households [1]. Ukrenergo chief Vitalii Zaichenko said it was one of the largest ballistic missile waves on critical infrastructure [1]. DTEK said generation stopped at three of its thermal power plants [1]. Ukraine's air force said Russia fired ballistic missiles, 59 cruise missiles, and 289 attack drones [2]. It said air defenses downed or jammed three ballistic missiles, 49 cruise missiles, and 257 drones [3]. A morning missile strike on Dnipro killed two people and injured 20, regional head Oleksandr Hanzha said [2]. Dnipro Mayor Borys Filatov said a hospice was destroyed and about 50 patients were moved [2]. Regional authorities said Russian attacks killed at least 38 people and injured 167 over the past day [2]. No Russian Defense Ministry statement was read by the cutoff."
+       "text": "Ukraine's Security Service and the Prosecutor General's Office charged Iuliia Mendel with treason in absentia on 3 November, the Kyiv Independent reported [3]. The agencies accused her of \"information and subversive activities against Ukraine\" and of justifying Russia's war [3]. Mendel was Zelensky's press secretary from 2019 to 2021 and later became a vocal critic who called him a \"dictator\" [3]. In May she appeared on Tucker Carlson's podcast, and in September she spoke at an event hosted by Germany's AfD party [3]. Prosecutors said the case rests on her public statements, including the Carlson interview, and cited treason under martial law [4]. No response from Mendel was found by the cutoff."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high on the scale and damage, which the Kyiv Independent attributes to named Ukrainian officials and companies. Casualty totals are preliminary."
+       "text": "Confidence is high that the charges were filed, based on the Prosecutor General's Office statement and the Kyiv Independent; the allegations are unproven and the evidence is not public."
       }
      ]
     },
     {
-     "kind": "Strike",
-     "time": "2 Nov 19:01–3 Nov 14:40",
-     "title": "Russian Bombs Kill at Least 31 at an Aid Center in Ukraine's Zaporizhzhia Region",
-     "lede": "President Zelensky called it utterly horrific and said a second strike hit the place where people were sheltering after the first.",
-     "confidenceLevel": "High",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "At least 26 people were killed when Russian aerial bombs hit an aid distribution center in Komyshuvakha, in Ukraine's Zaporizhzhia region, on Monday [4]. Regional head Mykhailo Semikin said at least nine 3,000-kilogram bombs hit the village [4]. He said five people were injured and 27 were initially reported missing [4]. Zelensky said the first strike hit a local school used to hand out aid [4]. Ukraine's emergency service confirmed 24 deaths, including two rescuers and four police officers [4]. Zelensky raised the toll to 26 in his late Monday video address [4][5]. He said Russia knew residents collected aid there every week [4]. No Russian Defense Ministry comment was found by the cutoff. By Tuesday, at least 31 people had been killed and 48 were missing, acting regional governor Mykhailo Semikin said, the Kyiv Independent reported [2]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high on the strike and the toll, which BBC News attributes to Ukrainian officials and NOS also reported. The toll may still change. The toll rose again on Tuesday."
-      }
-     ],
-     "flag": "FOLLOW UP TO PREVIOUS REPORT"
-    },
-    {
      "kind": "Diplomacy",
-     "time": "2 Nov 23:00–3 Nov 11:47",
+     "time": "2 Nov 23:00–3 Nov 17:39",
      "title": "US Sets Ukraine-Russia Talks in Abu Dhabi for 10-11 November",
      "lede": "US envoy Steve Witkoff said Ukrainian and Russian delegations will meet in Abu Dhabi on 10-11 November, with Witkoff and Jared Kushner expected to represent Washington.",
      "confidenceLevel": "Moderate",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "US envoy Steve Witkoff said Monday that the United States will bring Ukrainian and Russian delegations together in Abu Dhabi on 10-11 November, Reuters reported [6]. He said the talks will cover post-war security agreements, de-escalation, humanitarian measures, and ending the war [6]. Witkoff and Jared Kushner are expected to represent the United States, a senior US official told Reuters [6]. US officials will also meet French, German, British, EU, and NATO representatives in Brussels this week on Ukraine's security guarantees, the official said [6]. Dutch broadcaster NOS also reported the Abu Dhabi talks early Tuesday [7]. Kremlin spokesman Dmitry Peskov confirmed Tuesday that a delegation led by Putin aide Vladimir Medinsky will take part, the Kyiv Independent reported [8]. The Kyiv Independent gave only 10 November as the date [8]. Zelensky has said one or two rounds of technical talks could prepare a summit with Trump and Putin [8]."
+       "text": "US envoy Steve Witkoff said Monday that the United States will bring Ukrainian and Russian delegations together in Abu Dhabi on 10-11 November, Reuters reported [5]. He said the talks will cover post-war security agreements, de-escalation, humanitarian measures, and ending the war [5]. Witkoff and Jared Kushner are expected to represent the United States, a senior US official told Reuters [5]. US officials will also meet French, German, British, EU, and NATO representatives in Brussels this week on Ukraine's security guarantees, the official said [5]. Dutch broadcaster NOS also reported the Abu Dhabi talks early Tuesday [6]. Kremlin spokesman Dmitry Peskov confirmed Tuesday that a delegation led by Putin aide Vladimir Medinsky will take part, the Kyiv Independent reported [7]. The European Commission said it will host officials from Ukraine, the US, France, Germany, Britain, NATO, and the World Bank in Brussels on 4 November to prepare [8]."
       },
       {
        "kicker": "Confidence",
@@ -69,15 +69,50 @@
     },
     {
      "kind": "Strike",
+     "time": "2 Nov 19:01–3 Nov 17:38",
+     "title": "Russian Bombs Kill at Least 33 at an Aid Center in Ukraine's Zaporizhzhia Region",
+     "lede": "President Zelensky called it utterly horrific and said a second strike hit the place where people were sheltering after the first.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "At least 26 people were killed when Russian aerial bombs hit an aid distribution center in Komyshuvakha, in Ukraine's Zaporizhzhia region, on Monday [9]. Regional head Mykhailo Semikin said at least nine 3,000-kilogram bombs hit the village [9]. He said five people were injured and 27 were initially reported missing [9]. Zelensky said the first strike hit a local school used to hand out aid [9]. Ukraine's emergency service confirmed 24 deaths, including two rescuers and four police officers [9]. Zelensky raised the toll to 26 in his late Monday video address [9][10]. By Tuesday, at least 31 people had been killed and 48 were missing, acting regional governor Mykhailo Semikin said, the Kyiv Independent reported [11]. Semikin later put the toll at 33 dead, with 48 people missing [12]. Zelensky said more than 50 people could still be under the rubble [12][13]. Russia's Defense Ministry said the strike targeted Ukrainian military units and killed 25 servicemen, the BBC reported [13]. The BBC said it found no credible evidence of military use of the site [13]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high on the strike and the toll, which BBC News and the Kyiv Independent attribute to Ukrainian officials. The toll rose to 33 on Tuesday and may still change. Russia's claim of a military target is unsupported."
+      }
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Strike",
+     "time": "3 Nov 02:30–17:08",
+     "title": "Russia's Biggest Energy Strike of the Year Cuts Power Across Ukraine",
+     "lede": "Russia's biggest attack on Ukraine's energy system this year hit 10 regions, the Kyiv Independent reported, and regional authorities counted 38 dead over the past day.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Russia launched its biggest mass attack on Ukraine's energy facilities this year overnight into Tuesday, the Kyiv Independent reported [14]. Strikes hit substations, transmission lines, and power plants in 10 regions and cut power to households [14]. Ukrenergo chief Vitalii Zaichenko said it was one of the largest ballistic missile waves on critical infrastructure [14]. DTEK said generation stopped at three of its thermal power plants [14]. Ukraine's air force said Russia fired ballistic missiles, 59 cruise missiles, and 289 attack drones [11]. It said air defenses downed or jammed three ballistic missiles, 49 cruise missiles, and 257 drones [15]. A morning missile strike on Dnipro killed two people and injured 20, regional head Oleksandr Hanzha said [11]. Dnipro Mayor Borys Filatov said a hospice was destroyed and about 50 patients were moved [11]. Regional authorities said Russian attacks killed at least 38 people and injured 167 over the past day [11]. Kyiv Mayor Vitali Klitschko said strikes on the regional distribution network caused emergency power cuts and water outages in Kyiv [16]. City authorities suspended tram and trolleybus service from Tuesday evening and set up warming centers [16]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high on the scale and damage, which the Kyiv Independent attributes to named Ukrainian officials and companies. Casualty totals are preliminary."
+      }
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Strike",
      "time": "3 Nov 02:30–10:54",
      "title": "Overnight Russian Barrage Hits Infrastructure in Dnipro and a Kharkiv Hospital",
      "lede": "Kharkiv prosecutors said 73 people were hurt at a medical facility, and the mayor said about 200 patients were being moved to other hospitals.",
      "confidenceLevel": "Moderate",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Russia launched a large combined missile and drone attack on Ukraine overnight into Tuesday, Glavcom reported, citing Ukraine's air force [9]. The air force warned of ballistic missiles heading toward the Dnipropetrovsk, Vinnytsia, and Kharkiv regions [9]. Explosions were reported in Khmelnytskyi, Rivne, Zhytomyr, Zaporizhzhia, and Dnipro [9]. Dnipropetrovsk regional head Oleksandr Hanzha said Russia hit critical infrastructure in Dnipro and the Kryvyi Rih district [9]. Kharkiv Mayor Ihor Terekhov said 25 people were injured at a hospital [9]. Regional head Oleh Syniehubov said the strike hit a passage between hospital buildings in the Nemyshlianskyi district [9]. Terekhov had first reported four injured and heavy damage to the building, Interfax-Ukraine reported [10]. He said about 200 patients would be moved to other hospitals [9]. Residents of Zhytomyr reported power outages [9]. The Kharkiv regional prosecutor's office later put the number injured at the medical facility at 73 [11]. Terekhov said the strike damaged more than 1,000 windows [11]."
+       "text": "Russia launched a large combined missile and drone attack on Ukraine overnight into Tuesday, Glavcom reported, citing Ukraine's air force [17]. The air force warned of ballistic missiles heading toward the Dnipropetrovsk, Vinnytsia, and Kharkiv regions [17]. Explosions were reported in Khmelnytskyi, Rivne, Zhytomyr, Zaporizhzhia, and Dnipro [17]. Dnipropetrovsk regional head Oleksandr Hanzha said Russia hit critical infrastructure in Dnipro and the Kryvyi Rih district [17]. Kharkiv Mayor Ihor Terekhov said 25 people were injured at a hospital [17]. Regional head Oleh Syniehubov said the strike hit a passage between hospital buildings in the Nemyshlianskyi district [17]. Terekhov had first reported four injured and heavy damage to the building, Interfax-Ukraine reported [18]. He said about 200 patients would be moved to other hospitals [17]. Residents of Zhytomyr reported power outages [17]. The Kharkiv regional prosecutor's office later put the number injured at the medical facility at 73 [19]. Terekhov said the strike damaged more than 1,000 windows [19]."
       },
       {
        "kicker": "Confidence",
@@ -93,57 +128,76 @@
    "heading": "Sabotage, drones, cyber, disinformation, and espionage targeting European states",
    "items": [
     {
-     "kind": "Aviation",
-     "time": "3 Nov 10:43–16:39",
-     "title": "Bomb Threats Force Searches of Seven Passenger Jets Across Europe",
-     "lede": "Airport sources in Rome said no explosives were found on two Ryanair flights searched there, and the Italian air force escorted the one from Dublin.",
+     "kind": "Defense",
+     "time": "3 Nov 13:00–15:38",
+     "title": "Norway Deploys Air Defense Sensors on Russian Border to Spot Stray Drones",
+     "lede": "Troops in Kirkenes will watch for drones crossing from Russia, a move the defense minister called preventive.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Seven passenger planes in Europe were searched Tuesday after a series of suspected bomb threats, BBC News reported [1]. Two of the flights had departed from the UK [1]. Two Ryanair flights, from Dublin and Lisbon, were searched after landing at Rome's Fiumicino airport, and no explosives were found, airport sources told the BBC [1]. The Italian air force escorted the Dublin flight until it landed [1]. Authorities also searched planes in Poland, Spain, and Bulgaria, and one flight to Warsaw was diverted [1]. Dutch broadcaster NOS cited Polish channel TVN24 as saying an airport in Poland was closed [2]. It is unclear whether the incidents are connected [1]. No government has attributed the threats."
+       "text": "Norway's armed forces will place air surveillance sensors in Kirkenes, near the Russian border, to detect stray drones, NRK reported [1]. The sensors come from the NASAMS air defense system, The Barents Observer reported [2]. A team of 30 service members will operate them [2]. Defense Minister Tore O. Sandvik called the deployment a preventive measure [2]. \"We have seen in other countries that drones can go astray,\" Sandvik said [2]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high that the searches took place, based on BBC reporting and NOS. Nothing is known about who made the threats."
+       "text": "Confidence is high because NRK and The Barents Observer both report the deployment, citing Norway's Defense Ministry."
       }
      ]
     },
     {
-     "kind": "Cyberattack",
-     "time": "2 Nov 10:19–3 Nov 14:55",
-     "title": "Hackers Warm Supermarket Freezers in Belgium and Nine Other European Countries",
-     "lede": "Belgian federal prosecutors opened a criminal case as stores dumped spoiled food, and no group had claimed the attack by Tuesday afternoon.",
+     "kind": "Sabotage",
+     "time": "3 Nov 06:33",
+     "title": "Poland Sends Counterterrorism Police Toward Kaliningrad After Sabotage Warnings",
+     "lede": "Polish police chief Marek Boroń said the units are working with the army, border guards, and intelligence services in two northeastern regions.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Poland deployed police counterterrorism units near Russia's Kaliningrad exclave after intelligence warnings of possible sabotage, the Kyiv Independent reported, citing RMF FM [3]. National police chief Marek Boroń said the units work with the military, border guards, and intelligence services in the Warmian-Masurian and Podlaskie regions [3]. A special command center was set up at national police headquarters [3]. Police headquarters told RMF FM the operation relates to sabotage and the actions of eastern services, Notes From Poland reported [4]. RMF FM said Polish and allied military intelligence warned last week of possible sabotage near the border, including incursions by armed groups [3]. Boroń denied any link to Poland's Constitutional Tribunal dispute [3]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high on the deployment, which the police chief confirmed on the record, as several outlets reported. The intelligence warning rests on RMF FM's unnamed sources."
+      }
+     ]
+    },
+    {
+     "kind": "Aviation",
+     "time": "3 Nov 10:43–16:39",
+     "title": "Bomb Threats Force Searches of Seven Passenger Jets Across Europe",
+     "lede": "Airport sources in Rome said no explosives were found on two Ryanair flights searched there, and the Italian air force escorted the flight from Dublin.",
      "confidenceLevel": "High",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "A cyberattack early Monday hit fridges and freezers in dozens of supermarkets across Europe [3]. AFP reported early Tuesday that stores in at least nine European countries were hit, including Italy and Portugal [4]. The BBC said Tuesday that supermarkets in 10 countries, including Germany, had reported problems [5]. About 40 Delhaize stores in Belgium and Luxembourg were affected [3]. Fewer stores were hit in Sweden, Ireland, the Netherlands, Estonia, and Finland [3][6]. Carrefour said 15 of its roughly 700 Belgian stores were affected [3][6]. Ireland's SuperValu said 13 of its 233 stores were hit [6]. Belgian refrigeration firm Sabcobel said units were switched to defrost mode, the method believed to have been used in an October attack in France [3]. A Belgian ethical hacker told VRT the attackers used a known flaw in Danfoss equipment [7]. Belgium's federal prosecutor's office opened a criminal investigation, a spokesperson said [7][8]. EU Agriculture Commissioner Christophe Hansen called the attacks a deliberate attempt to disrupt the EU food supply [6]. No government had named a culprit by the cutoff."
+       "text": "Seven passenger planes in Europe were searched Tuesday after a series of suspected bomb threats, BBC News reported [5]. Two of the flights had departed from the UK [5]. Two Ryanair flights, from Dublin and Lisbon, were searched after landing at Rome's Fiumicino airport, and no explosives were found, airport sources told the BBC [5]. The Italian air force escorted the Dublin flight until it landed [5]. Authorities also searched planes in Poland, Spain, and Bulgaria [5]. Officials in Spain and Bulgaria said no explosives were found either [5]. The UK government called the incidents malicious hoax threats [5]. The flight bound for Warsaw was diverted to the smaller Modlin airport, briefly forcing its closure, BBC News reported [5]. Officially there is no link between the incidents, but authorities in several countries are working together to assess whether they were coordinated, the BBC said [5]. No government has said who made the threats. In Greece, a bomb alert forced the evacuation of 1,537 passengers and crew from the Israel-bound cruise ship Crown Iris at Syros, and initial checks found no explosives [5]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high on the attack, the countries hit, and the Belgian criminal case, which the BBC, The Guardian, VRT, and Reuters report from company, prosecutor, and EU statements. The Danfoss flaw rests on one outside expert quoted by VRT."
+       "text": "Confidence is high that the searches took place, based on BBC reporting and NOS. Nothing is known about who made the threats."
       }
      ],
      "flag": "FOLLOW UP TO PREVIOUS REPORT"
     },
     {
      "kind": "Cyberattack",
-     "time": "1 Nov 21:47–2 Nov 19:06",
-     "title": "Ukraine Partly Restores Its Air Raid App After Fake Nuclear Alerts",
-     "lede": "Developers restored push alerts Monday but kept target tracking off, and the Air Force said the late-Sunday hack did not affect military operations.",
+     "time": "2 Nov 10:19–3 Nov 14:55",
+     "title": "Hackers Warm Supermarket Freezers in Belgium and Nine Other European Countries",
+     "lede": "Belgian federal prosecutors opened a criminal case as stores threw out spoiled food, and no one had claimed responsibility by early Tuesday.",
      "confidenceLevel": "High",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Ukraine's Air Alert app sent false warnings late Sunday, the Ukrainian Air Force said [9][10]. Messages warned of radiation and chemical threats in Kyiv and of street fighting in the capital [9][10]. The Air Force said the app had probably come under hostile interference and that there was no radiation threat [9][11]. Ukraine's Center for Strategic Communications blamed Russia in a post on X [10][12]. Early Monday, Russia's Emergencies Ministry said its mobile app suffered a massive cyberattack that allowed attackers to send false information [10][12]. A Ukrainian partisan group, Atesh, shared what it said was a screenshot of a fake nuclear strike warning sent to Russian users, the BBC reported [9]. On Monday, the app's developers said they had partly restored the service and resumed push alerts [13]. Air Force spokesperson Yurii Ihnat said the hack did not affect Ukraine's defense forces or its own alert channels [14]. Zelensky told PBS News on Monday that Ukraine had hacked back after the attack on its alert system [15]. \"We only respond on their attacks,\" he said [15]."
+       "text": "A cyberattack early Monday hit fridges and freezers in dozens of European supermarkets [6]. AFP reported early Tuesday that stores in at least nine European countries were hit, including Italy and Portugal, forcing some to discard food [7]. No one had claimed responsibility, AFP said [7]. The BBC said Tuesday that supermarkets in 10 countries, including Germany, had reported problems [8]. About 40 Delhaize stores in Belgium and Luxembourg were affected [6]. Belgian refrigeration firm Sabcobel said units were switched to defrost mode, the method believed to have been used in an October attack in France [6]. A Belgian ethical hacker told VRT the attackers used a known flaw in Danfoss equipment [9]. Belgian federal prosecutors opened a criminal investigation [9][10]. EU Agriculture Commissioner Christophe Hansen called the attacks a deliberate attempt to disrupt the EU food supply [11]. Britain's National Cyber Security Centre said it knew of \"a couple of instances\" in the UK where vulnerable technology was exploited [12]. In Estonia, ERR reported that attackers reached the control computer of an older Danfoss refrigeration system at a Selver store [13]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high that both apps sent false alerts, based on official statements reported by the BBC, Al Jazeera, DW, and ABC. The restoration rests on the developers' statement via dev.ua. No attribution has been independently confirmed."
+       "text": "Confidence is high on the attack, the countries hit, and the Belgian criminal case, which several major outlets report from official statements. The Danfoss flaw rests on one outside expert quoted by VRT."
       }
-     ]
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
     }
    ]
   },
@@ -153,56 +207,74 @@
    "heading": "Politics, security, and defense across the EU and NATO's European members",
    "items": [
     {
-     "kind": "Diplomacy",
-     "time": "3 Nov 03:11–13:07",
-     "title": "UK and EU Agree a Draft Deal to Remove Post-Brexit Food Checks",
-     "lede": "Britain and the European Union settled a 200-page text on food and farm trade ahead of a 20 November summit.",
+     "kind": "Politics",
+     "time": "3 Nov 22:42",
+     "title": "Ireland's Prime Minister Plans an Initiative on the Island's Constitutional Future",
+     "lede": "Micheál Martin's move comes as his coalition partner Fine Gael prepares its own blueprint on Irish unity.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The United Kingdom and the EU have agreed a draft deal to remove post-Brexit checks on food and farm exports, the BBC reported [1]. The 200-page text went to EU governments for a meeting in Brussels on Wednesday [1][2]. Sources told The Guardian the text has been settled and will not be renegotiated [2]. The deal is not expected to take effect until early 2028 [2]. A change of UK prime minister delayed the second UK-EU summit by six months, to 20 November, The Guardian said [2]. Exports of fresh sausages, burgers, and seed potatoes could resume [1]. In return, Britain is expected to follow EU food and farm rules as they change [1]. The UK government says the deal will eventually add 5.1 billion pounds a year to the economy [1]."
+       "text": "Ireland's Taoiseach, Micheál Martin, is to set up a new initiative on the constitutional future of the island of Ireland, BBC News reported [1]. The move comes as coalition partner Fine Gael is to unveil plans for its own blueprint [1]. Martin outlined the Futures Study Initiative to his Fianna Fáil lawmakers on Tuesday [1][2]. It will examine three scenarios, including a unitary republic and an all-island state with devolved government in Northern Ireland [1][2]. It will invite submissions from every party and publish a report to the government [1]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high on the draft and its timing, which the BBC and The Guardian report from sources. The 5.1 billion pound figure is the UK government's estimate."
+       "text": "Confidence is high because BBC News and RTÉ both report the plan from Martin's policy paper to his party."
       }
      ]
     },
     {
-     "kind": "Defense",
-     "time": "3 Nov 01:07",
-     "title": "Britain and France to Lead a Drill for a Postwar Ukraine Force",
-     "lede": "Nearly 3,000 troops from 12 European nations will rehearse the deployment in Poland this month, and the United States is not contributing.",
+     "kind": "Politics",
+     "time": "3 Nov 21:28",
+     "title": "Spain's Transport Minister Óscar Puente Quits Over the Urda Rail Disaster",
+     "lede": "He told Congress no minister could stay after two such crashes in under a year, and he will not run in the early election.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Britain and France will lead a military exercise to test a multinational force's ability to deploy to Ukraine after a peace deal, BBC News reported [3]. Nearly 3,000 personnel from 12 European nations will take part in Poland this month [3]. Western officials said the force would not join offensive operations, peacekeeping, or ceasefire monitoring [3]. They said it would not operate under NATO command or on the front line [3]. Its role would be to reassure Ukraine and help rebuild its armed forces, officials said [3]. The United States has joined discussions but is not contributing [3]. Russia opposes foreign troops in Ukraine [3]."
+       "text": "Spain's Transport Minister Óscar Puente resigned on Tuesday, six days after a high-speed train collision near Urda killed at least 69 people, BBC News reported [3]. He announced the decision in Congress after testifying on the 28 October crash and outlining new rail safety measures [3]. Puente cited January's crash on the same line, which killed 46 people [3]. He also withdrew from his party's lists for the early legislative election [3]. The People's Party, Vox, and some government allies had called for him to go [3]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high on the plan as described by Western officials to the BBC's defense correspondent."
+       "text": "Confidence is high, based on BBC reporting of his statement in Congress."
       }
      ]
     },
     {
-     "kind": "Crime",
-     "time": "2 Nov 18:29",
-     "title": "Netherlands Offers a Record 2 Million Euros for Fugitive Jos Leijdekkers",
-     "lede": "Justice Minister David van Weel called the tenfold increase necessary given the threat he poses to Dutch national security.",
+     "kind": "Politics",
+     "time": "3 Nov 08:44–16:11",
+     "title": "Dutch Minority Cabinet Seeks Opposition Votes for Its Budget Plans",
+     "lede": "Prime Minister Rob Jetten urged rival parties to take responsibility as his coalition, 10 seats short of a majority, faces a Wednesday debate.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Dutch authorities offered a record reward of 2 million euros for information leading to the arrest of Jos Leijdekkers, BBC News reported [4]. The 35-year-old has been convicted in absentia of cocaine smuggling [4]. Police call him a key player in international cocaine trafficking [4]. Justice Minister David van Weel cited the threat to national security and the rule of law [4]. Prosecutors said capturing him is their highest priority [4]. He is believed to be in Sierra Leone, which has refused to extradite him [4]. The EU cut some aid to Sierra Leone over the case [4]."
+       "text": "Dutch Prime Minister Rob Jetten called on opposition parties to take responsibility for the Netherlands' budget, NOS reported [4]. Parliament debates the plans on Wednesday [5]. The centre-right coalition of D66, the VVD, and the CDA is 10 seats short of a majority in the lower house, DutchNews reported [5]. The latest budget includes about 350 million euros in sweeteners for opposition parties [5]. The coalition hopes to win support from the ChristenUnie, 50Plus, and Markuszower's group, which hold 11 seats between them [5]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high on the reward and the officials' statements as reported by BBC News."
+       "text": "Confidence is high because NOS and DutchNews both report Jetten's appeal and the coalition's search for votes."
+      }
+     ]
+    },
+    {
+     "kind": "Institutions",
+     "time": "3 Nov 09:42–11:55",
+     "title": "Eurozone Opens the Race to Succeed Lagarde at the European Central Bank",
+     "lede": "Governments using the euro have until Friday to nominate candidates for the top job in Frankfurt.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "The European Union has formally opened the process to replace European Central Bank President Christine Lagarde, Euronews reported [6]. Eurogroup President Kyriakos Pierrakakis, Greece's finance minister, asked member states to send nominations by 6 November, a spokesperson said [6]. POLITICO Europe also reported the 6 November deadline [7]. Eurozone finance ministers will review the names at their meeting on 9 November [6]. A candidate needs the backing of at least 16 of the 21 eurozone countries, representing at least 65% of the bloc's population [6]. EU leaders then make the final appointment [6]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high because Euronews and POLITICO Europe both report the nomination deadline, citing the Eurogroup."
       }
      ]
     },
@@ -215,14 +287,13 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Czech Radio said Monday it will scale back news programs during a one-day staff strike on Tuesday [5]. Music, repeats, and archive shows will replace regular programs on several national and regional stations [5]. The broadcaster said it would keep basic news coverage and inform the public in an emergency [5]. Veřejnoprávně, a group representing Czech Radio and Czech Television employees, called the strike [5][6]. It opposes the governing coalition's plan to abolish license fees and fund both broadcasters from the state budget [5][6]. A group spokesman said the strike would affect all Czech Television channels, especially the news channel ČT24 [6]. Czech Television said its ČT24 news channel would switch to reduced programming at midnight, with a short news bulletin every hour [7]. Its main evening newscast and morning show will not air [7]. Thousands of people rallied on Prague's Wenceslas Square on Tuesday afternoon to back the broadcasters' independence, ČTK reported [8]. A march of striking Czech Television staff from its headquarters grew to several thousand people [8]. Prime Minister Andrej Babiš rejected the strikers' arguments [8]."
+       "text": "Czech Radio said Monday it will scale back news programs during a one-day staff strike on Tuesday [8]. Music, repeats, and archive shows will replace regular programs on several national and regional stations [8]. The broadcaster said it would keep basic news coverage and inform the public in an emergency [8]. Veřejnoprávně, a group representing Czech Radio and Czech Television employees, called the strike [8][9]. It opposes the governing coalition's plan to abolish license fees and fund both broadcasters from the state budget [8][9]. A group spokesman said the strike would affect all Czech Television channels, especially the news channel ČT24 [9]. Czech Television said its ČT24 news channel would switch to reduced programming at midnight, with a short news bulletin every hour [10]. Its main evening newscast and morning show will not air [10]. Thousands of people rallied on Prague's Wenceslas Square on Tuesday afternoon to back the broadcasters' independence, ČTK reported [11]. Several hundred striking Czech Television staff marched from its headquarters, and the procession grew to several thousand people [11]. Prime Minister Andrej Babiš rejected the strikers' arguments [11]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is high on the strike, its cause, and the rally, per Czech Radio's English service, ČT24, and ČTK. Both outlets belong to the striking broadcasters."
       }
-     ],
-     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+     ]
     },
     {
      "kind": "Unrest",
@@ -230,15 +301,31 @@
      "title": "French Police Make Dozens of Arrests as School Blockades Spread",
      "lede": "Justice Minister Gérald Darmanin said more than 1,300 police officers and gendarmes have been injured during the protest movement so far.",
      "confidenceLevel": "Moderate",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "France's Education Ministry said 48 of about 3,700 high schools were blocked at 9:30 a.m. Tuesday [9][10]. The student union USL claimed 500 [10]. The ministry said 51 higher-education sites were disrupted [9]. The Rhône prefecture reported 17 arrests linked to the blockades, including for firing fireworks and setting fires [10]. The Seine-Maritime prefecture reported 13 arrests by 2 p.m. [11]. It said three school principals were targeted with mortars or thrown objects, and one was slightly hurt [11]. Police arrested three students over the 1 October fire at a Nantes high school [9][10]. Authorities banned a rally in Rennes [10]. Darmanin said more than 1,300 police and gendarmes have been injured in the protests [9]. Paris police had banned a student march from the Panthéon to the Medef headquarters and offered a Porte de Charenton to Porte de Montreuil route instead [12]. A Paris administrative court rejected an emergency challenge to the ban without a hearing, police said [9]. Several hundred students marched in the Latin Quarter anyway, while the authorized Porte de Charenton start stayed nearly empty, Ouest-France reported [9]. A national protest day is set for Thursday, 5 November [10]."
+       "text": "France's Education Ministry said 48 of about 3,700 high schools were blocked at 9:30 a.m. Tuesday [12][13]. The student union USL claimed 500 [13]. The ministry said 51 higher-education sites were disrupted [12]. The Rhône prefecture reported 17 arrests linked to the blockades, including for firing fireworks and setting fires [13]. The Seine-Maritime prefecture reported 13 arrests by 2 p.m. [14]. It said three school principals were targeted with mortars or thrown objects, and one was slightly hurt [14]. Police arrested three students over the 1 October fire at a Nantes high school [12][13]. Authorities banned a rally in Rennes [13]. Darmanin said more than 1,300 police and gendarmes have been injured in the protests [12]. Paris police had banned a student march from the Panthéon to the Medef headquarters and offered a Porte de Charenton to Porte de Montreuil route instead [15]. A Paris administrative court rejected an emergency challenge to the ban without a hearing, police said [12]. Several hundred students marched in the Latin Quarter anyway, while the authorized Porte de Charenton start stayed nearly empty, Ouest-France reported [12]. A national protest day is set for Thursday, 5 November [13]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is moderate because the figures come from live blogs quoting ministries, prefectures, and police."
+      }
+     ]
+    },
+    {
+     "kind": "Diplomacy",
+     "time": "3 Nov 03:11–13:07",
+     "title": "UK and EU Agree a Draft Deal to Remove Post-Brexit Food Checks",
+     "lede": "Britain and the European Union settled a 200-page text on food and farm trade ahead of a 20 November summit.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "The United Kingdom and the EU have reached a draft deal to remove post-Brexit checks on food and farm exports, the BBC reported [16]. The 200-page text was circulated to EU governments for a meeting in Brussels on Wednesday [16][17]. Sources told The Guardian the text has been settled and will not be renegotiated [17]. The deal is not expected to take effect until early 2028 [17]. A change of UK prime minister delayed the second UK-EU summit by six months, to 20 November, The Guardian said [17]. Exports of fresh sausages, burgers, and seed potatoes could resume [16]. In return, Britain is expected to follow EU food and farm rules as they change [16]. The UK government says the deal will eventually add 5.1 billion pounds a year to the economy [16]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high on the draft and its timing, which the BBC and The Guardian report from sources. The 5.1 billion pound figure is the UK government's estimate."
       }
      ]
     }
@@ -250,16 +337,33 @@
    "heading": "Security, politics, and Russian pressure on Estonia, Latvia, and Lithuania",
    "items": [
     {
-     "kind": "Security",
-     "time": "2 Nov 23:10–3 Nov 16:48",
-     "title": "Latvian Troops Search for a Drone After an Overnight Air Alert Near Russia",
-     "lede": "Latvia's military said the drone probably crashed in the Balvi district, but its type and origin have not been confirmed.",
+     "kind": "Military",
+     "time": "3 Nov 07:16–12:15",
+     "title": "Estonian and Lithuanian Troops Join First Drill of a Postwar Ukraine Force",
+     "lede": "Estonia will send a company-sized unit to an exercise in Poland, the first drill of a French- and British-led force meant for Ukraine after the fighting ends.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Latvia's armed forces declared an air threat in the Balvi and Ludza districts at 23:10 CET Monday and lifted it at 23:35 CET, LSM reported [1]. Two military interceptor drones were launched to find and identify the aircraft [1]. NATO fighter jets on Baltic air policing were also activated [1][2]. The military said the drone looked similar to those used by Ukraine's armed forces, but its type and origin were not confirmed [1]. Troops and National Guard units were searching for it in the Balvi district, where it may have crashed [1]. The head of the Balvi council told the LETA news agency the object may have fallen near Tilža [2]. On Sunday, Latvia blew up its own interceptor drone at the border after chasing a drone it judged most likely a Russian Geran [1]."
+       "text": "The Estonian Defense Forces will send a company-sized unit to Exercise Koalicja in Poland, ERR News reported [1]. The Multinational Force Ukraine, led by France and the UK, runs the drill [1]. About 2,800 troops from 10 European countries, including Estonia and Lithuania, will train from 9 to 22 November, Euronews reported [2]. They will operate around Nowa Dęba, about 100 kilometers west of the Ukrainian border [2]. France will send the largest contingent, 1,100 troops, and the UK will send 300 [2]. The force is not a NATO operation and would deploy only after a ceasefire [2]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high because ERR News and Euronews both report the drill, citing the Estonian military and a French and British joint statement."
+      }
+     ]
+    },
+    {
+     "kind": "Security",
+     "time": "2 Nov 23:10–3 Nov 16:48",
+     "title": "Latvian Troops Search for a Drone After an Overnight Air Alert Near Russia",
+     "lede": "Latvia's military said the drone probably crashed in the Balvi district, but its type and origin have not been confirmed.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Latvia's armed forces declared an air threat in the Balvi and Ludza districts at 23:10 CET Monday and lifted it at 23:35 CET, LSM reported [3]. Two military interceptor drones were launched to find and identify the aircraft [3]. NATO fighter jets on the Baltic Air Policing mission were also scrambled [3][4]. The military said the drone looked similar to those used by Ukraine's armed forces, but its type and origin were not confirmed [3]. National Guard units were searching for it in the Balvi district, where it may have crashed [3]. The head of the Balvi council told the LETA news agency the object may have fallen near Tilža [4]. On Sunday, Latvia blew up its own interceptor drone at the border after chasing a drone it judged most likely a Russian Geran [3]."
       },
       {
        "kicker": "Confidence",
@@ -273,11 +377,10 @@
      "title": "Latvia's New Parliament Elects Edvards Smiltēns Speaker Again",
      "lede": "The United List politician returns to the post he held from 2022 to 2023, winning 79 of the Saeima's 100 votes.",
      "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Latvia's 15th Saeima, the national parliament, elected Edvards Smiltēns of the United List as its speaker Tuesday, the parliament's press service said [3]. He won 79 votes, while 15 deputies backed his rival, Julija Stepaņenko, LSM reported [4]. Smiltēns led the previous parliament from 2022 to 2023 and has served as justice minister in Prime Minister Andris Kulbergs' government [3][5]. He replaces Daiga Mieriņa of the Union of Greens and Farmers, whose party won no seats in the 3 October election [4]. The speaker represents parliament abroad and stands in for the president when the head of state is out of the country [4]. The vote was secret [4]."
+       "text": "Latvia's 15th Saeima, the national parliament, elected Edvards Smiltēns of the United List as its speaker Tuesday, the parliament said [5]. He won 79 votes, while 15 deputies backed his rival, Julija Stepaņenko, LSM reported [6]. Smiltēns led the previous parliament from 2022 to 2023 and has served as justice minister in Prime Minister Andris Kulbergs' government [5][7]. He replaces Daiga Mieriņa of the Union of Greens and Farmers, whose party won no seats in the 3 October election [6]. The speaker represents parliament abroad and stands in for the president when the head of state is out of the country [6]. Six deputies spoiled their ballots, LSM reported [6]."
       },
       {
        "kicker": "Confidence",
@@ -291,11 +394,11 @@
      "title": "Lithuania Bars In-Country Work and Study Permit Requests From Schengen Visa Holders",
      "lede": "Most such applicants must now apply through VFS Global centers abroad, though highly qualified workers are exempt.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Since 1 November, some foreigners can no longer apply for Lithuanian temporary residence permits for work or undergraduate study while inside the country, LRT reported [6]. The rule covers people who entered on Schengen visas or on national visas issued by other countries [6]. In-country applications are now limited to holders of Lithuanian permits or visas, other EU or Schengen permits, or visa-free entry [6]. Others must apply through VFS Global centers abroad [6]. Highly qualified workers are exempt, the Migration Department said [6]."
+       "text": "Since 1 November, some foreigners can no longer apply for Lithuanian temporary residence permits for work or undergraduate study while inside the country, LRT reported [8]. The rule covers people who entered on Schengen visas or on national visas issued by other countries [8]. In-country applications are now limited to holders of Lithuanian permits or visas, other EU or Schengen permits, or visa-free entry [8]. Others must apply through VFS Global centers abroad [8]. Highly qualified workers are exempt, the Migration Department said [8]."
       },
       {
        "kicker": "Confidence",
@@ -309,11 +412,11 @@
      "title": "Lithuania's Nausėda Says Some Russian Attacks Are Kinetic, Not Hybrid",
      "lede": "He spoke as he opened the Berlin Security Conference, which Germany is co-hosting with Lithuania.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Lithuanian President Gitanas Nausėda said Tuesday the term hybrid threats has become a convenient euphemism, LRT reported [7]. He said it lets people avoid saying plainly what Europe is experiencing from Russia [7]. Nausėda said some recent attacks are in essence kinetic attacks [7]. He spoke in a statement as he opened the Berlin Security Conference, co-hosted by Germany and Lithuania [7]. He said greater European responsibility for defense should strengthen NATO [7]."
+       "text": "Lithuanian President Gitanas Nausėda said Tuesday the term hybrid threats has become a convenient euphemism, LRT reported [9]. He said it lets people avoid saying plainly what Europe is experiencing from Russia [9]. Nausėda said some recent attacks are in essence kinetic attacks [9]. He spoke in a statement as he opened the Berlin Security Conference, co-hosted by Germany and Lithuania [9]. He said greater European responsibility for defense should strengthen NATO [9]."
       },
       {
        "kicker": "Confidence",
@@ -334,7 +437,7 @@
      "title": "Europol Raids in Albania, Kosovo, and North Macedonia Net Seven Fraud Suspects",
      "lede": "Eurojust said more than 100 servers were shut down, and Germany is weighing extradition of those arrested.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
@@ -350,9 +453,8 @@
      "kind": "Diplomacy",
      "time": "3 Nov 12:47–14:09",
      "title": "EU Draft Plan Puts Montenegro on Track to Sign an Accession Treaty in June 2027",
-     "lede": "A leaked European Commission plan, due out Wednesday, has Montenegro closing its remaining EU negotiating chapters by the end of this year.",
+     "lede": "A leaked European Commission plan, due out Wednesday, would have Montenegro close its remaining EU negotiating chapters by the end of this year.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
@@ -370,7 +472,7 @@
      "title": "Serbian Court Jails Two Senior Police Chiefs for 30 Days Pending Trial",
      "lede": "The criminal police director also faces a torture charge linked to a May killing in a Belgrade restaurant.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
@@ -388,7 +490,7 @@
      "title": "Bosnia's State Court Sentences Six Ex-Soldiers for 1992 Crimes Near Sokolac",
      "lede": "The six former Bosnian Serb brigade members received 83 years in total, with the longest term set at 20 years.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
@@ -406,7 +508,7 @@
      "title": "Jailed Tirana Mayor Accuses Albania's Rama of Pressuring Him to Resign",
      "lede": "Justice Minister Toni Gogu confirmed visiting Erion Veliaj in prison but denied carrying any messages from the prime minister.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
@@ -424,7 +526,6 @@
      "title": "Serbian Prosecutors Detain Alta Bank Owner Over Cash Taken From Its Vault",
      "lede": "Prosecutors say Davor Macura took about 45 billion dinars from the vault of the bank, whose license Serbia's central bank revoked on Saturday.",
      "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
@@ -444,16 +545,34 @@
    "heading": "Stability, politics, and outside influence in the South Caucasus",
    "items": [
     {
+     "kind": "Diplomacy",
+     "time": "3 Nov 20:56",
+     "title": "Georgian Premier Kobakhidze Rejects EU Criticism at a Brussels Summit",
+     "lede": "He defended the ruling party's bid to ban five opposition parties and challenged the European Commission to a debate a day before its enlargement reports.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Georgian Prime Minister Irakli Kobakhidze dismissed European criticism of Georgia's democratic record in an interview at Euronews' EU Enlargement Summit in Brussels on 3 November, Civil Georgia reported [1]. He invited European Commission officials to a \"debate\" and said Georgia still wants to join the EU \"with dignity\" [1]. He defended Georgian Dream's lawsuit to ban five opposition parties [1]. The event came a day before the Commission's annual enlargement reports, including one on Georgia [1]. Euronews, which conducted the interview, published its own report of the remarks [2]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high because Civil Georgia and Euronews, which conducted the interview, report the same remarks."
+      }
+     ]
+    },
+    {
      "kind": "Media",
      "time": "3 Nov 13:53",
      "title": "Ivanishvili's Son Sues Two Georgian Opposition TV Channels",
      "lede": "Bera Ivanishvili wants TV Pirveli and Formula to retract reports that he protected scam call centers.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Bera Ivanishvili, son of Georgian Dream founder Bidzina Ivanishvili, has sued Georgia's opposition-leaning TV Pirveli and Formula channels, Civil Georgia reported [1]. He demands that they retract reports about him that he calls defamatory [1]. The reports accused him of protecting scam call centers [1]. Civil Georgia cited the Georgian Public Broadcaster [1]."
+       "text": "Bera Ivanishvili, son of Georgian Dream founder Bidzina Ivanishvili, has sued Georgia's opposition-leaning TV Pirveli and Formula channels, Civil Georgia reported [3]. He demands that they retract reports about him that he calls defamatory [3]. The reports accused him of protecting scam call centers [3]. Civil Georgia cited the Georgian Public Broadcaster [3]."
       },
       {
        "kicker": "Confidence",
@@ -467,11 +586,11 @@
      "title": "Azerbaijan Brings Home 11 Fraud Suspects Detained in Ukraine",
      "lede": "Four of them are accused of organizing call centers in Ukrainian cities that targeted Azerbaijani citizens, the Interior Ministry said.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Azerbaijan returned 11 of its citizens detained in Ukraine in a joint operation against a cyberfraud network, OC Media reported [2]. Azerbaijan's Interior Ministry said four are alleged organizers who were on an international wanted list [2]. The network allegedly posed as bank officials, police, and investment firms to trick victims [2]. It ran illegal call centers in several Ukrainian cities [2]."
+       "text": "Azerbaijan returned 11 of its citizens detained in Ukraine in a joint operation against a cyberfraud network, OC Media reported [4]. Azerbaijan's Interior Ministry said four are alleged organizers who were on an international wanted list [4]. The network allegedly posed as bank officials, police, and investment firms to trick victims [4]. It ran illegal call centers in several Ukrainian cities [4]."
       },
       {
        "kicker": "Confidence",
@@ -485,11 +604,11 @@
      "title": "Georgian Dream Attacks RSF for Naming Ivanishvili a Press Freedom Predator",
      "lede": "Reporters Without Borders listed the ruling party's founder for the second year in a row.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Georgian Dream majority leader Irakli Kirtskhalia accused Reporters Without Borders of serving the deep state and a global war party, Civil Georgia reported [3]. He spoke at a briefing Tuesday [3]. The Paris-based group had put party founder Bidzina Ivanishvili on its press freedom predators list for a second straight year [3]."
+       "text": "Georgian Dream majority leader Irakli Kirtskhalia accused Reporters Without Borders of serving the deep state and a global war party, Civil Georgia reported [5]. He spoke at a briefing Tuesday [5]. The Paris-based group had put party founder Bidzina Ivanishvili on its press freedom predators list for a second straight year [5]."
       },
       {
        "kicker": "Confidence",
@@ -503,11 +622,11 @@
      "title": "Armenia Will Start Design Work on the Trump Route's Rail and Road Links",
      "lede": "Prime Minister Nikol Pashinyan said Armenia will hand the work to the TRIPP Development Company once it is set up.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Armenian Prime Minister Nikol Pashinyan said Armenia will commission design work for the railway, highway, and power lines of the Trump Route, OC Media reported [4]. He said the aim is to avoid delays [4]. He said Armenia will hand the completed work to the TRIPP Development Company once it is set up [4]. He spoke during a budget debate in parliament on Monday [4]. The route would link Azerbaijan to its Nakhchivan exclave through Armenian territory [4]. Armenia, Azerbaijan, and the United States agreed to it in Washington in August 2025 [4]."
+       "text": "Armenian Prime Minister Nikol Pashinyan said Armenia will commission design work for the railway, highway, and power lines of the Trump Route, OC Media reported [6]. He said the aim is to avoid delays [6]. He said Armenia will hand the completed work to the TRIPP Development Company once it is set up [6]. He spoke during a budget debate in parliament on Monday [6]. The route would link Azerbaijan to its Nakhchivan exclave through Armenian territory [6]. Armenia, Azerbaijan, and the United States agreed to it in Washington in August 2025 [6]."
       },
       {
        "kicker": "Confidence",
@@ -521,51 +640,15 @@
      "title": "Georgia's UNM Party Leaves the Opposition Alliance After Months of Infighting",
      "lede": "The alliance had dropped the party from its Facebook logo a day earlier, before the UNM confirmed the split.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Georgia's United National Movement has left the Opposition Alliance, a group of nine opposition forces formed in March, Civil Georgia reported [5]. The party's press service confirmed the exit on Tuesday after months of disagreements [5]. It did not say when the split became official [5]. The alliance removed the UNM from its Facebook logo on Monday [5]."
+       "text": "Georgia's United National Movement has left the Opposition Alliance, a group of nine opposition forces formed in March, Civil Georgia reported [7]. The party's press service confirmed the exit on Tuesday after months of disagreements [7]. It did not say when the split became official [7]. The alliance removed the UNM from its Facebook logo on Monday [7]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is moderate because the account rests on Civil Georgia's confirmation from the party."
-      }
-     ]
-    },
-    {
-     "kind": "Diplomacy",
-     "time": "2 Nov",
-     "title": "Georgia and Azerbaijan Agree to Speed Up Talks on Their Disputed Border",
-     "lede": "Georgian Prime Minister Irakli Kobakhidze said 15 sections remain unresolved, including the area around the David Gareji monastery complex.",
-     "confidenceLevel": "Moderate",
-     "flag": "single-source, unconfirmed",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Georgia and Azerbaijan agreed Monday to accelerate the delimitation and demarcation of their shared border, Georgian Prime Minister Irakli Kobakhidze said [6]. He spoke after the two countries' intergovernmental economic cooperation commission met in Georgia for the 11th time [6]. Azerbaijani Prime Minister Ali Asadov co-chaired the session [6]. Kobakhidze said there had been no progress in recent years and 15 sections remained unresolved [6]. The disputed areas include the David Gareji monastery complex [6]. The two sides signed cooperation documents on customs and agriculture [6]. Asadov said Azerbaijan is Georgia's largest investor, with nearly $4 billion invested [6]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate because the account rests on one regional news digest; Rustavi 2 headlines on the meeting were seen but not read."
-      }
-     ]
-    },
-    {
-     "kind": "Justice",
-     "time": "2 Nov",
-     "title": "Georgian Appeals Court Cuts a Tbilisi Protester's Seven-Year Sentence in a Plea Deal",
-     "lede": "Nana Sander, convicted over the 4 October 2025 unrest, is due for release on 6 November after pleading guilty.",
-     "confidenceLevel": "Moderate",
-     "flag": "single-source, unconfirmed",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "A Georgian appeals court approved a plea deal Monday for Nana Sander, convicted over the 4 October 2025 unrest in Tbilisi [7]. Judge Paata Silagadze cut her seven-year sentence to one year and one month, plus a two-year suspended term [7]. She is due for release on 6 November [7]. A lower court had convicted her in June of organizing group violence [7]. The judge upheld the sentences of two co-defendants, Mariam Mekantslishvili and Abo Naveriani [7]. Naveriani received five years in prison [7]. The deal follows a series of plea agreements for dozens of defendants in the case [7]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate because the account rests on Civil Georgia alone; no court statement was read."
       }
      ]
     }
@@ -577,22 +660,58 @@
    "heading": "Politics, the Bundeswehr, the economy, and developments in Baden-Württemberg",
    "items": [
     {
+     "kind": "Economy",
+     "time": "3 Nov 20:05",
+     "title": "Draft Report Projects a 4.1% Rise in German Pensions in 2027",
+     "lede": "A pension of 1,000 euros would rise by 41 euros a month, though final figures are due only in March.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Germany's government expects statutory pensions to rise 4.1% in 2027, according to a draft pension insurance report seen by ARD, tagesschau.de reported [1]. A pension of 1,000 euros would rise by 41 euros a month [1]. Last year's increase was 4.2% [1]. The estimate is preliminary, and exact data are due in March [1]. The contribution rate is set to stay at 18.6% next year and reach 20% by 2030 [1]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high on the draft's figures as reported by the public broadcaster; the estimate itself is preliminary."
+      }
+     ]
+    },
+    {
+     "kind": "Cyber",
+     "time": "3 Nov 11:46–14:49",
+     "title": "Hackers Switch German Supermarket Coolers to Heating in Three States",
+     "lede": "Stores in North Rhine-Westphalia, Lower Saxony, and Bavaria had to throw out large amounts of food after the overnight attacks.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Hackers switched refrigeration systems from cooling to heating overnight at several supermarkets in Germany, tagesschau.de reported [2]. Affected stores included two CAP markets in Wuppertal and Wetter, a Rewe in Raesfeld, and Edeka stores in Lilienthal and Reisbach [2]. The CAP operator told the dpa news agency that the attack targeted the company that remotely maintains the systems [2]. Large amounts of food had to be thrown out [2]. Similar attacks hit supermarkets in other European countries [2]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high, based on public-broadcaster reporting with named stores and an operator's confirmation to dpa."
+      }
+     ]
+    },
+    {
      "kind": "Diplomacy",
      "time": "3 Nov 15:54",
      "title": "Germany Plans 200 Million Euros in Extra Winter Aid as Zelensky Visits Berlin",
      "lede": "Chancellor Merz said Germany will keep helping Ukraine until the war ends and urged other Europeans to carry their share.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Chancellor Friedrich Merz promised Ukraine more help before winter after meeting President Volodymyr Zelensky in Berlin on Tuesday, tagesschau reported [1]. The extra winter aid totals 200 million euros, according to the dpa news agency [1]. Half comes from the Foreign Office budget and half from development funds, dpa said [1]. The governing coalition plans to seek parliament's approval for the money, citing power plants and other civilian infrastructure, Welt reported [2]. Merz said Germany helps Ukraine in its own interest [1]. He said NATO allies agreed on 70 billion euros in military support for Ukraine in 2026, and all must meet it [1]."
+       "text": "Chancellor Friedrich Merz promised Ukraine more help before winter after meeting President Volodymyr Zelensky in Berlin on Tuesday, tagesschau reported [3]. The extra winter aid is to total 200 million euros, according to the dpa news agency [3]. Half is to come from the Foreign Office budget and half from development funds, dpa said [3]. The governing coalition plans to seek parliament's approval for the money, citing power plants and other civilian infrastructure, Welt reported [4]. Merz said Germany is helping Ukraine in its own interest [3]. He said NATO allies agreed on 70 billion euros in military support for Ukraine in 2026, and that all partners must meet that pledge [3]. Zelensky also met Bundestag President Julia Klöckner, the Kyiv Post reported [5]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is moderate because the aid figure comes from dpa and government sources cited by Welt; no government release was read."
       }
-     ]
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
     },
     {
      "kind": "Consular",
@@ -600,15 +719,14 @@
      "title": "Turkey Frees Ulm Man Ferdi Soylu but Bars Him From Leaving the Country",
      "lede": "Soylu, a German citizen jailed in Ankara since August, was freed Monday evening but may not leave Turkey for now, his brother told dpa.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Ferdi Soylu of Ulm, in Germany's Baden-Württemberg state, was released from pretrial detention in Turkey on Monday evening, his brother Sebahattin Soylu told dpa, Der Spiegel reported [3]. He had been held in Ankara since August [4]. His lawyer says he is accused of membership in a terrorist organization [3]. He may not leave Turkey for now, and the family plans to challenge the ban [3]. No indictment or trial date has been set, his brother said [3]. SWR first reported the release [5]."
+       "text": "Ferdi Soylu of Ulm, in the German state of Baden-Württemberg, was released from pretrial detention in Turkey on Monday evening, his brother Sebahattin Soylu told dpa, Der Spiegel reported [6]. He had been held in Ankara since August [7]. His lawyer says he is accused of membership in a terrorist organization [6]. He may not leave Turkey for now, and the family plans to challenge the ban [6]. No indictment or trial date has been set, his brother said [6]. SWR first reported the release [8]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is moderate because the release rests on the family, as reported by dpa and SWR; no Turkish statement was found."
+       "text": "Confidence is moderate because the account of the release comes from the family, as reported by dpa and SWR; no Turkish statement was found."
       }
      ]
     },
@@ -618,11 +736,11 @@
      "title": "Schaeffler to Close Four German Sites and Cut 3,460 Jobs Worldwide",
      "lede": "The car parts maker said 2,660 of the jobs will go in Germany, saving 300 million euros a year from 2030.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "German auto and industrial supplier Schaeffler said Tuesday it will close four sites in Germany and cut 3,460 jobs worldwide, tagesschau reported [6]. Of those, 2,660 jobs are in Germany [6]. The company expects savings of 300 million euros a year from 2030 [6]. It cited a tough auto market and high labor costs in Germany [6]. Plants in Dortmund and Morbach that make combustion-engine parts will close, as will offices in Berlin and Schwalbach [6]. Schaeffler also wants staff to accept pay cuts, which it must still negotiate with the union [6]."
+       "text": "German auto and industrial supplier Schaeffler said Tuesday it will close four sites in Germany and cut 3,460 jobs worldwide, tagesschau reported [9]. Of those, 2,660 jobs are in Germany [9]. The company expects savings of 300 million euros a year from 2030 [9]. It cited a tough auto market and high labor costs in Germany [9]. Plants in Dortmund and Morbach that make combustion-engine parts will close, as will offices in Berlin and Schwalbach [9]. Schaeffler also wants staff to accept pay cuts, which it must still negotiate with the union [9]."
       },
       {
        "kicker": "Confidence",
@@ -636,51 +754,15 @@
      "title": "Germany Awards Subsidies for 11 Backup Power Plants to RWE, LEAG, and Karlsruhe",
      "lede": "The support totals about 12 billion euros over 15 years, and electricity customers will pay for it through a levy.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Germany's Federal Network Agency awarded 11 contracts for about 5,160 megawatts of new backup power plants, tagesschau reported [7]. RWE and the lignite company LEAG won 10 of them [7]. Stadtwerke Karlsruhe won the other [7]. The plants are to secure supply from November 2031 when other sources fall short [7]. Operators get payments for 15 years, about 12 billion euros in total, paid by customers through a levy [7]. The tender drew 41 bids for nearly 12,000 megawatts against 4,500 offered [7]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate because the account rests on tagesschau's report of the agency's announcement."
-      }
-     ]
-    },
-    {
-     "kind": "Economy",
-     "time": "2 Nov 20:52–3 Nov",
-     "title": "Germany Drafts Emergency Cap on Gasoline and Diesel Prices",
-     "lede": "The cap would last three months at most, and the ministry warns that setting it too low could halt fuel imports and cause shortages.",
-     "confidenceLevel": "High",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Germany's Economy Ministry, led by Katherina Reiche, has finished a first draft law for a fuel price cap, tagesschau reported [8] [9]. The draft lets the government set a maximum pump price by decree as a last-resort crisis tool [8]. The cap would apply only after gasoline and diesel prices rise more than five percentage points faster than the average increase in other EU states for three straight weeks [8]. It would last three months at most [8]. German states could set different caps for local conditions [8]. The ministry told dpa that caps set too low could make deliveries unprofitable and halt imports [8]. Saarland Premier Anke Rehlinger, a Social Democrat, told Der Tagesspiegel the draft was really a law to block a fuel price cap [8]. The party's economic policy spokesman, Sebastian Roloff, said it was not what the coalition agreed and must be reworked [8]. The head of Germany's Monopolies Commission, Tomaso Duso, said Tuesday the draft names the risks of a cap but does not remove them [10]. He said the government should instead help those hit hardest by high prices [10]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high on the draft's contents, which ARD saw and Deutschlandfunk also reported. It is a first draft, and cabinet approval had not been reported by the cutoff."
-      }
-     ],
-     "flag": "FOLLOW UP TO PREVIOUS REPORT"
-    },
-    {
-     "kind": "Defense",
-     "time": "2 Nov",
-     "title": "Germany Holds First Talks on Joining the British-Italian-Japanese GCAP Fighter Program",
-     "lede": "Defense Minister Boris Pistorius said Berlin wants clarity very quickly on whether, and on what terms, it could take part.",
-     "confidenceLevel": "Moderate",
      "flag": "single-source, unconfirmed",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Germany's government is examining whether to join the GCAP fighter jet program with Britain, Italy, and Japan, Defense Minister Boris Pistorius said Monday [11]. He said first talks had already taken place [11]. Pistorius spoke in Berlin after meeting British Defense Secretary Wes Streeting [11]. He said he would hold more talks with the Italian and Japanese defense ministers in the coming days [11]. He said Berlin wants clarity very quickly on whether, and on what terms, Germany could take part [11]. Streeting said Britain would decide together with Italy and Japan [11]. GCAP is a planned stealth combat aircraft meant to replace Japan's F-2 and the British and Italian Eurofighters [11]. German media compare it with FCAS, the failed Franco-German fighter project [11]."
+       "text": "Germany's Federal Network Agency awarded 11 contracts for about 5,160 megawatts of new backup power plants, tagesschau reported [10]. RWE and the lignite company LEAG won 10 of them [10]. Stadtwerke Karlsruhe won the other [10]. The plants are to secure supply from November 2031 when other sources fall short [10]. Operators get payments for 15 years, about 12 billion euros in total, paid by customers through a levy [10]. The tender drew 41 bids for nearly 12,000 megawatts against 4,500 offered [10]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is moderate because the account rests on Der Tagesspiegel alone; tagesschau and Deutschlandfunk listings were seen but not read on this point."
+       "text": "Confidence is moderate because the account rests on tagesschau's report of the agency's announcement."
       }
      ]
     }
@@ -696,67 +778,115 @@
    "theater": "Russia & Ukraine",
    "sources": [
     {
-     "name": "[1] Kyiv Independent (Russia unleashes biggest mass attack on Ukraine's energy this year)",
-     "href": "https://kyivindependent.com/russia-unleashes-biggest-mass-attack-on-ukraines-energy-this-year-2/",
+     "name": "[1] Kyiv Independent (Drone strikes warehouse in southern Russia, online retailer Ozon claims)",
+     "href": "https://kyivindependent.com/drone-strikes-warehouse-in-southern-russia-online-retailer-ozon-claims/",
      "status": "used",
-     "note": "3 Nov 12:06 CET, updated 13:25 CET; read via curl this run"
+     "note": "4 Nov 01:42 CET; read via curl this run"
     },
     {
-     "name": "[2] Kyiv Independent (Russian attacks across Ukraine kill 38, injure 167, as Russia hits Dnipro hospitals)",
-     "href": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-38-injure-158-as-russia-hits-dnipro-hospitals-in-morning-missile-strike/",
+     "name": "[2] RIA Novosti (Drone attack on Adygeysk causes fire at OZON logistics center)",
+     "href": "https://ria.ru/20261104/tsentr-2129102761.html",
      "status": "used",
-     "note": "3 Nov 13:32 CET, updated 14:40 CET; read via curl this run"
+     "note": "4 Nov 02:59 CET; Russian state media; quote read via search extract by Karen this run"
     },
     {
-     "name": "[3] Interfax-Ukraine (Air defense downs 49 of 59 cruise missiles, 257 of 289 drones overnight; strikes recorded at 23 locations)",
-     "href": "https://en.interfax.com.ua/news/general/1230251.html",
+     "name": "[3] Kyiv Independent (Ukraine charges Zelensky's former press secretary Iuliia Mendel with treason)",
+     "href": "https://kyivindependent.com/ukraine-charges-zelenskys-former-press-secretary-iuliia-mendel-with-treason/",
      "status": "used",
-     "note": "3 Nov 08:56 CET; figures as of 08:00 CET, preliminary; Ukrainian Air Force (interested party); read via curl by Karen this run"
+     "note": "3 Nov 18:32 CET; read via curl this run"
     },
     {
-     "name": "[4] BBC News (Russian bombing kills 26 people at Ukraine aid centre, Kyiv says)",
-     "href": "https://www.bbc.com/news/articles/cjy56dndlyz0o",
+     "name": "[4] Prosecutor General's Office of Ukraine (Former press secretary of the head of state notified of suspicion of treason)",
+     "href": "https://gp.gov.ua/en/posts/ukrayina-na-mezi-zniknennya-moya-naciya-degraduje-kolisnii-pressekretarci-glavi-derzavi-povidomleno-pro-pidozru-v-derzavnii-zradi",
      "status": "used",
-     "note": "2 Nov 19:01 CET; read via curl this run; major-outlet sweep"
+     "note": "3 Nov; official release; read via curl by Karen this run"
     },
     {
-     "name": "[5] NOS Nieuws buitenland (Zelensky: Russians cause bloodbath with bombing of aid post)",
-     "href": "https://nos.nl/nieuws/buitenland",
-     "status": "used",
-     "note": "2 Nov 19:14 CET entry; read via WebFetch this run"
-    },
-    {
-     "name": "[6] Reuters via Investing.com (US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says)",
+     "name": "[5] Reuters via Investing.com (US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says)",
      "href": "https://www.investing.com/news/world-news/us-to-hold-trilateral-talks-with-ukraine-russia-in-abu-dhabi-next-weekus-official-4993163",
      "status": "used",
      "note": "2 Nov; Reuters (Steve Holland, Washington) syndicated copy; read via WebFetch by Karen this run"
     },
     {
-     "name": "[7] NOS Nieuws buitenland (US makes new attempt to restart Ukraine-Russia peace process)",
+     "name": "[6] NOS Nieuws buitenland (US makes new attempt to restart Ukraine-Russia peace process)",
      "href": "https://nos.nl/nieuws/buitenland",
      "status": "used",
      "note": "3 Nov 01:47 CET entry; headline and summary only, read via WebFetch this run"
     },
     {
-     "name": "[8] Kyiv Independent (Witkoff reveals location, date for new trilateral peace deal negotiations)",
+     "name": "[7] Kyiv Independent (Witkoff reveals location, date for new trilateral peace deal negotiations)",
      "href": "https://kyivindependent.com/witkoff-reveals-location-date-for-new-trilateral-peace-deal-negotiations/",
      "status": "used",
      "note": "3 Nov 00:51 CET, updated 11:47 CET; read via curl this run"
     },
     {
-     "name": "[9] Glavcom (Russia launches massive attack on Ukraine; explosions in several regions; live updates)",
+     "name": "[8] Kyiv Independent (Ukraine, allies to coordinate peace efforts ahead of planned talks with Russia)",
+     "href": "https://kyivindependent.com/ukraines-allies-to-coordinate-peace-efforts-ahead-of-planned-talks-with-russia-us/",
+     "status": "used",
+     "note": "3 Nov 17:39 CET; read via curl this run"
+    },
+    {
+     "name": "[9] BBC News (Russian bombing kills 26 people at Ukraine aid centre, Kyiv says)",
+     "href": "https://www.bbc.com/news/articles/cjy56dndlyz0o",
+     "status": "used",
+     "note": "2 Nov 19:01 CET; read via curl this run; major-outlet sweep"
+    },
+    {
+     "name": "[10] NOS Nieuws buitenland (Zelensky: Russians cause bloodbath with bombing of aid post)",
+     "href": "https://nos.nl/nieuws/buitenland",
+     "status": "used",
+     "note": "2 Nov 19:14 CET entry; read via WebFetch this run"
+    },
+    {
+     "name": "[11] Kyiv Independent (Russian attacks across Ukraine kill 38, injure 167, as Russia hits Dnipro hospitals)",
+     "href": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-38-injure-158-as-russia-hits-dnipro-hospitals-in-morning-missile-strike/",
+     "status": "used",
+     "note": "3 Nov 13:32 CET, updated 14:40 CET; read via curl this run"
+    },
+    {
+     "name": "[12] Kyiv Independent (Russian bombs hit school used as humanitarian aid center in Zaporizhzhia Oblast, killing 33)",
+     "href": "https://kyivindependent.com/exceptionally-horrific-strike-russian-bombs-strike-school-used-as-humanitarian-aid-center-in-zaporizhzhia-oblast-killing-24/",
+     "status": "used",
+     "note": "2 Nov 19:32 CET, updated 3 Nov 15:07 CET; read via curl this run"
+    },
+    {
+     "name": "[13] BBC News (Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital)",
+     "href": "https://www.bbc.com/news/articles/c65ynez5y599o",
+     "status": "used",
+     "note": "3 Nov 17:38 CET; read via curl this run; major-outlet sweep"
+    },
+    {
+     "name": "[14] Kyiv Independent (Russia unleashes biggest mass attack on Ukraine's energy this year)",
+     "href": "https://kyivindependent.com/russia-unleashes-biggest-mass-attack-on-ukraines-energy-this-year-2/",
+     "status": "used",
+     "note": "3 Nov 12:06 CET, updated 13:25 CET; read via curl this run"
+    },
+    {
+     "name": "[15] Interfax-Ukraine (Air defense downs 49 of 59 cruise missiles, 257 of 289 drones overnight; strikes recorded at 23 locations)",
+     "href": "https://en.interfax.com.ua/news/general/1230251.html",
+     "status": "used",
+     "note": "3 Nov 08:56 CET; figures as of 08:00 CET, preliminary; Ukrainian Air Force (interested party); read via curl by Karen this run"
+    },
+    {
+     "name": "[16] Kyiv Independent (Kyiv faces emergency power cuts, widespread water outages)",
+     "href": "https://kyivindependent.com/kyiv-faces-emergency-power-cuts-widespread-water-outages-after-russias-largest-attack-on-energy-infrastructure-this-year/",
+     "status": "used",
+     "note": "3 Nov 17:08 CET, updated 20:31 CET; read via curl this run"
+    },
+    {
+     "name": "[17] Glavcom (Russia launches massive attack on Ukraine; explosions in several regions; live updates)",
      "href": "https://glavcom.ua/country/incidents/rosija-masovano-atakuje-ukrajinu-vibukhi-prolunali-u-kilkokh-oblastjakh-1153076.html",
      "status": "used",
      "note": "3 Nov 02:30 CET, updated to 04:09 CET (Kyiv stamps 03:30–05:09, UTC+2); read via curl this run"
     },
     {
-     "name": "[10] Interfax-Ukraine (Four people injured in Russian strike on a medical facility in Kharkiv, Terekhov)",
+     "name": "[18] Interfax-Ukraine (Four people injured in Russian strike on a medical facility in Kharkiv, Terekhov)",
      "href": "https://ru.interfax.com.ua/news/general/1230123.html",
      "status": "used",
      "note": "3 Nov 03:42 CET; in Russian; read via curl by Karen this run"
     },
     {
-     "name": "[11] Kyiv Independent (Russian missile attack hits Kharkiv medical facility, injuring 73)",
+     "name": "[19] Kyiv Independent (Russian missile attack hits Kharkiv medical facility, injuring 73)",
      "href": "https://kyivindependent.com/russian-missile-attack-hits-kharkiv-medical-facility-62-casualties-reported/",
      "status": "used",
      "note": "3 Nov 04:47 CET, updated 10:54 CET; read via curl this run"
@@ -959,94 +1089,130 @@
    "theater": "Hybrid Warfare",
    "sources": [
     {
-     "name": "[1] BBC News (Bomb threats target seven flights across Europe)",
+     "name": "[1] NRK (Forsvaret plasserer ut luftovervåking i Kirkenes som kan oppdage droner på avveier)",
+     "href": "https://www.nrk.no/tromsogfinnmark/forsvaret-plasserer-ut-luftovervaking-i-kirkenes-som-kan-oppdage-droner-pa-avveier-1.18072276",
+     "status": "used",
+     "note": "3 Nov 13:00 CET, updated 14:22 CET; read via curl this run"
+    },
+    {
+     "name": "[2] The Barents Observer (NASAMS sensors to be deployed along Norway's border with Russia)",
+     "href": "https://www.thebarentsobserver.com/security/nasams-sensors-to-be-deployed-along-norways-border-with-russia/461203",
+     "status": "used",
+     "note": "3 Nov 15:38 CET; read via curl this run"
+    },
+    {
+     "name": "[3] Kyiv Independent (Poland deploys counterterrorism police near Russian border amid sabotage warnings)",
+     "href": "https://kyivindependent.com/poland-deploys-counterterrorism-police-near-russian-border-amid-sabotage-warnings/",
+     "status": "used",
+     "note": "3 Nov 06:33 CET; read via curl this run; cites RMF FM"
+    },
+    {
+     "name": "[4] Notes From Poland (Poland launches operation along Russian border in response to reports of planned sabotage)",
+     "href": "https://notesfrompoland.com/2026/11/02/poland-launches-operation-along-russian-border-in-response-to-reports-of-planned-sabotage/",
+     "status": "used",
+     "note": "2 Nov; read via curl by Karen this run"
+    },
+    {
+     "name": "[5] BBC News (Bomb threats target seven flights across Europe)",
      "href": "https://www.bbc.com/news/articles/c6x2wd4v04eeo",
      "status": "used",
-     "note": "3 Nov 12:22 CET, updated 16:39 CET; read via curl this run; major-outlet sweep"
+     "note": "3 Nov 12:22 CET, updated 21:42 CET; read via curl this run; major-outlet sweep"
     },
     {
-     "name": "[2] NOS Nieuws buitenland (Flights in Poland, Spain, Bulgaria, and Italy targeted by bomb threats)",
-     "href": "https://nos.nl/nieuws/buitenland",
-     "status": "used",
-     "note": "3 Nov 10:43 CET entry; headline and summary read this run"
-    },
-    {
-     "name": "[3] BBC News (Shop freezers in seven European countries hit by cyber-attack)",
+     "name": "[6] BBC News (Shop freezers in seven European countries hit by cyber-attack)",
      "href": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
      "status": "used",
      "note": "published 2 Nov 11:21 UTC (12:21 CET), updated 15:12 UTC (16:12 CET); quotes Sabcobel CEO via Belga, Carrefour, Colruyt via Reuters, and the UK NCSC; read via curl"
     },
     {
-     "name": "[4] AFP (Fridge cyberattack hits supermarkets across Europe)",
+     "name": "[7] AFP (Fridge cyberattack hits supermarkets across Europe)",
      "href": "https://www.afp.com/en/fridge-cyberattack-hits-supermarkets-across-europe",
      "status": "used",
      "note": "3 Nov 02:55 CET; read via curl this run (Ernie check, re-read by executor)"
     },
     {
-     "name": "[5] BBC News (Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries)",
+     "name": "[8] BBC News (Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries)",
      "href": "https://www.bbc.com/news/articles/cwy8lm1m59mvo",
      "status": "used",
      "note": "3 Nov 14:12 CET, updated 14:55 CET; read via curl this run"
     },
     {
-     "name": "[6] The Guardian Europe live (Irish and Estonian supermarkets also targeted in freezer cyber-hacks)",
-     "href": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-     "status": "used",
-     "note": "entries 2 Nov 13:40 CET to 15:37 CET; SuperValu, Selver, and Carrefour Belgium quotes via AFP; Ikea Mons store (15:29 CET); EU Commissioner Hansen (15:37 CET); read via curl"
-    },
-    {
-     "name": "[7] VRT NWS liveblog (Federal prosecutor opens criminal investigation after cyberattack on several Belgian supermarkets)",
+     "name": "[9] VRT NWS liveblog (Federal prosecutor opens criminal investigation after cyberattack on several Belgian supermarkets)",
      "href": "https://www.vrt.be/vrtnws/nl/liveblog/federaal-parket-opent-strafonderzoek-na-cyberaanval-bij-verschil~1793610043244/",
      "status": "used",
      "note": "Dutch; opened 2 Nov 10:19 CET; ethical hacker Keanu Nys on a known Danfoss flaw; store losses; read via curl"
     },
     {
-     "name": "[8] Devdiscourse / Reuters (Belgium opens criminal investigation into fridge cyberattack)",
+     "name": "[10] Devdiscourse / Reuters (Belgium opens criminal investigation into fridge cyberattack)",
      "href": "https://www.devdiscourse.com/article/international/4000756-belgium-opens-criminal-investigation-into-fridge-cyberattack",
      "status": "used",
      "note": "Reuters via Devdiscourse, 2 Nov 19:27 IST (15:57 CET); prosecutor spokesperson; read via curl"
     },
     {
-     "name": "[9] BBC News (Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked)",
+     "name": "[11] The Guardian Europe live (Irish and Estonian supermarkets also targeted in freezer cyber-hacks)",
+     "href": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+     "status": "used",
+     "note": "entries 2 Nov 13:40 CET to 15:37 CET; SuperValu, Selver, and Carrefour Belgium quotes via AFP; Ikea Mons store (15:29 CET); EU Commissioner Hansen (15:37 CET); read via curl"
+    },
+    {
+     "name": "[12] BBC News (UK meat industry hit by cyber-attack which targeted European supermarket freezers)",
+     "href": "https://www.bbc.com/news/articles/ckq6ndq8l6v0o",
+     "status": "used",
+     "note": "3 Nov 10:43 CET; read via curl this run; UK check"
+    },
+    {
+     "name": "[13] ERR News (Hackers raised freezer temperature at Selver supermarket to +50°C)",
+     "href": "https://news.err.ee/1610183296/hackers-raised-freezer-temperature-at-selver-supermarket-to-50-c",
+     "status": "used",
+     "note": "2 Nov 10:44 CET; read via curl this run"
+    },
+    {
+     "name": "[14] NOS Nieuws buitenland (Flights in Poland, Spain, Bulgaria, and Italy targeted by bomb threats)",
+     "href": "https://nos.nl/nieuws/buitenland",
+     "status": "used",
+     "note": "3 Nov 10:43 CET entry; headline and summary read this run"
+    },
+    {
+     "name": "BBC News (Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked)",
      "href": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
-     "status": "used",
-     "note": "published 1 Nov 22:28 GMT (23:28 CET), updated 2 Nov 15:35 CET; alert times given in Kyiv time; read via curl; carried; re-checked this run"
+     "status": "reviewed",
+     "note": "published 1 Nov 22:28 GMT (23:28 CET), updated 2 Nov 15:35 CET; alert times given in Kyiv time; read via curl; carried; re-checked this run; cited in the 3 Nov 17:10 edition, item aged out"
     },
     {
-     "name": "[10] Al Jazeera (Ukraine blames Russia after air alert app sends out false warnings)",
+     "name": "Al Jazeera (Ukraine blames Russia after air alert app sends out false warnings)",
      "href": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings",
-     "status": "used",
-     "note": "published 2 Nov 01:40 UTC (02:40 CET); with AFP and Reuters; read via curl; carried; re-checked this run"
+     "status": "reviewed",
+     "note": "published 2 Nov 01:40 UTC (02:40 CET); with AFP and Reuters; read via curl; carried; re-checked this run; cited in the 3 Nov 17:10 edition, item aged out"
     },
     {
-     "name": "[11] ABC News Australia (Ukraine's public alert app sends false warnings after being hacked)",
+     "name": "ABC News Australia (Ukraine's public alert app sends false warnings after being hacked)",
      "href": "https://www.abc.net.au/news/2026-11-02/ukraine-air-force-public-air-raid-alert-app-hacked-false-warning/107336062",
-     "status": "used",
-     "note": "published 2 Nov 02:05 UTC (03:05 CET); Reuters-based; read via curl; carried; re-checked this run"
+     "status": "reviewed",
+     "note": "published 2 Nov 02:05 UTC (03:05 CET); Reuters-based; read via curl; carried; re-checked this run; cited in the 3 Nov 17:10 edition, item aged out"
     },
     {
-     "name": "[12] DW live (Ukraine, Russia report hacking attacks on emergency alert apps)",
+     "name": "DW live (Ukraine, Russia report hacking attacks on emergency alert apps)",
      "href": "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079",
-     "status": "used",
-     "note": "published 2 Nov 02:48 UTC (03:48 CET); with AP, AFP, dpa, and Reuters; quotes Russian Emergencies Ministry Telegram post; read via curl; carried; re-checked this run"
+     "status": "reviewed",
+     "note": "published 2 Nov 02:48 UTC (03:48 CET); with AP, AFP, dpa, and Reuters; quotes Russian Emergencies Ministry Telegram post; read via curl; carried; re-checked this run; cited in the 3 Nov 17:10 edition, item aged out"
     },
     {
-     "name": "[13] dev.ua (Air Alert developers partially restore the service after a hacker attack and fake notifications)",
+     "name": "dev.ua (Air Alert developers partially restore the service after a hacker attack and fake notifications)",
      "href": "https://dev.ua/en/news/khakerska-ataka-na-zastosunok-povitriana-tryvoha-1793598837",
-     "status": "used",
-     "note": "published 2 Nov 09:20 Kyiv (08:20 CET); cites the app team statement; read via curl"
+     "status": "reviewed",
+     "note": "published 2 Nov 09:20 Kyiv (08:20 CET); cites the app team statement; read via curl; cited in the 3 Nov 17:10 edition, item aged out"
     },
     {
-     "name": "[14] The New Voice of Ukraine (Russian hackers target Ukraine's Air Alert app, but defense operations unaffected)",
+     "name": "The New Voice of Ukraine (Russian hackers target Ukraine's Air Alert app, but defense operations unaffected)",
      "href": "https://english.nv.ua/nation/ukraine-s-air-alert-app-hit-by-russian-cyberattack-defense-operations-unaffected-ihnat-50655514.html",
-     "status": "used",
-     "note": "published 2 Nov 14:30 Kyiv (13:30 CET); Air Force spokesperson Yurii Ihnat on the United News telethon; read via curl"
+     "status": "reviewed",
+     "note": "published 2 Nov 14:30 Kyiv (13:30 CET); Air Force spokesperson Yurii Ihnat on the United News telethon; read via curl; cited in the 3 Nov 17:10 edition, item aged out"
     },
     {
-     "name": "[15] PBS News (Zelenskyy confirms Ukraine hacked back after Russia's cyberattack of its emergency alert system)",
+     "name": "PBS News (Zelenskyy confirms Ukraine hacked back after Russia's cyberattack of its emergency alert system)",
      "href": "https://www.pbs.org/newshour/world/watch-zelenskyy-confirms-ukraine-hacked-back-after-russias-cyberattack-of-its-emergency-alert-system",
-     "status": "used",
-     "note": "2 Nov 19:06 CET; read via curl this run (Ernie check, re-read by executor)"
+     "status": "reviewed",
+     "note": "2 Nov 19:06 CET; read via curl this run (Ernie check, re-read by executor); cited in the 3 Nov 17:10 edition, item aged out"
     },
     {
      "name": "RMF24 (Special operation by uniformed services at the border; police chief reveals details)",
@@ -1294,76 +1460,118 @@
    "theater": "Europe",
    "sources": [
     {
-     "name": "[1] BBC News (UK and EU agree draft deal to scrap Brexit red tape over food exports)",
-     "href": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
+     "name": "[1] BBC News (Taoiseach to set up initiative on constitutional future of the island)",
+     "href": "https://www.bbc.com/news/articles/c5kgl97zey34o",
      "status": "used",
-     "note": "3 Nov 03:11 CET, updated 13:07 CET; read via curl this run"
+     "note": "3 Nov 22:42 CET; read via curl this run; UK/Ireland check"
     },
     {
-     "name": "[2] The Guardian via Yahoo News (Deal finalised to remove Brexit checks on food)",
-     "href": "https://uk.news.yahoo.com/deal-finalised-remove-brexit-checks-091921519.html",
+     "name": "[2] RTÉ (Taoiseach reveals plan for study on All-Island State)",
+     "href": "https://www.rte.ie/news/ireland/2026/1103/1597867-futures-study-initiative/",
      "status": "used",
-     "note": "3 Nov 10:19 CET; read via curl this run"
+     "note": "3 Nov 19:00 CET, updated 21:16 CET; read via curl by Karen this run"
     },
     {
-     "name": "[3] BBC News (Thousands of European troops to rehearse Ukraine deployment in event of peace)",
-     "href": "https://www.bbc.com/news/articles/cm3wv085ne6po",
+     "name": "[3] BBC News (Spanish transport minister resigns days after deadly train crash)",
+     "href": "https://www.bbc.com/news/articles/c6wydqd4yxdyo",
      "status": "used",
-     "note": "3 Nov 01:07 CET; read via curl this run; UK check"
+     "note": "3 Nov 21:28 CET; read via curl this run; Spain check"
     },
     {
-     "name": "[4] BBC News (Dutch police offer record €2m reward in hunt for drug lord)",
-     "href": "https://www.bbc.com/news/articles/ckly0v2q2yxlo",
+     "name": "[4] NOS (Premier Jetten vraagt oppositie: neem verantwoordelijkheid)",
+     "href": "https://nos.nl/artikel/2637824-premier-jetten-vraagt-oppositie-neem-verantwoordelijkheid",
      "status": "used",
-     "note": "2 Nov 18:29 CET; read via curl this run; Netherlands check"
+     "note": "3 Nov 08:44 CET, updated 10:42 CET; read via curl this run"
     },
     {
-     "name": "[5] Radio Prague International (Czech Radio to scale back news and current affairs during Tuesday strike)",
+     "name": "[5] DutchNews (Jetten hopes sweeteners will win opposition backing for budget)",
+     "href": "https://www.dutchnews.nl/2026/11/jetten-hopes-sweeteners-will-win-opposition-backing-for-budget/",
+     "status": "used",
+     "note": "3 Nov 13:52 CET, updated 16:11 CET; read via curl this run"
+    },
+    {
+     "name": "[6] Euronews (Who will replace Lagarde? Eurozone picks nominees as race for ECB top job begins)",
+     "href": "https://www.euronews.com/2026/11/03/who-will-replace-lagarde-eurozone-picks-nominees-as-race-for-ecb-top-job-begins",
+     "status": "used",
+     "note": "3 Nov 11:10 CET; read via curl this run"
+    },
+    {
+     "name": "[7] POLITICO Europe (Eurozone countries to nominate Lagarde replacement by Nov. 6)",
+     "href": "https://www.politico.eu/article/eurozone-countries-to-nominate-lagarde-replacement-by-nov-6/",
+     "status": "used",
+     "note": "3 Nov 09:42 CET, updated 11:55 CET; headline and dates read via curl this run"
+    },
+    {
+     "name": "[8] Radio Prague International (Czech Radio to scale back news and current affairs during Tuesday strike)",
      "href": "https://english.radio.cz/czech-radio-scale-back-news-and-current-affairs-during-tuesday-strike-8901564",
      "status": "used",
      "note": "2 Nov 11:57 CET; read via curl this run; Czechia check"
     },
     {
-     "name": "[6] ČT24 with ČTK (Czech Television and Czech Radio staff will strike on 3 November)",
+     "name": "[9] ČT24 with ČTK (Czech Television and Czech Radio staff will strike on 3 November)",
      "href": "https://ct24.ceskatelevize.cz/clanek/domaci/iniciativa-verejnopravne-k-projednavani-zruseni-poplatku-za-ct-a-cro-378956",
      "status": "used",
      "note": "23 Oct 15:02 CET, background for the strike call; read via curl this run"
     },
     {
-     "name": "[7] Česká televize press release (Staff strike will limit Tuesday broadcasts of Czech Television)",
+     "name": "[10] Česká televize press release (Staff strike will limit Tuesday broadcasts of Czech Television)",
      "href": "https://www.ceskatelevize.cz/vse-o-ct/pro-media/stavka-031126/",
      "status": "used",
      "note": "2 Nov; read via curl this run; Czechia check"
     },
     {
-     "name": "[8] ČTK (Thousands gather on Wenceslas Square in support of Czech Television and Czech Radio)",
+     "name": "[11] ČTK (Thousands gather on Wenceslas Square in support of Czech Television and Czech Radio)",
      "href": "https://www.ceskenoviny.cz/zpravy/2896664",
      "status": "used",
      "note": "3 Nov 12:58 CET, updated 16:49 CET; in Czech; read via curl this run"
     },
     {
-     "name": "[9] Ouest-France live (48 high schools and 51 higher-education sites blocked, says government)",
+     "name": "[12] Ouest-France live (48 high schools and 51 higher-education sites blocked, says government)",
      "href": "https://www.ouest-france.fr/societe/manifestation/direct-mobilisation-lyceenne-et-etudiante-48-lycees-sont-bloques-sur-lensemble-du-territoire-annonce-le-ministere-3f2c0bf6-9120-4048-8002-c7750d7ce2b2",
      "status": "used",
      "note": "3 Nov, modified 16:49 CET; Ouest-France live with AFP; read via WebFetch (curl 403)"
     },
     {
-     "name": "[10] 20 Minutes live (Social anger: youth groups call for mass blockades)",
+     "name": "[13] 20 Minutes live (Social anger: youth groups call for mass blockades)",
      "href": "https://www.20minutes.fr/societe/4259892-20261103-direct-colere-sociale-organisations-jeunesse-appellent-blocages-massifs-facs-lycees",
      "status": "used",
      "note": "3 Nov; read via search extract"
     },
     {
-     "name": "[11] France 3 Normandie (School blockades: a principal injured and 13 arrests in Seine-Maritime)",
+     "name": "[14] France 3 Normandie (School blockades: a principal injured and 13 arrests in Seine-Maritime)",
      "href": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/blocage-des-lycees-un-proviseur-blesse-et-13-interpellations-en-seine-maritime-3443637.html",
      "status": "used",
      "note": "3 Nov 14:00 CET prefecture toll; read via search extract"
     },
     {
-     "name": "[12] franceinfo with AFP (Paris police ban the student march planned Tuesday in central Paris; Interfac IDF files an appeal)",
+     "name": "[15] franceinfo with AFP (Paris police ban the student march planned Tuesday in central Paris; Interfac IDF files an appeal)",
      "href": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-prefecture-de-police-interdit-la-manifestation-prevue-mardi-par-une-organisation-etudiante-au-coeur-de-paris-interfac-idf-depose-un-recours_8264807.html",
      "status": "used",
      "note": "2 Nov 22:03 CET; read via curl by Karen this run"
+    },
+    {
+     "name": "[16] BBC News (UK and EU agree draft deal to scrap Brexit red tape over food exports)",
+     "href": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
+     "status": "used",
+     "note": "3 Nov 03:11 CET, updated 21:53 CET; read via curl this run"
+    },
+    {
+     "name": "[17] The Guardian via Yahoo News (Deal finalised to remove Brexit checks on food)",
+     "href": "https://uk.news.yahoo.com/deal-finalised-remove-brexit-checks-091921519.html",
+     "status": "used",
+     "note": "3 Nov 10:19 CET; read via curl this run"
+    },
+    {
+     "name": "BBC News (Thousands of European troops to rehearse Ukraine deployment in event of peace)",
+     "href": "https://www.bbc.com/news/articles/cm3wv085ne6po",
+     "status": "reviewed",
+     "note": "3 Nov 01:07 CET; read via curl this run; UK check; cited in the 3 Nov 17:10 edition, item aged out"
+    },
+    {
+     "name": "BBC News (Dutch police offer record €2m reward in hunt for drug lord)",
+     "href": "https://www.bbc.com/news/articles/ckly0v2q2yxlo",
+     "status": "reviewed",
+     "note": "2 Nov 18:29 CET; read via curl this run; Netherlands check; cited in the 3 Nov 17:10 edition, item aged out"
     },
     {
      "name": "RTBF, with AFP (Act III of France's social anger: hundreds of thousands march against high prices)",
@@ -1736,6 +1944,42 @@
      "href": "https://www.bbc.com/news/world/europe",
      "status": "reviewed",
      "note": "3 Nov 16:47 CET; headlines read; UK check"
+    },
+    {
+     "name": "ANSA English (EU says it will scrutinize Italian government's cap on foreign pupils)",
+     "href": "https://www.ansa.it/english/",
+     "status": "reviewed",
+     "note": "4 Nov 04:55 CET; headlines read this run; Italy check; nothing qualifying beyond this headline"
+    },
+    {
+     "name": "RTBF Info (Belgium federal coalition crisis; Poland crisis; bomb-threat flights)",
+     "href": "https://www.rtbf.be/info",
+     "status": "reviewed",
+     "note": "4 Nov 04:55 CET; headlines read this run; Belgium check; nothing new qualifying"
+    },
+    {
+     "name": "El País English",
+     "href": "https://english.elpais.com/",
+     "status": "reviewed",
+     "note": "4 Nov 04:55 CET; headlines read this run; Spain check; Puente covered via BBC"
+    },
+    {
+     "name": "NOS Nieuws buitenland",
+     "href": "https://nos.nl/nieuws/buitenland",
+     "status": "reviewed",
+     "note": "4 Nov 04:55 CET; not reached (page returned no readable headlines); Netherlands check"
+    },
+    {
+     "name": "European Commission press corner",
+     "href": "https://ec.europa.eu/commission/presscorner/home/en",
+     "status": "reviewed",
+     "note": "4 Nov 04:55 CET; not reached (JavaScript shell, no content); EU institutions check; Brussels Ukraine meeting covered via Commission spokesperson quote in Kyiv Independent"
+    },
+    {
+     "name": "BBC News Europe index",
+     "href": "https://www.bbc.com/news/world/europe",
+     "status": "reviewed",
+     "note": "4 Nov 04:55 CET; headlines read this run"
     }
    ]
   },
@@ -1743,52 +1987,64 @@
    "theater": "Baltics",
    "sources": [
     {
-     "name": "[1] LSM English (More details released about recent drone incidents in Latvia)",
+     "name": "[1] ERR News (EDF taking part in a multinational exercise to support post-war Ukraine)",
+     "href": "https://news.err.ee/1610184338/edf-taking-part-in-a-multinational-exercise-to-support-post-war-ukraine",
+     "status": "used",
+     "note": "3 Nov 12:15 CET; read via curl this run"
+    },
+    {
+     "name": "[2] Euronews (Thousands of troops from Europe to rehearse post-war Ukraine deployment in Poland)",
+     "href": "https://www.euronews.com/2026/11/03/thousands-of-troops-from-europe-to-rehearse-post-war-ukraine-deployment-in-poland",
+     "status": "used",
+     "note": "3 Nov 07:16 CET, updated 12:13 CET; read via WebFetch this run"
+    },
+    {
+     "name": "[3] LSM English (More details released about recent drone incidents in Latvia)",
      "href": "https://eng.lsm.lv/article/society/defence/03.11.2026-more-details-released-about-recent-drone-incidents-in-latvia.a670418/",
      "status": "used",
      "note": "3 Nov 16:48 CET (17:48 Riga); military briefing; curl 403, read via WebFetch this run"
     },
     {
-     "name": "[2] BB.LV with LETA (Air raid alert declared in Latvia at night; where an unknown object might have fallen)",
+     "name": "[4] BB.LV with LETA (Air raid alert declared in Latvia at night; where an unknown object might have fallen)",
      "href": "https://en.bb.lv/article/our-latvia/2026/11/03/air-raid-alert-declared-in-latvia-at-night-it-became-known-where-an-unknown-object-might-have-fallen-114807",
      "status": "used",
      "note": "3 Nov 05:48 CET (06:48 Riga); Balvi council chairman to LETA; read via curl this run"
     },
     {
-     "name": "[3] Saeima press service (Edvards Smiltēns elected Saeima Speaker)",
+     "name": "[5] Saeima press service (Edvards Smiltēns elected Saeima Speaker)",
      "href": "https://www.saeima.lv/lv/aktualitates/saeimas-priekssedetaja-amata-ievelets-edvards-smiltens/",
      "status": "used",
      "note": "3 Nov 14:30 CET (15:30 Riga); official; in Latvian; read via curl this run"
     },
     {
-     "name": "[4] LSM English (Edvards Smiltēns returns as Saeima Speaker)",
+     "name": "[6] LSM English (Edvards Smiltēns returns as Saeima Speaker)",
      "href": "https://eng.lsm.lv/article/politics/saeima/03.11.2026-edvards-smiltens-returns-as-saeima-speaker.a670396/",
      "status": "used",
      "note": "3 Nov 14:45 CET (15:45 Riga); read via curl this run"
     },
     {
-     "name": "[5] BNN with LETA (Edvards Smiltēns elected Speaker of Latvia's 15th Saeima)",
+     "name": "[7] BNN with LETA (Edvards Smiltēns elected Speaker of Latvia's 15th Saeima)",
      "href": "https://bnn-news.com/politics/edvards-smiltens-elected-speaker-of-latvia-s-15th-saeima-bvjztym",
      "status": "used",
      "note": "3 Nov 15:17 CET; read via curl this run"
     },
     {
-     "name": "[6] LRT English (Lithuania tightens rules for foreign nationals seeking temporary residence permits)",
+     "name": "[8] LRT English (Lithuania tightens rules for foreign nationals seeking temporary residence permits)",
      "href": "https://www.lrt.lt/en/news-in-english/19/3102295/lithuania-tightens-rules-for-foreign-nationals-seeking-temporary-residence-permits",
      "status": "used",
      "note": "3 Nov 14:32 CET; read via curl this run"
     },
     {
-     "name": "[7] LRT English (Lithuanian president criticises 'hybrid threat' term)",
+     "name": "[9] LRT English (Lithuanian president criticises 'hybrid threat' term)",
      "href": "https://www.lrt.lt/en/news-in-english/19/3102197/lithuanian-president-criticises-hybrid-threat-term-says-some-russian-attacks-kinetic",
      "status": "used",
      "note": "3 Nov 12:08 CET; read via curl this run"
     },
     {
-     "name": "[8] LSM English (First sitting of the 15th Latvian Saeima)",
+     "name": "LSM English (First sitting of the 15th Latvian Saeima)",
      "href": "https://eng.lsm.lv/article/politics/saeima/03.11.2026-watch-live-first-sitting-of-the-15th-latvian-saeima.a670300/",
-     "status": "used",
-     "note": "3 Nov 08:47 CET; read via curl this run"
+     "status": "reviewed",
+     "note": "3 Nov 08:47 CET; read via curl this run; cited in the 3 Nov 17:10 edition, item aged out"
     },
     {
      "name": "LSM / Latvian Radio (Kulbergs noslēdz valdības veidošanas sarunu pirmo kārtu; Šlesers sola atbalstīt arī nepopulāras reformas)",
@@ -1981,6 +2237,24 @@
      "href": "https://news.err.ee/",
      "status": "reviewed",
      "note": "3 Nov 16:47 CET; page fetched; Estonia check; no new qualifying item read"
+    },
+    {
+     "name": "LRT English",
+     "href": "https://www.lrt.lt/en/news-in-english",
+     "status": "reviewed",
+     "note": "4 Nov 04:55 CET; headlines read; carried items still current; nothing new qualifying"
+    },
+    {
+     "name": "ERR News",
+     "href": "https://news.err.ee/",
+     "status": "reviewed",
+     "note": "4 Nov 04:55 CET; headlines read; Selver hack used in Hybrid Warfare"
+    },
+    {
+     "name": "LSM English",
+     "href": "https://www.lsm.lv/en/",
+     "status": "reviewed",
+     "note": "4 Nov 04:55 CET; page returned Latvian TV listings only; not reached for news"
     }
    ]
   },
@@ -2292,6 +2566,12 @@
      "href": "https://balkaninsight.com/2026/11/03/albanian-journalists-complain-of-police-violence-abuse-during-anti-govt-protests/bi/",
      "status": "reviewed",
      "note": "3 Nov 07:59 CET; opening paragraph only, rest behind paywall; not used"
+    },
+    {
+     "name": "Balkan Insight",
+     "href": "https://balkaninsight.com/",
+     "status": "reviewed",
+     "note": "4 Nov 04:52 CET; headlines read; carried items unchanged"
     }
    ]
   },
@@ -2299,46 +2579,58 @@
    "theater": "Caucasus",
    "sources": [
     {
-     "name": "[1] Civil Georgia (Ivanishvili's son sues TV Pirveli, Formula channels)",
+     "name": "[1] Civil Georgia (Kobakhidze on defensive during Euronews Enlargement Summit interview in Brussels)",
+     "href": "https://civil.ge/archives/756597",
+     "status": "used",
+     "note": "3 Nov 20:56 CET; read via curl this run"
+    },
+    {
+     "name": "[2] Euronews (Georgia PM offers no way out of EU accession deadlock in Euronews interview)",
+     "href": "https://www.euronews.com/2026/11/03/georgia-pm-offers-no-way-out-of-eu-accession-deadlock-in-euronews-interview",
+     "status": "used",
+     "note": "3 Nov 18:14 CET, updated 19:36 CET; read via curl by Karen this run"
+    },
+    {
+     "name": "[3] Civil Georgia (Ivanishvili's son sues TV Pirveli, Formula channels)",
      "href": "https://civil.ge/archives/756544",
      "status": "used",
      "note": "3 Nov 13:53 CET (16:53 Tbilisi); read via curl this run"
     },
     {
-     "name": "[2] OC Media (Azerbaijan and Ukraine conduct joint operation against cyberfraud network)",
+     "name": "[4] OC Media (Azerbaijan and Ukraine conduct joint operation against cyberfraud network)",
      "href": "https://oc-media.org/azerbaijan-and-ukraine-conduct-joint-operation-against-cyberfraud-network/",
      "status": "used",
      "note": "3 Nov 13:41 CET; read via curl this run"
     },
     {
-     "name": "[3] Civil Georgia (GD calls RSF 'Global War Party' instrument over Ivanishvili's 'predator' designation)",
+     "name": "[5] Civil Georgia (GD calls RSF 'Global War Party' instrument over Ivanishvili's 'predator' designation)",
      "href": "https://civil.ge/archives/756504",
      "status": "used",
      "note": "3 Nov 11:27 CET; read via curl this run"
     },
     {
-     "name": "[4] OC Media (Armenia to begin designing Trump Route infrastructure, Pashinyan says)",
+     "name": "[6] OC Media (Armenia to begin designing Trump Route infrastructure, Pashinyan says)",
      "href": "https://oc-media.org/armenia-to-begin-designing-trump-route-infrastructure-pashinyan-says/",
      "status": "used",
      "note": "3 Nov 11:24 CET; read via curl this run"
     },
     {
-     "name": "[5] Civil Georgia (UNM confirms quitting Opposition Alliance)",
+     "name": "[7] Civil Georgia (UNM confirms quitting Opposition Alliance)",
      "href": "https://civil.ge/archives/756503",
      "status": "used",
      "note": "3 Nov 10:40 CET; read via curl this run"
     },
     {
-     "name": "[6] JAMnews (News in Azerbaijan, Armenia, Georgia, 2–6 November)",
+     "name": "JAMnews (News in Azerbaijan, Armenia, Georgia, 2–6 November)",
      "href": "https://jam-news.net/news-in-azerbaijan-armenia-georgia-2-6-november-2026/",
-     "status": "used",
-     "note": "2 Nov; read via curl this run"
+     "status": "reviewed",
+     "note": "2 Nov; read via curl this run; cited in the 3 Nov 17:10 edition, item aged out"
     },
     {
-     "name": "[7] Civil Georgia (October 4 convict Nana Sander to leave prison early after plea agreement)",
+     "name": "Civil Georgia (October 4 convict Nana Sander to leave prison early after plea agreement)",
      "href": "https://civil.ge/archives/756377",
-     "status": "used",
-     "note": "2 Nov; read via curl this run"
+     "status": "reviewed",
+     "note": "2 Nov; read via curl this run; cited in the 3 Nov 17:10 edition, item aged out"
     },
     {
      "name": "Civil Georgia (Geladze Leaves Deputy Interior Minister Post, Joins Oil And Gas Cooperation Board)",
@@ -2502,70 +2794,88 @@
    "theater": "Germany",
    "sources": [
     {
-     "name": "[1] tagesschau.de (Merz promises more help for Ukraine)",
-     "href": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html",
+     "name": "[1] tagesschau.de (Renten könnten 2027 um 4,1 Prozent steigen)",
+     "href": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
      "status": "used",
-     "note": "3 Nov 15:54 CET; read via curl this run"
+     "note": "3 Nov 20:05 CET; read via curl this run"
     },
     {
-     "name": "[2] Welt (Coalition wants 200 million euros in extra winter aid for Ukraine)",
+     "name": "[2] tagesschau.de (Cyberangriffe auf Kühlanlagen deutscher Supermärkte)",
+     "href": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
+     "status": "used",
+     "note": "3 Nov 11:46 CET, updated 14:49 CET; read via curl this run"
+    },
+    {
+     "name": "[3] tagesschau.de (Merz promises more help for Ukraine)",
+     "href": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html",
+     "status": "used",
+     "note": "3 Nov 17:08 CET; read via curl this run"
+    },
+    {
+     "name": "[4] Welt (Coalition wants 200 million euros in extra winter aid for Ukraine)",
      "href": "https://www.welt.de/politik/deutschland/article6ae98dc2e54274d5b379d358/bundestag-ueberplanmaessig-schwarz-rot-will-200-millionen-euro-zusaetzliche-winterhilfe-fuer-ukraine.html",
      "status": "used",
      "note": "3 Nov 09:26 CET, updated 09:49 CET; read via curl by Karen this run"
     },
     {
-     "name": "[3] Der Spiegel (Ferdi Soylu released from Turkish custody after more than two months)",
+     "name": "[5] Kyiv Post (Zelensky meets Bundestag President Klöckner in Berlin)",
+     "href": "https://www.kyivpost.com/post/89056",
+     "status": "used",
+     "note": "3 Nov 23:15 CET; read via curl this run"
+    },
+    {
+     "name": "[6] Der Spiegel (Ferdi Soylu released from Turkish custody after more than two months)",
      "href": "https://www.spiegel.de/panorama/justiz/ferdi-soylu-nach-ueber-zwei-monaten-aus-tuerkischer-haft-entlassen-a-4e63b6d7-a28f-4b2b-ae89-5a0d6eb97c49",
      "status": "used",
      "note": "3 Nov 12:03 CET, updated 14:10 CET; dpa, brother Sebahattin Soylu; read via curl by Karen this run"
     },
     {
-     "name": "[4] Stuttgarter Zeitung (Ferdi Soylu free again: Ulm man released from Turkish custody)",
+     "name": "[7] Stuttgarter Zeitung (Ferdi Soylu free again: Ulm man released from Turkish custody)",
      "href": "https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/ferdi-soylu-wieder-frei-ulmer-aus-tuerkischer-haft-entlassen-79656710.html",
      "status": "used",
      "note": "3 Nov 11:08 CET; teaser read, body behind paywall; StZ BW canvas"
     },
     {
-     "name": "[5] SWR Aktuell (Ulm man detained in Turkey released)",
+     "name": "[8] SWR Aktuell (Ulm man detained in Turkey released)",
      "href": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/verhafteter-ulmer-in-der-tuerkei-wieder-freigelassen-100.html",
      "status": "used",
      "note": "3 Nov 08:25 CET; read via curl by Karen this run"
     },
     {
-     "name": "[6] tagesschau.de (Schaeffler cuts nearly 3,500 jobs)",
+     "name": "[9] tagesschau.de (Schaeffler cuts nearly 3,500 jobs)",
      "href": "https://www.tagesschau.de/wirtschaft/unternehmen/schaeffler-154.html",
      "status": "used",
      "note": "3 Nov 12:40 CET; read via curl this run"
     },
     {
-     "name": "[7] tagesschau.de (Eleven new power plants to secure electricity supply)",
+     "name": "[10] tagesschau.de (Eleven new power plants to secure electricity supply)",
      "href": "https://www.tagesschau.de/wirtschaft/energie/bundesnetzagentur-gaskraftwerke-100.html",
      "status": "used",
      "note": "3 Nov 11:29 CET; read via curl this run"
     },
     {
-     "name": "[8] tagesschau (Minister Reiche presents first draft of fuel price cap law)",
+     "name": "[11] tagesschau (Minister Reiche presents first draft of fuel price cap law)",
      "href": "https://www.tagesschau.de/inland/innenpolitik/reiche-spritpreisdeckel-entwurf-100.html",
      "status": "used",
      "note": "2 Nov 15:03 CET (14:03 UTC), modified 20:52 CET; draft \"Kraftstoffhöchstpreisgesetz\" seen by ARD; cap by decree only as last-resort crisis tool; triggers if gasoline and diesel rise more than five percentage points above the average price increases in other EU states for three weeks in a row; max three months; states may set different caps; ministry warns low caps could stop imports"
     },
     {
-     "name": "[9] Deutschlandfunk (Reiche plans fuel price cap only for sharp price jumps)",
+     "name": "[12] Deutschlandfunk (Reiche plans fuel price cap only for sharp price jumps)",
      "href": "https://www.deutschlandfunk.de/reiche-plant-kraftstoffpreisdeckel-nur-bei-hohen-preisspruengen-104.html",
      "status": "used",
      "note": "2 Nov news item; URL corrected to the -104 page (the -100 page now shows a 3 Nov item); read via curl this run"
     },
     {
-     "name": "[10] Deutschlandfunk (Monopolies Commission says planned fuel price cap misses the mark)",
+     "name": "[13] Deutschlandfunk (Monopolies Commission says planned fuel price cap misses the mark)",
      "href": "https://www.deutschlandfunk.de/monopolkommission-haelt-geplanten-spritpreisdeckel-fuer-nicht-zielfuehrend-100.html",
      "status": "used",
      "note": "3 Nov; read via curl this run"
     },
     {
-     "name": "[11] Der Tagesspiegel (Pistorius confirms talks on joining fighter jet project)",
+     "name": "Der Tagesspiegel (Pistorius confirms talks on joining fighter jet project)",
      "href": "https://www.tagesspiegel.de/politik/mit-grossbritannien-japan-und-italien-pistorius-bestatigt-gesprache-uber-einstieg-bei-kampfjet-projekt-16234415.html",
-     "status": "used",
-     "note": "2 Nov; read via curl this run"
+     "status": "reviewed",
+     "note": "2 Nov; read via curl this run; cited in the 3 Nov 17:10 edition, item aged out"
     },
     {
      "name": "tagesschau (Needles and nails found in Halloween candy)",
@@ -2854,11 +3164,23 @@
      "href": "https://www.tagesschau.de/",
      "status": "reviewed",
      "note": "3 Nov 16:47 CET; headlines read"
+    },
+    {
+     "name": "Stuttgarter Zeitung — Politik",
+     "href": "https://www.stuttgarter-zeitung.de/politik",
+     "status": "reviewed",
+     "note": "4 Nov 04:52 CET; read this run; US midterms, Abu Dhabi talks, pension rise, tobacco tax fix; pension covered via tagesschau, others not qualifying or covered"
+    },
+    {
+     "name": "Stuttgarter Zeitung — Baden-Württemberg",
+     "href": "https://www.stuttgarter-zeitung.de/baden-wuerttemberg",
+     "status": "reviewed",
+     "note": "4 Nov 04:52 CET; page loaded but no readable headlines extracted; nothing used"
     }
    ]
   }
  ],
  "sourceKey": "A source is used only if an item cites it. Numbers in brackets match the tab's 'Sources used in this tab' list.",
- "operationalAssessment": "Evening edition, rolling window 2 Nov 2026 17:10 CET to 3 Nov 2026 17:10 CET. New research covered 05:10 CET to 17:10 CET on 3 November; items from the previous edition whose times fall inside the 24 hours were carried and re-checked, stories with new developments are marked as follow-ups, and items older than 24 hours were dropped. The ledger lists only sources actually read or checked. Hybrid Warfare uses a draft canvas pending approval.",
+ "operationalAssessment": "Morning edition, rolling window 3 Nov 2026 05:10 CET to 4 Nov 2026 05:10 CET. New research covered 17:10 CET on 3 November to 05:10 CET on 4 November; items from the previous edition whose times fall inside the 24 hours were carried and re-checked, stories with new developments are marked as follow-ups, and items older than 24 hours were dropped. The ledger lists only sources actually read or checked. Hybrid Warfare uses a draft canvas pending approval.",
  "footer": "For situational awareness only; not for operational, financial, or medical decisions."
 }
