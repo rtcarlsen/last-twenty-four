@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-05T17:12:09+01:00",
+ "generatedAt": "2026-11-05T17:13:53+01:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
  "asOf": "Thursday, 5 November 2026, 17:45 CET",
  "windowLabel": "4 Nov 2026 17:45 CET → 5 Nov 2026 17:45 CET",
@@ -505,6 +505,24 @@
    "heading": "Stability, politics, and outside influence in the Western Balkans",
    "items": [
     {
+     "kind": "Justice",
+     "time": "5 Nov 15:53–16:11",
+     "title": "Serbia Opens Election-Abuse Cases Against Spy Chief and Justice Minister",
+     "lede": "Serbia's organized-crime prosecutors ordered police to look into complaints that BIA director Vladimir Orlić and Justice Minister Nenad Vujić abused voting rights.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Serbia's Public Prosecutor's Office for Organized Crime opened two cases based on criminal complaints from lawyer Ivan Ninić over election rights, RTS reported [1]. The first names Security Information Agency director Vladimir Orlić and several agency officers [1][2]. The second names Justice Minister Nenad Vujić, prison administration director Mileta Jandrić, ministerial adviser Milica Radonjić, and others, including officials of the ruling Serbian Progressive Party [1][2]. On 4 November, prosecutors asked police to check the allegations and interview the people named, Insajder reported [2]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high that the cases were opened and that police were asked to investigate, which RTS and Insajder both report from the prosecutor's office. The allegations are unproven."
+      }
+     ]
+    },
+    {
      "kind": "Politics",
      "time": "5 Nov 12:43–15:11",
      "title": "Serbia's New Parliament Could Convene in About 10 Days, Vučić Says",
@@ -514,7 +532,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Serbia's President Aleksandar Vučić said he expects the new National Assembly's first session to be called in about 10 days, Tanjug reported [1]. Student List candidate Dejan Šoškić told Newsmax Balkans that a parliament is very likely within a month, followed immediately by a government [2]. He said he would consider becoming prime minister-designate if the proposal came from students through a democratic process [2]. He said the movement expects to field the next president of Serbia [2]."
+       "text": "Serbia's President Aleksandar Vučić said he expects the new National Assembly's first session to be called in about 10 days, Tanjug reported [3]. Student List candidate Dejan Šoškić told Newsmax Balkans that a parliament is very likely within a month, followed immediately by a government [4]. He said he would consider becoming prime minister-designate if the proposal came from students through a democratic process [4]. He said the movement expects to field the next president of Serbia [4]."
       },
       {
        "kicker": "Confidence",
@@ -532,7 +550,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "EU Enlargement Commissioner Marta Kos met four representatives of Serbia's Student List in Brussels, the movement's first high-level EU contact since its landslide win, Euronews reported [3]. Talks focused on democracy and domestic reforms rather than enlargement [3]. In Belgrade on Wednesday evening, EU Ambassador Andreas von Beckerath presented the Commission's annual report on Serbia [4]. He said the EU stands ready to work closely with the future government and that Serbia could again become a frontrunner [4]. He said Serbia's alignment with EU foreign policy was poor and it must deliver on the dialogue with Kosovo [4]."
+       "text": "EU Enlargement Commissioner Marta Kos met four representatives of Serbia's Student List in Brussels, the movement's first high-level EU contact since its landslide win, Euronews reported [5]. Talks focused on democracy and domestic reforms rather than enlargement [5]. In Belgrade on Wednesday evening, EU Ambassador Andreas von Beckerath presented the Commission's annual report on Serbia [6]. He said the EU stands ready to work closely with the future government and that Serbia could again become a frontrunner [6]. He said Serbia's alignment with EU foreign policy was poor and it must deliver on the dialogue with Kosovo [6]."
       },
       {
        "kicker": "Confidence",
@@ -550,7 +568,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Kosovo's Prime Minister Albin Kurti urged the EU to grant Kosovo candidate status and open membership talks as soon as possible, Albania's public broadcaster RTSH reported [5]. He spoke after the European Commission presented its 2026 report on Kosovo [5]. Kurti blamed a parliamentary deadlock for delaying a Growth Plan agreement and several laws [5]. He rejected claims of regression, saying the Commission found no decline in any area [5]."
+       "text": "Kosovo's Prime Minister Albin Kurti urged the EU to grant Kosovo candidate status and open membership talks as soon as possible, Albania's public broadcaster RTSH reported [7]. He spoke after the European Commission presented its 2026 report on Kosovo [7]. Kurti blamed a parliamentary deadlock for delaying a Growth Plan agreement and several laws [7]. He rejected claims of regression, saying the Commission found no decline in any area [7]."
       },
       {
        "kicker": "Confidence",
@@ -567,7 +585,7 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Serbian authorities detained nine serving police officers and one former officer on Wednesday over alleged abuse of protesters in Belgrade last year, Reuters reported via The Guardian [6]. The Interior Ministry said the suspects, from an elite unit, tortured and intimidated people held in the garage of the government compound on 14 and 15 August 2025 [6][7]. The ministry gave only the suspects' initials [6]. Reuters called the detentions the first big arrests over violence against protesters in the past two years [6]. The protests began after a station canopy collapse in Novi Sad killed 16 people on 1 November 2024 [6]. Serbian public broadcaster RTS said the commander of the Special Antiterrorism Unit, Igor Žmirić, was among those detained, Al Jazeera reported [8]."
+       "text": "Serbian authorities detained nine serving police officers and one former officer on Wednesday over alleged abuse of protesters in Belgrade last year, Reuters reported via The Guardian [8]. The Interior Ministry said the suspects, from an elite unit, tortured and intimidated people held in the garage of the government compound on 14 and 15 August 2025 [8][9]. The ministry gave only the suspects' initials [8]. Reuters called the detentions the first big arrests over violence against protesters in the past two years [8]. The protests began after a station canopy collapse in Novi Sad killed 16 people on 1 November 2024 [8]. Serbian public broadcaster RTS said the commander of the Special Antiterrorism Unit, Igor Žmirić, was among those detained, Al Jazeera reported [10]."
       },
       {
        "kicker": "Confidence",
@@ -1246,49 +1264,61 @@
    "theater": "Balkans",
    "sources": [
     {
-     "name": "[1] Tanjug",
+     "name": "[1] RTS (TOK ordered SBPOK to examine BIA director Vladimir Orlić)",
+     "href": "https://rts.rs/lat/vesti/hronika/6077273/tok-sbpok-bia-vladimir-orlic.html",
+     "status": "used",
+     "note": "5 Nov 15:55 CET, updated 16:11 CET; read via WebFetch this run"
+    },
+    {
+     "name": "[2] Insajder (TOK formed two cases on complaints against the BIA director, the justice minister, and others)",
+     "href": "https://insajder.net/drustvo/tok-formirao-dva-predmeta-po-prijavama-protiv-direktora-bia-ministra-pravde-i-drugih",
+     "status": "used",
+     "note": "5 Nov 15:53 CET; read via WebFetch this run"
+    },
+    {
+     "name": "[3] Tanjug",
      "href": "https://www.tanjug.rs/srbija/politika/295342/vucic-verujem-da-ce-sednica-narodne-skupstine-biti-zakazana-za-desetak-dana/vest",
      "status": "used",
      "note": "Vučić on parliament session, 5 Nov 12:43; search text read 5 Nov 17:10 run"
     },
     {
-     "name": "[2] Tanjug",
+     "name": "[4] Tanjug",
      "href": "https://www.tanjug.rs/english/politics/295452/soskic-i-would-consider-becoming-pm-designate-if-students-put-me-forward/vest",
      "status": "used",
      "note": "Šoškić interview, 5 Nov 15:11; read 5 Nov 17:10 run"
     },
     {
-     "name": "[3] Euronews",
+     "name": "[5] Euronews",
      "href": "https://www.euronews.com/2026/11/05/eu-commission-holds-first-talks-with-serbias-student-list",
      "status": "used",
      "note": "Kos met Student List, 5 Nov 12:44; read 5 Nov 17:10 run"
     },
     {
-     "name": "[4] Tanjug",
+     "name": "[6] Tanjug",
      "href": "https://www.tanjug.rs/english/politics/295434/von-beckerath-eu-stands-ready-to-work-closely-with-future-serbian-government/vest",
      "status": "used",
      "note": "EU report presented in Belgrade, 5 Nov 14:31; read 5 Nov 17:10 run"
     },
     {
-     "name": "[5] RTSH (Albanian public broadcaster)",
+     "name": "[7] RTSH (Albanian public broadcaster)",
      "href": "https://rtsh.al/rti/en/kosovas-prime-minister-says-eu-status-fails-to-reflect-progress/",
      "status": "used",
      "note": "Kurti on EU report, 5 Nov; read 5 Nov 17:10 run"
     },
     {
-     "name": "[6] The Guardian (Reuters)",
+     "name": "[8] The Guardian (Reuters)",
      "href": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
      "status": "used",
      "note": "via The Guardian; 4 Nov 21:42 CET; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
     },
     {
-     "name": "[7] B92",
+     "name": "[9] B92",
      "href": "https://www.b92.net/english/society/282249/ministry-of-interior-issues-statement-eight-police-officers-and-one-civilian-detained-on-suspicion-of-abuse/vest",
      "status": "used",
      "note": "Interior Ministry statement; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
     },
     {
-     "name": "[8] Al Jazeera",
+     "name": "[10] Al Jazeera",
      "href": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters",
      "status": "used",
      "note": "Ten officers, RTS names commander, 5 Nov; read 5 Nov 17:10 run"
