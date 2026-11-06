@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-05T17:13:53+01:00",
+ "generatedAt": "2026-11-06T05:16:00+01:00",
  "brow": "Aggregated snapshot · open-source compilation · not official reporting",
- "asOf": "Thursday, 5 November 2026, 17:45 CET",
- "windowLabel": "4 Nov 2026 17:45 CET → 5 Nov 2026 17:45 CET",
+ "asOf": "Friday, 6 November 2026, 05:35 CET",
+ "windowLabel": "5 Nov 2026 05:35 CET → 6 Nov 2026 05:35 CET",
  "cadenceLabel": "Rolling 24 hours · updated twice daily",
  "banner": null,
  "editionNote": null,
@@ -14,16 +14,105 @@
    "heading": "Battlefield, long-range strikes, and peace diplomacy in Russia's war on Ukraine",
    "items": [
     {
-     "kind": "Casualties",
-     "time": "5 Nov 09:00",
-     "title": "Russian Attacks Kill Nine Across Ukraine as Kherson Toll Rises After Truce",
-     "lede": "A civilian died in Kherson region for the first time since a local ceasefire for the Oleshky evacuation ended on 2 November.",
+     "kind": "Diplomacy",
+     "time": "5 Nov–6 Nov 04:42",
+     "title": "Trump Says He Met Putin's Envoy and Predicts a Broader Europe Deal",
+     "lede": "Trump said he met Russia's envoy but not visiting Ukrainian officials, while U.S. officials scheduled trilateral talks in Abu Dhabi for 10-11 November.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Russian attacks killed nine people and injured 19 across Ukraine over the past day, regional authorities said on 5 November, the Kyiv Independent reported [1]. Kherson Governor Oleksandr Prokudin said one person was killed and three were injured in attacks on 32 settlements [1]. It was the first civilian death reported there since the Oleshky evacuation ceasefire ended overnight on 2 November [1]. Donetsk Governor Vadym Filashkin said four people were killed and five injured [1][2]. Zaporizhzhia Governor Ivan Fedorov said three people were killed [1]."
+       "text": "U.S. President Donald Trump said he privately met Kirill Dmitriev, Russian President Vladimir Putin's special envoy, Thursday after Dmitriev attended a White House event with Ukrainian representatives [1][2][3]. Speaking in the Oval Office, Trump declined to detail the talks but said a deal to settle the Russia-Ukraine war was near [2][1]. \"There's going to be an agreement. It's going to be a big agreement, and it's going to involve more than Ukraine,\" he said, adding that it \"might involve all of Europe\" [2][1]. He said he did not meet the Ukrainian delegation that day [2]. First Lady Melania Trump hosted Dmitriev and Russian human rights commissioner Yana Lantratova. Ukrainian lawmaker David Arakhamia and Ukrainian human rights ombudsman Dmytro Lubinets also attended, marking the expired Oleshky humanitarian ceasefire [4][5]. The White House said the gathering was believed to be the first such wartime diplomatic event hosted there by a U.S. first lady [4]. U.S. envoy Steve Witkoff announced trilateral talks in Abu Dhabi for 10-11 November; Reuters also reported that schedule [1][2]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high on Trump's remarks and the White House event, but moderate on the announced talks schedule. His prediction of an agreement is not a confirmed outcome."
+      }
+     ]
+    },
+    {
+     "kind": "Diplomacy",
+     "time": "5 Nov 23:21",
+     "title": "Zelensky Says Spain Will Provide 437 Million Euros in Military Aid",
+     "lede": "Zelensky announced the package after talks with Spanish Prime Minister Pedro Sánchez in Madrid, where he also attended the Ibero-American Summit.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "After bilateral talks in Madrid on 5 November, Ukraine's President Volodymyr Zelensky said Spain would deliver a new military aid package worth 437 million euros, about $490 million [6]. \"Throughout this war, Spain has consistently provided us with assistance and support,\" he said [6]. The Kyiv Independent reported the funds would help bolster Ukrainian air defenses [6]. Zelensky also met King Felipe VI and said Ukraine was represented at the Ibero-American Summit for the first time, Kyiv Post reported [7]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high that Zelensky announced the package; delivery remains prospective. The opened Spanish government account confirms the meeting, not the 437-million-euro figure."
+      }
+     ]
+    },
+    {
+     "kind": "Military",
+     "time": "5 Nov 11:00–20:07",
+     "title": "Kyiv Water and Metro Hit by Power Fluctuations After Russian Strikes",
+     "lede": "Kyivvodokanal said outages at its facilities disrupted water across all districts, and Mayor Vitali Klitschko later said pressure was gradually returning.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Kyiv residents faced renewed water-supply disruptions on 5 November as voltage fluctuations after Russian energy attacks also affected metro service, the Kyiv Independent reported [8]. Kyivvodokanal said around 12:30 CET that power outages at its facilities had disrupted water across all districts [8]. Mayor Vitali Klitschko said at 14:13 CET that water pressure was gradually returning to normal [8]. Kyiv's administration said metro service across the Dnipro was suspended around 11:00 CET and resumed at 12:05 CET with longer intervals [8]. ISW cited Ukrenergo reports of overnight outages in Kyiv, Zhytomyr, Chernihiv, and Cherkasy regions on 5 November. DTEK reported 78 Russian strikes on power plants and transmission facilities since around 2 November [9]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: city utilities and the mayor are on the record in the Kyiv Independent wrap; ISW adds the wider energy-outage context."
+      }
+     ]
+    },
+    {
+     "kind": "Diplomacy",
+     "time": "5 Nov 17:39–17:52",
+     "title": "Brussels Talks Focus on Ukraine Security Guarantees, Umerov Says",
+     "lede": "Ukraine's Foreign Intelligence Service chief Rustem Umerov said partners discussed guarantees that must work in practice, not only as a political declaration.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Ukraine's Foreign Intelligence Service chief Rustem Umerov said Ukrainian negotiators met in Brussels on Thursday with representatives of France, the United Kingdom, Germany, the United States, and NATO [10][11]. \"The main focus of today's meetings in Brussels was security guarantees for Ukraine,\" he said [10]. They also discussed a new European security strategy [10][11]. He said work continues and that details and next steps would be announced later [10]. Reuters, via Yahoo, separately reported that Jared Kushner said U.S. officials in Brussels held productive talks on security guarantees and a broader European security architecture [2]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: Umerov spoke on the record, and a second Ukrainian outlet plus Reuters syndication match the Brussels focus."
+      }
+     ]
+    },
+    {
+     "kind": "Military",
+     "time": "5 Nov 03:05–6 Nov 00:30",
+     "title": "Ryazan Governor Says More Than 200 Ukrainian Drones Attacked His Russian Region",
+     "lede": "ISW cited a geolocated smoke plume at Rosneft's Ryazan refinery and open-source images of fires at a Wildberries warehouse and an OpenYard plant.",
+     "confidenceLevel": "Moderate",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Russia's Ryazan oil refinery was reportedly targeted by drones overnight into Thursday, the Kyiv Independent first reported, citing Telegram monitoring channels [12]. Ryazan Governor Pavel Malkov later said more than 200 Ukrainian drones attacked the region [13]. He said falling debris started fires at several industrial sites and damaged power lines, and one person was injured [13][14]. Malkov did not name the sites, but footage verified by the Russian outlet Astra showed a fire at the Rosneft refinery, Al Jazeera reported [13]. ISW's 5 November assessment geolocated a large refinery smoke plume. It also cited open-source images of smoke and fires at central Ryazan's Wildberries marketplace logistics warehouse and OpenYard server-equipment plant [9]. Malkov later said power was restored and the fires were out or contained [13]. Russia's Defense Ministry claimed it intercepted or destroyed 496 Ukrainian drones over Russian territory, occupied Crimea, the Sea of Azov, and the Black Sea overnight [14]. The Rosneft plant processes about 17 million metric tons of crude a year [12]. No Ukrainian official claim naming Ryazan was found."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is moderate: the regional governor confirmed the attack and the fires, ISW added geolocated and open-source industrial targets, and no Ukrainian claim was found."
+      }
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Casualties",
+     "time": "5 Nov 11:33",
+     "title": "Russian Attacks Kill Nine Across Ukraine as Kherson Toll Rises After Truce",
+     "lede": "Kherson region reported its first civilian death since the Oleshky evacuation ceasefire ended on 2 November.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Russian attacks killed nine people and injured 19 across Ukraine over the past day, regional authorities said on 5 November, the Kyiv Independent reported [15]. Kherson Governor Oleksandr Prokudin said one person was killed and three were injured in attacks on 32 settlements [15]. It was the first civilian death reported there since the Oleshky evacuation ceasefire ended overnight on 2 November [15]. Donetsk Governor Vadym Filashkin said four people were killed and five injured [15][13]. Zaporizhzhia Governor Ivan Fedorov said three people were killed [15]."
       },
       {
        "kicker": "Confidence",
@@ -34,71 +123,17 @@
     {
      "kind": "Military",
      "time": "4 Nov 17:00–5 Nov 07:00",
-     "title": "Russia Says It Hit a Ukrainian Delivery Hub and a Cargo Ship Near Odesa",
-     "lede": "Ukraine's Air Force said Russia fired 128 drones and two Kh-35 missiles overnight, and that 105 drones were downed or jammed.",
+     "title": "Russia Says It Hit a Ukrainian Hub and Cargo Ship Near Odesa",
+     "lede": "Ukraine's Air Force reported 128 drones and two Kh-35 missiles launched overnight, with 105 drones downed or suppressed by 07:00 CET on 5 November.",
      "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Russia's Defense Ministry said its drones hit a Nova Poshta terminal near Kharkiv, a power substation, and a dry cargo ship 52 kilometers southwest of Odesa [2]. Ukrainian officials did not immediately confirm the strikes on the terminal or the ship, Al Jazeera reported [2]. Ukraine's Air Force said Russia launched 128 drones and two Kh-35 missiles starting at 6 p.m. Kyiv time on 4 November [3]. It said 105 drones were shot down or jammed, with hits at 18 locations [3]. A strike on a logistics site in the Kyiv region's Bucha district injured one person and set off large fires [2]."
+       "text": "Russia's Defense Ministry said its drones hit a Nova Poshta terminal near Kharkiv, a power substation, and a dry cargo ship 52 kilometers southwest of Odesa [13]. Ukrainian officials did not immediately confirm the strikes on the terminal or the ship, Al Jazeera reported [13]. Ukraine's Air Force said Russia launched 128 drones and two Kh-35 missiles starting at 17:00 CET on 4 November [16]. As of 07:00 CET on 5 November, it reported 105 drones downed or suppressed and impacts at 18 locations; operations were ongoing [16]. A strike on a logistics site in the Kyiv region's Bucha district injured one person and set off large fires [13]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is moderate: the strike tally comes from Ukraine's Air Force, but the hits on the postal terminal and the ship rest on a Russian military claim not confirmed by Kyiv."
-      }
-     ]
-    },
-    {
-     "kind": "Diplomacy",
-     "time": "4 Nov 17:46–5 Nov 04:41",
-     "title": "Zelensky Makes a Surprise Trip to Spain to Meet Sánchez in Madrid",
-     "lede": "Ukraine's president will hold talks at Moncloa and meet Latin American leaders at the Ibero-American summit, Spain's government said.",
-     "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Ukraine's President Volodymyr Zelensky landed unannounced at Torrejón air base near Madrid on Wednesday during the Ibero-American summit, RTVE and EFE reported [4]. Spain's Prime Minister Pedro Sánchez was set to host him for bilateral talks at Moncloa on Thursday afternoon [4]. Moncloa said Zelensky would also meet several Latin American leaders at the summit [4]. Zelensky thanked Spain for its aid and said \"additional steps of support\" were being prepared [4]. The Kyiv Independent said the talks would focus on air defense; Spain pledged five Patriot PAC-2 missiles earlier this year, and Kyiv says it needs about 300 for the winter [5]. He said another meeting on security guarantees for Ukraine would be held in Brussels on Thursday [4]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high: the visit and schedule come from Spain's government and Zelensky's own post, reported by Spain's public broadcaster, EFE, and the Kyiv Independent."
-      }
-     ]
-    },
-    {
-     "kind": "Military",
-     "time": "5 Nov 03:05–12:00",
-     "title": "Ryazan Governor Says More Than 200 Ukrainian Drones Hit His Russian Region",
-     "lede": "Fires broke out at industrial sites and one person was hurt, and verified footage showed a blaze at Rosneft's Ryazan oil refinery.",
-     "confidenceLevel": "Moderate",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Russia's Ryazan oil refinery was reportedly targeted by drones overnight into Thursday, the Kyiv Independent first reported, citing Telegram monitoring channels [6]. Ryazan Governor Pavel Malkov later said more than 200 Ukrainian drones attacked the region [2]. He said falling debris started fires at several industrial sites and damaged power lines, and one person was injured [2][7]. Malkov did not name the sites, but footage verified by the Russian outlet Astra showed a fire at the Rosneft refinery, Al Jazeera reported [2]. Malkov later said power was restored and the fires were out or contained [2]. Russia's Defense Ministry said it downed 496 Ukrainian drones overnight [7]. The Rosneft plant processes about 17 million metric tons of crude a year [6]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate: the regional governor confirmed the attack and the fires, but the refinery hit rests on footage verified by one independent outlet, and no Ukrainian claim was found."
-      }
-     ]
-    },
-    {
-     "kind": "Diplomacy",
-     "time": "4 Nov 20:48–22:37",
-     "title": "Zelensky Presses Trump's Envoys for Patriot Interceptors Before Abu Dhabi Talks",
-     "lede": "Ukraine's president said he spent 90 minutes on a call with Steve Witkoff and Jared Kushner preparing for three-way talks with Russia on 10 and 11 November.",
-     "confidenceLevel": "High",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Ukraine's President Volodymyr Zelensky said he held a \"very detailed\" call lasting an hour and a half with U.S. envoys Steve Witkoff and Jared Kushner on Wednesday [8]. They were preparing for team-level talks among Ukraine, Russia, and the United States in Abu Dhabi on 10 and 11 November [9]. Zelensky said air defense was \"an important priority\" and that Ukraine needs interceptors for Patriot systems [8]. He said the sides also discussed the U.S.-Ukraine drone deal and post-war security guarantees, which he said \"must be truly cast-iron\" [8]. Kushner said on X that they were working with all parties toward \"a durable peace\" and thanked Zelensky's team for its \"constructive engagement\" [10]. Witkoff had not commented publicly."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high on the call taking place and its topics, based on Zelensky's own account as reported by two Ukrainian outlets; Kushner publicly acknowledged the talks but gave no details."
+       "text": "Confidence is moderate: Ukraine's Air Force supplied the strike tally, but Russia's unconfirmed military claims underpin the reported hits on the postal terminal and ship."
       }
      ]
     }
@@ -111,33 +146,32 @@
    "items": [
     {
      "kind": "Aviation",
-     "time": "5 Nov 08:00–16:39",
-     "title": "Hoax Bomb Threats Divert at Least 15 Flights Across Europe",
-     "lede": "All planes landed safely and searches found nothing, but it was the third wave this week, renewing fears of a coordinated hybrid campaign.",
+     "time": "5 Nov–6 Nov 02:00",
+     "title": "Bomb Hoaxes Disrupt Flights Across Europe as Published Tallies Conflict",
+     "lede": "Bomb threats disrupted European flights on 5 November, but published tallies conflicted, and investigators had established no state attribution by Thursday evening.",
      "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Bomb threats forced diversions or emergency landings for at least 15 flights across Europe on Thursday morning, The Guardian reported [1]. Affected flights linked Italy, Ireland, the UK, Spain, Bulgaria, Poland, Finland, Belgium, Czechia, and other states [1]. An Aer Lingus flight from Dublin to Rome diverted to a French military base, and two Ryanair flights made emergency landings in Sofia, Bulgaria [1]. A UK minister called the threats \"malicious hoax threats\" [2]. Italy's ANSA news agency said the threat against two Rome flights came in an anonymous email written in Italian, The Guardian reported [1]. Air Serbia said a Belgrade-Bucharest flight landed safely in Romania after a threat [3]. Seven planes were searched or diverted on Tuesday after similar hoaxes [1]. No government had attributed the threats by the cutoff."
+       "text": "Bomb threats disrupted flights across Europe on 5 November [1][2]. The Guardian headline said at least 25 flights, but its body said 34 and its weekly total said 33 [1]. Those figures conflict; no reconciled total was established. The Guardian listed Italy, Ireland, the UK, Spain, Bulgaria, Romania, Poland, and Finland. It also listed Austria, Denmark, Belgium, Portugal, France, Greece, Serbia, and Czechia [1]. The Guardian reported safe landings and no suspicious findings; DW described only preliminary findings, with investigations continuing [1][2]. An Aer Lingus Dublin-Rome flight diverted to the Évreux military airbase in France [1][2]. DW reported two Ryanair flights landed at Sofia and one diverted to Plovdiv after threats [2]. Emails sent to Rome and Sofia airports used the name \"fighters of the Male State,\" but that signature does not establish who sent them [1][3]. BBC correspondent Frank Gardner said no hard evidence linked the hoaxes to Russia, Iran, or their proxies as of Thursday evening [3]. Italian Defense Minister Guido Crosetto called the pattern \"under-threshold warfare\"; EU Transport Commissioner Apostolos Tzitzikostas said it was too early to establish links [1][2]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high on the disruptions, confirmed by airlines and officials in several countries; who sent the threats is unknown."
+       "text": "Confidence is high that multiple flights were disrupted, but moderate on their total because published tallies conflict. Attribution remains unestablished; threat signatures are not proof of authorship."
       }
-     ]
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
     },
     {
      "kind": "Espionage",
      "time": "5 Nov 12:15–15:14",
-     "title": "Poland Charges Six in a Russian Spy Ring Smuggling Ammunition Parts",
+     "title": "Poland Charges Six Over Ammunition Exports; Four Face Espionage Charges",
      "lede": "Warsaw says the group moved shell casings and projectiles worth more than 2 million zlotys to Kaliningrad in cars with hidden compartments.",
      "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Poland's Internal Security Agency detained six people on 21 October and 2 November, the National Prosecutor's Office said [4]. They are five Poles aged 25 to 52 and a 37-year-old Russian woman, Euronews reported [5]. Four suspects, including the Russian national, were charged with acting for Russian intelligence and remanded for three months [5]. Prosecutors said the group operated from June 2023 to December 2025 [5]. It moved ammunition components, including shell casings and projectiles, to the Kaliningrad region in cars with hidden compartments [5]. The goods were worth more than 2 million zlotys, about 455,000 euros [4][5]."
+       "text": "Poland's Internal Security Agency detained six people on 21 October and 2 November, the National Prosecutor's Office said [4]. They are five Poles aged 25 to 52 and a 37-year-old Russian woman, Euronews reported [5]. Four suspects, including the Russian national, were charged with acting for Russian intelligence and remanded for three months [5]. Prosecutors said the group operated from June 2023 to December 2025 [5]. Prosecutors said the group moved shell casings and projectiles to Kaliningrad in cars with hidden compartments [4][5]. The goods were worth more than 2 million zlotys, about 455,000 euros [4][5]."
       },
       {
        "kicker": "Confidence",
@@ -151,50 +185,14 @@
      "title": "Finland Jails a Russian Captain for Baltic Cable Sabotage",
      "lede": "The Helsinki court gave the Fitburg's captain three and a half years, and he plans to appeal.",
      "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "A court in Finland sentenced the Russian captain of the cargo ship Fitburg to three and a half years in prison for sabotage and disrupting telecommunications, tagesschau reported [6]. An Azerbaijani crew member received two years and 10 months [6]. The two must pay about 1.9 million euros in damages [6]. Investigators said the ship dragged its anchor at least 130 kilometers across the Gulf of Finland on 31 December, damaging two Finland-Estonia telecom cables [6]. Both men denied the charges and disputed Finnish jurisdiction, and the captain will appeal, their lawyers said [6]."
+       "text": "A court in Finland sentenced the Russian captain of the cargo ship Fitburg to three and a half years in prison for aggravated sabotage, tagesschau reported [6]. The court dismissed a separate telecommunications charge as covered by that conviction [7]. An Azerbaijani crew member received two years and 10 months [6]. The two must pay about 1.9 million euros in damages [6]. Investigators said the ship dragged its anchor about 130 kilometers across the Gulf of Finland on 31 December, damaging two Finland-Estonia telecom cables [6]. Both men denied the charges and disputed Finnish jurisdiction, and the captain will appeal, their lawyers said [6]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is high: the verdict and sentences come from a Finnish court ruling reported by Germany's public broadcaster."
-      }
-     ]
-    },
-    {
-     "kind": "Cyber",
-     "time": "4 Nov 14:47–18:32",
-     "title": "Moldova Says a Mass Government Hack Came From Abroad",
-     "lede": "Moldova's parliamentary security committee chair said an October intrusion into state databases came from abroad and did not rule out a foreign state's involvement.",
-     "confidenceLevel": "High",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Lilian Carp, chair of Moldova's parliamentary security committee, said a cyberattack on government systems from 19 to 23 October came from abroad, Moldpres reported [7]. More than 6 million access requests hit the systems over four days, compared with the usual 20,000 to 40,000 a day, Moldpres reported [7]. About 750,000 data sets were accessed, but Carp said fewer than half that many people were probably affected, since one person's records could be checked several times [8]. Citizens alerted the authorities after spotting suspicious access [8]. Carp said IP addresses in six countries were used and that no claim of responsibility or darknet sale had appeared [8][7]. Two audits are due by 27 November and early December [8][7]. President Maia Sandu called a National Security Council meeting on cybersecurity for 6 November, Moldpres reported [9]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high on Carp's account of the intrusion, which IPN and Moldpres both report from his parliamentary hearing. Who organized the attack is not established."
-      }
-     ],
-     "flag": "FOLLOW UP TO PREVIOUS REPORT"
-    },
-    {
-     "kind": "Maritime",
-     "time": "4 Nov 12:02–17:57",
-     "title": "NATO Official Says Russian Sea Drones Sank a Ship Off Bulgaria",
-     "lede": "Alliance intelligence identified the unmanned vessels that sank the Contship Jet near Cape Kaliakra as Russian-made, Newsweek was told.",
-     "confidenceLevel": "High",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Three sea drones struck the Liberian-flagged, Greek-owned Contship Jet east of Cape Kaliakra on 28 October while it sailed from Haifa to Constanța, Newsweek reported [10]. All 18 crew members were rescued before the vessel sank [10][11]. A NATO official said design features of the drones' electronic equipment marked them as Russian-made, and a second intelligence source confirmed that assessment [10]. Bulgarian authorities have not formally attributed the attack [10]. Novinite reported that nine commercial vessels were attacked or involved in drone incidents off Bulgaria and Romania between 5 and 28 October [11]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high on the sinking and rescue, which Newsweek and Novinite report. The Russian-made attribution rests on unnamed NATO and intelligence sources and is not Bulgaria's official finding."
       }
      ]
     }
@@ -206,16 +204,123 @@
    "heading": "Politics, security, and defense across the EU and NATO's European members",
    "items": [
     {
-     "kind": "Security",
-     "time": "5 Nov 15:50–16:10",
-     "title": "Police Charge Hooded Vandals as the Paris Union March Nears Nation",
-     "lede": "The Paris police prefecture said hooded people vandalized property on Boulevard Voltaire, and the march stalled for several minutes before moving on.",
+     "kind": "Diplomacy",
+     "time": "5 Nov–6 Nov 01:16",
+     "title": "Pavel Says He Has No Ambition to Be Europe's Ukraine Envoy",
+     "lede": "After Meloni urged the EU to name a Russia negotiator by December, Pavel said European countries should choose their own representative.",
      "confidenceLevel": "Moderate",
+     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "On 5 November, Czech President Petr Pavel told reporters he has no ambition to represent Europe in Ukraine peace talks. Ukrainian outlet NV reported this, citing Czech news agency CTK [1]. He spoke after a Visegrad Four meeting in Trenčín, Slovakia [1]. Pavel said he would share his NATO and EU experience but that European countries themselves should choose their representative [1]. The remarks follow Italian Prime Minister Giorgia Meloni's letter asking European Council President António Costa to settle the EU's Russia negotiator by December [2]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is moderate: the quote rests on CTK as carried by NV; no independent Czech public-broadcaster page was opened."
+      }
+     ]
+    },
+    {
+     "kind": "Economy",
+     "time": "5 Nov",
+     "title": "Bank of England Raises Interest Rate to 4% on Energy Inflation",
+     "lede": "Governor Andrew Bailey said another hike is likely unless the US-Iran war is resolved and oil prices ease.",
+     "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "France's Paris police prefecture said masked individuals damaged property on Boulevard Voltaire as the union march passed [1]. The prefecture said officers stepped in \"immediately\" to stop the damage and isolate the troublemakers [1]. Reporters for actu.fr said a black bloc formed near Rue des Boulets metro and police charged into the march [1]. The march stalled and then resumed toward Place de la Nation at about 4:10 p.m. [1]. Le Parisien said a police charge on Boulevard Voltaire at about 3:30 p.m. left several people injured [2]. No official injury or arrest count for Paris was available by the cutoff."
+       "text": "The United Kingdom's Bank of England raised Bank Rate by 0.25 percentage points to 4%, the first increase in more than three years, the Bank and BBC News reported [3][4]. The Monetary Policy Committee voted 8-1 at its meeting ending 4 November; one member wanted a half-point rise to 4.25% [3]. The Bank linked higher energy prices to the Middle East conflict. It said UK CPI inflation rose to 3.5% in September and could reach about 5% by mid-2027 [3]. Governor Andrew Bailey said the move need not start a long series of hikes. But without a Middle East resolution, he said, it is unlikely to be the last [4]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: the figures and vote come from the Bank of England's own monetary-policy summary, matched by the BBC."
+      }
+     ]
+    },
+    {
+     "time": "4 Nov 12:46–6 Nov 04:45",
+     "title": "Belgium's King Has Not Announced a Decision on De Wever's Resignation",
+     "lede": "De Wever is due back at the palace on 6 November after calling a second year of temporary monthly budgets a \"horrible failure.\"",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "RTBF and the Brussels Times reported that King Philippe finished coalition leaders' consultations at midday Thursday. Prime Minister Bart De Wever is due at the Royal Palace Friday [5][6]. The palace said on 2 November that its decision was pending and De Wever would return on 6 November; no newer decision was found [7]. De Wever told the Chamber Thursday that Belgium will again use temporary monthly budgets into 2027. He called this a \"horrible failure\" for the government, the Brussels Times reported [6][8]. He said Belgium will pay 16 billion euros in interest on its debt this year [8]. RTBF said the most likely path is that the king refuses the resignation and pushes the Arizona coalition back to talks, but the palace could also delay its answer [5]. Belgium's deficit is 5.2% of GDP [9]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high on the Friday palace return and the provisional-budget remarks, reported on the record by Belgium's public broadcaster and quality press. The \"most likely\" refusal path is RTBF analysis, not a palace statement."
+      }
+     ],
+     "kind": "Politics",
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Labor",
+     "time": "5 Nov 07:00–22:30",
+     "title": "France's Ministry Reports 575,000 Marchers; 448 Arrests as of 18:00",
+     "lede": "Prime Minister Sébastien Lecornu called unions and employers to a social conference on Monday after the nationwide wage protests.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "France's Interior Ministry said 575,000 people joined Thursday's nationwide strike marches in 193 processions, revising an earlier estimate of about 600,000, France 24 and Al Jazeera reported [10][11]. The CGT union put turnout at 1.6 million [10]. France 24 English and CNA reported 60,000 marchers in Paris, while France 24 French reported 65,000; the CGT claimed 350,000 [10][12][13]. As of 18:00 CET on 5 November, the ministry reported 448 arrests and 53 injured police and gendarmes; that tally was provisional [10][12][14]. Marches were mostly peaceful, but police fired tear gas in Lyon and elsewhere, and at least one vehicle was burned in Lyon [10]. France 24, citing AFP, said an AFP photographer wearing a press armband received five baton blows in Lyon [13]. Prime Minister Sébastien Lecornu said he would host a social conference with unions and employers at Matignon on Monday on wages and living costs [13][11]. Interior Minister Laurent Nuñez had deployed 70,000 police and gendarmes [15][13]. Youth groups and Yellow Vest networks called further actions for Saturday 7 November [13]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high on the attributed ministry and union statements, not on independently verified counts. Arrests and injuries are provisional as of 18:00 CET; published Paris turnout figures conflict. The Lyon photographer account is AFP's own report."
+      }
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Diplomacy",
+     "time": "5 Nov 13:38–22:23",
+     "title": "Italy's Meloni Urges EU to Name a Russia Negotiator by December",
+     "lede": "In a letter to European Council President António Costa, she said a divided Europe risks irrelevance in talks to end the Ukraine war.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Italy's Prime Minister Giorgia Meloni wrote to European Council President António Costa asking the EU to name its Russia negotiator by December, ANSA reported [2]. She said the need for Europe to speak with one voice \"can no longer be postponed\" [2]. Meloni asked that the issue be discussed at the informal EU summit in Dublin so the December summit can formalize a decision [2]. She warned that a Europe in disarray serves \"those who want this war to continue\" [2]. The letter followed calls to Vladimir Putin last week by Finland's and Norway's leaders, ANSA said [2]. Costa replied that he agreed Europe \"needs to act with coherence, unity and determination\" and that the EU's interests \"need to be represented by its institutions,\" POLITICO reported [16]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: the letter's text was quoted by Italy's national news agency."
+      }
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Politics",
+     "time": "4 Nov 15:21–5 Nov 20:16",
+     "title": "Dutch Minority Cabinet Still Lacks a Majority for Its 2027 Tax Plan",
+     "lede": "Coalition party D66 is open to an opposition plan to tax wealth more and work less, but partner VVD calls that a breach of the coalition deal.",
+     "confidenceLevel": "Moderate",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "The Netherlands' minority cabinet is still unsure it can pass next year's tax plan through parliament, NOS reported after a debate on Wednesday night [17]. Because the cabinet found no majority in advance, the parliamentary groups are now leading the search for one [17]. Governing party D66 is willing to discuss a proposal by opposition parties Pro and Volt to raise taxes on wealth and cut taxes on workers [17]. With their support, a majority in both houses would be within reach, NOS said [17]. Coalition partner VVD said such a change would breach the coalition agreement, and the CDA said the proposal \"goes far\" [17]. NOS reported on Wednesday that D66, VVD, and CDA had agreed they may seek majorities separately and even vote differently [18]. Votes are scheduled for 12 November [17]. On Thursday evening, NOS reported that D66, VVD, and CDA leaders would each contact opposition parties separately and confer every morning [19]. Support for the plan is not there yet, NOS said [19]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is moderate: the account rests on several reports by one Dutch public broadcaster about an on-the-record debate."
+      }
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Security",
+     "time": "5 Nov 15:50–16:10",
+     "title": "Police Charge Paris March After Reported Vandalism on 5 November",
+     "lede": "The Paris police prefecture said hooded people vandalized property on Boulevard Voltaire, and the march stalled for several minutes before moving on.",
+     "confidenceLevel": "Moderate",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "France's Paris police prefecture said masked individuals damaged property on Boulevard Voltaire as the union march passed [20]. The prefecture said officers stepped in \"immediately\" to stop the damage and isolate the troublemakers [20]. Reporters for actu.fr said a black bloc formed near Rue des Boulets metro and police charged into the march [20]. The march stalled and then resumed toward Place de la Nation at about 4:10 p.m. [20]. Le Parisien said a police charge on Boulevard Voltaire at about 3:30 p.m. left several people injured [14]. No official injury or arrest count for Paris was available by the cutoff."
       },
       {
        "kicker": "Confidence",
@@ -229,51 +334,14 @@
      "title": "Sweden Extends Internal Border Controls for Six More Months",
      "lede": "The government says the controls, starting 12 November, are still needed because of the serious security situation caused by the war in Ukraine.",
      "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Sweden's government decided to extend internal border controls for six months from 12 November, its official crisis information service said [3]. Police will decide where and how the checks are carried out [3]. The government said the controls remain necessary because of the serious security situation resulting from the war in Ukraine [3]. Officers will check that people entering Sweden have the right to stay and valid identity and travel documents [3]."
+       "text": "Sweden's government decided to extend internal border controls for six months from 12 November, its official crisis information service said [21]. Police will decide where and how the checks are carried out [21]. The government said the controls remain necessary because of the serious security situation resulting from the war in Ukraine [21]. Officers will check that people entering Sweden have the right to stay and valid identity and travel documents [21]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is high: the decision comes from the Swedish government's own information service."
-      }
-     ]
-    },
-    {
-     "kind": "Labor",
-     "time": "5 Nov 07:00–14:00",
-     "title": "France's Unions Lead a Nationwide Strike Day for Higher Wages",
-     "lede": "CGT leader Sophie Binet said more than 250,000 people had marched in nearly 70 cities by 1 p.m., calling it \"just the start\".",
-     "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Five French unions held a national strike day on Thursday, joining high school students protesting the rising cost of living, the BBC reported [4]. CGT leader Sophie Binet said more than 250,000 people had marched in almost 70 towns and cities by 1 p.m. [4]. An official close to Interior Minister Laurent Nuñez put turnout at about 270,000 in 180 rallies outside Paris by early afternoon, AP reported [5]. The official said most rallies were peaceful but noted some violence [5]. Nuñez deployed 70,000 police and promised \"an extremely firm response\" to violence [4]. The CFDT union complained that the Paris route was approved only on Wednesday evening [4]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high: turnout figures come from a union leader and an Interior Ministry official, reported by the BBC and AP; the two counts differ in scope."
-      }
-     ]
-    },
-    {
-     "kind": "Diplomacy",
-     "time": "5 Nov 13:38",
-     "title": "Italy's Meloni Urges EU to Name a Russia Negotiator by December",
-     "lede": "In a letter to European Council President António Costa, she said a divided Europe risks irrelevance in talks to end the Ukraine war.",
-     "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Italy's Prime Minister Giorgia Meloni wrote to European Council President António Costa asking the EU to name its Russia negotiator by December, ANSA reported [6]. She said the need for Europe to speak with one voice \"can no longer be postponed\" [6]. Meloni asked that the issue be discussed at the informal EU summit in Dublin so the December summit can formalize a decision [6]. She warned that a Europe in disarray serves \"those who want this war to continue\" [6]. The letter followed calls to Vladimir Putin last week by Finland's and Norway's leaders, ANSA said [6]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high: the letter's text was quoted by Italy's national news agency."
       }
      ]
     },
@@ -283,102 +351,14 @@
      "title": "EU Sends Ukraine 4.36 Billion Euros From Its 90 Billion Euro Loan",
      "lede": "The payment covers budget support and 658 million euros for drones, missiles, radars, and air defense, much of it bought from Ukrainian firms.",
      "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "The European Commission disbursed 4.36 billion euros to Ukraine under the Ukraine Support Loan on Thursday [7]. The payment includes 3.7 billion euros in macro-financial assistance and 658 million euros for defense [7]. The Commission said Ukraine met all 12 policy conditions, including taxing income from digital platforms [7]. About 25.2 billion euros in EU support remains available to Ukraine for the rest of 2026 [7]. Commission President Ursula von der Leyen said Ukraine \"is about to start its fifth wartime winter\" [7]."
+       "text": "The European Commission disbursed 4.36 billion euros to Ukraine under the Ukraine Support Loan on Thursday [22]. The payment includes 3.7 billion euros in macro-financial assistance and 658 million euros for defense [22]. The Commission said Ukraine met all 12 policy conditions, including taxing income from digital platforms [22]. About 25.2 billion euros in EU support remains available to Ukraine for the rest of 2026 [22]. Commission President Ursula von der Leyen said Ukraine \"is about to start its fifth wartime winter\" [22]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is high: the figures come from the Commission's own release."
-      }
-     ]
-    },
-    {
-     "time": "4 Nov 12:46–5 Nov 15:30",
-     "title": "Belgium's De Wever Says the Country Faces Stopgap Budgets Again",
-     "lede": "The prime minister, whose resignation the king is weighing, told lawmakers there would be no multi-year budget deal and he returns to the palace Friday.",
-     "confidenceLevel": "High",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Belgium's Prime Minister Bart De Wever told the Chamber on Thursday that the country will run on provisional monthly budgets for a second year, at least early in 2027 [8]. He said he saw on Sunday that the coalition would not reach a multi-year budget deal, which is why he offered his resignation to King Philippe [8]. De Wever said Belgium will pay 16 billion euros in interest on its debt this year [8]. The king held off on accepting the resignation and met the coalition leaders this week [8]. A decision is expected Friday, when De Wever returns to the palace [8][9]. Belgium's deficit is 5.2% of GDP, the Brussels Times reported [9]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high: De Wever's remarks were made on the record in parliament and reported by Belgium's public broadcaster, with a second Belgian outlet on the timeline."
-      }
-     ],
-     "kind": "Politics"
-    },
-    {
-     "kind": "Politics",
-     "time": "4 Nov 23:02–5 Nov 12:00",
-     "title": "Dutch Minority Cabinet Still Lacks a Majority for Its 2027 Tax Plan",
-     "lede": "Coalition party D66 is open to an opposition plan to tax wealth more and work less, but partner VVD calls that a breach of the coalition deal.",
-     "confidenceLevel": "Moderate",
-     "flag": "FOLLOW UP TO PREVIOUS REPORT",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "The Netherlands' minority cabinet is still unsure it can pass next year's tax plan through parliament, NOS reported after a debate on Wednesday night [10]. Because the cabinet found no majority in advance, the parliamentary groups are now leading the search for one [10]. Governing party D66 is willing to discuss a proposal by opposition parties Pro and Volt to raise taxes on wealth and cut taxes on workers [10]. With their support, a majority in both houses would be within reach, NOS said [10]. Coalition partner VVD said such a change would breach the coalition agreement, and the CDA said the proposal \"goes far\" [10]. On Thursday, NOS reported that D66, VVD, and CDA may now seek majorities separately and even vote differently [11]. Votes are scheduled for 12 November [10]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate: the account rests on several reports by one Dutch public broadcaster about an on-the-record debate."
-      }
-     ]
-    },
-    {
-     "kind": "Politics",
-     "time": "3 Nov 21:28–4 Nov 22:15",
-     "title": "Spain's Transport Minister Óscar Puente Quits Over the Urda Rail Disaster",
-     "lede": "He told Congress no minister could stay after two such crashes in under a year, and he will not run in the early election.",
-     "confidenceLevel": "High",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Spain's Transport Minister Óscar Puente resigned on Tuesday, six days after a high-speed train collision near Urda killed at least 69 people, BBC News reported [12]. He announced the decision in Congress after testifying on the 28 October crash and outlining new rail safety measures [12]. Puente cited January's crash on the same line, which killed 46 people [12]. He also withdrew from his party's lists for the early legislative election [12]. The People's Party, Vox, and some government allies had called for him to go [12]. On Wednesday, Prime Minister Pedro Sánchez said Economy Minister Carlos Cuerpo will also run the Transport Ministry until the 29 November election [13][14]. Later on Wednesday, Luis Pedro Marco de la Peña, president of the state rail infrastructure company Adif, offered his resignation to Cuerpo, Spanish broadcaster RTVE reported [15]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high, based on BBC reporting of his statement in Congress, POLITICO Europe and El País reporting of Sánchez's announcement, and RTVE reporting of the Adif resignation."
-      }
-     ]
-    },
-    {
-     "kind": "Security",
-     "time": "4 Nov 11:23–22:00",
-     "title": "Paris Court Upholds the Bastille March Ban Before France's General Strike",
-     "lede": "The Paris region CGT said it would march from République to Nation instead, as France deploys 70,000 police and gendarmes for Thursday's nationwide strike.",
-     "confidenceLevel": "Moderate",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Paris police banned the Bastille-to-Concorde route that unions filed for Thursday's national strike and offered a République-to-Nation route instead, BFMTV reported [16]. The unions had asked a Paris administrative court on Tuesday to force publication of any ban and suspend it [17]. Interior Minister Laurent Nuñez asked prefects on Tuesday for \"robust\" security plans for the \"sensitive\" day, 20 Minutes reported [18]. A CGT map listed 244 protests planned across France for Thursday [19]. Government spokeswoman Maud Bregeon said a repeat of the 17 October unrest was out of the question [16]. A police intelligence note expects 500,000 to 700,000 marchers outside Paris, BFMTV reported, citing RTL [16]. Air traffic controllers, dockers, and rail unions filed strike notices [16]. On Wednesday, the Paris administrative court rejected the unions' challenge to the ban, franceinfo reported [19]. The Paris region CGT said it would join the route the police imposed [19]. Nuñez said 70,000 police and gendarmes will be deployed, the same as on 31 October [19]. Rail operator SNCF expects one in 10 high-speed trains to be canceled, France 24 reported [20]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate: the ban, court ruling, and police numbers come from official statements reported by several French broadcasters, but the crowd forecast rests on a leaked intelligence note."
-      }
-     ]
-    },
-    {
-     "kind": "Policy",
-     "time": "4 Nov 18:00",
-     "title": "Britain Moves to Outlaw New Oil and Gas Exploration in the North Sea",
-     "lede": "The Energy Independence Bill would strip the regulator of its power to grant new licenses but would not affect the pending Rosebank decision.",
-     "confidenceLevel": "High",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "The United Kingdom's government introduced a bill to ban new oil and gas exploration in the North Sea, BBC News reported [21]. The Energy Independence Bill would remove the North Sea Transition Authority's power to grant new licenses [21]. It would not affect the decision on drilling at Rosebank off Shetland, the UK's largest known untapped field [21]. Existing fields could still expand into nearby areas under new transitional certificates, which the government said could yield about 60 million barrels [21]. The bill would also scrap gas standing charges, and the government announced an energy wealth fund with an initial 2 billion pounds [21]. The Conservatives called the bill \"dangerous\" [21]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high: the bill's contents come from the government's announcement as reported by the BBC."
       }
      ]
     }
@@ -390,34 +370,123 @@
    "heading": "Security, politics, and Russian pressure on Estonia, Latvia, and Lithuania",
    "items": [
     {
-     "kind": "Society",
-     "time": "5 Nov 14:22",
-     "title": "Lithuania's Parliament Advances Fertility Treatment for Unmarried Couples and Single Women",
-     "lede": "Lawmakers voted 66-15 after the Constitutional Court ruled current limits unconstitutional, with a final vote due in mid-November.",
+     "kind": "Diplomacy",
+     "time": "6 Nov 04:00",
+     "title": "Estonia's PM Warns Europe Not to Mediate With Putin",
+     "lede": "Kristen Michal said Europe should keep pressure and sanctions on Russia, not try to please the dictator.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Lithuania's parliament voted 66-15, with seven abstentions, on Thursday to advance a bill widening access to assisted reproduction, LRT reported [1]. Treatment would be open to unmarried couples and single women, not only spouses and registered partners [1]. The bill does not extend access to same-sex couples, and surrogacy stays banned [1]. The Constitutional Court had ruled the current limits unconstitutional [1]."
+       "text": "Estonia's Prime Minister Kristen Michal told POLITICO that Europe should not open a mediator channel to Russian President Vladimir Putin [1]. \"Europe should not be in a mediator's position,\" he said. \"You should not take the role of trying to please the dictator\" [1]. He said Europe's sanctions plan is working and that a mediator role would mean lowering standards on Russia [1]. \"You cannot have two roles. One role is backing up Ukraine and pressuring Russia. A second one is trying to have a form of mediation,\" he said [1]. He pointed to Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre's late-October call with Putin as the debate Europe should avoid [1]. He said U.S.-led Abu Dhabi talks should keep pressure on the Kremlin and urged tighter EU visas for Russians, including former fighters [1]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high: the vote count comes from a recorded parliamentary vote reported by Lithuania's public broadcaster."
+       "text": "Confidence is high: Michal spoke on the record to POLITICO in a published interview."
       }
      ]
     },
     {
-     "kind": "Politics",
-     "time": "5 Nov 13:31",
-     "title": "Latvia's Prime Minister-Designate Kulbergs Pauses Public Coalition Talks",
-     "lede": "Three coalition options remain open, and he hopes to present a cabinet by Latvia's mid-November national holidays.",
-     "confidenceLevel": "Moderate",
+     "kind": "Defense",
+     "time": "5 Nov 17:44",
+     "title": "Lithuania and Latvia Run First Joint Civilian Evacuation Drill",
+     "lede": "Volunteers moved from Daugavpils in Latvia to Pasvalys in Lithuania on 5 November, with a reverse run set for 10 November.",
+     "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Latvia's prime minister-designate Andris Kulbergs will hold no more public meetings on forming a government this week, his adviser told the LETA agency, BB.LV reported [2][3]. He finished a first round of talks with parliamentary parties on Monday [2]. Options include a coalition of his United List with the National Alliance and New Unity, a two-party deal, or a minority government backed by Latvia First [2]. Kulbergs said the Saeima might adopt next year's budget only in mid- or late January [2]."
+       "text": "Lithuania and Latvia began their first joint practical cross-border civilian evacuation exercises on 5 November, Lithuania's Fire and Rescue Department said, United24 Media reported [2]. On 5 November participants moved from Daugavpils, Latvia, to Pasvalys, Lithuania [2]. On 10 November the drill is to reverse, from Šiauliai, Lithuania, to Ķekava, Latvia [2]. Up to 100 volunteers will take part across both days [2]. Authorities are testing public warning, registration, transport, reception, temporary lodging, and food [2]. Lithuanian Fire and Rescue Department deputy director Kęstutis Agintas said Lithuania approved a detailed evacuation plan this year, but testing preparedness in practice is equally important [2]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: the drill details come from Lithuania's Fire and Rescue Department as reported by United24 Media."
+      }
+     ]
+    },
+    {
+     "kind": "Diplomacy",
+     "time": "5 Nov 16:08",
+     "title": "Hungary's FM in Vilnius Says Ukraine EU Entry by 2030 Unrealistic",
+     "lede": "Lithuania's Foreign Minister Kęstutis Budrys said a 2030 target date is still theoretically possible if reforms and EU steps move fast enough.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Hungarian Foreign Minister Anita Orbán said in Vilnius Thursday that Ukraine's EU entry by 2030 is unrealistic, while backing Kyiv's membership bid, LRT reported, citing BNS [3]. \"We do not think this is realistic,\" she told journalists, adding that every candidate must meet the same requirements and that Hungary opposes a fast track [3]. She noted Ukraine had opened four of six negotiating clusters [3]. Lithuanian Foreign Minister Kęstutis Budrys said a target date should be set. Entry by 2030 remains theoretically possible if Ukraine reforms quickly and the EU keeps pace, he said [3]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: both ministers spoke on the record, reported by Lithuania's public broadcaster via BNS."
+      }
+     ]
+    },
+    {
+     "kind": "Economy",
+     "time": "5 Nov 11:32",
+     "title": "Lithuania Weighs Energy Windfall Tax as Orlen Warns on Refinery",
+     "lede": "Orlen's chief said unfinished modernization could force closure of Lithuania's only oil refinery if the remaining work is not financed.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Lithuania's government is assessing whether to impose a windfall tax on energy firms, including Polish-owned Orlen Lietuva, LRT reported [4]. Prime Minister Mindaugas Sinkevičius ordered ministers to review excess profits among fuel producers and electricity and heat suppliers [4]. Orlen Group CEO Ireneusz Fafara said the company must decide whether to finish modernization at the Mažeikiai refinery [4]. About 80% of the work is done, but the remaining investment is about $600 million, or a little more than 500 million euros [4]. He warned that stopping the project would shut the refinery [4]. Energy Minister Lukas Savickas said Vilnius had received no official notice that Orlen planned to revise earlier investment decisions [4]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: the tax review and Orlen warning come from on-record statements reported by Lithuania's public broadcaster."
+      }
+     ]
+    },
+    {
+     "kind": "Diplomacy",
+     "time": "5 Nov 07:47–20:08",
+     "title": "Lithuania's Foreign Minister Denies US Pressure Over Belarusian Potash Transit",
+     "lede": "Kęstutis Budrys said \"nothing of the sort is happening\" after Politico reported a US envoy asked about easing curbs on goods from Belarus.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Lithuania's Foreign Minister Kęstutis Budrys denied that the Trump administration is pressing Vilnius to let Belarusian potash through the port of Klaipėda, LRT reported [5]. \"I can assure you and say responsibly that nothing of the sort is happening at the moment,\" Budrys told Žinių Radijas [5]. Delfi also reported the denial [6]. Politico reported last week, citing four European officials, that US envoy John Coale had asked Lithuanian diplomats about easing curbs on Belarusian goods [5]. Budrys said Coale had not raised the transit issue in their meetings [5]. EU sanctions cover Belarusian fertilizers, and Lithuania halted the transit in early 2022 [5]. A U.S. official told the Kyiv Independent that Coale was \"freelancing\" and that the State Department \"has never raised this\" with Lithuania [7]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high on Budrys's denial, which LRT and Delfi report from separate news agencies. Whether Washington has pressed Vilnius remains disputed."
+      }
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Defense",
+     "time": "5 Nov 07:16–08:19",
+     "title": "Lithuania Tells US NATO Envoy It Can Host More American Troops",
+     "lede": "Defense Minister Robertas Kaunas made the offer after meeting Ambassador Matthew Whitaker at the Berlin Security Conference.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Lithuania is ready to host more U.S. troops and provide the infrastructure for them, Defense Minister Robertas Kaunas said on Thursday, LRT reported citing BNS [8]. He spoke after meeting U.S. Ambassador to NATO Matthew Whitaker at the Berlin Security Conference [8]. Lithuania's Defense Ministry said they discussed the U.S. presence, NATO's eastern flank, hybrid threats, and air defense [8]. Two U.S. battalions were due by late October, bringing the U.S. presence back above 1,000 troops [8]. Kaunas said Lithuania has prepared proposals for a permanent U.S. deployment and that technical talks are under way, with no decisions yet, LRT reported [9]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: the offer comes from the minister's own post and ministry statement, reported by Lithuania's public broadcaster and BNS."
+      }
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Politics",
+     "time": "5 Nov 12:31–14:37",
+     "title": "Latvia's Prime Minister-Designate Kulbergs Pauses Public Coalition Talks",
+     "lede": "Three coalition options remain open, and he hopes to present a cabinet by Latvia's mid-November national holidays.",
+     "confidenceLevel": "Moderate",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Latvia's prime minister-designate Andris Kulbergs will hold no more public meetings on forming a government this week, his adviser told the LETA agency, BB.LV reported [10][11]. He finished a first round of talks with parliamentary parties on Monday [10]. Options include a coalition of his United List with the National Alliance and New Unity, a two-party deal, or a minority government backed by Latvia First [10]. Kulbergs said the Saeima might adopt next year's budget only in mid- or late January [10]."
       },
       {
        "kicker": "Confidence",
@@ -426,16 +495,33 @@
      ]
     },
     {
-     "kind": "Diplomacy",
-     "time": "5 Nov 11:30",
-     "title": "Estonia's Foreign Minister Joins Baltic Sea Talks in Warsaw on Russia Pressure",
-     "lede": "Margus Tsahkna is in Warsaw for Council of the Baltic Sea States talks focused on raising pressure on Moscow over the war.",
-     "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "kind": "Society",
+     "time": "5 Nov 13:22",
+     "title": "Lithuania's Parliament Advances Fertility Treatment for Unmarried Couples and Single Women",
+     "lede": "Lawmakers voted 66-15 after the Constitutional Court ruled current limits unconstitutional, with a final vote due in mid-November.",
+     "confidenceLevel": "High",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Estonia's Foreign Minister Margus Tsahkna is attending a Council of the Baltic Sea States meeting in Warsaw, Poland, his ministry said on 5 November [4]. Ministers will discuss regional security, Russia's war against Ukraine, and joint steps to raise pressure on Russia [4]. The ministry's release dated the meeting \"today, 6 November\" while publishing it on 5 November [4]."
+       "text": "Lithuania's parliament voted 66-15, with seven abstentions, on Thursday to advance a bill widening access to assisted reproduction, LRT reported [12]. Treatment would be open to unmarried couples and single women, not only spouses and registered partners [12]. The bill does not extend access to same-sex couples, and surrogacy stays banned [12]. The Constitutional Court had ruled the current limits unconstitutional [12]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: the vote count comes from a recorded parliamentary vote reported by Lithuania's public broadcaster."
+      }
+     ]
+    },
+    {
+     "kind": "Diplomacy",
+     "time": "5 Nov 11:30",
+     "title": "Estonia's Ministry Announces Warsaw Baltic Sea Talks but Gives Conflicting Dates",
+     "lede": "Estonia's Foreign Ministry announced Margus Tsahkna's Warsaw meeting, but its 5 November release called the meeting date '6 November.'",
+     "confidenceLevel": "Moderate",
+     "flag": "single-source, unconfirmed",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Estonia's Foreign Ministry announced a Council of the Baltic Sea States meeting in Warsaw, Poland, but its release gives conflicting dates [13]. Ministers will discuss regional security, Russia's war against Ukraine, and joint steps to raise pressure on Russia [13]. The ministry's release dated the meeting \"today, 6 November\" while publishing it on 5 November [13]."
       },
       {
        "kicker": "Confidence",
@@ -444,52 +530,15 @@
      ]
     },
     {
-     "kind": "Defense",
-     "time": "5 Nov 09:19",
-     "title": "Lithuania Tells US NATO Envoy It Is Ready to Host More American Troops",
-     "lede": "Defense Minister Robertas Kaunas made the offer after meeting Ambassador Matthew Whitaker at the Berlin Security Conference.",
-     "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Lithuania is ready to host more U.S. troops and provide the infrastructure for them, Defense Minister Robertas Kaunas said on Thursday, LRT reported citing BNS [5]. He spoke after meeting U.S. Ambassador to NATO Matthew Whitaker at the Berlin Security Conference [5]. Lithuania's Defense Ministry said they discussed the U.S. presence, NATO's eastern flank, hybrid threats, and air defense [5]. Two U.S. battalions were due by late October, bringing the U.S. presence back above 1,000 troops [5]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high: the offer comes from the minister's own post and ministry statement, reported by Lithuania's public broadcaster and BNS."
-      }
-     ]
-    },
-    {
-     "kind": "Diplomacy",
-     "time": "5 Nov 07:47–09:11",
-     "title": "Lithuania's Foreign Minister Denies US Pressure Over Belarusian Potash Transit",
-     "lede": "Kęstutis Budrys said \"nothing of the sort is happening\" after Politico reported a US envoy asked about easing curbs on goods from Belarus.",
-     "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Lithuania's Foreign Minister Kęstutis Budrys denied that the Trump administration is pressing Vilnius to let Belarusian potash through the port of Klaipėda, LRT reported [6]. \"I can assure you and say responsibly that nothing of the sort is happening at the moment,\" Budrys told Žinių Radijas [6]. Delfi also reported the denial [7]. Politico reported last week, citing four European officials, that US envoy John Coale had asked Lithuanian diplomats about easing curbs on Belarusian goods [6]. Budrys said Coale had not raised the transit issue in their meetings [6]. EU sanctions cover Belarusian fertilizers, and Lithuania halted the transit in early 2022 [6]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high on Budrys's denial, which LRT and Delfi report from separate news agencies. Whether Washington has pressed Vilnius remains disputed."
-      }
-     ]
-    },
-    {
      "kind": "Economy",
      "time": "5 Nov 07:58",
-     "title": "Estonia Plans to Double Its Foreign Worker Quota Next Year",
+     "title": "Estonia Plans Extra Foreign Worker Permits Twice Its Regular Quota",
      "lede": "Unions say the plan, which lets some foreign hires earn 80% of the average wage, will import cheap labor and hold down pay.",
      "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Estonia plans to admit 2,569 foreign workers next year, twice its regular immigration quota, ERR reported [8]. An Interior Ministry draft regulation would allow extra residence permits in 20 fields of industry, transport, and storage [8]. Workers under the extra quota could be paid 80% of the average wage [8]. Kaia Vask, chair of the Estonian Trade Union Confederation, said the plan legitimizes poor working conditions [8]. Energy is excluded on security grounds, and comments on the draft are due by 13 November [8]."
+       "text": "Estonia plans to allow up to 2,569 extra foreign workers next year, on top of its regular quota of 1,284, ERR reported [14]. An Interior Ministry draft regulation would allow extra residence permits in 20 fields of industry, transport, and storage [14]. Workers under the extra quota could be paid 80% of the average wage [14]. Kaia Vask, chair of the Estonian Trade Union Confederation, said the plan legitimizes poor working conditions [14]. Energy is excluded on security grounds, and comments on the draft are due by 13 November [14]."
       },
       {
        "kicker": "Confidence",
@@ -505,16 +554,123 @@
    "heading": "Stability, politics, and outside influence in the Western Balkans",
    "items": [
     {
-     "kind": "Justice",
-     "time": "5 Nov 15:53–16:11",
-     "title": "Serbia Opens Election-Abuse Cases Against Spy Chief and Justice Minister",
-     "lede": "Serbia's organized-crime prosecutors ordered police to look into complaints that BIA director Vladimir Orlić and Justice Minister Nenad Vujić abused voting rights.",
+     "kind": "Diplomacy",
+     "time": "5 Nov 18:33–6 Nov",
+     "title": "EU and Western Balkan Ministers Meet in Budva on Crime and Migration",
+     "lede": "Hosted in Montenegro, talks covered online child sexual abuse, cybercrime, migrant smuggling, and visa-policy alignment.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Serbia's Public Prosecutor's Office for Organized Crime opened two cases based on criminal complaints from lawyer Ivan Ninić over election rights, RTS reported [1]. The first names Security Information Agency director Vladimir Orlić and several agency officers [1][2]. The second names Justice Minister Nenad Vujić, prison administration director Mileta Jandrić, ministerial adviser Milica Radonjić, and others, including officials of the ruling Serbian Progressive Party [1][2]. On 4 November, prosecutors asked police to check the allegations and interview the people named, Insajder reported [2]."
+       "text": "The Council of the EU described its annual justice and home affairs forum in Budva, Montenegro, as a two-day meeting on 5-6 November [1]. Day one took place on 5 November; the second day was not complete at this cutoff [1]. Ireland's justice minister Jim O'Callaghan, for the Council presidency, and Justice Commissioner Michael McGrath joined regional counterparts [1]. Talks covered online child sexual abuse material, fraud, and cyberviolence. Ministers also discussed the December 2022 Western Balkans action plan, including border protection and fighting migrant smuggling [1]. Participants stressed visa-policy alignment with the EU to cut illegal crossings [1]. The EU restated political and financial support on migration, asylum, and border management [1]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high on the agenda and chairs from the Council release. The 6 November session was still ahead or underway at this early-morning cutoff and is not treated as completed."
+      }
+     ]
+    },
+    {
+     "kind": "Economy",
+     "time": "5 Nov 15:15–17:00",
+     "title": "U.S. Licenses MOL to Prepare a Share Purchase in Serbia's NIS",
+     "lede": "The OFAC permit runs to 28 February 2027 and does not authorize ending Russian ownership; that would need a separate U.S. approval.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "MOL said the U.S. Treasury's OFAC licensed Hungary's MOL and MOL Serbia Investment Kft. to prepare a share purchase in Serbia's NIS, European Western Balkans and Serbian outlets reported [2][3][4]. The license allows certain transactions needed to transfer Russian-origin securities to MOL Serbia Investment and related approvals from Russian authorities [2]. It is valid until 28 February 2027 [2][3]. It does not authorize completing a deal that would end Russian ownership and control of NIS; that would need separate OFAC approval [2][4]. Hungarian Foreign Minister Anita Orbán said Hungary expects an agreement on the Russian NIS holding by 11 December [2][3]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high that MOL announced the license terms, not that a takeover is approved or completed. The opened outlets all rely on MOL's interested-party notice."
+      }
+     ]
+    },
+    {
+     "kind": "Security",
+     "time": "5 Nov 12:46",
+     "title": "Albanian Police Report 83 Fines Under New Anti-Protest Rules",
+     "lede": "Police said 31 more 55-euro tickets were issued after a Wednesday night Tirana protest, under laws that took effect on 28 October.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Albanian police reported 31 more fines after Wednesday night's Tirana protest. The new anti-unrest rules have produced 83 fines in recent days, Balkan Insight reported Thursday [5]. Each traffic-obstruction fine is 5,000 lek, about 55 euros [5]. The legislation, pushed by Prime Minister Edi Rama after months of anti-government protests, took effect on 28 October [5]. Photographer and activist Mei Seva told BIRN she was fined after a peaceful gathering outside the prime minister's office and called the tickets an intimidation tactic [5]. Police said those fined had blocked roads despite loudspeaker warnings [5]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: the fine totals come from police figures reported by BIRN, with an on-record protester account."
+      }
+     ]
+    },
+    {
+     "kind": "Politics",
+     "time": "5 Nov 20:25",
+     "title": "Serbia's Election Commission Certifies Final Seat Tally",
+     "lede": "The Student List took 140 seats and Vučić's list 103, and RIK will assign individual mandates within 10 days.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Serbia's Republic Election Commission proclaimed final results of the 25 October snap parliamentary election on the evening of 5 November, N1 reported [6]. RIK published the certification [7]. Student List - Students Win took 2,354,417 votes and 140 seats [6]. United Serbia - Aleksandar Vučić took 1,731,323 votes and 103 seats [6]. Other seats went to Rasim Ljajić–Human (1), Vojvodina Hungarians (2), Usame Zukorlić–Movement for Unification (1), SDA–Guardians of Sandžak (1), and the Albanian Coalition (2) [6]. Turnout was 4,444,310 of 6,451,292 registered voters after repeat voting at 53 stations [6]. RIK assigns candidate mandates by list order within 10 days of publishing the overall report [6]. Separately, RIK member Ivan Šebek said anomalies in the 1 November repeat vote warrant prosecutor and police checks for possible vote buying [8]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high on RIK's published certification and the seat distribution, checked against its official release and N1. These are certified results, not an independent ballot audit."
+      }
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Diplomacy",
+     "time": "4 Nov 19:00–5 Nov 16:30",
+     "title": "EU Official Says Serbia's Student List Shares the Bloc's Core Values",
+     "lede": "Commission enlargement director Gert Jan Koopman said Brussels should find talks with Serbia's new authorities easier on democracy and the rule of law.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Gert Jan Koopman heads the Commission's Directorate-General for Enlargement and Eastern Neighbourhood. He said the EU and Serbia's Student List share core values at a Brussels enlargement conference on 5 November, N1 reported [9]. He said the list stresses democracy, free speech, fighting corruption, and the rule of law. This should ease Brussels' talks with Serbia's new authorities on stalled accession issues [9]. He recalled that Serbia had not advanced in membership talks since 2021, citing Belgrade's refusal to sanction Russia and its approach to Kosovo [9]. AP separately quoted Enlargement Commissioner Marta Kos telling EU lawmakers that Serbia now has a chance for a fresh start if a new government strengthens democratic institutions [10]. Kos had earlier met four Student List representatives in Brussels, Euronews reported [11]. In Belgrade, EU Ambassador Andreas von Beckerath presented the Commission's annual report and said the EU stands ready to work with the future government [12]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: Koopman and Kos spoke on the record, reported by N1, AP, and Euronews."
+      }
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Diplomacy",
+     "time": "4–5 Nov",
+     "title": "EU Envoy Says Kosovo Can Catch Up After Institutional Stalemate",
+     "lede": "Dirk Schuebel said the 2026 report covers a year of caretaker government and a late-formed Assembly, and that fully mandated institutions now exist.",
+     "confidenceLevel": "High",
+     "flag": "FOLLOW UP TO PREVIOUS REPORT",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "EU envoy and ambassador Dirk Schuebel described institutional stalemate during the reporting period. He spoke with Kosovo's Prime Minister Albin Kurti about the Commission's 2026 Kosovo report [13]. He cited three elections in sixteen months, an Assembly unformed for most of the period, and a mostly caretaker government, which slowed reforms [13]. He said Kosovo now has a constituted Assembly, a government with a full mandate, and a newly elected president, and must use that opening to catch up [13]. He listed progress on organized crime preparation, public administration, and anti-money-laundering law, and said judiciary and fundamental rights still lack meaningful progress [13]. Kurti earlier urged the EU to grant Kosovo candidate status after the report, RTSH reported [14]. Enlargement Commissioner Marta Kos said the EU is discussing Specialist Chambers law amendments with Pristina. Parliament approved them on 6 October; President Justina Shiroka Pula returned them on 22 October [15]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: Schuebel's remarks are from an EEAS transcript, and RTSH covers Kurti and the Specialist Chambers track."
+      }
+     ]
+    },
+    {
+     "kind": "Justice",
+     "time": "5 Nov 15:53–16:11",
+     "title": "Serbia Opens Election-Abuse Cases Against Spy Chief and Justice Minister",
+     "lede": "Serbia's organized-crime prosecutors ordered police to look into complaints that BIA director Vladimir Orlić and Justice Minister Nenad Vujić abused voting rights.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Serbia's Public Prosecutor's Office for Organized Crime opened two cases based on criminal complaints from lawyer Ivan Ninić over election rights, RTS reported [16]. The first names Security Information Agency director Vladimir Orlić and several agency officers [16][17]. The second names Justice Minister Nenad Vujić, prison administration director Mileta Jandrić, ministerial adviser Milica Radonjić, and others, including officials of the ruling Serbian Progressive Party [16][17]. On 4 November, prosecutors asked police to check the allegations and interview the people named, Insajder reported [17]."
       },
       {
        "kicker": "Confidence",
@@ -523,76 +679,21 @@
      ]
     },
     {
-     "kind": "Politics",
-     "time": "5 Nov 12:43–15:11",
-     "title": "Serbia's New Parliament Could Convene in About 10 Days, Vučić Says",
-     "lede": "Student List candidate Dejan Šoškić said a government could follow within a month and he would consider leading it if students propose him.",
-     "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Serbia's President Aleksandar Vučić said he expects the new National Assembly's first session to be called in about 10 days, Tanjug reported [3]. Student List candidate Dejan Šoškić told Newsmax Balkans that a parliament is very likely within a month, followed immediately by a government [4]. He said he would consider becoming prime minister-designate if the proposal came from students through a democratic process [4]. He said the movement expects to field the next president of Serbia [4]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate: both statements were on the record but reach us through Serbia's state news agency only."
-      }
-     ]
-    },
-    {
-     "kind": "Diplomacy",
-     "time": "4 Nov 19:00–5 Nov 14:31",
-     "title": "EU Opens First High-Level Talks With Serbia's Election-Winning Student List",
-     "lede": "Polling-station irregularities are still delaying Serbia's final result and the new government, Euronews reported.",
-     "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "EU Enlargement Commissioner Marta Kos met four representatives of Serbia's Student List in Brussels, the movement's first high-level EU contact since its landslide win, Euronews reported [5]. Talks focused on democracy and domestic reforms rather than enlargement [5]. In Belgrade on Wednesday evening, EU Ambassador Andreas von Beckerath presented the Commission's annual report on Serbia [6]. He said the EU stands ready to work closely with the future government and that Serbia could again become a frontrunner [6]. He said Serbia's alignment with EU foreign policy was poor and it must deliver on the dialogue with Kosovo [6]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high: the meeting and the ambassador's remarks come from on-record statements reported by Euronews and Serbia's state news agency."
-      }
-     ]
-    },
-    {
-     "kind": "Diplomacy",
-     "time": "5 Nov 12:00",
-     "title": "Kosovo's Kurti Presses EU for Candidate Status After Commission Report",
-     "lede": "Kurti said Kosovo is the only Western Balkan country without candidate status nearly four years after applying, and blamed a parliamentary deadlock for slow reforms.",
-     "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Kosovo's Prime Minister Albin Kurti urged the EU to grant Kosovo candidate status and open membership talks as soon as possible, Albania's public broadcaster RTSH reported [7]. He spoke after the European Commission presented its 2026 report on Kosovo [7]. Kurti blamed a parliamentary deadlock for delaying a Growth Plan agreement and several laws [7]. He rejected claims of regression, saying the Commission found no decline in any area [7]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate: the remarks rest on one public broadcaster's report; Kurti's own statement was not opened."
-      }
-     ]
-    },
-    {
      "kind": "Security",
      "time": "4 Nov 21:42–5 Nov 10:00",
      "title": "Serbia Detains Elite Police Officers Over Alleged Torture of Protesters",
-     "lede": "They are the first major arrests over violence against the protesters whose movement helped oust Vučić's party in the 25 October election.",
+     "lede": "Reuters called these the first major arrests over violence against protesters whose movement helped oust Vučić's party in Serbia's 25 October election.",
      "confidenceLevel": "High",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Serbian authorities detained nine serving police officers and one former officer on Wednesday over alleged abuse of protesters in Belgrade last year, Reuters reported via The Guardian [8]. The Interior Ministry said the suspects, from an elite unit, tortured and intimidated people held in the garage of the government compound on 14 and 15 August 2025 [8][9]. The ministry gave only the suspects' initials [8]. Reuters called the detentions the first big arrests over violence against protesters in the past two years [8]. The protests began after a station canopy collapse in Novi Sad killed 16 people on 1 November 2024 [8]. Serbian public broadcaster RTS said the commander of the Special Antiterrorism Unit, Igor Žmirić, was among those detained, Al Jazeera reported [10]."
+       "text": "Serbian authorities detained nine serving police officers and one former officer on Wednesday over alleged abuse of protesters in Belgrade last year, Reuters reported via The Guardian [18]. The Interior Ministry said the suspects, from an elite unit, tortured and intimidated people held in the garage of the government compound on 14 and 15 August 2025 [18][19]. The ministry gave only the suspects' initials [18]. Reuters called the detentions the first big arrests over violence against protesters in the past two years [18]. The protests began after a station canopy collapse in Novi Sad killed 16 people on 1 November 2024 [18]. Serbian public broadcaster RTS said the commander of the Special Antiterrorism Unit, Igor Žmirić, was among those detained, Al Jazeera reported [20]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high on the detentions, which rest on an official ministry statement reported by Reuters and a Serbian outlet; B92's headline gives a different breakdown of officers and civilians."
+       "text": "Confidence is high that detentions were reported, but the count conflicts: Reuters says nine serving officers and one former officer; B92 quotes eight serving officers and one civilian. The torture allegations remain unproven."
       }
-     ],
-     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+     ]
     }
    ]
   },
@@ -603,55 +704,90 @@
    "items": [
     {
      "kind": "Politics",
-     "time": "5 Nov 16:03",
-     "title": "Russia Bans Jailed Georgian Opposition Leader Khoshtaria's Party as Undesirable",
-     "lede": "Moscow accused Droa of \"strongly Russophobic views,\" and the party replied that Georgia's ruling regime is pro-Russian.",
+     "time": "5 Nov 16:58",
+     "title": "Georgian Watchdogs Say Election Bills Would Limit Challenges to Results",
+     "lede": "Three watchdog groups say Georgian Dream amendments would confine appeals to technical errors and scrap mandatory recounts.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Russia's Prosecutor General's Office designated Georgia's opposition Droa party an \"undesirable\" organization on 5 November, Civil Georgia reported [1]. The office accused the party of \"strongly Russophobic views\" and of calling Abkhazia and South Ossetia occupied [1]. Droa replied that \"the Ivanishvili regime is Russian\" and that Georgia will join the EU and NATO [1]. Party leader Elene Khoshtaria is serving an 18-month sentence for property damage and faces a separate sabotage case [1]."
+       "text": "Georgian watchdogs criticized the ruling-party election package on 5 November: the Georgian Young Lawyers' Association, International Society for Fair Elections and Democracy, and Transparency International Georgia, Civil Georgia reported [1]. The groups said six Georgian Dream lawmakers filed bills on 28 October limiting court challenges to final commission tallies to mechanical or technical errors. Mandatory random recounts would end, and commission chairs would register observers [1]. They said the changes would weaken oversight and further centralize election administration [1]. Georgian Dream Prime Minister Irakli Kobakhidze said the same day that nothing is being restricted and that the rules only simplify procedures after electronic voting [1]. The first plenary review is expected on 10 November [1]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high: the designation and the reply come from on-record statements reported by an established Georgian outlet."
+       "text": "Confidence is high: the watchdog statement and Kobakhidze's reply are on the record in an established Tbilisi English outlet."
       }
      ]
     },
     {
      "kind": "Diplomacy",
-     "time": "5 Nov 15:41",
-     "title": "Pashinyan Says Armenia's Interest in the Russian-Led CSTO Has Run Its Course",
-     "lede": "He spoke as the alliance's secretary general said a November council meeting could strip Armenia of its voting rights over unpaid dues.",
-     "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE · single-source, unconfirmed",
+     "time": "5 Nov",
+     "title": "Erdoğan Plans a Victory Day Visit to Baku Amid a Headscarf Row",
+     "lede": "Turkish President Recep Tayyip Erdoğan said he plans to visit Azerbaijan on Sunday, 8 November, as a school headscarf dispute strains ties with Baku.",
+     "confidenceLevel": "High",
+     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Armenia's Prime Minister Nikol Pashinyan said on 5 November that \"our interest in the CSTO has run its course,\" Armenpress reported [2]. He was asked how Armenia would react if a CSTO council in Moscow suspended its voting rights under Article 25 of the charter [2]. CSTO Secretary General Talatbek Masadykov said expelling Armenia was not on the table, but the council could apply that article until Armenia pays its dues [2]. Armenia froze its participation in the Russian-led alliance in February 2024 [2]."
+       "text": "Turkish President Recep Tayyip Erdoğan said he plans to visit Azerbaijan on 8 November for Victory Day, AFP reported [2]. \"Unless there are extraordinary circumstances, I plan to visit Azerbaijan on November 8,\" he told reporters on his return flight from South Korea [2]. The row began after Baku changed school uniform rules in September, and Erdoğan later dismissed adviser Oktay Saral for criticizing headscarf restrictions [2]. Erdoğan said he had sent Foreign Minister Hakan Fidan and intelligence chief İbrahim Kalın to Azerbaijan and had spoken by phone with President Ilham Aliyev, bne IntelliNews reported [3]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high: Pashinyan spoke on the record at a briefing, reported by Armenia's state news agency; a second outlet's link returned an error."
+       "text": "Confidence is high on Erdoğan's stated plan, which AFP and bne IntelliNews report from his remarks. Azerbaijan has not publicly confirmed the visit. The day he spoke is left out because AFP and TRT disagree."
       }
      ]
+    },
+    {
+     "kind": "Diplomacy",
+     "time": "5 Nov 10:45–14:42",
+     "title": "Pashinyan Says Armenia's Interest in the Russian-Led CSTO Has Run Its Course",
+     "lede": "He spoke as the alliance's secretary general said a November council meeting could strip Armenia of its voting rights over unpaid dues.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Armenia's Prime Minister Nikol Pashinyan said on 5 November that \"our interest in the CSTO has run its course,\" Armenpress reported [4]. He was asked how Armenia would react if a CSTO council in Moscow suspended its voting rights under Article 25 of the charter [4]. Armenpress said CSTO chief Talatbek Masadykov ruled out expulsion and discussed suspending voting rights; RIA instead described possible exclusion. The accounts conflict [4][5]. Armenia froze its participation in the Russian-led alliance in February 2024 [4]. RIA Novosti, a Russian state agency, separately quoted Pashinyan saying Armenia no longer has interests tied to the CSTO [5]. APA later carried Foreign Minister Ararat Mirzoyan saying Armenia sees no prospect of returning to CSTO activity [6]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high on Pashinyan's core remark, reported by Armenpress and RIA. Confidence is moderate on the council's plans because their accounts conflict; no expulsion decision is established."
+      }
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
     },
     {
      "kind": "Diplomacy",
      "time": "5 Nov 11:11–14:20",
-     "title": "Armenia Aims to Sign and Ratify the Azerbaijan Peace Deal Soon, Mirzoyan Says",
+     "title": "Mirzoyan Says Armenia Aims to Sign Azerbaijan Peace Deal Soon",
      "lede": "Armenia's foreign minister said there are no specific plans yet for the two countries' foreign ministers to visit each other.",
      "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Armenia's Foreign Minister Ararat Mirzoyan told lawmakers on 5 November that the goal is to sign and ratify the peace agreement with Azerbaijan as soon as possible, Median reported [3]. He spoke at a joint committee session on the 2027 budget [3]. Mirzoyan told reporters there are no specific agreements on reciprocal visits by the two foreign ministers, but he hopes they will happen [4]. He said he was confident Azerbaijani cargo will gradually transit Armenia under the U.S.-backed TRIPP route [5]."
+       "text": "Armenia's Foreign Minister Ararat Mirzoyan told lawmakers on 5 November that the goal is to sign and ratify the peace agreement with Azerbaijan as soon as possible, Median reported [7]. He spoke at a joint committee session on the 2027 budget [7]. Mirzoyan told reporters there are no specific agreements on reciprocal visits by the two foreign ministers, but he hopes they will happen [8]. He said he was confident Azerbaijani cargo will gradually transit Armenia under the U.S.-backed TRIPP route [9]. Mirzoyan said that when Armenia proposes ratifying the deal, Azerbaijan replies that it will not sign under Armenia's current constitution, RFE/RL's Armenian service reported [10]."
       },
       {
        "kicker": "Confidence",
        "text": "Confidence is high: the remarks were on the record in parliament and reported by three Armenian outlets."
+      }
+     ],
+     "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Politics",
+     "time": "5 Nov 13:03",
+     "title": "Russia Bans Jailed Georgian Opposition Leader Khoshtaria's Party as Undesirable",
+     "lede": "Moscow accused Droa of \"strongly Russophobic views,\" and the party replied that \"the Ivanishvili regime is Russian.\"",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Russia's Prosecutor General's Office designated Georgia's opposition Droa party an \"undesirable\" organization on 5 November, Civil Georgia reported [11]. The office accused the party of \"strongly Russophobic views\" and of calling Abkhazia and South Ossetia occupied [11]. Droa replied that \"the Ivanishvili regime is Russian\" and that Georgia will join the EU and NATO [11]. Party leader Elene Khoshtaria is serving an 18-month sentence for property damage and faces a separate sabotage case [11]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: the designation and the reply come from on-record statements reported by an established Georgian outlet."
       }
      ]
     },
@@ -661,11 +797,10 @@
      "title": "Armenia's Opposition Forms a Front Against a New Constitution",
      "lede": "Groups including two former presidents' parties pledged to block what they call a constitution imposed by Azerbaijan, hours after billionaire Samvel Karapetyan's arrest.",
      "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Armenia's main opposition groups announced a \"pan-national consolidation\" on Wednesday night, RFE/RL's Armenian service reported [6]. The announcement came hours after billionaire Strong Armenia leader Samvel Karapetyan was arrested [6][7]. The groups vowed to block a new constitution they say Azerbaijan's President Ilham Aliyev is imposing [6][7]. They also pledged peace without unilateral concessions, defense of the Armenian Apostolic Church, and restoration of democratic rights, OC Media reported [7]. Prime Minister Nikol Pashinyan mocked the meeting on Thursday, saying it lacked only Catholicos Karekin II [7]."
+       "text": "Armenia's main opposition groups announced a \"pan-national consolidation\" on Wednesday night, RFE/RL's Armenian service reported [12]. The announcement came hours after billionaire Strong Armenia leader Samvel Karapetyan was arrested [12][13]. The groups vowed to block a new constitution they say Azerbaijan's President Ilham Aliyev is imposing [12][13]. They also pledged peace without unilateral concessions, defense of the Armenian Apostolic Church, and restoration of democratic rights, OC Media reported [13]. Prime Minister Nikol Pashinyan mocked the meeting on Thursday, saying it lacked only Catholicos Karekin II [13]."
       },
       {
        "kicker": "Confidence",
@@ -681,74 +816,20 @@
    "heading": "Politics, the Bundeswehr, the economy, and developments in Baden-Württemberg",
    "items": [
     {
-     "kind": "Defense",
-     "time": "5 Nov 15:11",
-     "title": "German Government Agrees to Buy Half of Tank Maker KNDS",
-     "lede": "The state will take the owner families' 50% share for less than the 7.2 billion euros lawmakers approved for 40%, government sources said.",
-     "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Germany's government reached a deal in principle to buy the founding families' share of tank maker KNDS, tagesschau reported, citing government sources [1]. Berlin plans a 50% holding, equal to France's [1]. A briefing for the Bundestag budget committee seen by Reuters said the state will pay less than planned [1]. The committee had approved 7.2 billion euros in June for only 40% [1]. The Economy Ministry would not confirm the deal, and the families and KNDS did not comment [1]. KNDS builds the Leopard 2 tank and the Boxer armored vehicle [1]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate: the deal rests on unnamed government sources and a committee briefing; no party confirmed it on the record."
-      }
-     ]
-    },
-    {
-     "kind": "Defense",
-     "time": "5 Nov 14:43",
-     "title": "Germany Names Army Chief Christian Freuding as Its Top Soldier",
-     "lede": "He replaces General Carsten Breuer in February 2027, when Breuer leaves to chair NATO's Military Committee.",
+     "kind": "Justice",
+     "time": "6 Nov 03:30",
+     "title": "Germany Plans 6 November Opening of Kingdom of Germany Trial in Düsseldorf",
+     "lede": "Four alleged ringleaders, including Peter Fitzek, are scheduled to face trial in Düsseldorf on 6 November at 09:30 CET on criminal-organization and other charges.",
      "confidenceLevel": "High",
      "flag": "NEW THIS UPDATE",
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Germany's Defense Ministry named Lt. Gen. Christian Freuding the next chief of defense, the Bundeswehr's highest-ranking soldier [2]. He will succeed Gen. Carsten Breuer in early February 2027 [2]. Defense Minister Boris Pistorius said Freuding would lead troops into \"the new era\" in which Germany must protect itself better [2]. Freuding ran the ministry's Ukraine special staff after Russia's 2022 invasion and has led the army since October 2025 [2]."
+       "text": "Four alleged leaders of the banned \"Kingdom of Germany\" group are scheduled to stand trial in Düsseldorf on 6 November at 09:30 CET [1][2]. The defendants include Peter Fitzek, who styled himself the group's top sovereign in 2012 [1]. Interior Minister Alexander Dobrindt banned the Reichsbürger and self-administrator network in May 2025 [1]. Federal prosecutors accuse them of leading a criminal organization, plus gang document forgery and tax evasion in the millions of euros [1]. They face up to 10 years in prison [1]. Fitzek's lawyers said he would give a full statement and denies any crime [1]. The court has set 52 hearing days through September 2027 [2][3]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high: the appointment comes from a Defense Ministry announcement reported by Germany's public broadcaster."
-      }
-     ]
-    },
-    {
-     "kind": "Migration",
-     "time": "5 Nov 10:00",
-     "title": "Germany's Deportations Fall Nearly 19% as Returns to Turkey Rise",
-     "lede": "Germany deported 14,324 people from January through September, with Turkey the top destination, Interior Ministry figures showed.",
-     "confidenceLevel": "High",
-     "flag": "NEW THIS UPDATE",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Germany deported 14,324 people in the first nine months of 2026, down from 17,651 a year earlier, the Interior Ministry said in reply to the Left Party, DW reported [3]. Turkey was the top destination with 2,025 deportations, followed by Georgia and Algeria [3]. Six people were deported to Syria this year [3]. Some 14,140 people received help to return home voluntarily, up from 12,263 [3]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is high: the figures come from the Interior Ministry, reported by Germany's international broadcaster."
-      }
-     ]
-    },
-    {
-     "kind": "Economy",
-     "time": "5 Nov 09:00",
-     "title": "Bosch to Cut 750 More Jobs at Its Abstatt Site in Baden-Württemberg",
-     "lede": "Germany's largest auto supplier said the cuts in its vehicle motion unit will run through 2029 and be made as socially acceptable as possible.",
-     "confidenceLevel": "Moderate",
-     "flag": "NEW THIS UPDATE",
-     "sections": [
-      {
-       "kicker": "Reporting",
-       "text": "Bosch plans to cut about 750 jobs at its Abstatt site in Germany's Baden-Württemberg state by the end of 2029, the Stuttgarter Zeitung reported [4]. The cuts hit the Vehicle Motion unit, including brake systems, vehicle software, and sensors [4][5]. Bosch said it wants to make the cuts as socially acceptable as possible [4]."
-      },
-      {
-       "kicker": "Confidence",
-       "text": "Confidence is moderate: two regional outlets report the cuts, read through search text; the company's own release was not opened."
+       "text": "Confidence is high on the scheduled opening and charges, supported by the court and dpa. No observed opening had occurred by this early-morning verification cutoff; allegations remain unproven."
       }
      ]
     },
@@ -761,14 +842,82 @@
      "sections": [
       {
        "kicker": "Reporting",
-       "text": "Germany's Bavarian economy minister and deputy premier Hubert Aiwanger has died at 55 in a Berlin hotel, tagesschau reported, citing government sources [6]. Aiwanger, leader of the Free Voters party, was in Berlin to open his party's office there but skipped the event because he felt unwell, Bild reported [6]. Berlin police said he was found dead in his hotel room in central Berlin early Wednesday evening [7]. Berlin prosecutors confirmed his death, and they and the state police homicide unit opened a death investigation [6][7]. Bavarian Premier Markus Söder called the death \"an absolute tragedy\" [6]. On Thursday, Berlin prosecutors said a preliminary autopsy found no sign that anyone else was involved [8][9]. They said further forensic tests will follow, and the cause of death remained unclear [8]."
+       "text": "Germany's Bavarian economy minister and deputy premier Hubert Aiwanger has died at 55 in a Berlin hotel, tagesschau reported, citing government sources [4]. Berlin police said he was found dead in his hotel room in central Berlin early Wednesday evening [5]. Berlin prosecutors confirmed his death and opened a death investigation [4][5]. On Thursday, Berlin prosecutors said a preliminary autopsy found no sign that anyone else was involved [6][7]. They said further forensic tests will follow, and the cause of death remained unclear [6][7]. Bavarian Premier Markus Söder called the death \"an absolute tragedy\" and ordered mourning flags [4][7]. Free Voters postponed a 14 November federal party congress at which Aiwanger was to seek re-election as federal chair; party and caucus boards were to meet into the weekend [8][7]. State Secretary Tobias Gotthardt will run the Bavarian Economy Ministry on an interim basis under cabinet rules [7]."
       },
       {
        "kicker": "Confidence",
-       "text": "Confidence is high on the death and the autopsy finding, which Berlin police and prosecutors confirmed; the account of his missed party event rests on Bild reporting relayed by tagesschau."
+       "text": "Confidence is high on the death and the autopsy finding, which Berlin police and prosecutors confirmed; age 55 rests on tagesschau attribution."
       }
      ],
      "flag": "FOLLOW UP TO PREVIOUS REPORT"
+    },
+    {
+     "kind": "Defense",
+     "time": "5 Nov 14:43–18:15",
+     "title": "Germany Names Army Chief Christian Freuding as Its Top Soldier",
+     "lede": "He replaces General Carsten Breuer in February 2027, when Breuer leaves to chair NATO's Military Committee.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Germany's Defense Ministry named Lt. Gen. Christian Freuding the next chief of defense, the Bundeswehr's highest-ranking soldier [9]. He will succeed Gen. Carsten Breuer in early February 2027 [9]. Defense Minister Boris Pistorius said Freuding would lead troops into \"the new era\" in which Germany must protect itself better [9]. Freuding ran the ministry's Ukraine special staff after Russia's 2022 invasion and has led the army since October 2025 [9]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: the appointment comes from a Defense Ministry announcement reported by Germany's public broadcaster."
+      }
+     ]
+    },
+    {
+     "kind": "Defense",
+     "time": "5 Nov 15:11",
+     "title": "German Government Agrees to Buy Half of Tank Maker KNDS",
+     "lede": "The state will take the owner families' 50% share and pay less than the 7.2 billion euros lawmakers approved for 40%, a briefing for lawmakers said.",
+     "confidenceLevel": "Moderate",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Germany's government reached a deal in principle to buy the founding families' share of tank maker KNDS, tagesschau reported, citing government sources [10]. Berlin plans a 50% holding, equal to France's [10]. A briefing for the Bundestag budget committee seen by Reuters said the state will pay less than planned [10]. The committee had approved 7.2 billion euros in June for only 40% [10]. The Economy Ministry would not confirm the deal, and the families and KNDS did not comment [10]. KNDS builds the Leopard 2 tank and the Boxer armored vehicle [10]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is moderate: the deal rests on unnamed government sources and a committee briefing; no party confirmed it on the record."
+      }
+     ]
+    },
+    {
+     "kind": "Migration",
+     "time": "5 Nov 10:00",
+     "title": "Germany's Deportations Fall Nearly 19% as Returns to Turkey Rise",
+     "lede": "Germany deported 14,324 people from January through September, with Turkey the top destination, Interior Ministry figures showed.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Germany deported 14,324 people in the first nine months of 2026, down from 17,651 a year earlier, the Interior Ministry said in reply to the Left Party, DW reported [11]. Turkey was the top destination with 2,025 deportations, followed by Georgia and Algeria [11]. Six people were deported to Syria this year [11]. Some 14,140 people received help to return home voluntarily, up from 12,263 [11]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: the figures come from the Interior Ministry, reported by Germany's international broadcaster."
+      }
+     ]
+    },
+    {
+     "kind": "Economy",
+     "time": "5 Nov 09:00",
+     "title": "Bosch to Cut 750 More Jobs at Its Abstatt Site in Baden-Württemberg",
+     "lede": "Germany's largest auto supplier said the cuts in its vehicle motion unit will run through 2029 and be made as socially acceptable as possible.",
+     "confidenceLevel": "High",
+     "sections": [
+      {
+       "kicker": "Reporting",
+       "text": "Bosch plans to cut about 750 jobs at its Abstatt site in Germany's Baden-Württemberg state by the end of 2029, the Stuttgarter Zeitung and SWR reported [12][13]. The cuts hit the Vehicle Motion unit, including brake systems, vehicle software, and sensors [12][13][14]. Bosch said it wants to make the cuts as socially acceptable as possible [12][13]. A Bosch spokeswoman told SPIEGEL the mobility division has marked more than 23,000 German jobs for cuts over various periods, as demand for cheaper brake systems grows [14]. SWR said Bosch is responding to growing competition from China [13]. About 5,300 people work at Abstatt [13]."
+      },
+      {
+       "kicker": "Confidence",
+       "text": "Confidence is high: company confirmation to SWR plus Stuttgarter Zeitung and SPIEGEL."
+      }
+     ]
     }
    ]
   }
@@ -783,81 +932,183 @@
    "sources": [
     {
      "name": "[1] Kyiv Independent",
-     "href": "https://kyivindependent.com/russian-attacks-kill-9-injure-19-across-ukraine-over-past-day-as-casualty-toll-from-russian-strikes-in-kherson-oblast-rises-following-end-of-ceasefire/",
+     "href": "https://kyivindependent.com/trump-meets-russian-envoy-in-washington-ahead-of-ukraine-peace-talks-claims-big-beautiful-agreement-coming/",
      "status": "used",
-     "note": "Daily casualty roundup, 5 Nov; search text read 5 Nov 17:10 run"
+     "note": "Trump-Dmitriev, published 6 Nov 03:54 CET; visible 04:54 is Kyiv-local."
     },
     {
-     "name": "[2] Al Jazeera",
-     "href": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan",
+     "name": "[2] Reuters via Yahoo",
+     "href": "https://www.yahoo.com/news/articles/russias-dmitriev-washington-first-us-090532663.html",
      "status": "used",
-     "note": "Overnight strikes both ways, 5 Nov; read 5 Nov 17:10 run"
+     "note": "Trump met Putin envoy; via Yahoo; read 6 Nov 05:10 run"
     },
     {
-     "name": "[3] RBC-Ukraine",
-     "href": "https://newsukraine.rbc.ua/news/all-russian-missiles-got-through-how-ukraine-1793862402.html",
+     "name": "[3] Al Jazeera",
+     "href": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians",
      "status": "used",
-     "note": "Air Force tally, 5 Nov 08:00 local; read 5 Nov 17:10 run"
+     "note": "AP/Reuters on Trump-Dmitriev; read 6 Nov 05:10 run"
     },
     {
-     "name": "[4] RTVE (EFE)",
-     "href": "https://www.rtve.es/noticias/20261105/zelenski-reunion-sanchez-madrid-preparar-cumbre-trilateral-abu-dabi/17300620.shtml",
+     "name": "[4] White House",
+     "href": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
      "status": "used",
-     "note": "Zelensky in Madrid, 5 Nov 04:41; read 5 Nov 17:10 run"
+     "note": "Melania Oleshky event, 5 Nov; read 6 Nov 05:10 run"
     },
     {
-     "name": "[5] Kyiv Independent",
-     "href": "https://kyivindependent.com/zelensky-lands-in-spain-to-discuss-air-defense/",
+     "name": "[5] Fox News",
+     "href": "https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia",
      "status": "used",
-     "note": "Zelensky lands in Spain, 4 Nov 6:46 pm Kyiv (17:46 CET); read 5 Nov 17:10 run"
+     "note": "Melania Oleshky; major-outlet; read 6 Nov 05:10 run"
     },
     {
      "name": "[6] Kyiv Independent",
-     "href": "https://kyivindependent.com/russian-oil-refinery-in-ryazan-reportedly-targeted-in-drone-attack/",
+     "href": "https://kyivindependent.com/spain-to-provide-ukraine-490-million-in-military-aid-zelensky-says/",
      "status": "used",
-     "note": "Ryazan refinery report, 5 Nov 04:05 CET; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "Spain 437M / $490M, published 5 Nov 23:21 CET; visible 6 Nov 00:21 is Kyiv-local."
     },
     {
-     "name": "[7] TRT World (Reuters/AFP-based)",
-     "href": "https://www.trtworld.com/article/028e2fc7a6dd",
+     "name": "[7] Kyiv Post (Zelensky Spain summit / aid)",
+     "href": "https://www.kyivpost.com/post/89282",
      "status": "used",
-     "note": "Malkov, Russian MoD 496 drones, 5 Nov; search text read 5 Nov 17:10 run"
+     "note": "5 Nov; displayed 23:30 zone unspecified; Karen"
     },
     {
      "name": "[8] Kyiv Independent",
-     "href": "https://kyivindependent.com/security-guarantees-must-be-ironclad-zelensky-speaks-to-trumps-envoys-ahead-of-trilateral-peace-talks/",
+     "href": "https://kyivindependent.com/ukraine-war-latest-kyiv-water-supply-disrupted-after-power-fluctuations-due-to-russian-attacks/",
      "status": "used",
-     "note": "Zelensky call with Witkoff and Kushner, 4 Nov; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "Kyiv water/metro, published 5 Nov 20:07 CET; visible 21:07 is Kyiv-local."
     },
     {
-     "name": "[9] Kyiv Post",
-     "href": "https://www.kyivpost.com/post/89174",
+     "name": "[9] ISW / Critical Threats",
+     "href": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-5-2026",
      "status": "used",
-     "note": "90-minute call, Abu Dhabi 10-11 Nov; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "Wildberries/OpenYard/geolocated plume; read 6 Nov 05:10 run"
     },
     {
-     "name": "[10] Jared Kushner on X (statement on call with Zelensky)",
-     "href": "https://x.com/jaredkushner/status/2118094769226133656",
+     "name": "[10] Ukrainska Pravda",
+     "href": "https://www.pravda.com.ua/eng/news/2026/11/05/8061451/",
      "status": "used",
-     "note": "4 Nov 22:35 CET; opened by Ernie via mirror"
+     "note": "Umerov Brussels guarantees, published 5 Nov 17:39 CET; visible 18:39 is Kyiv-local."
     },
     {
-     "name": "AP News",
-     "href": "https://apnews.com/article/russia-ukraine-war-airstrikes-negotiations-kushner-0b975a30f862731346e7e1d098a8d538",
-     "status": "reviewed",
-     "note": "Brussels reconstruction talks and Luhansk strike; snippet only (fetch timed out), not cited"
+     "name": "[11] Interfax-Ukraine",
+     "href": "https://en.interfax.com.ua/news/general/1231986.html",
+     "status": "used",
+     "note": "Umerov Brussels, published 5 Nov 17:52 CET; visible 18:52 is Kyiv-local."
     },
     {
-     "name": "Kyiv Post",
-     "href": "https://www.kyivpost.com/",
-     "status": "reviewed",
-     "note": "Front page checked for in-window items; nothing new beyond cited reports"
+     "name": "[12] Kyiv Independent",
+     "href": "https://kyivindependent.com/russian-oil-refinery-in-ryazan-reportedly-targeted-in-drone-attack/",
+     "status": "used",
+     "note": "Ryazan refinery report, published 5 Nov 03:05 CET, updated 09:24 CET; visible 04:05 publication is Kyiv-local."
     },
     {
-     "name": "Tanjug (Peskov)",
-     "href": "https://www.tanjug.rs/",
+     "name": "[13] Al Jazeera",
+     "href": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan",
+     "status": "used",
+     "note": "Overnight strikes both ways, 5 Nov; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[14] TRT World (Anadolu-based)",
+     "href": "https://www.trtworld.com/article/028e2fc7a6dd",
+     "status": "used",
+     "note": "Malkov, Russian MoD 496 drones, 5 Nov; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[15] Kyiv Independent",
+     "href": "https://kyivindependent.com/russian-attacks-kill-9-injure-19-across-ukraine-over-past-day-as-casualty-toll-from-russian-strikes-in-kherson-oblast-rises-following-end-of-ceasefire/",
+     "status": "used",
+     "note": "Daily casualty roundup, 5 Nov; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[16] RBC-Ukraine",
+     "href": "https://newsukraine.rbc.ua/news/all-russian-missiles-got-through-how-ukraine-1793862402.html",
+     "status": "used",
+     "note": "Air Force preliminary tally as of 5 Nov 07:00 CET; article published 08:15 CET. Modified metadata says 08:14 CET."
+    },
+    {
+     "name": "[17] Zelensky on X",
+     "href": "https://x.com/ZelenskyyUa/status/2118441497511026903",
+     "status": "used",
+     "note": "X post content not verified in this run; supplementary Spain claims checked against Kyiv Post and La Moncloa."
+    },
+    {
+     "name": "[18] La Moncloa (Sánchez-Zelensky Ibero-American Summit)",
+     "href": "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/0551126-sanchez-zelenski-cumbre-iberoamericana.aspx",
+     "status": "used",
+     "note": "5 Nov; Karen; meeting confirm not 437M figure"
+    },
+    {
+     "name": "Washington Post",
+     "href": "https://www.washingtonpost.com/world/2026/11/05/ukraine-continues-strikes-russian-refineries-lead-up-white-house-meeting/",
      "status": "reviewed",
-     "note": "Peskov: Russia's interests on Ukraine will be secured militarily or peacefully, 5 Nov 15:37; headline only, not used"
+     "note": "Trump Europe deal lede/headline; body paywalled; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "CNN",
+     "href": "https://edition.cnn.com/melania-trump-gifts-russia-ukraine-ceasefire-vrtc",
+     "status": "reviewed",
+     "note": "Melania gifts vertical; major-outlet; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "Ukrinform Komyshuvakha 43",
+     "href": "https://www.ukrinform.net/rubric-ato/4181787-death-toll-from-russian-airstrike-on-komyshuvakha-rises-to-43-zelensky.html",
+     "status": "reviewed",
+     "note": "Pre-17:45 mass casualty; not proposed as NEW"
+    },
+    {
+     "name": "Kyiv Independent Komyshuvakha",
+     "href": "https://kyivindependent.com/42-bodies-recovered-from-rubble-after-russian-strike-on-komyshuvakha-as-search-continues-police-say/",
+     "status": "reviewed",
+     "note": "Updated 17:02 CET; display-window only"
+    },
+    {
+     "name": "Anadolu AA",
+     "href": "https://www.aa.com.tr/en/world/zelenskyy-talks-with-us-envoys-ahead-of-trilateral-summit-on-ukraine-war-in-abu-dhabi/4112267",
+     "status": "reviewed",
+     "note": "Pre-window Patriot/call material; reviewed"
+    },
+    {
+     "name": "NBC AP",
+     "href": "https://www.nbcnews.com/world/ukraine/russia-ukraine-exchange-airstrikes-us-envoy-describes-renewed-security-rcna607778",
+     "status": "reviewed",
+     "note": "AP syndication of earlier overnight; reviewed"
+    },
+    {
+     "name": "Euromaidan Press",
+     "href": "https://euromaidanpress.com/2026/11/05/five-refineries-in-a-week-drones-set-russias-ryazan-fuel-plant-on-fire/",
+     "status": "reviewed",
+     "note": "Telegram-heavy; ISW preferred"
+    },
+    {
+     "name": "UNN",
+     "href": "https://unn.ua/en/news/from-25-queues-to-4-how-electricity-will-be-switched-off-in-ukraine-on-friday",
+     "status": "reviewed",
+     "note": "Schedule notice for 6 Nov; reviewed"
+    },
+    {
+     "name": "AP News Trump direct",
+     "href": "https://apnews.com/",
+     "status": "reviewed",
+     "note": "not reached (HTTP timeout); used Al Jazeera / Yahoo syndication"
+    },
+    {
+     "name": "NYT",
+     "href": "https://www.nytimes.com/",
+     "status": "reviewed",
+     "note": "not reached (HTTP 403)"
+    },
+    {
+     "name": "WSJ",
+     "href": "https://www.wsj.com/",
+     "status": "reviewed",
+     "note": "not reached (HTTP 403)"
+    },
+    {
+     "name": "Reuters.com direct",
+     "href": "https://www.reuters.com/",
+     "status": "reviewed",
+     "note": "not reached (blocked); used Yahoo syndication"
     }
    ]
   },
@@ -868,97 +1119,115 @@
      "name": "[1] The Guardian",
      "href": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
      "status": "used",
-     "note": "Bomb threats, 5 Nov 13:44 CET, updated 16:39; read 5 Nov 17:10 run"
+     "note": "First published 5 Nov 13:44 CET; visible update 19:17 CET conflicts with modified metadata 6 Nov 02:00 CET. Published tallies also conflict."
     },
     {
-     "name": "[2] BBC News live",
-     "href": "https://www.bbc.com/news/live/cwjdmnrg94ezt",
+     "name": "[2] DW",
+     "href": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216",
      "status": "used",
-     "note": "UK minister: malicious hoax threats, 5 Nov; search text read 5 Nov 17:10 run"
+     "note": "Diversions / Tzitzikostas; read 6 Nov 05:10 run"
     },
     {
-     "name": "[3] Euronews Srbija",
-     "href": "https://www.euronews.rs/srbija/aktuelno/250774/er-srbija-dojava-o-bombi-na-letu-beograd-bukurest/vest",
+     "name": "[3] BBC News",
+     "href": "https://www.bbc.com/news/articles/cx8dzzjg3g9zo",
      "status": "used",
-     "note": "Air Serbia JU102 threat, 5 Nov 15:26; search text read 5 Nov 17:10 run"
+     "note": "Gardner analysis; non-attribution; read 6 Nov 05:10 run"
     },
     {
      "name": "[4] National Prosecutor's Office of Poland (Espionage charges for Russia and illegal trade in weapons components)",
      "href": "https://www.gov.pl/web/prokuratura-krajowa/zarzuty-szpiegostwa-na-rzecz-rosji-i-nielegalnego-obrotu-elementami-uzbrojenia",
      "status": "used",
-     "note": "5 Nov; official release; read via curl this run"
+     "note": "5 Nov; official release; read via curl this run · re-checked 6 Nov 05:10 run"
     },
     {
      "name": "[5] Euronews with AFP (Poland arrests six suspected of spying for Russia and supplying its military)",
      "href": "https://www.euronews.com/2026/11/05/poland-arrests-six-suspected-of-spying-for-russia-and-supplying-its-military",
      "status": "used",
-     "note": "5 Nov 12:15 CET, updated 15:14 CET; read via WebFetch this run"
+     "note": "5 Nov 12:15 CET, updated 15:14 CET; read via WebFetch this run · re-checked 6 Nov 05:10 run"
     },
     {
      "name": "[6] tagesschau (ARD)",
      "href": "https://www.tagesschau.de/ausland/europa/kapitaen-sabotage-urteil-100.html",
      "status": "used",
-     "note": "Fitburg verdict, 5 Nov 12:21/13:09; read 5 Nov 17:10 run"
+     "note": "Fitburg verdict, 5 Nov 12:21/13:09; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[7] Moldpres (Cyberattack on Moldova launched from abroad; MP says IP addresses from six countries identified)",
-     "href": "https://www.moldpres.md/eng/society/video-cyberattack-on-moldova-launched-from-abroad-mp-says-ip-addresses-from-six-countries-identified",
-     "status": "used",
-     "note": "4 Nov; read via WebFetch this run; re-checked 5 Nov 17:10 run"
-    },
-    {
-     "name": "[8] IPN (Lilian Carp: Cyberattack on government systems was flagged by citizens, not the authorities responsible)",
-     "href": "https://ipn.md/en/lilian-carp-cyberattack-on-government-systems-was-flagged-by-citizens-not-the-authorities-responsible/",
-     "status": "used",
-     "note": "4 Nov 14:47 CET; read via WebFetch this run; re-checked 5 Nov 17:10 run"
-    },
-    {
-     "name": "[9] Moldpres (President Maia Sandu convenes National Security Council on cybersecurity)",
-     "href": "https://www.moldpres.md/rom/politica/presedinta-maia-sandu-convoaca-cns-examinarea-masurilor-necesare-pentru-consolidarea-securitatii-cibernetice-a-statului-pe-agenda",
-     "status": "used",
-     "note": "5 Nov; read via curl this run"
-    },
-    {
-     "name": "[10] Newsweek (Russian drones sank civilian ship on NATO's Black Sea doorstep, official says)",
-     "href": "https://www.newsweek.com/russian-drones-sank-civilian-ship-on-natos-black-sea-doorstep-official-says-12650806",
-     "status": "used",
-     "note": "4 Nov 17:57 CET; read via fc_fetch by Ernie, confirmed via curl this run; re-checked 5 Nov 17:10 run"
-    },
-    {
-     "name": "[11] Novinite (Nine ships attacked off Bulgaria and Romania in a month as Black Sea security deteriorates)",
-     "href": "https://www.novinite.com/articles/241419/Nine+Ships+Attacked+Off+Bulgaria+and+Romania+In+a+Month+as+Black+Sea+Security+Deteriorates",
-     "status": "used",
-     "note": "4 Nov 12:02 CET; read via curl this run; re-checked 5 Nov 17:10 run"
-    },
-    {
-     "name": "Yle News",
-     "href": "https://yle.fi/a/74-20255306",
-     "status": "reviewed",
-     "note": "not reached (HTTP 403); search snippet confirms Fitburg verdict"
-    },
-    {
-     "name": "Finnish courts (tuomioistuimet.fi)",
+     "name": "[7] Helsinki District Court (Judgment in the Fitburg case)",
      "href": "https://www.tuomioistuimet.fi/ajankohtaista/tiedotteet/karajaoikeus-on-antanut-tuomion-ns-fitburg-asiassa/",
-     "status": "reviewed",
-     "note": "Court release on Fitburg verdict; search text only"
+     "status": "used",
+     "note": "5 Nov; datePublished 09:31 CET; Ernie (V), confirmed this run"
     },
     {
-     "name": "RTÉ News",
+     "name": "[8] BBC News live",
+     "href": "https://www.bbc.com/news/live/cwjdmnrg94ezt",
+     "status": "used",
+     "note": "UK minister: malicious hoax threats, 5 Nov; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[9] Euronews Srbija",
+     "href": "https://www.euronews.rs/srbija/aktuelno/250774/er-srbija-dojava-o-bombi-na-letu-beograd-bukurest/vest",
+     "status": "used",
+     "note": "Air Serbia JU102 threat, 5 Nov 15:26; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[10] Washington Post",
+     "href": "https://www.washingtonpost.com/world/2026/11/05/bomb-threats-target-multiple-flights-across-europe/",
+     "status": "used",
+     "note": "Bomb scares lede; body thin behind paywall; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "[11] DW",
+     "href": "https://www.dw.com/en/finland-court-jails-captain-and-crew-member-over-baltic-cable-sabotage/a-79862519",
+     "status": "used",
+     "note": "Fitburg re-check via DW; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "CNN Espanol",
+     "href": "https://cnnespanol.cnn.com/2026/11/05/mundo/amenazas-de-bomba-vuelos-europa-quien-trax",
+     "status": "reviewed",
+     "note": "Spanish CNN bomb piece; major-outlet family; reviewed"
+    },
+    {
+     "name": "RTE",
      "href": "https://www.rte.ie/news/europe/2026/1105/1598073-europe-flight-threats/",
      "status": "reviewed",
-     "note": "Aer Lingus among 14 flights; snippet, not cited"
+     "note": "Aer Lingus / count variant; reviewed"
     },
     {
-     "name": "LBC",
-     "href": "https://www.lbc.co.uk/article/male-state-bomb-hoax-5Hjdkzh_2/",
+     "name": "Notes from Poland",
+     "href": "https://notesfrompoland.com/2026/11/05/six-detained-in-poland-on-suspicion-of-exporting-military-components-to-russia/",
      "status": "reviewed",
-     "note": "Group claim for bomb threats; single outlet, not verified, not used"
+     "note": "Aligns with prosecutor; reviewed"
     },
     {
-     "name": "Guardian live blog",
-     "href": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+     "name": "Moldpres",
+     "href": "https://www.moldpres.md/eng/official/sedinta-consiliului-national-de-securitate-a-fost-convocata-pentru-vineri-6-noiembrie-ora-1000",
      "status": "reviewed",
-     "note": "Live updates; snippet only"
+     "note": "NSC 6 Nov 10:00; no outcome yet"
+    },
+    {
+     "name": "IPN",
+     "href": "https://ipn.md/en/the-national-security-council-will-meet-on-friday-to-discuss-cybersecurity/",
+     "status": "reviewed",
+     "note": "Same NSC; reviewed"
+    },
+    {
+     "name": "Yle Fitburg",
+     "href": "https://yle.fi/a/74-20255306",
+     "status": "reviewed",
+     "note": "not reached (HTTP 403); used DW instead"
+    },
+    {
+     "name": "BBC News live evening",
+     "href": "https://www.bbc.com/news/live/cwjdmnrg94ezt",
+     "status": "reviewed",
+     "note": "UK minister line superseded by Gardner analysis; reviewed"
+    },
+    {
+     "name": "Euronews Srbija",
+     "href": "https://www.euronews.rs/srbija/aktuelno/250774/er-srbija-dojava-o-bombi-na-letu-beograd-bukurest/vest",
+     "status": "reviewed",
+     "note": "Air Serbia JU102; evening cite; reviewed this run"
     }
    ]
   },
@@ -966,208 +1235,286 @@
    "theater": "Europe",
    "sources": [
     {
-     "name": "[1] actu.fr Paris (live)",
-     "href": "https://actu.fr/ile-de-france/paris_75056/direct-greve-du-5-novembre-a-paris-suivez-en-direct-la-journee-de-mobilisation-avec-nous_65014417.html",
+     "name": "[1] NV (CTK)",
+     "href": "https://english.nv.ua/nation/czech-president-rejects-eu-envoy-role-on-ukraine-war-50656777.html",
      "status": "used",
-     "note": "Paris march live, 15:50-16:10; search text read 5 Nov 17:10 run"
+     "note": "Pavel says he has no ambition to become Europe's Ukraine envoy; NV cites CTK."
     },
     {
-     "name": "[2] Le Parisien (live: 5 November strike)",
-     "href": "https://www.leparisien.fr/societe/direct-greve-du-5-novembre-pour-les-salaires-de-nombreuses-manifestations-attendues-en-france-70-000-policiers-et-gendarmes-mobilises-05-11-2026-HT7LTR6LK5FK3FOOKVDXQVBICM.php",
+     "name": "[2] ANSA English",
+     "href": "https://www.ansa.it/english/news/world/2026/11/05/eu-must-decide-its-russia-negotiator-by-december-meloni-says-in-letter-to-costa_9a59a1b6-fa5f-4c37-8ad6-ad0f4db42704.html",
      "status": "used",
-     "note": "5 Nov 16:12 CET entry; read by Ernie (V) via fc_fetch"
+     "note": "Meloni letter, 5 Nov 13:38; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[3] Krisinformation.se (Swedish government)",
-     "href": "https://www.krisinformation.se/en/latest/news/sweden-extends-internal-border-controls/",
+     "name": "[3] Bank of England",
+     "href": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
      "status": "used",
-     "note": "Border controls extended, 5 Nov 14:49; read 5 Nov 17:10 run"
+     "note": "MPC summary Nov 2026; 8-1 to 4%; read 6 Nov 05:10 run"
     },
     {
      "name": "[4] BBC News",
-     "href": "https://www.bbc.com/news/articles/ckx2qzv835pgo",
+     "href": "https://www.bbc.com/news/articles/ck5ynw45jrgqo",
      "status": "used",
-     "note": "France strike day, 5 Nov; read 5 Nov 17:10 run"
+     "note": "BoE rate hike; read 6 Nov 05:10 run"
     },
     {
-     "name": "[5] AP News",
-     "href": "https://apnews.com/article/france-protests-unions-students-paris-rioting-94e10fc8a1edbf7951e2c067418a7d33",
+     "name": "[5] RTBF",
+     "href": "https://www.rtbf.be/article/bart-de-wever-de-retour-chez-le-roi-ce-vendredi-quels-sont-les-scenarios-du-plus-au-moins-probable-11811063",
      "status": "used",
-     "note": "Nationwide strikes, 5 Nov; search text read 5 Nov 17:10 run"
+     "note": "King Friday scenarios; read 6 Nov 05:10 run"
     },
     {
-     "name": "[6] ANSA English",
-     "href": "https://www.ansa.it/english/news/world/2026/11/05/eu-must-decide-its-russia-negotiator-by-december-meloni-says-in-letter-to-costa_9a59a1b6-fa5f-4c37-8ad6-ad0f4db42704.html",
+     "name": "[6] Brussels Times",
+     "href": "https://www.brusselstimes.com/belgium/2393479/bitter-failure-pm-de-wever-confirms-belgian-emergency-budget-for-2027/",
      "status": "used",
-     "note": "Meloni letter, 5 Nov 13:38; read 5 Nov 17:10 run"
+     "note": "Horrible failure; king due Friday; read 6 Nov 05:10 run"
     },
     {
-     "name": "[7] European Commission (DG ENEST)",
-     "href": "https://enlargement.ec.europa.eu/news/commission-disburses-eur436-billion-ukraine-under-eur90-billion-ukraine-support-loan-2026-11-05_en",
+     "name": "[7] Belgian Monarchy (Audience du Premier ministre)",
+     "href": "https://www.monarchie.be/fr/agenda/audience-du-premier-ministre-57",
      "status": "used",
-     "note": "Ukraine Support Loan disbursement, 5 Nov; read 5 Nov 17:10 run"
+     "note": "2 Nov; palace pending decision and 6 Nov appointment; Karen"
     },
     {
      "name": "[8] RTBF",
      "href": "https://www.rtbf.be/article/nous-devrons-pour-la-deuxieme-annee-passer-a-des-douziemes-provisoires-annonce-bart-de-wever-a-la-chambre-11811250",
      "status": "used",
-     "note": "De Wever in the Chamber, 5 Nov afternoon; read 5 Nov 17:10 run"
+     "note": "De Wever in the Chamber, 5 Nov afternoon; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
      "name": "[9] Brussels Times",
-     "href": "https://www.brusselstimes.com/belgium/2391073/elections-new-coalition-or-budget-deal-three-scenarios-as-king-weighs-up-de-wevers-resignation/",
+     "href": "https://www.brusselstimes.com/belgium/2393114/belgium-in-brief-all-eyes-on-the-king-tbtb",
      "status": "used",
-     "note": "King to decide Friday, 5 Nov; read 5 Nov 17:10 run"
+     "note": "All eyes on king; deficit context; read 6 Nov 05:10 run"
     },
     {
-     "name": "[10] NOS (Netherlands)",
+     "name": "[10] France 24 EN",
+     "href": "https://www.france24.com/en/france/20261105-france-workers-strike-march-for-dignified-wage",
+     "status": "used",
+     "note": "Ministry: 575,000 nationwide; 448 arrests and 53 injured officers provisional at 18:00 CET. English Paris figure 60,000 conflicts with French 65,000."
+    },
+    {
+     "name": "[11] Al Jazeera",
+     "href": "https://www.aljazeera.com/news/2026/11/5/workers-strike-across-france-hundreds-of-thousands-expected-to-protest",
+     "status": "used",
+     "note": "Attributed ministry turnout and provisional arrest/injury figures; Lecornu meeting. Repetition is not independent count verification."
+    },
+    {
+     "name": "[12] CNA",
+     "href": "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011",
+     "status": "used",
+     "note": "AFP/ministry figures; arrests and injuries as of 18:00 CET, not final. Published 5 Nov 22:10 CET, updated 6 Nov 00:04 CET."
+    },
+    {
+     "name": "[13] France 24 FR",
+     "href": "https://www.france24.com/fr/france/20261105-après-une-journée-de-forte-mobilisation-en-france-lecornu-convoque-les-syndicats-et-le-patronat",
+     "status": "used",
+     "note": "Lecornu Monday; AFP photographer Lyon; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "[14] Le Parisien (live: 5 November strike)",
+     "href": "https://www.leparisien.fr/societe/direct-greve-du-5-novembre-pour-les-salaires-de-nombreuses-manifestations-attendues-en-france-70-000-policiers-et-gendarmes-mobilises-05-11-2026-HT7LTR6LK5FK3FOOKVDXQVBICM.php",
+     "status": "used",
+     "note": "5 Nov 16:12 CET entry; read by Ernie (V) via fc_fetch · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[15] BBC News",
+     "href": "https://www.bbc.com/news/articles/ckx2qzv835pgo",
+     "status": "used",
+     "note": "France strike day, 5 Nov; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[16] POLITICO Europe (Meloni urges disorganized EU to speak with one voice on Ukraine)",
+     "href": "https://www.politico.eu/article/giorgia-meloni-urges-eu-unity-ukraine/",
+     "status": "used",
+     "note": "5 Nov 15:20 CET, updated 22:23 CET; Costa reply; read via WebFetch this run"
+    },
+    {
+     "name": "[17] NOS (Netherlands)",
      "href": "https://nos.nl/artikel/2638075-meerderheid-vinden-voor-belastingplan-blijft-complexe-puzzel-voor-minderheidskabinet",
      "status": "used",
-     "note": "tax plan debate, 4 Nov 23:02 CET; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "tax plan debate, 4 Nov 23:02 CET; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[11] NOS",
+     "name": "[18] NOS",
      "href": "https://nos.nl/artikel/2638026-regeringspartijen-d66-vvd-en-cda-laten-elkaar-los-spanning-over-open-huwelijk",
      "status": "used",
-     "note": "Coalition parties free to vote separately, 5 Nov; search text read 5 Nov 17:10 run"
+     "note": "Coalition parties free to vote separately, 4 Nov 15:21 CET; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[12] BBC News (Spanish transport minister resigns days after deadly train crash)",
-     "href": "https://www.bbc.com/news/articles/c6wydqd4yxdyo",
+     "name": "[19] NOS (Fractieleiders D66, VVD en CDA praten een-op-een met oppositie over belastingplan)",
+     "href": "https://nos.nl/artikel/2638202-fractieleiders-d66-vvd-en-cda-praten-een-op-een-met-oppositie-over-belastingplan",
      "status": "used",
-     "note": "3 Nov 21:28 CET; read via curl this run; Spain check; re-checked by curl 4 Nov 17:10 run; re-checked by curl 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "5 Nov 20:16 CET; read via WebFetch this run"
     },
     {
-     "name": "[13] POLITICO Europe (Spanish economy minister takes over transport ministry after deadly crash)",
-     "href": "https://www.politico.eu/article/spanish-economy-minister-takes-over-transport-ministry-after-deadly-crash/",
+     "name": "[20] actu.fr Paris (live)",
+     "href": "https://actu.fr/ile-de-france/paris_75056/direct-greve-du-5-novembre-a-paris-suivez-en-direct-la-journee-de-mobilisation-avec-nous_65014417.html",
      "status": "used",
-     "note": "4 Nov 11:11 CET; read via curl 4 Nov 17:10 run; Spain check; re-checked by curl 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "Paris march live, 15:50-16:10; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[14] El País English (Spain's transportation minister steps down over train crash)",
-     "href": "https://english.elpais.com/spain/2026-11-04/spains-transportation-minister-steps-down-over-train-crash-to-try-to-save-the-socialist-campaign-ahead-of-elections.html",
+     "name": "[21] Krisinformation.se (Swedish government)",
+     "href": "https://www.krisinformation.se/en/latest/news/sweden-extends-internal-border-controls/",
      "status": "used",
-     "note": "4 Nov 12:51 CET; read via curl 4 Nov 17:10 run; Spain check; re-checked by curl 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "Border controls extended, 5 Nov 14:49; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[15] RTVE",
-     "href": "https://www.rtve.es/noticias/20261104/accidente-tren-actualidad-politica-directo-ultima-hora/17298676.shtml",
+     "name": "[22] European Commission (DG ENEST)",
+     "href": "https://enlargement.ec.europa.eu/news/commission-disburses-eur436-billion-ukraine-under-eur90-billion-ukraine-support-loan-2026-11-05_en",
      "status": "used",
-     "note": "Adif president resigns, live page updated 4 Nov 22:15 CET; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "Ukraine Support Loan disbursement, 5 Nov; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[16] BFMTV live (Colère sociale: 1.000 plaintes déposées pour des violences sur des personnels scolaires)",
-     "href": "https://www.bfmtv.com/politique/direct-la-colere-des-lyceens-et-etudiants-ne-redescend-pas-a-la-veille-de-la-journee-de-mobilisation-massive-du-5-novembre_LN-202611040176.html",
+     "name": "[23] AP News",
+     "href": "https://apnews.com/article/france-protests-unions-students-paris-rioting-94e10fc8a1edbf7951e2c067418a7d33",
      "status": "used",
-     "note": "4 Nov, live; read via curl 4 Nov 17:10 run; quotes Geffray in the National Assembly, Paris police order, Bregeon; re-checked by curl 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "Nationwide strikes, 5 Nov; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[17] franceinfo with AFP (Unions take the Paris route for the 5 November march to court)",
-     "href": "https://www.franceinfo.fr/economie/greve/l-intersyndicale-saisit-la-justice-sur-le-parcours-parisien-de-la-manifestation-du-5-novembre_8266493.html",
+     "name": "[24] Brussels Times",
+     "href": "https://www.brusselstimes.com/belgium/2391073/elections-new-coalition-or-budget-deal-three-scenarios-as-king-weighs-up-de-wevers-resignation/",
      "status": "used",
-     "note": "3 Nov; read via curl by Karen this run; re-checked by curl 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "King to decide Friday, 5 Nov; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[18] 20 Minutes live (Social anger: youth groups call for mass blockades)",
-     "href": "https://www.20minutes.fr/societe/4259892-20261103-direct-colere-sociale-organisations-jeunesse-appellent-blocages-massifs-facs-lycees",
-     "status": "used",
-     "note": "3 Nov; read via search extract; re-checked by curl 4 Nov 17:10 run; re-checked by curl 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
-    },
-    {
-     "name": "[19] franceinfo live (Mobilisation du 5 novembre)",
-     "href": "https://www.franceinfo.fr/societe/manifestations/le-ministere-de-l-education-nationale-estime-a-17-54-le-taux-de-grevistes-dans-le-premier-degre-public-pour-la-mobilisation-du-5-novembre_8267255.html",
-     "status": "used",
-     "note": "4 Nov, live; read via curl 4 Nov 17:10 run; re-checked by curl 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
-    },
-    {
-     "name": "[20] France 24",
-     "href": "https://www.france24.com/fr/france/20261104-%C3%A9ducation-transports-sant%C3%A9-%C3%A0-quoi-s-attendre-journ%C3%A9e-mobilisation-jeudi",
-     "status": "used",
-     "note": "strike-day outlook, SNCF and RATP forecasts; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
-    },
-    {
-     "name": "[21] BBC News",
-     "href": "https://www.bbc.com/news/articles/cqn734d24l0go",
-     "status": "used",
-     "note": "Energy Independence Bill, published 17:28 CET 4 Nov; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
-    },
-    {
-     "name": "Le Figaro",
-     "href": "https://www.lefigaro.fr/actualite-france/greve-du-5-novembre-la-justice-valide-le-parcours-republique-nation-propose-par-la-prefecture-de-police-de-paris-20261105",
+     "name": "BBC Europe",
+     "href": "https://www.bbc.com/news/world/europe",
      "status": "reviewed",
-     "note": "Court upheld République-Nation route; confirms carried item, search text"
+     "note": "UK breadth front; France + bomb threats"
     },
     {
-     "name": "RTVE (Spain)",
-     "href": "https://www.rtve.es/noticias/20261105/cumbre-iberoamericana-reyes-sanchez-directo-video-cronica/17300193.shtml",
+     "name": "Guardian Europe",
+     "href": "https://www.theguardian.com/world/europe-news",
      "status": "reviewed",
-     "note": "Spain breadth: Ibero-American summit live; Zelensky visit used on Russia & Ukraine tab"
+     "note": "UK breadth; France strike; bomb threats"
     },
     {
-     "name": "RTVE Pedro Sánchez topic page",
-     "href": "https://www.rtve.es/temas/pedro-sanchez/78071/",
+     "name": "RTVE",
+     "href": "https://www.rtve.es/noticias/",
      "status": "reviewed",
-     "note": "Spain: Cuerpo to run Transport after Puente; snippet only, not used"
+     "note": "Spain breadth; France 575k headline; Spain domestic thin"
     },
     {
-     "name": "ANSA (Italian)",
-     "href": "https://www.ansa.it/sito/notizie/politica/2026/11/05/meloni-a-costa-improcrastinabile-che-leuropa-parli-a-una-voce-sullucraina_b6ecfe9d-3f09-46af-a39f-d96285972b4c.html",
+     "name": "El Pais EN",
+     "href": "https://english.elpais.com/",
      "status": "reviewed",
-     "note": "Italy breadth: Italian version of Meloni letter"
+     "note": "Spain breadth via fc_fetch; no Spain-led Europe item cleared"
     },
     {
-     "name": "ANSA English (midterms)",
-     "href": "https://www.ansa.it/english/news/politics/2026/11/05/dont-comment-on-other-nations-internal-dynamics-meloni-on-us-midterms_c626fe63-303a-45a9-8b89-ca03ee7e0a1c.html",
+     "name": "ANSA IT",
+     "href": "https://www.ansa.it/",
      "status": "reviewed",
-     "note": "Meloni on US midterms; not significant"
+     "note": "Italy breadth front; Meloni present"
     },
     {
-     "name": "NOS Nieuwsuur",
-     "href": "https://nos.nl/nieuwsuur/artikel/2638125-5-11-in-nieuwsuur-de-toekomst-van-klm-coalitie-onder-hoogspanning-rechtszaak-moordpoging-op-iraanse-publicist",
+     "name": "NOS nieuws",
+     "href": "https://nos.nl/nieuws",
      "status": "reviewed",
-     "note": "Netherlands breadth: KLM, coalition strain; nothing further qualified"
+     "note": "Netherlands breadth; no overnight tax breakthrough"
+    },
+    {
+     "name": "NRC",
+     "href": "https://www.nrc.nl/",
+     "status": "reviewed",
+     "note": "Netherlands breadth front"
+    },
+    {
+     "name": "RTBF info",
+     "href": "https://www.rtbf.be/info",
+     "status": "reviewed",
+     "note": "Belgium breadth; De Wever Friday top"
     },
     {
      "name": "VRT NWS",
-     "href": "https://www.vrt.be/vrtnws/en/2026/11/05/just-how-serious-is-the-financial-crisis-belgium-is-facing/",
+     "href": "https://www.vrt.be/vrtnws/nl/",
      "status": "reviewed",
-     "note": "Belgium breadth: explainer on fiscal crisis"
+     "note": "Belgium breadth front"
     },
     {
-     "name": "L'Avenir",
-     "href": "https://www.lavenir.net/actu/2026/11/05/bart-de-wever-reconnait-un-echec-cuisant-pour-le-gouvernement-et-confirme-les-douziemes-provisoires-mais-ne-balise-pas-la-suite-T654ESMKOVDLBPROOM2UMV76HA/",
+     "name": "Commission press corner",
+     "href": "https://ec.europa.eu/commission/presscorner/home/en",
      "status": "reviewed",
-     "note": "Belgium: De Wever \"bitter failure\"; snippet"
+     "note": "EU institutions; JS shell; loan via ENEST used"
     },
     {
-     "name": "European Commission press corner (education package)",
-     "href": "https://commission.europa.eu/news-and-media/news/shaping-europes-future-through-education-and-training-2026-11-05_en",
+     "name": "Consilium press",
+     "href": "https://www.consilium.europa.eu/en/press/press-releases/",
      "status": "reviewed",
-     "note": "EU institutions: Education and Skills package; not significant enough"
+     "note": "EU institutions; Budva JHA 5 Nov; precursors 4 Nov"
     },
     {
-     "name": "European Commission (ERC president nominations)",
-     "href": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-invites-nominations-next-president-european-research-council-2026-11-05_en",
+     "name": "EEAS press",
+     "href": "https://www.eeas.europa.eu/eeas/press-material_en",
      "status": "reviewed",
-     "note": "EU institutions; not significant"
+     "note": "EU institutions; loan + Moldova dialogue listed"
     },
     {
-     "name": "European Commission (VET strategy)",
-     "href": "https://employment-social-affairs.ec.europa.eu/news/commission-launches-strategy-strengthen-vocational-skills-across-europe-2026-11-05_en",
+     "name": "CNEWS",
+     "href": "https://www.cnews.fr/france/2026-11-05/manifestations-du-5-novembre-575000-manifestants-dans-toute-la-france-448",
      "status": "reviewed",
-     "note": "EU institutions; not significant"
+     "note": "Beauvau 575k / 448 / 53 title; reviewed"
     },
     {
-     "name": "BBC News (UK)",
-     "href": "https://www.bbc.com/news/live/cwjdmnrg94ezt",
+     "name": "Europe1",
+     "href": "https://www.europe1.fr/societe/greve-du-5-novembre-incendie-coup-de-couteau-jets-de-boules-de-petanque-le-bilan-des-violences-de-la-journee-1211165",
      "status": "reviewed",
-     "note": "UK breadth: UK minister on flight hoaxes (used on Hybrid Warfare tab)"
+     "note": "Violence bilan; fc_fetch; reviewed"
     },
     {
-     "name": "Regeringen.se",
-     "href": "https://www.regeringen.se/pressmeddelanden/2026/11/aterinford-granskontroll-vid-inre-grans/",
+     "name": "Le Figaro",
+     "href": "https://www.lefigaro.fr/actualite-france",
      "status": "reviewed",
-     "note": "Swedish government release; search text"
+     "note": "575k / 448 live headline; reviewed"
+    },
+    {
+     "name": "Le Parisien live curl",
+     "href": "https://www.leparisien.fr/",
+     "status": "reviewed",
+     "note": "not reached (HTTP 403); injury line already in brief from prior read"
+    },
+    {
+     "name": "AP News France/BoE",
+     "href": "https://apnews.com/",
+     "status": "reviewed",
+     "note": "not reached (HTTP 403)"
+    },
+    {
+     "name": "Le Monde",
+     "href": "https://www.lemonde.fr/",
+     "status": "reviewed",
+     "note": "not reached (HTTP 402)"
+    },
+    {
+     "name": "Le Soir",
+     "href": "https://www.lesoir.be/",
+     "status": "reviewed",
+     "note": "not reached (HTTP 403)"
+    },
+    {
+     "name": "El Pais ES",
+     "href": "https://elpais.com/noticias/espana/",
+     "status": "reviewed",
+     "note": "not reached (HTTP 403); EN via fc_fetch instead"
+    },
+    {
+     "name": "European Parliament news",
+     "href": "https://www.europarl.europa.eu/news/en",
+     "status": "reviewed",
+     "note": "not reached (HTTP 403)"
+    },
+    {
+     "name": "Reuters Europe",
+     "href": "https://www.reuters.com/world/europe/",
+     "status": "reviewed",
+     "note": "not reached (HTTP 401)"
+    },
+    {
+     "name": "Radio Prague Pavel",
+     "href": "https://english.radio.cz/",
+     "status": "reviewed",
+     "note": "not reached (HTTP 404 on candidate URL)"
     }
    ]
   },
@@ -1175,88 +1522,148 @@
    "theater": "Baltics",
    "sources": [
     {
-     "name": "[1] LRT English (BNS)",
-     "href": "https://www.lrt.lt/en/news-in-english/19/3105291/lithuania-moves-to-expand-access-to-fertility-treatment-beyond-married-couples",
+     "name": "[1] POLITICO",
+     "href": "https://www.politico.eu/article/estonia-prime-minister-kristen-michal-europe-vladimir-putin-russia/",
      "status": "used",
-     "note": "Fertility bill, 5 Nov 14:22; read 5 Nov 17:10 run"
+     "note": "Michal anti-mediator, 6 Nov ~04:00 CET; fc_fetch; read 6 Nov 05:10 run"
     },
     {
-     "name": "[2] BB.LV",
-     "href": "https://en.bb.lv/article/politics/2026/11/05/who-will-enter-the-new-government-of-latvia-kulbergs-has-taken-a-pause-three-scenarios-are-on-the-table-115054",
+     "name": "[2] United24 Media",
+     "href": "https://united24media.com/world/lithuania-and-latvia-hold-first-joint-evacuation-drill-as-russian-threats-loom-24121",
      "status": "used",
-     "note": "Kulbergs pause, 5 Nov 13:31; read 5 Nov 17:10 run"
+     "note": "LT-LV evacuation drill, published 5 Nov 17:44 CET; visible 18:44 is UTC+2."
     },
     {
-     "name": "[3] BNN",
-     "href": "https://bnn-news.com/politics/kulbergs-remains-silent-on-further-talks-to-form-latvia-s-new-government-m3e3qy7",
+     "name": "[3] LRT English (BNS)",
+     "href": "https://www.lrt.lt/en/news-in-english/19/3105409/ukraine-s-eu-accession-by-2030-unrealistic-says-hungarian-fm-in-vilnius",
      "status": "used",
-     "note": "Kulbergs silent on talks, 5 Nov; search text read 5 Nov 17:10 run"
+     "note": "Orban/Budrys Ukraine EU 2030, published 5 Nov 16:08 CET; visible 17:08 is Lithuanian local time."
     },
     {
-     "name": "[4] Estonian Foreign Ministry",
-     "href": "https://vm.ee/en/news/foreign-minister-tsahkna-attends-council-baltic-sea-states-meeting-warsaw",
+     "name": "[4] LRT English",
+     "href": "https://www.lrt.lt/en/news-in-english/19/3105224/lithuania-weighs-energy-windfall-tax-as-orlen-threatens-to-close-down-refinery",
      "status": "used",
-     "note": "CBSS Warsaw, release 5 Nov 11:30; read 5 Nov 17:10 run"
+     "note": "Orlen windfall / Mažeikiai, published 5 Nov 11:32 CET; visible 12:32 is Lithuanian local time."
     },
     {
-     "name": "[5] LRT English (BNS)",
-     "href": "https://www.lrt.lt/en/news-in-english/19/3105072/lithuania-ready-to-host-additional-us-troops-defence-minister-says",
-     "status": "used",
-     "note": "Kaunas-Whitaker, 5 Nov 09:19; read 5 Nov 17:10 run"
-    },
-    {
-     "name": "[6] LRT English with BNS (Lithuanian FM denies US pressure to allow Belarusian fertiliser transit through Klaipėda)",
+     "name": "[5] LRT English with BNS (Lithuanian FM denies US pressure to allow Belarusian fertiliser transit through Klaipėda)",
      "href": "https://www.lrt.lt/en/news-in-english/19/3105062/lithuanian-fm-denies-us-pressure-to-allow-belarusian-fertiliser-transit-through-klaipeda",
      "status": "used",
-     "note": "5 Nov 09:11 CET; read via WebFetch this run"
+     "note": "5 Nov 08:11 CET; read via WebFetch this run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[7] Delfi with ELTA (Minister denies reports of possible US pressure to resume Belarusian fertilizer transit)",
+     "name": "[6] Delfi with ELTA (Minister denies reports of possible US pressure to resume Belarusian fertilizer transit)",
      "href": "https://www.delfi.lt/naujienos/politika/ministras-neigia-informacija-apie-galima-jav-spaudima-atnaujinti-baltarusijos-trasu-tranzita-120329360",
      "status": "used",
-     "note": "5 Nov; headline and standfirst read via curl this run"
+     "note": "5 Nov; headline and standfirst read via curl this run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[8] ERR News",
+     "name": "[7] Kyiv Independent (Exclusive: Trump envoy push to reopen Lithuanian ports to Belarus exposes rift)",
+     "href": "https://kyivindependent.com/exclusive-trump-envoys-push-to-reopen-lithuanian-ports-to-belarus-exposes-rift-in-washington/",
+     "status": "used",
+     "note": "5 Nov 20:08 CET, updated 20:49 CET; read via WebFetch this run"
+    },
+    {
+     "name": "[8] LRT English (BNS)",
+     "href": "https://www.lrt.lt/en/news-in-english/19/3105072/lithuania-ready-to-host-additional-us-troops-defence-minister-says",
+     "status": "used",
+     "note": "Kaunas-Whitaker, 5 Nov 08:19 CET; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[9] LRT with BNS (Minister: Lithuania prepared a package of proposals for permanent U.S. troop deployment)",
+     "href": "https://www.lrt.lt/naujienos/lietuvoje/2/3105043/ministras-lietuva-parenge-pasiulymu-del-nuolatinio-jav-kariu-dislokavimo-paketa",
+     "status": "used",
+     "note": "5 Nov 07:16 CET; Ernie (V); headline confirmed this run"
+    },
+    {
+     "name": "[10] BB.LV",
+     "href": "https://en.bb.lv/article/politics/2026/11/05/who-will-enter-the-new-government-of-latvia-kulbergs-has-taken-a-pause-three-scenarios-are-on-the-table-115054",
+     "status": "used",
+     "note": "Kulbergs pause, 5 Nov 12:31 CET; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[11] BNN",
+     "href": "https://bnn-news.com/politics/kulbergs-remains-silent-on-further-talks-to-form-latvia-s-new-government-m3e3qy7",
+     "status": "used",
+     "note": "Kulbergs silent on talks, 5 Nov; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[12] LRT English (BNS)",
+     "href": "https://www.lrt.lt/en/news-in-english/19/3105291/lithuania-moves-to-expand-access-to-fertility-treatment-beyond-married-couples",
+     "status": "used",
+     "note": "Fertility bill, 5 Nov 13:22 CET; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[13] Estonian Foreign Ministry",
+     "href": "https://vm.ee/en/news/foreign-minister-tsahkna-attends-council-baltic-sea-states-meeting-warsaw",
+     "status": "used",
+     "note": "CBSS Warsaw release stamped 5 Nov 11:30, zone unspecified; text says 6 November. Meeting date remains unresolved."
+    },
+    {
+     "name": "[14] ERR News",
      "href": "https://news.err.ee/1610186797/trade-unions-see-estonia-s-new-immigration-quota-as-threat-to-wages",
      "status": "used",
-     "note": "Immigration quota, 5 Nov 07:58; read 5 Nov 17:10 run"
+     "note": "Immigration quota, 5 Nov 07:58; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "ERR NK hackers",
+     "href": "https://news.err.ee/1610186932/north-korean-hackers-are-targeting-estonia-s-it-experts-report-finds",
+     "status": "reviewed",
+     "note": "13:28; not drafted"
+    },
+    {
+     "name": "ERR home",
+     "href": "https://news.err.ee/",
+     "status": "reviewed",
+     "note": "Pass 2 PSB"
+    },
+    {
+     "name": "LSM English home",
+     "href": "https://eng.lsm.lv/",
+     "status": "reviewed",
+     "note": "Pass 2 PSB"
+    },
+    {
+     "name": "LSM Braze Brunssum",
+     "href": "https://eng.lsm.lv/article/politics/diplomacy/05.11.2026-watch-latvian-foreign-minister-speaks-at-nato-command-centre.a670688/",
+     "status": "reviewed",
+     "note": "4 Nov visit; thin"
+    },
+    {
+     "name": "LSM Latvia-Belarus crossings",
+     "href": "https://eng.lsm.lv/article/society/defence/05.11.2026-dozens-more-illegal-crossings-prevented-on-latvia-belarus-border.a670643/",
+     "status": "reviewed",
+     "note": "Routine 22 on 4 Nov"
     },
     {
      "name": "Baltic Monitor digest",
      "href": "https://baltic-monitor.com/en/issues/2026-11-05/",
      "status": "reviewed",
-     "note": "Digest of 4-5 Nov; Lithuania-Germany declaration and other items dated before window or unclear; not cited"
+     "note": "No new Baltic Defence Line; Kaliningrad ISR"
     },
     {
-     "name": "LSM English",
-     "href": "https://eng.lsm.lv/article/politics/politics/04.11.2026-kulbergs-says-government-proposal-will-be-ready-by-november-18.a670472/",
+     "name": "TVP World Kaliningrad troops",
+     "href": "https://tvpworld.com/96320876/lithuania-sends-troops-to-kaliningrad-border-as-locals-stay-calm",
      "status": "reviewed",
-     "note": "Kulbergs proposal by 18 Nov; 4 Nov, background"
+     "note": "Deployment early Oct; skip"
     },
     {
-     "name": "tvnet.lv",
-     "href": "https://www.tvnet.lv/8577928/kulbergs-sonedel-vairs-neturpinas-publiska-formata-tiksanas-par-jaunas-valdibas-veidosanu",
+     "name": "United24 LT social payments",
+     "href": "https://united24media.com/war-in-ukraine/lithuania-approves-eur424m-in-social-payments-including-eur123m-for-ukrainian-refugees-24128",
      "status": "reviewed",
-     "note": "Latvian report of Kulbergs pause; snippet"
+     "note": "22:41; secondary"
     },
     {
-     "name": "ERR News (doctors pay talks)",
-     "href": "https://news.err.ee/1610186224/first-conciliation-talks-fail-in-doctors-nurses-pay-dispute",
+     "name": "DW Latvia sanctions video",
+     "href": "https://www.dw.com/en/latvia-sanctions-on-russia-needed-for-peace-in-ukraine/video-79863344",
      "status": "reviewed",
-     "note": "Estonia pay dispute; not significant enough"
+     "note": "Major-outlet; thin"
     },
     {
-     "name": "ERR News (EE-ALARM)",
-     "href": "https://news.err.ee/1610186875/some-phones-may-receive-ee-alarm-alerts-as-cell-broadcast-testing-begins",
+     "name": "Delfi.lt/en home",
+     "href": "https://www.delfi.lt/en/",
      "status": "reviewed",
-     "note": "Alert testing; not significant"
-    },
-    {
-     "name": "BNN (anti-drone funding)",
-     "href": "https://bnn-news.com/baltics/baltic-states-may-renew-request-for-eu-funding-for-anti-drone-defence-ssj9dvm",
-     "status": "reviewed",
-     "note": "Dated 3 Nov 14:01, out of window"
+     "note": "Pass 3 commercial"
     }
    ]
   },
@@ -1264,112 +1671,202 @@
    "theater": "Balkans",
    "sources": [
     {
-     "name": "[1] RTS (TOK ordered SBPOK to examine BIA director Vladimir Orlić)",
-     "href": "https://rts.rs/lat/vesti/hronika/6077273/tok-sbpok-bia-vladimir-orlic.html",
+     "name": "[1] Consilium",
+     "href": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/05/joint-press-release-eu-western-balkans-ministerial-forum-on-justice-and-home-affairs-budva-montenegro-5-6-november-2026/",
      "status": "used",
-     "note": "5 Nov 15:55 CET, updated 16:11 CET; read via WebFetch this run"
+     "note": "Budva JHA forum; fc_fetch (curl 403); read 6 Nov 05:10 run"
     },
     {
-     "name": "[2] Insajder (TOK formed two cases on complaints against the BIA director, the justice minister, and others)",
-     "href": "https://insajder.net/drustvo/tok-formirao-dva-predmeta-po-prijavama-protiv-direktora-bia-ministra-pravde-i-drugih",
+     "name": "[2] European Western Balkans",
+     "href": "https://europeanwesternbalkans.com/2026/11/05/mol-receives-ofac-licence-for-initial-steps-towards-nis-takeover/",
      "status": "used",
-     "note": "5 Nov 15:53 CET; read via WebFetch this run"
+     "note": "MOL OFAC NIS; read 6 Nov 05:10 run"
     },
     {
-     "name": "[3] Tanjug",
-     "href": "https://www.tanjug.rs/srbija/politika/295342/vucic-verujem-da-ce-sednica-narodne-skupstine-biti-zakazana-za-desetak-dana/vest",
+     "name": "[3] Serbian Times",
+     "href": "https://serbiantimes.info/en/americans-give-mol-the-green-light-us-issues-license-for-the-start-of-nis-takeover/",
      "status": "used",
-     "note": "Vučić on parliament session, 5 Nov 12:43; search text read 5 Nov 17:10 run"
+     "note": "MOL OFAC license announcement via Nova; same corporate statement, not independent corroboration."
     },
     {
-     "name": "[4] Tanjug",
-     "href": "https://www.tanjug.rs/english/politics/295452/soskic-i-would-consider-becoming-pm-designate-if-students-put-me-forward/vest",
+     "name": "[4] Vreme",
+     "href": "https://vreme.com/en/ekonomija/mol-dobio-dozvolu-ofak-a-za-pocetak-preuzimanja-nis-a-sta-to-znaci/",
      "status": "used",
-     "note": "Šoškić interview, 5 Nov 15:11; read 5 Nov 17:10 run"
+     "note": "MOL OFAC license announcement and analysis; same corporate statement, not independent corroboration."
     },
     {
-     "name": "[5] Euronews",
+     "name": "[5] Balkan Insight / BIRN",
+     "href": "https://balkaninsight.com/2026/11/05/albania-fines-83-protesters-under-new-laws-targeting-anti-govt-rallies/bi/",
+     "status": "used",
+     "note": "83 protester fines, 12:46; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "[6] N1",
+     "href": "https://n1info.rs/vesti/rik-proglasio-konacne-rezultate-parlamentarnih-izbora/",
+     "status": "used",
+     "note": "RIK final seats, 20:25 CET; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "[7] RIK (75th session — final election results)",
+     "href": "https://www.rik.parlament.gov.rs/vest/822434/75-sednica-republicke-izborne-komisije.php",
+     "status": "used",
+     "note": "5 Nov; primary certification; Karen"
+    },
+    {
+     "name": "[8] N1 (FoNet)",
+     "href": "https://n1info.rs/vesti/clan-rik-a-nadlezna-tuzilastva-i-policija-da-ispitaju-sumnje-u-mogucu-kupovinu-glasova/",
+     "status": "used",
+     "note": "Šebek vote-buying, 21:11 CET; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "[9] N1",
+     "href": "https://n1info.rs/vesti/zvanicnik-ek-kopman-eu-i-studentska-lista-imaju-isti-stav-prema-temeljnim-vrednostima-eu/",
+     "status": "used",
+     "note": "Koopman Student List values; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "[10] AP News",
+     "href": "https://apnews.com/article/europe-enlargement-serbia-moldova-ukraine-albania-montenegro-acd61b3edcb7b5da8a21b4558f32831b",
+     "status": "used",
+     "note": "Kos fresh start to EP; fc_fetch; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "[11] Euronews",
      "href": "https://www.euronews.com/2026/11/05/eu-commission-holds-first-talks-with-serbias-student-list",
      "status": "used",
-     "note": "Kos met Student List, 5 Nov 12:44; read 5 Nov 17:10 run"
+     "note": "Kos met Student List, 5 Nov 12:44; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[6] Tanjug",
-     "href": "https://www.tanjug.rs/english/politics/295434/von-beckerath-eu-stands-ready-to-work-closely-with-future-serbian-government/vest",
+     "name": "[12] Tanjug",
+     "href": "https://www.tanjug.rs/english/politics/295434/von-beckerath-eu-stands-ready-to-w",
      "status": "used",
-     "note": "EU report presented in Belgrade, 5 Nov 14:31; read 5 Nov 17:10 run"
+     "note": "[UNSOURCED] Truncated Tanjug URL returns 404; von Beckerath sentence not verified in this run. Delete its dependent sentence."
     },
     {
-     "name": "[7] RTSH (Albanian public broadcaster)",
+     "name": "[13] EEAS",
+     "href": "https://www.eeas.europa.eu/delegations/kosovo/press-remarks-eu-special-representative-eu-ambassador-kosovo-dirk-schuebel-joint-press-conference_en",
+     "status": "used",
+     "note": "Schuebel Kosovo report remarks dated 4 Nov; release clock not shown."
+    },
+    {
+     "name": "[14] RTSH (Albanian public broadcaster)",
      "href": "https://rtsh.al/rti/en/kosovas-prime-minister-says-eu-status-fails-to-reflect-progress/",
      "status": "used",
-     "note": "Kurti on EU report, 5 Nov; read 5 Nov 17:10 run"
+     "note": "Kurti on EU report, 5 Nov; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[8] The Guardian (Reuters)",
+     "name": "[15] RTSH",
+     "href": "https://rtsh.al/rti/en/eu-in-talks-with-kosova-over-specialist-chambers-law-changes/",
+     "status": "used",
+     "note": "Specialist Chambers talks; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "[16] RTS (TOK ordered SBPOK to examine BIA director Vladimir Orlić)",
+     "href": "https://rts.rs/lat/vesti/hronika/6077273/tok-sbpok-bia-vladimir-orlic.html",
+     "status": "used",
+     "note": "5 Nov 15:55 CET, updated 16:11 CET; read via WebFetch this run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[17] Insajder (TOK formed two cases on complaints against the BIA director, the justice minister, and others)",
+     "href": "https://insajder.net/drustvo/tok-formirao-dva-predmeta-po-prijavama-protiv-direktora-bia-ministra-pravde-i-drugih",
+     "status": "used",
+     "note": "5 Nov 15:53 CET; read via WebFetch this run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[18] The Guardian (Reuters)",
      "href": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
      "status": "used",
-     "note": "via The Guardian; 4 Nov 21:42 CET; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "via The Guardian; 4 Nov 21:42 CET; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[9] B92",
+     "name": "[19] B92",
      "href": "https://www.b92.net/english/society/282249/ministry-of-interior-issues-statement-eight-police-officers-and-one-civilian-detained-on-suspicion-of-abuse/vest",
      "status": "used",
-     "note": "Interior Ministry statement; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "Interior Ministry statement; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[10] Al Jazeera",
+     "name": "[20] Al Jazeera",
      "href": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters",
      "status": "used",
-     "note": "Ten officers, RTS names commander, 5 Nov; read 5 Nov 17:10 run"
+     "note": "Ten officers, RTS names commander, 5 Nov; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "Tanjug (REM sanctions)",
-     "href": "https://www.tanjug.rs/srbija/politika/295055/savet-rem-a-izrekao-meru-za-tv-prva-zabrana-vesti-na-1-dan-jutranjeg-programa-na-5/vest",
-     "status": "reviewed",
-     "note": "REM bans on Prva and Informer, 4 Nov 15:46, before window"
+     "name": "[21] Tanjug",
+     "href": "https://www.tanjug.rs/srbija/politika/295342/vucic-verujem-da-ce-sednica-narodne",
+     "status": "used",
+     "note": "[UNSOURCED] Truncated Tanjug URL returns 404; Vučić ten-day Assembly expectation not verified in this run. Delete its dependent sentence."
     },
     {
-     "name": "BBC News Serbian",
-     "href": "https://www.bbc.com/serbian/articles/c6rmy9kv4dm7o/lat",
-     "status": "reviewed",
-     "note": "TV Informer ban; 4 Nov decision, out of window"
+     "name": "[22] Tanjug",
+     "href": "https://www.tanjug.rs/srbija/politika/295342/vucic-verujem-da-ce-sednica-narodne-skupstine-biti-zakazana-za-desetak-dana/vest",
+     "status": "used",
+     "note": "Vučić on parliament session, 5 Nov 12:43; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "Tanjug (nuclear program)",
-     "href": "https://www.tanjug.rs/srbija/drustvo/295363/arbutina-srbija-se-aktivno-priprema-da-ude-u-nuklearni-program/vest",
-     "status": "reviewed",
-     "note": "Serbia nuclear prep, 5 Nov 11:58; not significant"
+     "name": "[23] Tanjug",
+     "href": "https://www.tanjug.rs/english/politics/295452/soskic-i-would-consider-becoming-pm-designate-if-students-put-me-forward/vest",
+     "status": "used",
+     "note": "Šoškić interview, 5 Nov 15:11; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "Balkan Insight",
-     "href": "https://balkaninsight.com/2026/11/04/eu-hails-montenegros-progress-regrets-stagnation-in-much-of-balkans/bi/",
-     "status": "reviewed",
-     "note": "Enlargement package, 4 Nov; before window"
+     "name": "[24] Tanjug",
+     "href": "https://www.tanjug.rs/english/politics/295434/von-beckerath-eu-stands-ready-to-work-closely-with-future-serbian-government/vest",
+     "status": "used",
+     "note": "EU report presented in Belgrade, 5 Nov 14:31; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "Avaz",
-     "href": "https://avaz.ba/vijesti/region/1085469/marta-kos-predstavila-paket-prosirenja-crna-gora-i-albanija-idu-ka-clanstvu-bih-sve-dalje-od-eu",
-     "status": "reviewed",
-     "note": "Bosnia reaction to package; before window"
+     "name": "[25] Tanjug",
+     "href": "https://www.tanjug.rs/english/politics/295452/soskic-i-would-consider-becoming-p",
+     "status": "used",
+     "note": "Šoškić; carry read 6 Nov 05:10 run"
     },
     {
-     "name": "Srpska365 (RTRS)",
-     "href": "https://srpska365.net/2026/11/05/dodik-meets-with-us-congressmen-and-senators-as-high-level-political-contacts-continue/",
-     "status": "reviewed",
-     "note": "Dodik US trip; partisan outlet, no firm new fact, not used"
+     "name": "[26] Insajder",
+     "href": "https://insajder.net/drustvo/tok-formirao-dva-predmeta-po-prijavama-protiv-direk",
+     "status": "used",
+     "note": "TOK Insajder; carry read 6 Nov 05:10 run"
     },
     {
-     "name": "Srna",
-     "href": "https://www.srna.rs/en/novost/1445678/dodik:-important-meetings-in-america-on-behalf-of-srpska-ahead",
+     "name": "BIRN Veliaj",
+     "href": "https://balkaninsight.com/2026/11/05/albanian-prosecution-urged-to-probe-pms-alleged-blackmail-of-jailed-mayor/bi/",
      "status": "reviewed",
-     "note": "Dodik US; snippet"
+     "note": "Premium truncated; allegation-only"
     },
     {
-     "name": "Insajderi",
-     "href": "https://insajderi.org/en/Kurti-10-years-without-Astrit-is-a-long-time--I-still-don%27t-know-the-name-of-the-killer./",
+     "name": "BIRN home",
+     "href": "https://balkaninsight.com/",
      "status": "reviewed",
-     "note": "Kosovo; not significant"
+     "note": "Pass 2"
+    },
+    {
+     "name": "N1.rs home",
+     "href": "https://n1info.rs/",
+     "status": "reviewed",
+     "note": "Pass 2"
+    },
+    {
+     "name": "EWB home",
+     "href": "https://europeanwesternbalkans.com/",
+     "status": "reviewed",
+     "note": "Enlargement digests"
+    },
+    {
+     "name": "SeeNews MOL",
+     "href": "https://seenews.com/news/mol-gets-ofac-licence-for-nis-acquisition-preparations-1304415",
+     "status": "reviewed",
+     "note": "Timestamp; body paywalled"
+    },
+    {
+     "name": "Euronews Serbia police",
+     "href": "https://www.euronews.com/2026/11/05/serbia-arrests-police-officers-accused-of-using-violence-against-student-protesters",
+     "status": "reviewed",
+     "note": "05:34; corroborates carry"
+    },
+    {
+     "name": "RFE/RL Serbia government",
+     "href": "https://www.rferl.org/amp/serbia-s-new-government-will-face-old-economic-dilemmas-as-deadlines-loom/33891691.html",
+     "status": "reviewed",
+     "note": "Analysis; U.S.-funded"
     }
    ]
   },
@@ -1378,87 +1875,123 @@
    "sources": [
     {
      "name": "[1] Civil Georgia",
-     "href": "https://civil.ge/archives/756786",
+     "href": "https://civil.ge/archives/756748",
      "status": "used",
-     "note": "Droa undesirable, 5 Nov 16:03; read 5 Nov 17:10 run"
+     "note": "Election bills watchdogs, published 5 Nov 16:58 CET, updated 16:59 CET; visible 19:58 is UTC+4."
     },
     {
-     "name": "[2] Armenpress",
+     "name": "[2] Arab News with AFP (Erdogan says to visit Azerbaijan on November 8 amid headscarf row)",
+     "href": "https://www.arabnews.com/middle-east/erdogan-says-to-visit-azerbaijan-on-november-8-amid-headscarf-row-3010026",
+     "status": "used",
+     "note": "5 Nov; AFP; updated stamp zone unspecified; read via WebFetch this run"
+    },
+    {
+     "name": "[3] bne IntelliNews (Turkey’s Erdogan to attend Azerbaijan’s Victory Day parade)",
+     "href": "https://www.intellinews.com/turkey-s-erdogan-to-attend-azerbaijan-s-victory-day-parade-officials-working-to-end-spat-482292/",
+     "status": "used",
+     "note": "5 Nov; read via WebFetch this run"
+    },
+    {
+     "name": "[4] Armenpress",
      "href": "https://armenpress.am/en/article/1264873",
      "status": "used",
-     "note": "Pashinyan on CSTO, 5 Nov 15:41; read 5 Nov 17:10 run"
+     "note": "Pashinyan on CSTO, published 5 Nov 12:41 CET; visible 15:41 is Armenian local time."
     },
     {
-     "name": "[3] Median",
+     "name": "[5] RIA Novosti (Russian state agency)",
+     "href": "https://ria.ru/20261105/armeniya-2129345426.html",
+     "status": "used",
+     "note": "Pashinyan CSTO second source; Russian state agency; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "[6] APA",
+     "href": "https://en.apa.az/cis-countries/mirzoyan-explains-why-armenia-has-not-formally-withdrawn-from-csto-534356",
+     "status": "used",
+     "note": "Mirzoyan no return to CSTO; read 6 Nov 05:10 run"
+    },
+    {
+     "name": "[7] Median",
      "href": "https://median.am/en/briefing/2026-11-05/",
      "status": "used",
-     "note": "Mirzoyan at budget session, 5 Nov 14:20; search text read 5 Nov 17:10 run"
+     "note": "Mirzoyan at budget session, 5 Nov 14:20; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[4] NEWS.am",
+     "name": "[8] NEWS.am",
      "href": "https://news.am/en/news/1072809",
      "status": "used",
-     "note": "Mirzoyan on visits, 5 Nov; search text read 5 Nov 17:10 run"
+     "note": "Mirzoyan on visits, 5 Nov; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[5] Aurora News",
+     "name": "[9] Aurora News",
      "href": "https://auroranews.am/en/news/2026-11-05-armenia-to-become-transit-route-for-azerbaijani-cargo-under-tripp-says-mirzoyan",
      "status": "used",
-     "note": "Mirzoyan on TRIPP, 5 Nov 11:11; read 5 Nov 17:10 run"
+     "note": "Mirzoyan on TRIPP, 5 Nov 11:11; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[6] RFE/RL Armenian Service (Opposition announces pan-national consolidation)",
+     "name": "[10] RFE/RL Armenian Service (Mirzoyan on constitution and the peace deal)",
+     "href": "https://www.azatutyun.am/a/33891195.html",
+     "status": "used",
+     "note": "5 Nov 09:44 CET, updated 10:13 CET; read via WebFetch this run"
+    },
+    {
+     "name": "[11] Civil Georgia",
+     "href": "https://civil.ge/archives/756786",
+     "status": "used",
+     "note": "Droa undesirable, 5 Nov 13:03 CET; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[12] RFE/RL Armenian Service (Opposition announces pan-national consolidation)",
      "href": "https://www.azatutyun.am/a/33890888.html",
      "status": "used",
-     "note": "4 Nov 21:40 CET; read via curl this run"
+     "note": "4 Nov 21:40 CET; read via curl this run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[7] OC Media (Armenian opposition forms alliance against plan to amend constitution following Karapetyan arrest)",
+     "name": "[13] OC Media (Armenian opposition forms alliance against plan to amend constitution following Karapetyan arrest)",
      "href": "https://oc-media.org/armenian-opposition-forms-alliance-against-plan-to-amend-constitution-following-karapetyan-arrest/",
      "status": "used",
-     "note": "5 Nov 12:59 CET; read via WebFetch this run"
+     "note": "5 Nov 12:59 CET; read via WebFetch this run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "Civil Georgia (MFA)",
-     "href": "https://civil.ge/archives/756741",
-     "status": "reviewed",
-     "note": "Georgia MFA slams enlargement report; earlier development, not new"
+     "name": "[14] APA",
+     "href": "https://en.apa.az/entrepreneurship/mirzoyan-confident-azerbaijani-cargo-will-be-transported-through-armenia-via-tripp-534179",
+     "status": "used",
+     "note": "TRIPP/cargo; read 6 Nov 05:10 run"
     },
     {
-     "name": "JAMnews",
+     "name": "JAMnews digest",
      "href": "https://jam-news.net/news-in-azerbaijan-armenia-georgia-2-6-november-2026/",
      "status": "reviewed",
-     "note": "Karapetyan detention recap; no new development since 4 Nov item"
+     "note": "Karapetyan/opposition recap; no new act after 12:59"
     },
     {
-     "name": "OC Media",
+     "name": "OC Media daily 5 Nov",
      "href": "https://oc-media.org/thursday-5-november-2026/",
      "status": "reviewed",
      "note": "Daily brief; Karapetyan recap"
     },
     {
-     "name": "AZERTAC",
-     "href": "https://azertag.az/en/xeber/top_stories_update-4496274",
+     "name": "Civil Georgia MFA/EU",
+     "href": "https://civil.ge/archives/756741",
      "status": "reviewed",
-     "note": "Azerbaijan top stories; nothing qualified"
+     "note": "Earlier enlargement spat; not new overnight"
     },
     {
-     "name": "NEWS.am",
+     "name": "NEWS.am CSTO mirror",
      "href": "https://news.am/en/news/1072815",
      "status": "reviewed",
-     "note": "not reached (HTTP 404); search snippet on Pashinyan CSTO remark"
+     "note": "not reached (HTTP 404 again this run)"
     },
     {
-     "name": "APA",
-     "href": "https://en.apa.az/cis-countries/mirzoyan-explains-why-armenia-has-not-formally-withdrawn-from-csto-534356",
+     "name": "Interfax Azerbaijan",
+     "href": "https://interfax.az/en",
      "status": "reviewed",
-     "note": "Azerbaijani outlet on CSTO; snippet"
+     "note": "not reached (curl failed / HTTP 000)"
     },
     {
-     "name": "Georgia Today",
-     "href": "https://georgiatoday.ge/georgias-constitutional-court-suspends-opposition-party-ban-hearings-until-november-9/",
+     "name": "Armenpress Global Armenian Summit",
+     "href": "https://armenpress.am/en/article/1264927",
      "status": "reviewed",
-     "note": "Party-ban hearings resume 9 Nov; dated 30 Oct, background"
+     "note": "6 Nov summit open; diaspora event, not used"
     }
    ]
   },
@@ -1466,117 +1999,165 @@
    "theater": "Germany",
    "sources": [
     {
-     "name": "[1] tagesschau",
-     "href": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html",
+     "name": "[1] Süddeutsche Zeitung (dpa)",
+     "href": "https://www.sueddeutsche.de/panorama/prozess-in-duesseldorf-koenigreich-deutschland-prozess-startet-dpa.urn-newsml-dpa-com-20090101-261106-930-952990",
      "status": "used",
-     "note": "KNDS deal, 5 Nov 15:11; read 5 Nov 17:10 run"
+     "note": "dpa advance published 6 Nov 03:30 CET, updated 03:33 CET. Trial opening scheduled for 6 November 09:30 CET, not observed underway."
     },
     {
-     "name": "[2] tagesschau",
-     "href": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html",
+     "name": "[2] OLG Düsseldorf (Hauptverhandlung Kingdom of Germany)",
+     "href": "https://www.olg-duesseldorf.nrw.de/behoerde/presse/Presse_aktuell/20261007PM_Hauptverhandlung_III-6-St-4-26/index.php",
      "status": "used",
-     "note": "Freuding appointment, 5 Nov 15:00; read 5 Nov 17:10 run"
+     "note": "7 Oct 2026; court schedule 6 Nov 09:30 CET; Karen"
     },
     {
-     "name": "[3] DW",
-     "href": "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126",
+     "name": "[3] OLG Düsseldorf (Terminuebersicht PDF)",
+     "href": "https://www.olg-duesseldorf.nrw.de/behoerde/presse/Presse_aktuell/20261007PM_Hauptverhandlung_III-6-St-4-26/Anlage-PM--Terminuebersicht.pdf",
      "status": "used",
-     "note": "Deportations data, 5 Nov; read 5 Nov 17:10 run"
+     "note": "7 Oct 2026; 52 hearing days; Karen"
     },
     {
-     "name": "[4] Stuttgarter Zeitung",
-     "href": "https://www.stuttgarter-zeitung.de/wirtschaft/bosch-mobility-weitere-750-stellen-fallen-weg-wie-bosch-den-abbau-begruendet-79666718.html",
-     "status": "used",
-     "note": "Bosch Abstatt cuts, 5 Nov; search text read 5 Nov 17:10 run (paywall-style page)"
-    },
-    {
-     "name": "[5] tagesschau (SWR)",
-     "href": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-bosch-verschaerft-sparkurs-und-streicht-in-abstatt-750-jobs-100.html",
-     "status": "used",
-     "note": "Bosch Abstatt, 5 Nov; search text read 5 Nov 17:10 run"
-    },
-    {
-     "name": "[6] tagesschau",
+     "name": "[4] tagesschau",
      "href": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
      "status": "used",
-     "note": "updated 5 Nov 00:35 CET; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "updated 5 Nov 00:35 CET; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[7] Berlin Police",
+     "name": "[5] Berlin Police",
      "href": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735014.php",
      "status": "used",
-     "note": "death investigation notice; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run"
+     "note": "death investigation notice; read 5 Nov 05:10 run; re-checked 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "[8] Berlin Prosecutor General",
+     "name": "[6] Berlin Prosecutor General",
      "href": "https://www.berlin.de/generalstaatsanwaltschaft/presse/pressemitteilungen/2026/pressemitteilung.1735422.php",
      "status": "used",
-     "note": "Preliminary autopsy result, 5 Nov; search text read 5 Nov 17:10 run"
+     "note": "Preliminary autopsy result, 5 Nov; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
+    },
+    {
+     "name": "[7] tagesschau",
+     "href": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html",
+     "status": "used",
+     "note": "Preliminary autopsy found no indication of third-party involvement, 5 Nov 16:25 CET; cause unresolved and further tests continuing."
+    },
+    {
+     "name": "[8] tagesschau",
+     "href": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html",
+     "status": "used",
+     "note": "Free Voters / Gotthardt; read 6 Nov 05:10 run"
     },
     {
      "name": "[9] tagesschau",
-     "href": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html",
+     "href": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html",
      "status": "used",
-     "note": "No third-party involvement, 5 Nov 16:25; search text read 5 Nov 17:10 run"
+     "note": "Freuding appointment, 5 Nov 15:00; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "Stuttgarter Zeitung (BW weather/regional)",
-     "href": "https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/wetter-in-bw-nach-nebel-kommt-im-suedwesten-die-sonne-durch-79666385.html",
-     "status": "reviewed",
-     "note": "SZ BW page canvassed; nothing else qualified"
+     "name": "[10] tagesschau",
+     "href": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html",
+     "status": "used",
+     "note": "KNDS deal, 5 Nov 15:11; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "Stuttgarter Zeitung (Bosch, first report)",
-     "href": "https://www.stuttgarter-zeitung.de/wirtschaft/krise-in-der-auto-branche-medienbericht-autozulieferer-bosch-will-in-abstatt-750-stellen-abbauen-79666536.html",
-     "status": "reviewed",
-     "note": "SZ earlier Bosch report"
+     "name": "[11] DW",
+     "href": "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126",
+     "status": "used",
+     "note": "Deportations data, 5 Nov; read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "SWR Aktuell BW ticker",
-     "href": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-11-05-100.html",
-     "status": "reviewed",
-     "note": "BW morning ticker; Audi warning strike, bus strike"
+     "name": "[12] Stuttgarter Zeitung",
+     "href": "https://www.stuttgarter-zeitung.de/wirtschaft/bosch-mobility-weitere-750-stellen-fallen-weg-wie-bosch-den-abbau-begruendet-79666718.html",
+     "status": "used",
+     "note": "Bosch Abstatt cuts, 5 Nov; search text read 5 Nov 17:10 run (paywall-style page) · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "SWR Audi Neckarsulm",
-     "href": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/warnstreiks-ig-metall-audi-ks-neckarsulm-100.html",
-     "status": "reviewed",
-     "note": "Audi warning strike; Land file cap, not used"
+     "name": "[13] SWR Aktuell BW",
+     "href": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/bosch-streicht-in-abstatt-750-stellen-100.html",
+     "status": "used",
+     "note": "Company confirm to SWR; read 6 Nov 05:10 run"
     },
     {
-     "name": "tagesschau archive",
-     "href": "https://www.tagesschau.de/archiv/allemeldungen",
-     "status": "reviewed",
-     "note": "5 Nov headline list checked"
+     "name": "[14] DER SPIEGEL",
+     "href": "https://www.spiegel.de/wirtschaft/unternehmen/bosch-streicht-in-abstatt-weitere-750-arbeitsplaetze-a-bf826fae-4ad6-4e20-9577-f6f6065346b3",
+     "status": "used",
+     "note": "Bosch Abstatt; read 6 Nov 05:10 run"
     },
     {
-     "name": "Bundespuls agenda",
-     "href": "https://bundespuls.de/sitzungen/2026-11-05",
-     "status": "reviewed",
-     "note": "Bundestag 5 Nov agenda"
+     "name": "[15] tagesschau (SWR)",
+     "href": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-bosch-verschaerft-sparkurs-und-streicht-in-abstatt-750-jobs-100.html",
+     "status": "used",
+     "note": "Bosch Abstatt, 5 Nov; search text read 5 Nov 17:10 run · re-checked 6 Nov 05:10 run"
     },
     {
-     "name": "DER SPIEGEL (KNDS)",
-     "href": "https://www.spiegel.de/wirtschaft/unternehmen/knds-bund-einigt-sich-mit-eigentuemerfamilien-auf-einstieg-beim-panzerbauer-a-4f279626-2f96-4d48-b788-4f204a0a4094",
+     "name": "Stuttgarter Zeitung home",
+     "href": "https://www.stuttgarter-zeitung.de/",
      "status": "reviewed",
-     "note": "KNDS second check; snippet"
+     "note": "Must-canvas Germany; Bosch used; others reviewed"
     },
     {
-     "name": "WELT (Aiwanger)",
-     "href": "https://www.welt.de/politik/deutschland/article6aec8ed393d31cdb1e6cead7/hubert-aiwanger-ermittler-teilen-obduktionsergebnis-mit-keine-anzeichen-fuer-fremdverschulden.html",
+     "name": "Stuttgarter Zeitung BW",
+     "href": "https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/",
      "status": "reviewed",
-     "note": "Autopsy second check; snippet"
+     "note": "Must-canvas BW; nothing else qualified"
     },
     {
-     "name": "BR24 (Aiwanger)",
-     "href": "https://www.br.de/nachrichten/meldung/nach-obduktion-von-aiwangers-leiche-gibt-es-keinen-hinweis-auf-verbrechen,30082145d",
+     "name": "StZ IG Metall",
+     "href": "https://www.stuttgarter-zeitung.de/wirtschaft/nach-warnstreiks-mit-72000-beteiligten-ig-metall-und-arbeitgeber-naehern-sich-im-tarifkonflikt-an-mit-ultimatum-79668515.html",
      "status": "reviewed",
-     "note": "Autopsy third check; snippet"
+     "note": "5 Nov 17:22; Land/BW #2 held"
+    },
+    {
+     "name": "Handelsblatt IG Metall",
+     "href": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-in-dritter-verhandlung-ig-metall-macht-loesungsvorschlag/100267627.html",
+     "status": "reviewed",
+     "note": "Ludwigsburg third round; reviewed"
+    },
+    {
+     "name": "tagesschau EmoG",
+     "href": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
+     "status": "reviewed",
+     "note": "Bundestag 18:27 5 Nov; not used (cap)"
+    },
+    {
+     "name": "ZDF Aigner",
+     "href": "https://www.zdfheute.de/politik/deutschland/aigner-bundespraesidentin-cdu-unterstuetzer-frei-woidke-100.html",
+     "status": "reviewed",
+     "note": "Bundespräsident process; not used"
+    },
+    {
+     "name": "FAZ home",
+     "href": "https://www.faz.net/",
+     "status": "reviewed",
+     "note": "Aiwanger, Führerschein, Aigner noted"
+    },
+    {
+     "name": "SZ home",
+     "href": "https://www.sueddeutsche.de/",
+     "status": "reviewed",
+     "note": "Aiwanger obit; Königreich used via dpa URL"
+    },
+    {
+     "name": "Bundesregierung",
+     "href": "https://www.bundesregierung.de/breg-de",
+     "status": "reviewed",
+     "note": "Führerschein reform mention; no new cabinet act overnight"
+    },
+    {
+     "name": "BMVg",
+     "href": "https://www.bmvg.de/",
+     "status": "reviewed",
+     "note": "No new release beyond Freuding wire"
+    },
+    {
+     "name": "tagesschau.de home",
+     "href": "https://www.tagesschau.de/",
+     "status": "reviewed",
+     "note": "Overnight top: Aiwanger, KNDS, Freuding, EmoG"
     }
    ]
   }
  ],
  "sourceKey": "A source is used only if an item cites it. Numbers in brackets match the tab's 'Sources used in this tab' list.",
- "operationalAssessment": "Evening edition, rolling window 4 Nov 2026 17:45 CET to 5 Nov 2026 17:45 CET. New research covered 05:35 CET to about 17:05 CET on 5 November; items from the previous edition whose times fall inside the 24 hours were carried and re-checked, stories with new developments are marked as follow-ups, and items older than 24 hours were dropped. The ledger lists only sources actually read or checked this run. Hybrid Warfare uses a draft canvas pending approval.",
+ "operationalAssessment": "Morning edition, rolling window 5 Nov 2026 05:35 CET to 6 Nov 2026 05:35 CET. New research covered about 17:45 CET on 5 November to the cutoff; items from the previous edition whose times fall inside the 24 hours were carried and re-checked, stories with new developments are marked as follow-ups, and items older than 24 hours were dropped. The ledger lists only sources actually read or checked this run. Hybrid Warfare uses a draft canvas pending approval.",
  "footer": "For situational awareness only; not for operational, financial, or medical decisions."
 }
